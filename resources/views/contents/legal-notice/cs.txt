@@ -1,0 +1,112 @@
+<h2>Definice</h2>
+<p>
+<b>Zákazník:</b> jakákoli odborná nebo fyzická osoba způsobilá ve smyslu následujících článků občanského zákoníku nebo právnická osoba, která navštíví stránky v souladu s těmito všeobecnými podmínkami.<br>
+<b>Výhody a služby:</b> (WEBSITE_URL) poskytuje zákazníkům:
+</p>
+<p><b>Obsah:</b> Všechny základní prvky informací přítomných na Stránce, zejména texty – obrázky – videa.</p>
+<p><b>Informace o zákazníkovi:</b> Dále jen „Informace“, které odpovídají všem osobním údajům, které pravděpodobně bude mít (WEBSITE_NAME) pro správu vašeho účtu, správu klienta a pro analytické účely. a statistické účely.</p>
+<p><b>Uživatel:</b> Připojuje se uživatel internetu pomocí výše uvedeného webu.</p>
+<p><b>Osobní údaje:</b> "Informace, které umožňují v jakékoli formě, přímo či nepřímo, identifikaci fyzických osob, kterých se týkají."</p>
+<p>Pojmy „osobní údaje“, „subjekt údajů“, „subdodavatel“ a „citlivé údaje“ mají význam definovaný obecným nařízením o ochraně osobních údajů (RGPD: č. 2016-679)</p>
+
+<h2>1. Prezentace webu.</h2>
+<p>Podle článku 6 zákona č. 2004-575 ze dne 21. června 2004 o důvěře v digitální ekonomiku jsou uživatelé webových stránek (WEBSITE_URL) informováni o identitě různých zúčastněných stran v rámci jejich implementace a monitorování: </p>
+<p>
+<b>Vlastník</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Správce publikování</b>: (AUTHOR_NAME)<br>
+<b>Webmaster</b>: (WEBMASTER_NAME)<br>
+<b>Pověřenec pro ochranu údajů</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. Všeobecné podmínky používání stránek a nabízených služeb.</h2>
+<p>Stránka představuje duševní dílo chráněné ustanoveními Kodexu duševního vlastnictví a platnými mezinárodními předpisy. Zákazník nesmí žádným způsobem znovu používat, převádět nebo využívat pro svůj vlastní účet všechny prvky nebo díla těchto stránek nebo jejich část.</p>
+<p>Používání stránek (WEBSITE_NAME) znamená plné přijetí všeobecných podmínek použití popsaných níže. Tyto podmínky použití mohou být kdykoli změněny nebo doplněny, uživatelé těchto stránek (WEBSITE_NAME) jsou proto vyzýváni, aby je pravidelně konzultovali.</p>
+<p>Tato webová stránka je běžně přístupná uživatelům kdykoli. O přerušení z důvodu technické údržby však může rozhodnout (WEBSITE_NAME), který se pak bude snažit informovat uživatele před datem a časem zásahu. Právní upozornění mohou být kdykoli změněna: jsou nicméně závazná pro uživatele, který je vyzván, aby se na ně co nejčastěji odkazoval, aby se s nimi seznámil.</p>
+
+<h2>3. Popis poskytovaných služeb.</h2>
+<p>Účelem webových stránek (WEBSITE_NAME) je poskytovat informace týkající se všech aktivit společnosti. (WEBSITE_NAME) se snaží poskytovat co nejpřesnější informace. Nemůže však nést odpovědnost za opomenutí, nepřesnosti a nedostatky v aktualizaci, ať už jí samotnou nebo partnery třetí strany, kteří jí tyto informace poskytují.</p>
+<p>Všechny informace uvedené na webu (WEBSITE_NAME) jsou uvedeny pouze pro informaci a mohou se změnit. Kromě toho informace na webu (WEBSITE_NAME) nejsou vyčerpávající. Jsou poskytovány s výhradou úprav, které byly provedeny od doby, kdy byly umístěny online.</p>
+
+<h2>4. Smluvní omezení technických údajů.</h2>
+<p>Stránky využívají technologii JavaScript. Webová stránka nenese odpovědnost za materiální škody související s používáním stránek. Kromě toho uživatel stránek souhlasí s tím, že bude na stránky přistupovat pomocí nejnovějšího vybavení, které neobsahuje viry a s aktualizovaným prohlížečem nejnovější generace. Web (WEBSITE_NAME) je hostován poskytovatelem služeb na území Evropské unie v souladu s ustanoveními Obecných nařízení o ochraně osobních údajů (RGPD: č. 2016-679).</p>
+<p>Cílem je poskytovat službu, která zajišťuje nejlepší míru dostupnosti. Hostitel zajišťuje kontinuitu svých služeb 24 hodin denně, každý den v roce. Přesto si vyhrazuje právo přerušit hostingovou službu na co nejkratší dobu, zejména za účelem údržby, zlepšování svých infrastruktur, selhání svých infrastruktur nebo pokud služby a služby generují provoz, který je považován za abnormální.</p>
+<p>(WEBSITE_NAME) a ​​hostitel nenesou odpovědnost v případě poruchy internetové sítě, telefonních linek nebo počítačového a telefonního zařízení spojeného zejména s přetížením sítě, které brání přístupu k serveru.</p>
+
+<h2>5. Duševní vlastnictví a padělky.</h2>
+<p>(WEBSITE_NAME) je vlastníkem práv duševního vlastnictví a je držitelem práv na používání všech prvků dostupných na webových stránkách, zejména textů, obrázků, grafiky, log, videí, ikon a zvuků. Jakákoli reprodukce, znázornění, úprava, zveřejnění, přizpůsobení všech nebo části prvků webu, bez ohledu na použitý prostředek nebo proces, je zakázáno, s výjimkou předchozího písemného souhlasu: (WEBSITE_NAME).</p>
+<p>Jakékoli neoprávněné použití stránky nebo jakéhokoli prvku, který obsahuje, bude považováno za porušení a bude stíháno v souladu s ustanoveními článků L.335-2 a následujících Zákona o duševním vlastnictví.</p>
+
+<h2>6. Omezení odpovědnosti.</h2>
+<p>(WEBSITE_NAME) vystupuje jako vydavatel webu. (WEBSITE_NAME) odpovídá za kvalitu a pravdivost obsahu, který publikuje.</p>
+<p>(WEBSITE_NAME) nemůže nést odpovědnost za přímé a nepřímé škody způsobené na zařízení uživatele při přístupu na web (WEBSITE_NAME) a ​​vyplývající buď z použití zařízení, které nesplňuje specifikace uvedené v bodě 4, buď výskyt chyby nebo nekompatibility.</p>
+<p>(WEBSITE_NAME) také nemůže nést odpovědnost za následné škody (jako je ztráta trhu nebo příležitost) vyplývající z používání webu (WEBSITE_URL). Uživatelům jsou k dispozici interaktivní prostory (možnost dotazů v kontaktním prostoru). (WEBSITE_URL) si vyhrazuje právo smazat bez předchozího upozornění jakýkoli obsah zveřejněný v tomto prostoru, který by porušoval platnou legislativu v Evropské unii, zejména ustanovení týkající se ochrany údajů. Kde je to vhodné, (WEBSITE_URL) si také vyhrazuje právo zpochybnit občanskoprávní a/nebo trestní odpovědnost uživatele, zejména v případě rasistické, urážlivé, hanlivé nebo pornografické zprávy, bez ohledu na použité médium. (text,
+
+<h2>7. Správa osobních údajů.</h2>
+<p>Zákazník je informován o předpisech týkajících se marketingové komunikace, zákonu ze dne 21. června 2014 o důvěře v digitální ekonomiku, zákonu o ochraně dat ze dne 6. srpna 2004 a také obecných nařízeních o ochraně osobních údajů (RGPD: No. 2016-679). </p>
+
+<h3>7.1 Osoby odpovědné za shromažďování osobních údajů</h3>
+<p>Pro osobní údaje shromážděné v rámci vytváření osobního účtu uživatele a jeho navigace na webu je osobou odpovědnou za zpracování osobních údajů: (WEBSITE_NAME).</p>
+<p>Jako odpovědnost za zpracování údajů, které shromažďuje, se (WEBSITE_URL) zavazuje dodržovat rámec platných právních ustanovení. Zejména je na zákazníkovi, aby stanovil účely zpracování svých údajů, poskytl svým potenciálním zákazníkům a zákazníkům na základě shromáždění jejich souhlasů úplné informace o zpracování svých osobních údajů a vedl konzistentní registr léčebných postupů. s realitou. Kdykoli (WEBSITE_URL) zpracovává osobní údaje, (WEBSITE_URL) podnikne všechny přiměřené kroky k zajištění přesnosti a relevance osobních údajů s ohledem na účely, pro které je (WEBSITE_URL) zpracovává.</p>
+
+<h3>7.2 Účel shromažďovaných údajů</h3>
+<p>(WEBSITE_URL) může zpracovávat všechna data nebo jejich část:</p>
+<ul>
+<li>umožnit navigaci na Stránkách a správu a sledovatelnost služeb objednaných uživatelem: údaje o připojení a používání pro Stránku, fakturace, historie objednávek atd. </li>
+<li>předcházení a boj proti počítačovým podvodům (spam, hacking atd.): počítačové vybavení používané k prohlížení, IP adresa, heslo (hashované) </li>
+<li>pro zlepšení navigace na webu: údaje o připojení a využití </li>
+<li>pro provádění volitelných průzkumů spokojenosti na adrese (WEBSITE_URL): e-mailová adresa </li>
+<li>provádět komunikační kampaně (sms, email): telefonní číslo, emailová adresa</li>
+</ul>
+<p>(WEBSITE_URL) nezveřejňuje vaše osobní údaje, které se proto používají pouze z nutnosti nebo pro statistické a analytické účely.</p>
+
+<h3>7.3 Právo na přístup, opravu a námitky</h3>
+<p>V souladu s aktuálními evropskými předpisy mají uživatelé (WEBSITE_URL) následující práva: </p>
+<ul>
+<li>právo na přístup (článek 15 GDPR) a opravu (článek 16 GDPR), aktualizaci, úplnost údajů uživatele právo na blokování nebo vymazání osobních údajů uživatele (článek 17 GDPR), pokud jsou nepřesné, neúplné, nejednoznačné , zastaralé nebo jejichž shromažďování, používání, sdělování nebo uchovávání je zakázáno </li>
+<li>právo souhlas kdykoli odvolat (článek 13-2c GDPR) </li>
+<li>právo na omezení zpracování údajů uživatele (článek 18 GDPR) </li>
+<li>právo vznést námitku proti zpracování údajů uživatele (článek 21 GDPR) </li>
+<li>právo na přenositelnost údajů, které uživatelé poskytli, pokud tyto údaje podléhají automatizovanému zpracování na základě jejich souhlasu nebo smlouvy (článek 20 GDPR) </li>
+<li>právo definovat osud dat uživatelů po jejich smrti a vybrat si, komu (WEBSITE_URL) bude muset (či ne) sdělit svá data třetí straně, kterou dříve určili</li>
+</ul>
+<p>Jakmile se (WEBSITE_URL) dozví o smrti uživatele a v případě absence pokynů od něj, (WEBSITE_URL) se zavazuje zničit jeho data, pokud se jejich uchování neukáže jako nezbytné pro důkazní účely nebo pro splnění zákonné povinnosti. </p>
+<p>Pokud si Uživatel přeje vědět, jak (WEBSITE_URL) používá své Osobní údaje, požádat o jejich opravu nebo vznést námitku proti jejich zpracování, může se Uživatel obrátit (WEBSITE_URL) písemně na následující adresu: (WEBSITE_ADDRESS). </p>
+<p>V tomto případě musí uživatel uvést osobní údaje, které si přeje (WEBSITE_URL) opravit, aktualizovat nebo smazat, a to tak, že se přesně identifikuje pomocí kopie dokladu totožnosti (totožnost karty nebo cestovní pas). </p>
+<p>Žádosti o vymazání Osobních údajů budou podléhat povinnostem, které pro (WEBSITE_URL) ukládá zákon, zejména s ohledem na uchovávání nebo archivaci dokumentů.</p>
+
+<h3>7.4 Nezveřejňování osobních údajů</h3>
+<p>(WEBSITE_URL) má zakázáno zpracovávat, hostovat nebo převádět informace shromážděné o svých zákaznících do země mimo Evropskou unii nebo země, kterou Evropská komise považuje za „nevhodnou“, aniž by o tom zákazníka předem informovala. (WEBSITE_URL) si však může svobodně vybrat své technické a obchodní subdodavatele za podmínky, že poskytují dostatečné záruky s ohledem na požadavky obecných nařízení o ochraně osobních údajů (RGPD: č. 2016-679). </p>
+<p>(WEBSITE_URL) se zavazuje přijmout veškerá nezbytná opatření k zachování bezpečnosti Informací a zejména k tomu, aby nebyly sdělovány neoprávněným osobám. Pokud je však (WEBSITE_URL) upozorněn na incident ovlivňující integritu nebo důvěrnost Klientových Informací, tento musí Klienta co nejdříve informovat a informovat ho o přijatých nápravných opatřeních. Dále (WEBSITE_URL) neshromažďuje žádná „citlivá data“.</p>
+<p>Osobní údaje uživatele mohou být zpracovány dceřinými společnostmi (WEBSITE_URL) a subdodavateli (poskytovateli služeb), výhradně za účelem dosažení účelů těchto zásad.</p>
+<p>V mezích jejich příslušných určení a pro účely uvedené výše jsou hlavními osobami, které pravděpodobně budou mít přístup k údajům uživatelů (WEBSITE_URL), především naši zástupci zákaznických služeb.</p>
+
+<h2>8. Upozornění na incident</h2>
+<p>Bez ohledu na to, jak moc se snažíte, žádný způsob přenosu přes internet a žádný způsob elektronického ukládání není zcela bezpečný. Nemůžeme tedy zaručit absolutní bezpečnost. Pokud se dozvíme o narušení bezpečnosti, upozorníme dotčené uživatele, aby mohli podniknout příslušné kroky. Naše postupy oznamování incidentů zohledňují naše právní závazky, ať už na národní nebo evropské úrovni. Jsme odhodláni plně informovat naše klienty o všech záležitostech souvisejících se zabezpečením jejich účtu a poskytovat jim všechny informace nezbytné k tomu, abychom jim pomohli splnit jejich vlastní regulační oznamovací povinnosti.</p>
+<p>Žádné osobní údaje uživatele webu (WEBSITE_URL) nejsou zveřejňovány bez vědomí uživatele, vyměňovány, přenášeny, přidělovány nebo prodávány na jakémkoli médiu třetím stranám. Pouze hypotéza zpětného odkupu (WEBSITE_URL) a jejích práv by umožnila přenos uvedených informací potenciálnímu kupujícímu, který by byl zase vázán stejnou povinností uchovávat a upravovat data vůči uživateli webu (WEBSITE_URL).</p>
+
+<h3>Zabezpečení</h3>
+<p>Pro zajištění bezpečnosti a důvěrnosti osobních údajů a osobních zdravotních údajů používá (WEBSITE_URL) sítě chráněné standardními zařízeními, jako jsou firewally, pseudonymizace, šifrování a hesla.</p>
+<p>Při zpracování osobních údajů (WEBSITE_URL) přijímá veškerá přiměřená opatření k jejich ochraně před ztrátou, zneužitím, neoprávněným přístupem, zveřejněním, pozměněním nebo zničením.</p>
+
+<h2>9. Hypertextové odkazy „cookies“ a internetové značky („tagy“)</h2>
+<p>Stránky (WEBSITE_URL) obsahují určitý počet hypertextových odkazů na jiné stránky, zřízených s autorizací (WEBSITE_URL). (WEBSITE_URL) však nemá možnost ověřit obsah takto navštívených stránek, a proto za tuto skutečnost nepřebírá žádnou odpovědnost.</p>
+<p>Pokud se nerozhodnete soubory cookie zakázat, souhlasíte s tím, že je web může používat. Tyto soubory cookie můžete kdykoli a bezplatně deaktivovat pomocí možností deaktivace, které jsou vám nabízeny a které jsou uvedeny níže, s vědomím, že to může snížit nebo znemožnit přístup ke všem nebo částem Služeb nabízených webem.</p>
+
+<h3>9.1. Používání souborů COOKIES</h3>
+<p>„Cookie“ je malý informační soubor odeslaný do prohlížeče Uživatele a uložený na koncovém zařízení Uživatele (např. počítač, chytrý telefon), (dále jen „Cookies“). Tento soubor obsahuje informace, jako je název domény uživatele, poskytovatel přístupu k internetu uživatele, operační systém uživatele a také datum a čas přístupu. Cookies v žádném případě nepředstavují riziko poškození terminálu Uživatele.</p>
+<p>(WEBSITE_URL) pravděpodobně zpracuje informace uživatele týkající se jeho návštěvy na webu, jako jsou konzultované stránky, provedená vyhledávání. Tyto informace umožňují (WEBSITE_URL) zlepšit obsah webu, navigaci uživatele.</p>
+<p>Cookies usnadňující navigaci a/nebo poskytování služeb nabízených Stránkou, může uživatel nakonfigurovat svůj prohlížeč tak, aby mu umožnil rozhodnout se, zda je chce nebo nechce přijímat, aby se soubory cookie zaznamenávaly v terminálu nebo naopak , jsou odmítány, buď systematicky, nebo podle jejich vydavatele. Uživatel si také může nakonfigurovat software svého prohlížeče tak, aby mu bylo občas nabídnuto přijetí nebo odmítnutí souborů cookie, a to předtím, než bude pravděpodobně uložen soubor cookie v jeho terminálu. (WEBSITE_URL) informuje uživatele, že v tomto případě nemusí být všechny funkce jeho navigačního softwaru dostupné.</p>
+<p> Pokud uživatel odmítne registraci souborů cookie ve svém terminálu nebo prohlížeči, nebo pokud uživatel smaže ty, které jsou tam zaregistrovány, je uživatel informován, že jeho navigace a jeho zkušenosti na Stránkách mohou být omezené. K tomu může dojít také v případě, kdy (WEBSITE_URL) nebo jeden z jejích poskytovatelů služeb nemůže z důvodu technické kompatibility rozpoznat typ prohlížeče používaného terminálem, jazyk a nastavení zobrazení nebo zemi, ze které se zdá, že je terminál připojen. internetu.</p>
+<p>Je-li to relevantní, (WEBSITE_URL) odmítá veškerou odpovědnost za důsledky spojené se zhoršeným fungováním webu a službami, které může (WEBSITE_URL) nabízet, vyplývající (i) z odmítnutí souborů cookie uživatelem (ii) ze strany nemožnost pro (WEBSITE_URL) ukládat nebo konzultovat Cookies nezbytné pro jejich provoz z důvodu volby Uživatele. Pro správu souborů cookie a uživatelských voleb je konfigurace každého prohlížeče odlišná. Je to popsáno v nabídce nápovědy prohlížeče, která vám umožní vědět, jak může uživatel upravit svá přání z hlediska souborů cookie.</p>
+<p>Uživatel se může kdykoli rozhodnout vyjádřit a upravit svá přání v rámci souborů cookie. (WEBSITE_URL) může také využívat služeb externích poskytovatelů služeb, kteří jí pomáhají shromažďovat a zpracovávat informace popsané v této části.</p>
+<p>Nakonec kliknutím na ikony věnované sociálním sítím Twitter, Facebook, Linkedin a Google Plus, které se objevují na Stránkách (WEBSITE_URL) nebo v jejich mobilní aplikaci, a pokud Uživatel přijal uložení souborů cookie pokračováním v procházení na webových stránkách nebo v mobilní aplikaci (WEBSITE_URL), Twitter, Facebook, Linkedin a Google Plus mohou také umístit soubory cookie do vašich zařízení (počítač, tablet, mobilní telefon).</p>
+<p>Tyto typy souborů cookie jsou umístěny na vaše terminály pouze tehdy, pokud s nimi souhlasíte tím, že budete pokračovat v procházení webových stránek nebo mobilní aplikace (WEBSITE_URL). Uživatel však může kdykoli odvolat svůj souhlas s (WEBSITE_URL) uložením tohoto typu souboru cookie.</p>
+
+<h3>Oddíl 9.2. INTERNETOVÉ ZNAČKY</h3>
+<p>(WEBSITE_URL) může příležitostně používat webové majáky a nasazovat je prostřednictvím partnera pro analýzu webu, který se může nacházet (a tudíž ukládat související informace, včetně IP adresy uživatele) v cizí zemi.</p>
+<p>Tyto značky jsou umístěny jak v online reklamách, které umožňují uživatelům internetu přístup na web, tak na různých stránkách webu. </p>
+<p>Tato technologie umožňuje (WEBSITE_URL) vyhodnotit reakce návštěvníků na Stránku a efektivitu jejích akcí (například, kolikrát byla stránka otevřena a konzultovány informace), stejně jako používání této Stránky uživatel. </p>
+<p>Externí poskytovatel služeb může shromažďovat informace o návštěvnících stránek a jiných internetových stránek pomocí těchto značek, sestavovat zprávy o aktivitě na stránkách pro pozornost (WEBSITE_URL) a poskytovat další služby související s používáním těchto stránek a internetu. </p>
+
+<h2>10. Rozhodné právo a přiřazení jurisdikce.</h2>
+<p>Jakýkoli spor v souvislosti s používáním webu (WEBSITE_URL) podléhá trestnímu právu. S výjimkou případů, kdy to zákon neumožňuje, mají výlučnou pravomoc příslušné soudy.</p>

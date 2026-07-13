@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Termini dell'account",
+	"TRAD_2" => "Accedendo e utilizzando (WEBSITE_NAME), accetti pienamente e senza riserve i presenti Termini dell'account. Si prega di leggerle attentamente prima di creare un account e utilizzare i nostri servizi. Se non accetti questi termini, ti preghiamo di non utilizzare (WEBSITE_NAME).",
+	"TRAD_3" => "Creazione account",
+	"TRAD_4" => "Per utilizzare i nostri servizi, è necessario creare un account fornendo informazioni accurate, aggiornate e complete.",
+	"TRAD_5" => "Sei responsabile del mantenimento della riservatezza delle informazioni del tuo account e della protezione della tua password.",
+	"TRAD_6" => "Utilizzo dell'account",
+	"TRAD_7" => "Sei responsabile di tutte le attività svolte con il tuo account.",
+	"TRAD_8" => "Accetti di utilizzare (WEBSITE_NAME) solo per scopi legali e in conformità con le leggi in vigore.",
+	"TRAD_9" => "Non devi accedere o tentare di accedere illegalmente ad account, sistemi o dati che non ti appartengono.",
+	"TRAD_10" => "Servizi bancari online",
+	"TRAD_11" => "(WEBSITE_NAME) ti consentirà di accedere a determinati servizi bancari, tra cui il controllo dei saldi, i bonifici, i pagamenti e così via.",
+	"TRAD_12" => "Ci riserviamo il diritto di modificare o limitare i servizi disponibili su (WEBSITE_NAME) senza preavviso.",
+	"TRAD_13" => "Sicurezza e accesso",
+	"TRAD_14" => "Adotteremo misure ragionevoli per proteggere la sicurezza delle informazioni e delle transazioni del tuo account.",
+	"TRAD_15" => "In caso di furto, perdita o divulgazione non autorizzata delle informazioni del tuo account, ti preghiamo di avvisarci immediatamente.",
+	"TRAD_16" => "Responsabilità",
+	"TRAD_17" => "Ti assumi la piena responsabilità delle informazioni fornite e delle azioni intraprese con il tuo account.",
+	"TRAD_18" => "Non saremo responsabili per eventuali danni derivanti dall'uso delle informazioni del tuo account da parte di terzi.",
+	"TRAD_19" => "Tariffe e Commissioni",
+	"TRAD_20" => "Alcuni servizi possono essere soggetti a tariffe e commissioni. I dettagli di tali addebiti verranno comunicati nelle apposite sezioni del sito (WEBSITE_NAME).",
+	"TRAD_21" => "Chiusura dell'account",
+	"TRAD_22" => "Puoi chiudere il tuo account in qualsiasi momento seguendo la procedura indicata su (WEBSITE_NAME).",
+	"TRAD_23" => "Ci riserviamo il diritto di chiudere il tuo account per violazione dei presenti Termini dell'account o per qualsiasi motivo giustificato.",
+	"TRAD_24" => "Modifiche ai Termini",
+	"TRAD_25" => "Possiamo modificare i presenti Termini dell'account in qualsiasi momento. Le modifiche entreranno in vigore dopo la pubblicazione su (WEBSITE_NAME).",
+	"TRAD_26" => "Continuando a utilizzare (WEBSITE_NAME) dopo la pubblicazione delle modifiche, accetti i Termini dell'account modificati.",
+	"TRAD_27" => "Termini dell'account"
+);

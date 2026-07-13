@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Kontovillkor",
+	"TRAD_2" => "Genom att komma åt och använda (WEBSITE_NAME) samtycker du helt och förbehållslöst till dessa kontovillkor. Läs dem noggrant innan du skapar ett konto och använder våra tjänster. Om du inte godkänner dessa villkor, använd inte (WEBSITE_NAME).",
+	"TRAD_3" => "Konto skapande",
+	"TRAD_4" => "För att använda våra tjänster måste du skapa ett konto genom att tillhandahålla korrekt, aktuell och fullständig information.",
+	"TRAD_5" => "Du ansvarar för att upprätthålla sekretessen för din kontoinformation och för att skydda ditt lösenord.",
+	"TRAD_6" => "Användning av konto",
+	"TRAD_7" => "Du är ansvarig för alla aktiviteter som utförs under ditt konto.",
+	"TRAD_8" => "Du samtycker till att använda (WEBSITE_NAME) endast för juridiska ändamål och i enlighet med gällande lagar.",
+	"TRAD_9" => "Du får inte olagligt komma åt eller försöka komma åt konton, system eller data som inte tillhör dig.",
+	"TRAD_10" => "Internetbanktjänster",
+	"TRAD_11" => "(WEBSITE_NAME) ger dig tillgång till vissa banktjänster, inklusive kontroll av saldon, överföringar, betalningar, etc.",
+	"TRAD_12" => "Vi förbehåller oss rätten att ändra eller begränsa de tjänster som är tillgängliga på (WEBSITE_NAME) utan föregående meddelande.",
+	"TRAD_13" => "Säkerhet och åtkomst",
+	"TRAD_14" => "Vi kommer att vidta rimliga åtgärder för att skydda säkerheten för din kontoinformation och dina transaktioner.",
+	"TRAD_15" => "I händelse av stöld, förlust eller obehörigt avslöjande av din kontoinformation, vänligen meddela oss omedelbart.",
+	"TRAD_16" => "Ansvar",
+	"TRAD_17" => "Du tar fullt ansvar för den information du tillhandahåller och åtgärder som vidtas under ditt konto.",
+	"TRAD_18" => "Vi kommer inte att hållas ansvariga för eventuella skador som uppstår från tredje parts användning av din kontoinformation.",
+	"TRAD_19" => "Avgifter och provisioner",
+	"TRAD_20" => "Vissa tjänster kan vara föremål för avgifter och provisioner. Detaljer om dessa avgifter kommer att meddelas i lämpliga avsnitt på webbplatsen (WEBSITE_NAME).",
+	"TRAD_21" => "Kontouppsägning",
+	"TRAD_22" => "Du kan avsluta ditt konto när som helst genom att följa proceduren som anges på (WEBSITE_NAME).",
+	"TRAD_23" => "Vi förbehåller oss rätten att avsluta ditt konto för brott mot dessa kontovillkor eller av någon motiverad anledning.",
+	"TRAD_24" => "Ändringar av villkor",
+	"TRAD_25" => "Vi kan ändra dessa kontovillkor när som helst. Ändringarna träder i kraft när du lägger upp dem på (WEBSITE_NAME).",
+	"TRAD_26" => "Genom att fortsätta använda (WEBSITE_NAME) efter att ändringarna har publicerats godkänner du de reviderade kontovillkoren.",
+	"TRAD_27" => "Kontovillkor"
+);

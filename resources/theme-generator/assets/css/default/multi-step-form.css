@@ -1,0 +1,37 @@
+#multi-step-form input.invalid {
+	border: 2px solid rgba(255, 122, 122, .9) !important;
+	background: rgba(255, 122, 122, .5) !important;
+	color: rgba(255, 122, 122, .9) !important;
+}
+
+/* Hide all steps by default: */
+#multi-step-form .tab {
+	display: none;
+}
+
+/* Make circles that indicate the steps of the form: */
+#multi-step-form #step-box {
+	box-sizing: border-box;
+	text-align: center;
+}
+
+#multi-step-form .step {
+	height: 30px;
+	width: 30px;
+	margin: 0 2px;
+	background-color: #bbbbbb;
+	border: none;
+	border-radius: 50%;
+	display: inline-block;
+	opacity: 0.5;
+}
+
+/* Mark the active step: */
+#multi-step-form .step.active {
+	opacity: 1;
+}
+
+/* Mark the steps that are finished and valid: */
+#multi-step-form .step.finish {
+	background-color: #4CAF50;
+}

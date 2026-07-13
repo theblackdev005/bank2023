@@ -1,0 +1,112 @@
+<h2>Definisjoner</h2>
+<p>
+<b>Kunde:</b> enhver profesjonell eller fysisk person som er i stand til i betydningen av følgende artikler i Civil Code, eller juridisk person, som besøker nettstedet underlagt disse generelle betingelsene.<br>
+<b>Fordeler og tjenester:</b> (WEBSITE_URL) gir kundene:
+</p>
+<p><b>Innhold:</b> Alle bestanddelene i informasjonen på nettstedet, spesielt tekster – bilder – videoer.</p>
+<p><b>Kundeinformasjon:</b> Heretter referert til som "Informasjon" som tilsvarer alle personopplysninger som sannsynligvis vil bli inneholdt av (WEBSITE_NAME) for administrasjon av kontoen din, administrasjon av klienten og for analytisk og statistiske formål.</p>
+<p><b>Bruker:</b> Internett-bruker kobler til ved å bruke det ovennevnte nettstedet.</p>
+<p><b>Personlig informasjon:</b> "Informasjon som tillater, i enhver form, direkte eller indirekte, identifisering av de fysiske personene den gjelder".</p>
+<p>Begrepene «personopplysninger», «registrerte», «underleverandør» og «sensitive data» har betydningen definert av den generelle databeskyttelsesforordningen (RGPD: nr. 2016-679)</p>
+
+<h2>1. Presentasjon av nettsiden.</h2>
+<p>I henhold til artikkel 6 i lov nr. 2004-575 av 21. juni 2004 om tillit til den digitale økonomien, blir brukere av nettstedet (WEBSITE_URL) informert om identiteten til de ulike interessentene i rammeverket for implementering og overvåking: </p>
+<p>
+<b>Eier</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Publiseringssjef</b>: (AUTHOR_NAME)<br>
+<b>Nettredaktør</b>: (WEBMASTER_NAME)<br>
+<b>Databeskyttelsesansvarlig</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. Generelle vilkår for bruk av nettstedet og tjenestene som tilbys.</h2>
+<p>Nettstedet utgjør et åndsverk som er beskyttet av bestemmelsene i åndsverkloven og gjeldende internasjonale forskrifter. Kunden kan ikke på noen måte gjenbruke, overføre eller utnytte for egen regning hele eller deler av elementene eller verkene på nettstedet.</p>
+<p>Bruk av nettstedet (WEBSITE_NAME) innebærer full aksept av de generelle bruksvilkårene beskrevet nedenfor. Disse bruksvilkårene kan endres eller suppleres når som helst, brukere av nettstedet (WEBSITE_NAME) er derfor invitert til å konsultere dem med jevne mellomrom.</p>
+<p>Dette nettstedet er normalt tilgjengelig for brukere når som helst. Et avbrudd på grunn av teknisk vedlikehold kan imidlertid bestemmes av (WEBSITE_NAME), som da vil forsøke å kommunisere til brukere før datoene og tidspunktene for intervensjonen. De juridiske merknadene kan endres når som helst: de er likevel bindende for brukeren som er invitert til å referere til dem så ofte som mulig for å bli kjent med dem.</p>
+
+<h2>3. Beskrivelse av tjenestene som tilbys.</h2>
+<p>Formålet med nettstedet (WEBSITE_NAME) er å gi informasjon om alle selskapets aktiviteter. (WEBSITE_NAME) streber etter å gi informasjon som er så nøyaktig som mulig. Den kan imidlertid ikke holdes ansvarlig for utelatelser, unøyaktigheter og mangler i oppdateringen, verken av seg selv eller av tredjepartspartnerne som gir den denne informasjonen.</p>
+<p>All informasjon som er angitt på nettstedet (WEBSITE_NAME) er kun gitt for informasjon, og kan endres. Videre er informasjonen på nettstedet (WEBSITE_NAME) ikke uttømmende. De er gitt med forbehold om at endringer har blitt gjort siden de ble lagt ut på nettet.</p>
+
+<h2>4. Kontraktsbegrensninger på tekniske data.</h2>
+<p>Nettstedet bruker JavaScript-teknologi. Nettstedet kan ikke holdes ansvarlig for materielle skader knyttet til bruken av nettstedet. I tillegg godtar brukeren av nettstedet å få tilgang til nettstedet ved å bruke nyere utstyr, som ikke inneholder virus og med en oppdatert siste generasjons nettleser. Nettstedet (WEBSITE_NAME) er vert for en tjenesteleverandør på EUs territorium i samsvar med bestemmelsene i General Data Protection Regulations (RGPD: n° 2016-679).</p>
+<p>Målet er å tilby en tjeneste som sikrer den beste tilgjengelighetsraten. Verten sikrer kontinuiteten i tjenesten 24 timer i døgnet, alle dager hele året. Det forbeholder seg likevel retten til å avbryte vertstjenesten for kortest mulig varighet, spesielt med tanke på vedlikehold, forbedring av infrastrukturen, svikt i infrastrukturen eller hvis tjenestene og tjenestene genererer trafikk som anses som unormal.</p>
+<p>(WEBSITE_NAME) og verten kan ikke holdes ansvarlige i tilfelle feil på Internett-nettverket, telefonlinjer eller datamaskin- og telefoniutstyr knyttet til nettverksbelastning som hindrer tilgang til serveren.</p>
+
+<h2>5. Immaterielle rettigheter og forfalskninger.</h2>
+<p>(WEBSITE_NAME) er eieren av de immaterielle rettighetene og innehar bruksrettighetene til alle elementene som er tilgjengelige på nettstedet, spesielt tekster, bilder, grafikk, logoer, videoer, ikoner og lyder. Enhver reproduksjon, representasjon, modifikasjon, publisering, tilpasning av alle eller deler av elementene på nettstedet, uansett metode eller prosess som brukes, er forbudt, med unntak av skriftlig forhåndsgodkjenning fra: (WEBSITE_NAME).</p>
+<p>Enhver uautorisert bruk av nettstedet eller noen av elementene det inneholder vil bli ansett som en krenkelse og straffeforfulgt i samsvar med bestemmelsene i artiklene L.335-2 og følgende i åndsverkloven.</p>
+
+<h2>6. Ansvarsbegrensning.</h2>
+<p>(WEBSITE_NAME) fungerer som utgiver av nettstedet. (WEBSITE_NAME) er ansvarlig for kvaliteten og sannheten til innholdet det publiserer.</p>
+<p>(WEBSITE_NAME) kan ikke holdes ansvarlig for direkte og indirekte skade forårsaket av brukerens utstyr, ved tilgang til nettsiden (WEBSITE_NAME), og som følge av bruk av utstyr som ikke oppfyller spesifikasjonene angitt i punkt 4, enten utseendet til en feil eller en inkompatibilitet.</p>
+<p>(WEBSITE_NAME) kan heller ikke holdes ansvarlig for følgeskader (som tap av marked eller tap av muligheter) som følge av bruken av nettstedet (WEBSITE_URL). Interaktive rom (mulighet for å stille spørsmål i kontaktområdet) er tilgjengelige for brukere. (WEBSITE_URL) forbeholder seg retten til å slette, uten forvarsel, alt innhold som er lagt ut på dette området som vil bryte med gjeldende lovgivning i EU, spesielt bestemmelsene knyttet til databeskyttelse. Der det er aktuelt, forbeholder (WEBSITE_URL) seg også retten til å stille spørsmål ved brukerens sivile og/eller strafferettslige ansvar, spesielt i tilfelle en rasistisk, fornærmende, ærekrenkende eller pornografisk melding, uavhengig av mediet som brukes. (tekst,
+
+<h2>7. Håndtering av personopplysninger.</h2>
+<p>Kunden er informert om regelverket vedrørende markedskommunikasjon, loven av 21. juni 2014 for tillit til den digitale økonomien, databeskyttelsesloven av 06. august 2004 samt den generelle databeskyttelsesforskriften (RGPD : nr. 2016-679). </p>
+
+<h3>7.1 Personer som er ansvarlige for å samle inn personopplysninger</h3>
+<p>For personopplysningene som samles inn som en del av opprettelsen av brukerens personlige konto og dens navigering på nettstedet, er personen som er ansvarlig for å behandle personopplysninger: (WEBSITE_NAME).</p>
+<p>Som ansvarlig for å behandle dataene den samler inn, forplikter (WEBSITE_URL) seg til å overholde rammen av gjeldende lovbestemmelser. Spesielt er det opp til kunden å etablere formålene med databehandlingen, å gi potensielle kunder og kunder, fra innsamlingen av deres samtykker, fullstendig informasjon om behandlingen av deres personopplysninger og å opprettholde et register over behandlinger konsistent med virkeligheten. Når (WEBSITE_URL) behandler personopplysninger, tar (WEBSITE_URL) alle rimelige skritt for å sikre nøyaktigheten og relevansen til personopplysningene med hensyn til formålene (WEBSITE_URL) behandler dem for.</p>
+
+<h3>7.2 Formålet med dataene som samles inn</h3>
+<p>(WEBSITE_URL) kan behandle alle eller deler av dataene:</p>
+<ul>
+<li>å tillate navigering på nettstedet og administrasjon og sporbarhet av tjenestene som er bestilt av brukeren: tilkoblings- og bruksdata for nettstedet, fakturering, ordrehistorikk, etc. </li>
+<li>for å forhindre og bekjempe datasvindel (spamming, hacking osv.): datautstyr som brukes til surfing, IP-adresse, passord (hashed) </li>
+<li>for å forbedre navigasjonen på nettstedet: tilkoblings- og bruksdata </li>
+<li>for å gjennomføre valgfrie tilfredshetsundersøkelser på (WEBSITE_URL): e-postadresse </li>
+<li>for å gjennomføre kommunikasjonskampanjer (sms, e-post): telefonnummer, e-postadresse</li>
+</ul>
+<p>(WEBSITE_URL) markedsfører ikke dine personopplysninger som derfor kun brukes av nødvendighet eller til statistiske og analyseformål.</p>
+
+<h3>7.3 Rett til innsyn, retting og innsigelse</h3>
+<p>I samsvar med gjeldende europeiske forskrifter har brukere av (WEBSITE_URL) følgende rettigheter: </p>
+<ul>
+<li>rett til tilgang (artikkel 15 GDPR) og retting (artikkel 16 GDPR), oppdatering, fullstendighet av brukerdata rett til blokkering eller sletting av personlige brukerdata (artikkel 17 i GDPR), når de er unøyaktige, ufullstendige, tvetydige , utdatert, eller hvis innsamling, bruk, kommunikasjon eller lagring er forbudt </li>
+<li>rett til å trekke tilbake samtykke når som helst (artikkel 13-2c GDPR) </li>
+<li>rett til å begrense behandlingen av brukerdata (artikkel 18 GDPR) </li>
+<li>rett til å motsette seg behandling av brukerdata (artikkel 21 GDPR) </li>
+<li>rett til portabilitet av data som brukere har oppgitt, når disse dataene er gjenstand for automatisert behandling basert på deres samtykke eller på en kontrakt (artikkel 20 GDPR) </li>
+<li>rett til å definere skjebnen til brukernes data etter deres død og til å velge hvem (WEBSITE_URL) skal kommunisere (eller ikke) deres data til en tredjepart som de tidligere har utpekt</li>
+</ul>
+<p>Så snart (WEBSITE_URL) blir oppmerksom på en brukers død og i mangel av instruksjoner fra ham, forplikter (WEBSITE_URL) seg til å ødelegge dataene hans, med mindre bevaring av dem viser seg nødvendig for bevisformål eller for å oppfylle en juridisk forpliktelse. </p>
+<p>Hvis brukeren ønsker å vite hvordan (WEBSITE_URL) bruker sine personopplysninger, be om å korrigere dem eller motsette seg behandlingen, kan brukeren kontakte (WEBSITE_URL) skriftlig på følgende adresse: (WEBSITE_ADDRESS). </p>
+<p>I dette tilfellet må brukeren angi personopplysningene han ønsker (WEBSITE_URL) skal rette, oppdatere eller slette, ved å identifisere seg nøyaktig med en kopi av et identitetsdokument (kortidentitet eller pass). </p>
+<p>Forespørsler om sletting av personopplysninger vil være underlagt forpliktelsene som er pålagt (WEBSITE_URL) ved lov, spesielt med hensyn til bevaring eller arkivering av dokumenter.</p>
+
+<h3>7.4 Ikke-utlevering av personopplysninger</h3>
+<p>(WEBSITE_URL) er forbudt å behandle, være vert for eller overføre informasjonen som samles inn om kundene til et land utenfor EU eller anerkjent som "uegnet" av EU-kommisjonen uten først å informere kunden. Imidlertid står (WEBSITE_URL) fritt til å velge sine tekniske og kommersielle underleverandører under forutsetning av at de gir tilstrekkelige garantier med hensyn til kravene i General Data Protection Regulations (RGPD: n° 2016-679). </p>
+<p>(WEBSITE_URL) forplikter seg til å ta alle nødvendige forholdsregler for å ivareta sikkerheten til informasjonen og spesielt at den ikke blir kommunisert til uautoriserte personer. Imidlertid, hvis en hendelse som påvirker integriteten eller konfidensialiteten til klientens informasjon blir gjort oppmerksom på (WEBSITE_URL), må sistnevnte informere klienten så snart som mulig og informere ham om de korrigerende tiltakene som er tatt. Videre samler ikke (WEBSITE_URL) inn noen "sensitive data".</p>
+<p>Brukerens personopplysninger kan behandles av datterselskaper av (WEBSITE_URL) og underleverandører (tjenesteleverandører), utelukkende for å oppnå formålene med denne policyen.</p>
+<p>Innenfor grensene for deres respektive attribusjoner og for formålene nevnt ovenfor, er de viktigste personene som sannsynligvis vil ha tilgang til dataene til brukere av (WEBSITE_URL), hovedsakelig våre kundeserviceagenter.</p>
+
+<h2>8. Hendelsesvarsling</h2>
+<p>Uansett hvor hardt du prøver, er ingen metode for overføring over Internett, og ingen metode for elektronisk lagring, helt sikker. Vi kan derfor ikke garantere absolutt sikkerhet. Hvis vi blir oppmerksomme på et sikkerhetsbrudd, vil vi varsle berørte brukere slik at de kan iverksette passende tiltak. Våre prosedyrer for varsling av hendelser tar hensyn til våre juridiske forpliktelser, enten på nasjonalt eller europeisk nivå. Vi er forpliktet til å informere kundene våre fullt ut om alle forhold knyttet til sikkerheten til kontoen deres og til å gi dem all nødvendig informasjon for å hjelpe dem med å oppfylle sine egne regulatoriske rapporteringsplikter.</p>
+<p>Ingen personlig informasjon om brukeren av nettstedet (WEBSITE_URL) blir publisert uten brukerens viten, utvekslet, overført, tildelt eller solgt på noe medium til tredjeparter. Bare hypotesen om innløsning av (WEBSITE_URL) og dens rettigheter vil tillate overføring av nevnte informasjon til den potensielle kjøperen som igjen vil være bundet av den samme forpliktelsen til å lagre og endre data overfor brukeren av nettstedet (WEBSITE_URL).</p>
+
+<h3>Sikkerhet</h3>
+<p>For å sikre sikkerheten og konfidensialiteten til personopplysninger og personlige helsedata, bruker (WEBSITE_URL) nettverk beskyttet av standardenheter som brannmurer, pseudonymisering, kryptering og passord.</p>
+<p>Når du behandler personopplysninger, tar (WEBSITE_URL) alle rimelige tiltak for å beskytte dem mot tap, misbruk, uautorisert tilgang, avsløring, endring eller ødeleggelse.</p>
+
+<h2>9. Hypertekstlenker "cookies" og internett-tags ("tags")</h2>
+<p>Nettstedet (WEBSITE_URL) inneholder et visst antall hypertekstlenker til andre nettsteder, satt opp med autorisasjon av (WEBSITE_URL). (WEBSITE_URL) har imidlertid ikke mulighet til å verifisere innholdet på nettstedene som er besøkt på denne måten, og påtar seg derfor ikke noe ansvar for dette.</p>
+<p>Med mindre du bestemmer deg for å deaktivere informasjonskapsler, godtar du at nettstedet kan bruke dem. Du kan deaktivere disse informasjonskapslene når som helst og gratis ved å bruke deaktiveringsmulighetene som tilbys deg og tilbakekalt nedenfor, vel vitende om at dette kan redusere eller hindre tilgjengeligheten til alle eller deler av tjenestene som tilbys av nettstedet.</p>
+
+<h3>9.1. Bruk av COOKIES</h3>
+<p>En "informasjonskapsel" er en liten informasjonsfil som sendes til brukerens nettleser og lagres på brukerens terminal (f.eks. datamaskin, smarttelefon), (heretter kalt "informasjonskapsler"). Denne filen inneholder informasjon som brukerens domenenavn, brukerens internettilgangsleverandør, brukerens operativsystem, samt dato og klokkeslett for tilgang. Informasjonskapsler risikerer ikke på noen måte å skade brukerens terminal.</p>
+<p>(WEBSITE_URL) vil sannsynligvis behandle brukerens informasjon om hans besøk på nettstedet, for eksempel sidene som er konsultert, søkene som er utført. Denne informasjonen gjør det mulig for (WEBSITE_URL) å forbedre innholdet på nettstedet, navigasjonen til brukeren.</p>
+<p>Informasjonskapsler som letter navigering og/eller levering av tjenester som tilbys av nettstedet, kan brukeren konfigurere nettleseren sin slik at han kan bestemme om han ønsker å godta dem eller ikke, slik at informasjonskapsler lagres i terminalen eller tvert imot , blir de avvist, enten systematisk eller i henhold til deres utsteder. Brukeren kan også konfigurere nettleserprogramvaren slik at aksept eller avslag på informasjonskapsler tilbys ham fra tid til annen, før en informasjonskapsel sannsynligvis vil bli lagret i terminalen hans. (WEBSITE_URL) informerer brukeren om at i dette tilfellet kan det hende at funksjonene til navigasjonsprogramvaren hans ikke alle er tilgjengelige.</p>
+<p> Hvis brukeren nekter å registrere informasjonskapsler i sin terminal eller sin nettleser, eller hvis brukeren sletter de som er registrert der, blir brukeren informert om at hans navigasjon og hans opplevelse på nettstedet kan være begrenset. Dette kan også være tilfelle når (WEBSITE_URL) eller en av tjenesteleverandørene deres ikke kan gjenkjenne, av teknisk kompatibilitetsformål, typen nettleser som brukes av terminalen, språk- og skjerminnstillingene eller landet som terminalen ser ut til å være koblet til. Internett.</p>
+<p>Hvis det er aktuelt, fraskriver (WEBSITE_URL) seg alt ansvar for konsekvensene knyttet til den forringede funksjonen til nettstedet og tjenestene som muligens tilbys av (WEBSITE_URL), som er et resultat av (i) av brukerens avslag på informasjonskapsler (ii) fra umulighet for (WEBSITE_URL) å lagre eller konsultere informasjonskapslene som er nødvendige for driften på grunn av brukerens valg. For administrasjon av informasjonskapsler og brukervalg er konfigurasjonen av hver nettleser forskjellig. Det er beskrevet i hjelpemenyen til nettleseren, som lar deg vite hvordan brukeren kan endre sine ønsker når det gjelder informasjonskapsler.</p>
+<p>Brukeren kan når som helst velge å uttrykke og endre sine ønsker når det gjelder informasjonskapsler. (WEBSITE_URL) kan også bruke tjenestene til eksterne tjenesteleverandører for å hjelpe den med å samle inn og behandle informasjonen som er beskrevet i denne delen.</p>
+<p>Til slutt, ved å klikke på ikonene dedikert til de sosiale nettverkene Twitter, Facebook, Linkedin og Google Plus som vises på nettstedet til (WEBSITE_URL) eller i mobilapplikasjonen, og hvis brukeren har akseptert deponering av informasjonskapsler ved å fortsette å surfe på nettstedet eller mobilapplikasjonen til (WEBSITE_URL), kan Twitter, Facebook, Linkedin og Google Plus også plassere informasjonskapsler på enhetene dine (datamaskin, nettbrett, mobiltelefon).</p>
+<p>Disse typer informasjonskapsler plasseres kun på terminalene dine hvis du samtykker til dem, ved å fortsette å bla gjennom nettstedet eller mobilapplikasjonen til (WEBSITE_URL). Når som helst kan brukeren likevel tilbakekalle sitt samtykke til (WEBSITE_URL) deponering av denne typen informasjonskapsler.</p>
+
+<h3>Seksjon 9.2. INTERNETT-TAGGER</h3>
+<p>(WEBSITE_URL) kan av og til bruke web beacons og distribuere dem gjennom en nettanalysepartner som kan være lokalisert (og derfor lagre relatert informasjon, inkludert IP-adressen til brukeren) i et fremmed land.</p>
+<p>Disse taggene plasseres både i nettannonser som lar Internett-brukere få tilgang til nettstedet, og på de forskjellige sidene på nettstedet. </p>
+<p>Denne teknologien tillater (WEBSITE_URL) å evaluere besøkendes svar på nettstedet og effektiviteten av dets handlinger (for eksempel antall ganger en side åpnes og informasjonen konsultert), samt bruken av dette nettstedet av brukeren. </p>
+<p>Den eksterne tjenesteleverandøren kan samle inn informasjon om besøkende på nettstedet og andre nettsteder ved å bruke disse kodene, kompilere rapporter om nettstedets aktivitet for oppmerksomheten til (WEBSITE_URL), og tilby andre tjenester knyttet til bruken av det og Internett. </p>
+
+<h2>10. Gjeldende lov og tildeling av jurisdiksjon.</h2>
+<p>Enhver tvist i forbindelse med bruken av nettstedet (WEBSITE_URL) er underlagt straffeloven. Bortsett fra i tilfeller der loven ikke tillater det, gis eksklusiv jurisdiksjon til de kompetente domstolene.</p>

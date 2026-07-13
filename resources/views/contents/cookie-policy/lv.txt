@@ -1,0 +1,22 @@
+<p>(WEBSITE_NAME) mērķis ir nodrošināt vislabāko tiešsaistes pieredzi, apmeklējot mūsu vietni, tāpēc mēs izmantojam noteikta veida sīkfailus.</p>
+
+<h3>Kas ir sīkfaili?</h3>
+<p>Sīkdatnes sīkdatnes ir informācijas paketes, ko tīmekļa serveris (šajā gadījumā šī vietne) nosūta apmeklētāja interneta pārlūkprogrammai, saglabā apmeklētāja datorā un nosūta serverim katru reizi, kad tiek apmeklēta nākamā vietne. Tāpēc, lai pilnvērtīgi izmantotu šo vietni, ieteicams konfigurēt pārlūkprogrammu tā, lai tā akceptētu sīkfailu saņemšanu.</p>
+
+<h3>Kāpēc mēs tos izmantojam</h3>
+<p>Sīkdatnes tiek izmantotas, lai atvieglotu vietnes navigāciju un pareizu lietošanu, kā arī statistikas nolūkos, lai uzzinātu, kuras vietnes sadaļas ir apmeklētas, lai veiktu uzlabojumus un atjauninājumus, pamatojoties uz lietošanas paradumiem. Šajā vietnē izmantotās sīkdatnes neļauj iegūt lietotāju personas identifikācijas datus. Pēc tam lietotājs var pārlūkot vietni, neatklājot personisko informāciju.</p>.
+
+<h3>Izmantoto sīkfailu veidi</h3>
+<p>"Sesijas sīkfaili" - tie atrodas tikai lietotāja datora atmiņā un tiek dzēsti pēc pārlūkprogrammas aizvēršanas. Izmantošana ir stingri ierobežota līdz sesijas identifikatoru pārraidei, kas sastāv no servera ģenerētiem nejaušiem skaitļiem, kuri ir nepieciešami, lai vietne būtu droša un efektīva.</p> 
+<p>Sesijas sīkfailus izmanto, lai mēs varētu jums nosūtīt informāciju par vietni.</p>
+<p>Šīs sīkdatnes ļauj mums apkopot anonīmu informāciju par lietotāja apmeklētajām lapām un to, kā jūs izmantojat mūsu vietni, lai uzlabotu navigāciju nākotnē un noteiktu iespējamo kļūdu ziņojumu avotu. Piemēram, vākt informāciju par apmeklētajām lapām, apmeklējumu skaitu, apmeklētāja pārlūkprogrammu.</p>
+
+<h3>Trešo pušu sīkfaili</h3>
+<p>Mūsu vietnē laiku pa laikam var būt saites uz trešo personu vietnēm. Ja izmantojat saiti uz šīm trešo pušu vietnēm, lūdzu, pirms personas datu sniegšanas šajās vietnēs pārbaudiet to konfidencialitātes politiku, sīkfailus un to, kā tie tiek apstrādāti.</p> 
+<p>Šī vietne nav paredzēta kā mūsu apmeklētāju privātuma aizvietotājs.</p>
+
+<h3>Kā pārvaldīt sīkfailu iestatījumus</h3>
+<p>Lai nodrošinātu vislabāko mūsu vietnes izmantošanu, mēs iesakām pieņemt sīkfailus. Lielākā daļa interneta pārlūkprogrammu sākotnēji ir iestatītas tā, lai pieņemtu sīkfailus. Pārlūkprogrammā jebkurā laikā varat iestatīt, lai tā pieņemtu visus sīkfailus. Turklāt varat iestatīt pārlūkprogrammas preferences, lai jūs tiktu informēts, kad jūsu datorā tiek saglabāts sīkfails. Lūdzu, ņemiet vērā, ka nederīgas sīkdatnes var traucēt normālu un optimālu vietnes lietošanu.</p>
+
+<h3>Šīs politikas izmaiņas</h3>
+<p>Šī politika laika gaitā var mainīties, un tā ir saistīta arī ar jaunu noteikumu stāšanos spēkā.</p>

@@ -1,0 +1,20 @@
+<P> (WEBSITE_NAME) syftar till att ge den bästa online upplevelse under ditt besök på vår webbplats, vilket är anledningen till att vi använder vissa typer av "cookies". </P>
+
+<H3> Vad är cookies? </H3>
+<P> Cookies är informationspaket som skickas av en webbserver (i detta fall, av denna webbplats) i webbläsaren för besökaren, som lagras på sin dator och skickas till servern vid åtkomst följande webbplats. Därför, för fullt utnyttjande av denna webbplats rekommenderar vi att du konfigurera webbläsaren att acceptera mottagandet av cookies. </P>
+
+<H3> Varför använder vi den? </H3>
+<P> Cookies används för att underlätta navigering inom området och korrekt användning och för statistiska ändamål, för att veta vilka områden på webbplatsen besöktes för att göra förbättringar och uppdateringar baserat på användningsmönster. De cookies som används på denna webbplats tillåter inte förvärvet av personuppgifter av användare identifierings. Användaren kan sedan surfa på webbplatsen utan att avslöja personlig information. </P>
+
+<H3> typ av cookies som används </h3>
+<P> "session cookies" - ligger uteslutande i minnet av användarens dator och raderas när webbläsaren stängs. Användning är strikt begränsad till överföringen av besöksidentifierare består av slumptal som genereras av servern, som behövs för att tillåta en webbplats för att vara säkra och effektiva. </P>
+<P> Dessa cookies tillåter oss att samla in anonym information om vilka sidor som besökts av en användare och hur du använder vår webbplats för att förbättra navigering i framtiden och fastställa källan till eventuella felmeddelanden. Till exempel, samla in information om besökta sidor, antalet besök, besökarens webbläsare. </P>
+
+<H3> Kakor tredje </h3>
+<P> Vår webbplats kan från tid till annan innehålla länkar till tredje parts webbplatser. Om du följer en länk till dessa platser, kontakta deras integritetspolicy, om cookies och hur de hanteras innan ge personuppgifter på dessa webbplatser. </P>
+
+<H3> Hur man hanterar inställningar för cookies? </H3>
+<P> För att se till att du gör den bästa användningen av vår hemsida, rekommenderar vi att du accepterar cookies. De flesta webbläsare är inställda att acceptera cookies. Du kan när som helst, ställa in din webbläsare att acceptera alla cookies. Dessutom kan du ställa in inställningar för webbläsaren som skall meddelas när en cookie sparas på din dator. Observera att funktionshindrade cookies kan förhindra normal och optimal användning av webbplatsen. </P>
+
+<H3> Förändringar av denna policy </h3>
+<P> Denna policy kan förändras över tiden och är också kopplat till ikraftträdandet av nya regler. </P>

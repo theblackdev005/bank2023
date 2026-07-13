@@ -1,0 +1,21 @@
+<p>(WEBSITE_NAME) se snaží zajistit co nejlepší online zážitek během vaší návštěvy našich stránek, a proto používáme určité typy souborů cookie.</p>
+
+<h3>Co jsou to soubory cookie?</h3>
+<p>Cookies jsou balíčky informací odeslané webovým serverem (v tomto případě tímto webem) do internetového prohlížeče návštěvníka, uložené v počítači návštěvníka a odeslané na server při každém dalším přístupu na web. Proto pro plné využití těchto stránek doporučujeme nastavit prohlížeč tak, aby přijímal soubory cookie.</p>
+
+<h3>Proč je používáme</h3>
+<p>Soubory cookie se používají k usnadnění navigace na webu a jeho správného používání a pro statistické účely, abychom věděli, které oblasti webu byly navštíveny, a mohli je vylepšovat a aktualizovat na základě vzorců používání. Soubory cookie používané na těchto stránkách neumožňují získávat osobní identifikační údaje uživatelů. Uživatel pak může procházet stránky, aniž by sdělil své osobní údaje.</p>.
+
+<h3>Typ použitých souborů cookie</h3>
+<p>"Soubory cookie relace" - jsou uloženy výhradně v paměti počítače uživatele a po zavření prohlížeče se vymažou. Použití je přísně omezeno na přenos identifikátorů relace, které se skládají z náhodných čísel vygenerovaných serverem a které jsou nezbytné pro zajištění bezpečnosti a efektivity webu.</p>
+<p>Soubory cookie relace se používají k tomu, abychom vám mohli zasílat informace o webu.</p>
+<p>Tyto soubory cookie nám umožňují shromažďovat anonymní informace o stránkách, které uživatel navštívil, a o tom, jak naše stránky používáte, abychom mohli v budoucnu zlepšit navigaci a určit zdroj případných chybových hlášení. Například shromažďovat informace o navštívených stránkách, počtu návštěv, prohlížeči návštěvníka.</p>
+
+<h3>Soubory cookie třetích stran</h3>
+<p>Naše stránky mohou čas od času obsahovat odkazy na webové stránky třetích stran. Pokud na tyto stránky třetích stran přejdete přes odkaz, zkontrolujte si prosím jejich zásady ochrany osobních údajů, zásady týkající se souborů cookie a způsobu nakládání s nimi, než na těchto stránkách poskytnete osobní údaje.</p> <p>Stránky nejsou určeny k tomu, aby nahrazovaly ochranu soukromí našich návštěvníků.</p>
+
+<h3>Jak spravovat nastavení týkající se souborů cookie</h3>
+<p>Abyste mohli naše webové stránky využívat co nejlépe, doporučujeme vám přijímat soubory cookie. Většina internetových prohlížečů je zpočátku nastavena tak, aby soubory cookie přijímala. Prohlížeč můžete kdykoli nastavit tak, aby přijímal všechny soubory cookie. Kromě toho můžete nastavit předvolby prohlížeče tak, aby vás upozornil, kdykoli se do vašeho počítače uloží soubor cookie. Upozorňujeme, že neplatné soubory cookie mohou bránit normálnímu a optimálnímu používání stránek.</p>
+
+<h3>Změny těchto zásad</h3>
+<p>Tato politika se může v průběhu času měnit a souvisí také se vstupem nových předpisů v platnost.</p>

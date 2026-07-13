@@ -1,0 +1,20 @@
+<p>(WEBSITE_NAME) želi zagotoviti najboljšo spletno izkušnjo med vašim obiskom naše spletne strani, zato uporablja določene vrste "piškotkov".</p>
+
+<h3>Kaj so piškotki?</h3>
+<p>Piškotki so paketi informacij, ki jih spletni strežnik (v tem primeru to spletno mesto) pošlje obiskovalčevemu spletnemu brskalniku, se shranijo v obiskovalčevem računalniku in pošljejo strežniku ob vsakem naslednjem obisku spletnega mesta. Zato vam za polno uporabo tega spletnega mesta svetujemo, da brskalnik nastavite tako, da sprejme prejemanje piškotkov.</p>
+
+<h3>Kaj jih uporabljamo</h3>
+<p>Piškotki se uporabljajo za lažjo navigacijo po spletnem mestu in pravilno uporabo ter v statistične namene, da se ugotovi, katera področja spletnega mesta so bila obiskana, da se na podlagi vzorcev uporabe pripravijo izboljšave in posodobitve. Piškotki, ki se uporabljajo na tem spletnem mestu, ne omogočajo pridobivanja osebnih identifikacijskih podatkov uporabnikov. Uporabnik lahko nato brska po spletnem mestu brez razkritja osebnih podatkov.</p>.
+
+<h3>Vrst uporabljenih piškotkov</h3>
+<p>"Sejni piškotki" se nahajajo izključno v pomnilniku uporabnikovega računalnika in se po zaprtju brskalnika izbrišejo. Uporaba je strogo omejena na prenos identifikatorjev seje, sestavljenih iz naključnih številk, ki jih ustvari strežnik in so potrebni za zagotavljanje varnosti in učinkovitosti spletnega mesta.</p> <p> <p>Piškotki seje se uporabljajo, da vam lahko pošljemo informacije o spletnem mestu.
+<p>Ti piškotki nam omogočajo zbiranje anonimnih informacij o straneh, ki jih uporabnik obišče, in o tem, kako uporabljate naše spletno mesto, da bi v prihodnosti izboljšali navigacijo in določili vir morebitnih sporočil o napakah. Na primer zbirajo informacije o obiskanih straneh, številu obiskov in brskalniku obiskovalca.</p> <h3>Piškotki
+
+<h3>Piškotki tretjih oseb</h3>
+<p>Naše spletno mesto lahko občasno vsebuje povezave do spletnih mest tretjih oseb. Če sledite povezavi do teh spletnih mest tretjih oseb, preverite njihove pravilnike o zasebnosti, piškotkih in ravnanju z njimi, preden na teh mestih posredujete osebne podatke.</p> <p>Spletno mesto ni nadomestilo za pravilnik o zasebnosti tretje osebe.
+
+<h3>Kako upravljati nastavitve glede piškotkov</h3>
+<p> Da bi zagotovili čim boljšo uporabo našega spletnega mesta, vam priporočamo, da sprejmete piškotke. Večina spletnih brskalnikov je na začetku nastavljena tako, da sprejema piškotke. Svoj brskalnik lahko kadar koli nastavite tako, da sprejme vse piškotke. Poleg tega lahko nastavite nastavitve brskalnika, da vas obvesti, kadar koli je piškotek shranjen v vašem računalniku. Upoštevajte, da lahko neveljavni piškotki preprečijo normalno in optimalno uporabo spletnega mesta.</p> <p>
+
+<h3>Zmene tega pravilnika</h3>
+<p>Ta politika se lahko sčasoma spremeni in je povezana tudi z začetkom veljavnosti novih predpisov.</p>

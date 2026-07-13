@@ -1,0 +1,20 @@
+<P> (WEBSITE_NAME) har som mål å gi den beste online opplevelse under ditt besøk på våre nettsider, noe som er grunnen til at vi bruker visse typer "cookies". </P>
+
+<H3> Hva er cookies? </H3>
+<P> Cookies er informasjonspakker som sendes av en web-server (i dette tilfellet av dette nettstedet) i nettleseren til den besøkende, lagret på sin datamaskin og sendes til serveren ved tilgang til følgende nettsted. Derfor, for full bruk av dette området, anbefaler vi deg å konfigurere nettleseren til å godta mottak av cookies. </P>
+
+<H3> Hvorfor bruker vi det? </H3>
+<P> Cookies brukes til å forenkle navigasjon i området og riktig bruk og for statistiske formål, å vite hvilke områder av nettstedet ble besøkt for å gjøre forbedringer og oppdateringer basert på bruksmønster. Cookies brukes på dette nettstedet tillater ikke kjøp av personlige identifikasjonsdata til brukerne. Brukeren kan så navigere nettstedet uten å gi fra seg personlig informasjon. </P>
+
+<H3> Type kapsler brukes </h3>
+<P> "Session Cookies" - ligger utelukkende i minnet på brukerens datamaskin og slettes når nettleseren lukkes. Anvendelsen er strengt begrenset til overføring av øktsidentifikatorer består av tilfeldige tall som genereres av serveren, er nødvendig for å tillate et område for å være sikker og effektiv. </P>
+<P> Disse cookies tillate oss å samle inn informasjon om hvilke sider besøkt av en bruker og hvordan du bruker nettstedet vårt for å forbedre navigasjon i fremtiden og finne kilden til eventuelle feilmeldinger. For eksempel å samle informasjon om hvilke sider man besøker, antall besøk, den besøkendes nettleser. </P>
+
+<H3> Kapsler tredje </h3>
+<P> Vår side kan, fra tid til annen inneholde lenker til tredjeparts nettsteder. Hvis du følger en link til disse sidene, ta kontakt med deres retningslinjer, om informasjonskapsler og hvordan de klarte før du gir personlige data på disse nettstedene. </P>
+
+<H3> Hvordan administrere innstillinger for informasjonskapsler? </H3>
+<P> For å være sikker på at du gjør det beste ut av hjemmesiden vår anbefaler vi at du godtar informasjonskapsler. De fleste nettlesere er i utgangspunktet satt til å akseptere cookies. Du kan når som helst, stille inn nettleseren til å godta alle informasjonskapsler. I tillegg kan du angi innstillinger for leseren å bli varslet når en cookie lagres på datamaskinen din. Vær oppmerksom på at funksjonshemmede cookies kan hindre normal og optimal bruk av nettstedet. </P>
+
+<H3> Endringer i policy </h3>
+<P> Disse retningslinjene kan endres over tid, og også er koblet til den trer i kraft av nye forskrifter. </P>

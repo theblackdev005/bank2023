@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Kontbedéngungen",
+	"TRAD_2" => "Andeems Dir Zougang a benotzt (WEBSITE_NAME), averstanen Dir voll an onreservéiert dës Kontbedéngungen. Liest se w.e.g. virsiichteg ier Dir e Kont erstellt an eis Servicer benotzt. Wann Dir net mat dëse Konditioune averstane sidd, benotzt w.e.g. net (WEBSITE_NAME).",
+	"TRAD_3" => "Kont Kreatioun",
+	"TRAD_4" => "Fir eis Servicer ze benotzen, musst Dir e Kont erstellen andeems Dir korrekt, aktuell a komplett Informatioun liwwert.",
+	"TRAD_5" => "Dir sidd verantwortlech fir d'Vertraulechkeet vun Äre Kontinformatiounen z'erhalen a fir Äert Passwuert ze sécheren.",
+	"TRAD_6" => "Benotzung vum Kont",
+	"TRAD_7" => "Dir sidd verantwortlech fir all Aktivitéiten ënner Ärem Kont.",
+	"TRAD_8" => "Dir averstanen (WEBSITE_NAME) nëmme fir legal Zwecker an am Aklang mat de Gesetzer a Kraaft ze benotzen.",
+	"TRAD_9" => "Dir däerft net illegal Zougang zu all Konten, Systemer oder Donnéeën kréien oder probéieren, déi net zu Iech gehéieren.",
+	"TRAD_10" => "Online Banking Servicer",
+	"TRAD_11" => "(WEBSITE_NAME) erlaabt Iech Zougang zu bestëmmte Bankeservicer ze kréien, dorënner d'Saldote kontrolléieren, Iwwerweisungen, Bezuelungen, asw.",
+	"TRAD_12" => "Mir behaalen ons d'Recht d'Servicer op (WEBSITE_NAME) ze änneren oder ze beschränken ouni Préavis.",
+	"TRAD_13" => "Sécherheet an Zougang",
+	"TRAD_14" => "Mir huelen raisonnabel Schrëtt fir d'Sécherheet vun Äre Kontinformatiounen an Transaktiounen ze schützen.",
+	"TRAD_15" => "Am Fall vun Déifstall, Verloscht oder onerlaabt Verëffentlechung vun Äre Kontinformatiounen, informéiert eis w.e.g. direkt.",
+	"TRAD_16" => "Responsabilitéit",
+	"TRAD_17" => "Dir iwwerhëlt d'ganz Verantwortung fir d'Informatioun déi Dir ubitt an d'Aktiounen ënner Ärem Kont.",
+	"TRAD_18" => "Mir wäerten net haftbar sinn fir Schuedenersaz aus der Notzung vun Äre Kontinformatioune vun Drëttpersounen.",
+	"TRAD_19" => "Käschten a Kommissiounen",
+	"TRAD_20" => "Verschidde Servicer kënne Käschten a Kommissiounen ënnerleien. Detailer vun dëse Käschten ginn an de passenden Rubriken vun der (WEBSITE_NAME) Site matgedeelt.",
+	"TRAD_21" => "Kont Kënnegung",
+	"TRAD_22" => "Dir kënnt Äre Kont zu all Moment ofschléissen andeems Dir d'Prozedur befollegt, déi op (WEBSITE_NAME) uginn ass.",
+	"TRAD_23" => "Mir behaalen ons d'Recht Äre Kont ofzeschléissen wéinst Verletzung vun dëse Kontbedéngungen oder aus all gerechtfäerdegt Grond.",
+	"TRAD_24" => "Ännerungen ze Konditiounen",
+	"TRAD_25" => "Mir kënnen dës Kontbedéngungen zu all Moment änneren. D'Ännerunge gëllen effektiv beim Post op (WEBSITE_NAME).",
+	"TRAD_26" => "Andeems Dir weider benotzt (WEBSITE_NAME) nodeems d'Ännerunge gepost sinn, averstanen Dir mat de revidéierte Kontbedéngungen.",
+	"TRAD_27" => "Kont Konditioune"
+);

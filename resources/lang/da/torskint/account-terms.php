@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Kontovilkår",
+	"TRAD_2" => "Ved at tilgå og bruge (WEBSITE_NAME) accepterer du fuldt ud og uforbeholdent disse kontovilkår. Læs dem omhyggeligt, før du opretter en konto og bruger vores tjenester. Hvis du ikke accepterer disse vilkår, skal du ikke bruge (WEBSITE_NAME).",
+	"TRAD_3" => "Kontooprettelse",
+	"TRAD_4" => "For at bruge vores tjenester skal du oprette en konto ved at give nøjagtige, aktuelle og fuldstændige oplysninger.",
+	"TRAD_5" => "Du er ansvarlig for at opretholde fortroligheden af dine kontooplysninger og for at sikre din adgangskode.",
+	"TRAD_6" => "Brug af konto",
+	"TRAD_7" => "Du er ansvarlig for alle aktiviteter, der udføres under din konto.",
+	"TRAD_8" => "Du accepterer kun at bruge (WEBSITE_NAME) til juridiske formål og i overensstemmelse med gældende love.",
+	"TRAD_9" => "Du må ikke ulovligt tilgå eller forsøge at få adgang til konti, systemer eller data, der ikke tilhører dig.",
+	"TRAD_10" => "Online banktjenester",
+	"TRAD_11" => "(WEBSITE_NAME) giver dig adgang til visse banktjenester, herunder kontrol af saldi, overførsler, betalinger osv.",
+	"TRAD_12" => "Vi forbeholder os retten til at ændre eller begrænse de tjenester, der er tilgængelige på (WEBSITE_NAME) uden varsel.",
+	"TRAD_13" => "Sikkerhed og adgang",
+	"TRAD_14" => "Vi vil tage rimelige skridt for at beskytte sikkerheden af dine kontooplysninger og transaktioner.",
+	"TRAD_15" => "I tilfælde af tyveri, tab eller uautoriseret videregivelse af dine kontooplysninger, bedes du straks underrette os.",
+	"TRAD_16" => "Ansvar",
+	"TRAD_17" => "Du påtager dig det fulde ansvar for de oplysninger, du giver, og de handlinger, der udføres under din konto.",
+	"TRAD_18" => "Vi er ikke ansvarlige for skader som følge af tredjeparters brug af dine kontooplysninger.",
+	"TRAD_19" => "Gebyrer og provisioner",
+	"TRAD_20" => "Visse tjenester kan være underlagt gebyrer og provisioner. Nærmere oplysninger om disse gebyrer vil blive kommunikeret i de relevante sektioner af (WEBSITE_NAME) webstedet.",
+	"TRAD_21" => "Kontoopsigelse",
+	"TRAD_22" => "Du kan til enhver tid lukke din konto ved at følge proceduren angivet på (WEBSITE_NAME).",
+	"TRAD_23" => "Vi forbeholder os retten til at lukke din konto for brud på disse kontovilkår eller af enhver begrundet årsag.",
+	"TRAD_24" => "Ændringer af vilkår",
+	"TRAD_25" => "Vi kan til enhver tid ændre disse kontovilkår. Ændringer træder i kraft, når de sendes til (WEBSITE_NAME).",
+	"TRAD_26" => "Ved at fortsætte med at bruge (WEBSITE_NAME), efter ændringerne er offentliggjort, accepterer du de reviderede kontovilkår.",
+	"TRAD_27" => "Kontovilkår"
+);

@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Fiók feltételei",
+	"TRAD_2" => "A(z) (WEBSITE_NAME) elérésével és használatával teljes mértékben és feltétel nélkül elfogadja a jelen fiókfeltételeket. Kérjük, figyelmesen olvassa el ezeket, mielőtt fiókot hoz létre és szolgáltatásainkat igénybe veszi. Ha nem fogadja el ezeket a feltételeket, kérjük, ne használja a (WEBSITE_NAME) webhelyet.",
+	"TRAD_3" => "Fiók létrehozása",
+	"TRAD_4" => "Szolgáltatásaink használatához pontos, aktuális és teljes körű adatok megadásával fiókot kell létrehoznia.",
+	"TRAD_5" => "Ön felelős fiókinformációinak bizalmas kezeléséért és jelszavának biztonságáért.",
+	"TRAD_6" => "Fiók használata",
+	"TRAD_7" => "Ön felelős a fiókja alatt végzett minden tevékenységért.",
+	"TRAD_8" => "Ön beleegyezik abba, hogy a (WEBSITE_NAME) webhelyet kizárólag jogi célokra és a hatályos törvényeknek megfelelően használja.",
+	"TRAD_9" => "Tilos illegálisan hozzáférni olyan fiókokhoz, rendszerekhez vagy adatokhoz, amelyek nem az Öné, vagy megkísérelni hozzáférni.",
+	"TRAD_10" => "Online banki szolgáltatások",
+	"TRAD_11" => "(WEBSITE_NAME) lehetővé teszi bizonyos banki szolgáltatások elérését, beleértve az egyenlegek ellenőrzését, átutalásokat, fizetéseket stb.",
+	"TRAD_12" => "Fenntartjuk a jogot a (WEBSITE_NAME) oldalon elérhető szolgáltatások előzetes értesítés nélküli módosítására vagy korlátozására.",
+	"TRAD_13" => "Biztonság és hozzáférés",
+	"TRAD_14" => "Ésszerű lépéseket teszünk számlainformációi és tranzakciói biztonságának védelme érdekében.",
+	"TRAD_15" => "Fiókadatainak ellopása, elvesztése vagy jogosulatlan nyilvánosságra hozatala esetén kérjük, haladéktalanul értesítsen bennünket.",
+	"TRAD_16" => "Felelősség",
+	"TRAD_17" => "Ön vállalja a teljes felelősséget az Ön által megadott információkért és a fiókja alatt végzett tevékenységekért.",
+	"TRAD_18" => "Nem vállalunk felelősséget olyan károkért, amelyek abból erednek, hogy fiókadatait harmadik felek használták fel.",
+	"TRAD_19" => "Díjak és jutalékok",
+	"TRAD_20" => "Egyes szolgáltatások díjkötelesek és jutalékkötelesek lehetnek. A díjak részleteit a (WEBSITE_NAME) webhely megfelelő részein közöljük.",
+	"TRAD_21" => "Fiók megszüntetése",
+	"TRAD_22" => "Fiókját bármikor megszüntetheti a (WEBSITE_NAME) oldalon leírt eljárás szerint.",
+	"TRAD_23" => "Fenntartjuk magunknak a jogot arra, hogy fiókját a jelen Fiókfeltételek megsértése vagy bármely indokolt okból megszüntetjük.",
+	"TRAD_24" => "Változások a feltételekben",
+	"TRAD_25" => "Ezeket a fiókfeltételeket bármikor módosíthatjuk. A módosítások a (WEBSITE_NAME) webhelyen való közzétételkor lépnek életbe.",
+	"TRAD_26" => "Ha a módosítások közzététele után folytatja a (WEBSITE_NAME) használatát, elfogadja a felülvizsgált fiókfeltételeket.",
+	"TRAD_27" => "Fiók feltételei"
+);

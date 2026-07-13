@@ -1,0 +1,112 @@
+<h2>Definíciók</h2>
+<p>
+<b>Ügyfél:</b> minden olyan szakmai vagy természetes személy, aki a Polgári Törvénykönyv következő cikkelyei értelmében alkalmas, illetve jogi személy, aki az oldalt jelen általános feltételek szerint látogatja.<br>
+<b>Előnyök és szolgáltatások:</b> (WEBSITE_URL) a következőket nyújtja Ügyfeleinek:
+</p>
+<p><b>Tartalom:</b> A Webhelyen található információ összes alkotóeleme, különösen a szövegek – képek – videók.</p>
+<p><b>Ügyfélinformáció:</b> A továbbiakban: „Információ”, amely megfelel minden olyan személyes adatnak, amelyet a (WEBSITE_NAME) valószínűleg tárol az Ön fiókja kezelése, az ügyfél kezelése és az elemzési célok érdekében. és statisztikai célokra.</p>
+<p><b>Felhasználó:</b> Internet-felhasználó csatlakozik a fent megnevezett webhely használatával.</p>
+<p><b>Személyes információ:</b> „Információ, amely bármilyen formában, közvetlenül vagy közvetve lehetővé teszi azon természetes személyek azonosítását, akikre vonatkozik”.</p>
+<p>A „személyes adat”, „érintett”, „alvállalkozó” és „érzékeny adat” kifejezések jelentése az Általános adatvédelmi rendeletben (RGPD: 2016-679. sz.) meghatározott.</p>
+
+<h2>1. A weboldal bemutatása.</h2>
+<p>A digitális gazdaságba vetett bizalomról szóló, 2004. június 21-i 2004-575. számú törvény 6. cikke értelmében a webhely (WEBSITE_URL) felhasználói tájékoztatást kapnak a különböző érdekelt felek személyazonosságáról a végrehajtás és a nyomon követés keretében: </p>
+<p>
+<b>Tulajdonos</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Kiadókezelő</b>: (AUTHOR_NAME)<br>
+<b>Webmester</b>: (WEBMASTER_NAME)<br>
+<b>Adatvédelmi tisztviselő</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. Az oldal használatának általános feltételei és a kínált szolgáltatások.</h2>
+<p>A Webhely szellemi alkotás, amelyet a Szellemi Tulajdon Szabályzata és a vonatkozó nemzetközi szabályozások védenek. Az Ügyfél semmilyen módon nem használhatja újra, nem ruházhatja át vagy nem hasznosíthatja saját számlájára az Oldal elemeit vagy műveit vagy azok egy részét.</p>
+<p>A webhely (WEBSITE_NAME) használata az alábbiakban ismertetett általános használati feltételek teljes körű elfogadását jelenti. Ezek a felhasználási feltételek bármikor módosíthatók vagy kiegészíthetők, ezért a webhely (WEBSITE_NAME) felhasználói rendszeresen tájékozódjanak róluk.</p>
+<p>Ez a webhely általában bármikor elérhető a felhasználók számára. A műszaki karbantartás miatti megszakításról azonban a (WEBSITE_NAME) dönthet, és igyekszik kommunikálni a felhasználókkal a beavatkozás dátumai és időpontja előtt. A jogi közlemények bármikor módosíthatók, mindazonáltal kötelező érvényűek a felhasználóra nézve, aki a lehető leggyakrabban hivatkozik rájuk, hogy megismerje azokat.</p>
+
+<h2>3. A nyújtott szolgáltatások leírása.</h2>
+<p>A webhely (WEBSITE_NAME) célja, hogy információkat nyújtson a vállalat összes tevékenységéről. (WEBSITE_NAME) arra törekszik, hogy a lehető legpontosabb információkat nyújtson. Mindazonáltal nem tehető felelőssé a frissítés hiányosságaiért, pontatlanságaiért és hiányosságaiért, akár saját maga, akár az információkat átadó harmadik fél partnerei miatt.</p>
+<p>A webhelyen (WEBSITE_NAME) feltüntetett összes információ csak tájékoztató jellegű, és változhat. Ezenkívül a webhelyen (WEBSITE_NAME) található információk nem teljes körűek. Az online megjelenésük óta végrehajtott módosítások jogát fenntartjuk.</p>
+
+<h2>4. A műszaki adatokra vonatkozó szerződéses korlátozások.</h2>
+<p>A webhely JavaScript technológiát használ. Az oldal használatával kapcsolatos anyagi károkért a weboldal felelősséget nem vállal. Ezen túlmenően, az oldal használója beleegyezik abba, hogy az oldalt a legújabb, vírusmentes eszközökkel és frissített legújabb generációs böngészővel éri el. A webhelyet (WEBSITE_NAME) egy szolgáltató üzemelteti az Európai Unió területén az Általános Adatvédelmi Szabályzat (RGPD: n° 2016-679) rendelkezéseinek megfelelően.</p>
+<p>A cél olyan szolgáltatás nyújtása, amely a legjobb hozzáférhetőséget biztosítja. A házigazda a nap 24 órájában, az év minden napján biztosítja szolgáltatásának folyamatosságát. Mindazonáltal fenntartja magának a jogot, hogy a lehető legrövidebb időre megszakítsa a hosting szolgáltatást, különösen karbantartás, infrastruktúrájának fejlesztése, infrastruktúráinak meghibásodása, vagy ha a Szolgáltatások és Szolgáltatások rendellenesnek ítélt forgalmat generálnak.</p>
+<p>(WEBSITE_NAME) és a gazdagép nem tehető felelőssé az internethálózat, a telefonvonalak vagy a számítógépes és telefonkészülékek meghibásodása esetén, amelyek különösen a szerverhez való hozzáférést megakadályozó hálózati torlódásokhoz kapcsolódnak.</p>
+
+<h2>5. Szellemi tulajdon és hamisítványok.</h2>
+<p>(WEBSITE_NAME) a szellemi tulajdonjogok tulajdonosa, és birtokolja a webhelyen elérhető összes elem, különösen a szövegek, képek, grafikák, logók, videók, ikonok és hangok használati jogait. A webhely elemeinek vagy azok egy részének bármilyen sokszorosítása, megjelenítése, módosítása, közzététele, adaptálása, bármilyen eszközről vagy eljárásról is legyen szó, tilos, kivéve a (WEBSITE_NAME) előzetes írásbeli engedélyével.</p>
+<p>A webhely vagy az abban található elemek bármely jogosulatlan használata jogsértésnek minősül, és a Szellemi Tulajdonról szóló kódex L.335-2. cikkének és az azt követő cikkek rendelkezéseinek megfelelően büntetőeljárás indul.</p>
+
+<h2>6. A felelősség korlátozása.</h2>
+<p>(WEBSITE_NAME) a webhely kiadójaként működik. (WEBSITE_NAME) felelős az általa közzétett Tartalom minőségéért és valódiságáért.</p>
+<p>(WEBSITE_NAME) nem tehető felelőssé a felhasználó berendezésében a webhely (WEBSITE_NAME) elérésekor okozott közvetlen vagy közvetett károkért, amelyek vagy a 4. pontban megjelölt előírásoknak nem megfelelő berendezés használatából erednek, vagy hiba vagy inkompatibilitás megjelenése.</p>
+A <p>(WEBSITE_NAME) nem tehető felelőssé a webhely (WEBSITE_URL) használatából eredő következményes károkért (például piacvesztés vagy lehetőségvesztés). A felhasználók rendelkezésére állnak az interaktív terek (a kapcsolati térben kérdések feltevésének lehetősége). (WEBSITE_URL) fenntartja a jogot, hogy előzetes értesítés nélkül töröljön minden olyan ezen a területen közzétett tartalmat, amely sértené az Európai Unió hatályos jogszabályait, különös tekintettel az adatvédelemre vonatkozó rendelkezésekre. Adott esetben (WEBSITE_URL) fenntartja a jogot a felhasználó polgári és/vagy büntetőjogi felelősségének megkérdőjelezésére, különösen rasszista, sértő, rágalmazó vagy pornográf üzenet esetén, függetlenül a használt médiától. (szöveg,
+
+<h2>7. Személyes adatok kezelése.</h2>
+<p>Az Ügyfél tájékoztatást kap a marketingkommunikációra vonatkozó szabályozásról, a digitális gazdaságba vetett bizalomról szóló 2014. június 21-i törvényről, a 2004. augusztus 6-i adatvédelmi törvényről, valamint az Általános Adatvédelmi Szabályzatról (RGPD: No. 2016-679). </p>
+
+<h3>7.1 A személyes adatok gyűjtéséért felelős személyek</h3>
+<p>A Felhasználó személyes fiókjának létrehozása és a webhelyen való navigáció során gyűjtött Személyes adatok esetében a Személyes adatok feldolgozásáért felelős személy: (WEBSITE_NAME).</p>
+<p>Az általa gyűjtött adatok feldolgozásáért felelősként (WEBSITE_URL) vállalja, hogy betartja a hatályos jogi rendelkezéseket. Az Ügyfél feladata különösen, hogy meghatározza adatkezelésének célját, a hozzájárulások begyűjtésétől kezdve a leendő és ügyfelei számára teljes körű tájékoztatást adjon személyes adatainak kezeléséről, valamint a kezelésekről következetes nyilvántartást vezet. valósággal. Amikor (WEBSITE_URL) személyes adatokat dolgoz fel, (WEBSITE_URL) minden ésszerű lépést megtesz annak érdekében, hogy biztosítsa a személyes adatok pontosságát és relevanciáját azon célok tekintetében, amelyekből (WEBSITE_URL) azokat feldolgozza.</p>
+
+<h3>7.2 A gyűjtött adatok célja</h3>
+<p>(WEBSITE_URL) feldolgozhatja az adatokat vagy azok egy részét:</p>
+<ul>
+<li>az Oldalon való navigáció, valamint a felhasználó által megrendelt szolgáltatások kezelésének és nyomon követhetőségének lehetővé tétele: az Oldalhoz való kapcsolódási és használati adatok, számlázás, rendelési előzmények stb. </li>
+<li>a számítógépes csalások (spamm, hackelés stb.) megelőzésére és leküzdésére: böngészéshez használt számítógépes berendezések, IP-cím, jelszó (kivonat) </li>
+<li>a webhelyen való navigáció javítása érdekében: kapcsolati és használati adatok </li>
+<li>opcionális elégedettségi felmérések elvégzéséhez a (WEBSITE_URL): e-mail címen </li>
+<li>kommunikációs kampányok lebonyolítására (sms, email): telefonszám, email cím</li>
+</ul>
+<p>(WEBSITE_URL) nem forgalmazza az Ön személyes adatait, ezért csak szükségből, illetve statisztikai és elemzési célokra használjuk fel.</p>
+
+<h3>7.3 Hozzáférési, helyesbítési és felszólalási jog</h3>
+<p>A jelenlegi európai szabályozásnak megfelelően a (WEBSITE_URL) felhasználói a következő jogokkal rendelkeznek: </p>
+<ul>
+<li>hozzáférési jog (GDPR 15. cikk) és helyesbítés (GDPR 16. cikk), a Felhasználói adatok frissítése, teljessége joga a személyes Felhasználói adatok zárolására vagy törlésére (GDPR 17. cikk), ha azok pontatlanok, hiányosak, félreérthetőek , elavult, vagy amelynek gyűjtése, felhasználása, kommunikációja vagy tárolása tilos </li>
+<li>jog a hozzájárulás bármikor visszavonásához (GDPR 13-2c. cikk) </li>
+<li>jog a Felhasználói adatok feldolgozásának korlátozásához (GDPR 18. cikk) </li>
+<li>a Felhasználói adatok feldolgozása elleni tiltakozás joga (GDPR 21. cikk) </li>
+<li>jog a Felhasználók által megadott adatok hordozhatóságához, ha ezek az adatok a hozzájárulásuk vagy szerződés alapján automatizált feldolgozás tárgyát képezik (GDPR 20. cikk) </li>
+<li>joga van meghatározni a Felhasználói adatok halálát követő sorsát, és megválasztani, hogy (WEBSITE_URL) kinek kell továbbítania (vagy nem) adatait az általa korábban megjelölt harmadik félnek.</li>
+</ul>
+<p>Amint (WEBSITE_URL) tudomást szerez egy Felhasználó haláláról, és utasítás hiányában (WEBSITE_URL) vállalja, hogy megsemmisíti adatait, kivéve, ha azok megőrzése bizonyító erejű vagy jogi kötelezettség teljesítése miatt szükséges. </p>
+<p>Ha a Felhasználó meg szeretné tudni, hogy (WEBSITE_URL) hogyan használja fel személyes adatait, helyesbítését kéri, vagy tiltakozik a kezelésük ellen, a (WEBSITE_URL) címmel írásban fordulhat a következő címen: (WEBSITE_ADDRESS). </p>
+<p>Ebben az esetben a Felhasználónak meg kell jelölnie, hogy mely Személyes Adatait (WEBSITE_URL) szeretné javítani, frissíteni vagy törölni, személyazonosító okmány (igazolvány vagy útlevél) másolatával pontosan azonosítva magát. </p>
+<p>A személyes adatok törlésére irányuló kérelmekre a (WEBSITE_URL) törvény által előírt kötelezettségek vonatkoznak, különös tekintettel a dokumentumok megőrzésére vagy archiválására.</p>
+
+<h3>7.4 A személyes adatok nyilvánosságra hozatalának tilalma</h3>
+<p>(WEBSITE_URL) tilos az Ügyfeleiről gyűjtött Információk feldolgozása, tárolása vagy továbbítása az Európai Unión kívüli vagy az Európai Bizottság által "alkalmatlannak" minősített országba az ügyfél előzetes tájékoztatása nélkül. Mindazonáltal (WEBSITE_URL) továbbra is szabadon választhatja meg műszaki és kereskedelmi alvállalkozóit, feltéve, hogy megfelelő garanciát vállalnak az Általános Adatvédelmi Szabályzat (RGPD: n° 2016-679) követelményei tekintetében. </p>
+<p>(WEBSITE_URL) vállalja, hogy minden szükséges óvintézkedést megtesz az Információ biztonságának megőrzése érdekében, és különösen azért, hogy azokat illetéktelen személyekkel ne közöljék. Ha azonban a (WEBSITE_URL) az Ügyfél adatainak sértetlenségét vagy bizalmasságát érintő incidensre hívják fel a figyelmet, az utóbbinak a lehető leghamarabb tájékoztatnia kell az Ügyfelet, és tájékoztatnia kell a megtett korrekciós intézkedésekről. Továbbá (WEBSITE_URL) nem gyűjt semmilyen "érzékeny adatot".</p>
+<p>A Felhasználó személyes adatait a (WEBSITE_URL) leányvállalatai és alvállalkozói (szolgáltatók) kezelhetik, kizárólag a jelen szabályzat céljainak elérése érdekében.</p>
+<p>A saját forrásaik korlátain belül és a fent említett célok érdekében a (WEBSITE_URL) felhasználói adataihoz valószínűleg főként ügyfélszolgálati munkatársaink férhetnek hozzá.</p>
+
+<h2>8. Eseményértesítés</h2>
+<p>Bármennyire is próbálkozik, az interneten keresztüli átvitel és az elektronikus tárolás egyik módja sem teljesen biztonságos. Ezért nem tudjuk garantálni az abszolút biztonságot. Ha tudomásunkra jut egy biztonsági megsértés, értesítjük az érintett felhasználókat, hogy megtehessék a megfelelő lépéseket. Az incidens bejelentési eljárásaink figyelembe veszik jogi kötelezettségeinket, akár nemzeti, akár európai szinten. Elkötelezettek vagyunk aziránt, hogy ügyfeleinket teljes körűen tájékoztassuk a fiókjuk biztonságával kapcsolatos minden kérdésről, és minden olyan információt megadjunk nekik, amely ahhoz szükséges, hogy eleget tudjanak tenni saját jogszabályi jelentési kötelezettségeiknek.</p>
+<p>A webhely felhasználóinak (WEBSITE_URL) semmilyen személyes adatait nem teszik közzé a felhasználó tudta nélkül, nem cserélik ki, adják át, adják át vagy adják el semmilyen adathordozón harmadik feleknek. Csak a (WEBSITE_URL) és jogai visszaváltásának hipotézise teszi lehetővé az említett információk továbbítását a leendő vásárlóhoz, akit viszont ugyanaz az adattárolási és -módosítási kötelezettség terhelne a weboldal felhasználójával szemben (WEBSITE_URL).</p>
+
+<h3>Biztonság</h3>
+<p>A személyes adatok és a személyes egészségügyi adatok biztonságának és titkosságának biztosítása érdekében a (WEBSITE_URL) szabványos eszközökkel, például tűzfalakkal, álnevesítéssel, titkosítással és jelszavakkal védett hálózatokat használ.</p>
+<p>A személyes adatok feldolgozása során (WEBSITE_URL) minden ésszerű intézkedést megtesz annak érdekében, hogy megvédje azokat az elvesztés, visszaélés, jogosulatlan hozzáférés, nyilvánosságra hozatal, megváltoztatás vagy megsemmisítés ellen.</p>
+
+<h2>9. Hiperszöveg „cookie-kat” és internetes címkéket („címkéket”) tartalmaz</h2>
+<p>A webhely (WEBSITE_URL) bizonyos számú hiperszöveges hivatkozást tartalmaz más webhelyekre, amelyek a (WEBSITE_URL) engedélyével vannak beállítva. A (WEBSITE_URL) azonban nem tudja ellenőrizni az így felkeresett webhelyek tartalmát, ezért nem vállal felelősséget ezért a tényért.</p>
+<p>Hacsak nem dönt a cookie-k letiltása mellett, beleegyezik, hogy a webhely használhatja azokat. Ezeket a sütiket bármikor ingyenesen deaktiválhatja az Önnek felkínált és alább felidézett deaktiválási lehetőségekkel, tudván, hogy ez csökkentheti vagy megakadályozhatja az oldal által kínált Szolgáltatások egészéhez vagy egy részéhez való hozzáférést.</p>
+
+<h3>9.1. COOKIE-k használata</h3>
+<p>A „cookie” egy kis információs fájl, amelyet a Felhasználó böngészője elküld, és a Felhasználó terminálján (pl. számítógép, okostelefon) tárolódik (a továbbiakban „Cookie-k”). Ez a fájl olyan információkat tartalmaz, mint a Felhasználó domain neve, a Felhasználó internet-hozzáférési szolgáltatója, a Felhasználó operációs rendszere, valamint a hozzáférés dátuma és időpontja. A cookie-k semmilyen módon nem veszélyeztetik a Felhasználó terminálját.</p>
+A <p>(WEBSITE_URL) valószínűleg feldolgozza a Felhasználó webhelylátogatásával kapcsolatos információkat, például a megtekintett oldalakat, az elvégzett kereséseket. Ez az információ lehetővé teszi (WEBSITE_URL) a Webhely tartalmának, a Felhasználó navigációjának javítását.</p>
+<p>A navigációt és/vagy a Weboldal által kínált szolgáltatások nyújtását elősegítő cookie-k, a Felhasználó beállíthatja böngészőjét úgy, hogy eldöntse, el kívánja-e fogadni azokat, így a cookie-k rögzítésre kerülnek a terminálon, vagy éppen ellenkezőleg. , azokat szisztematikusan vagy kibocsátójuk szerint elutasítják. A Felhasználó beállíthatja böngészőszoftverét úgy is, hogy időről időre felajánlja neki a Cookie-k elfogadását vagy elutasítását, mielőtt a Cookie valószínűleg elmentésre kerülne a terminálján. (WEBSITE_URL) tájékoztatja a Felhasználót, hogy ebben az esetben előfordulhat, hogy a navigációs szoftverének összes funkciója nem érhető el.</p>
+<p> Ha a Felhasználó megtagadja a Cookie-k regisztrációját termináljában vagy böngészőjében, vagy ha a Felhasználó törli az ott regisztrált sütiket, a Felhasználót tájékoztatjuk, hogy a navigációja és az Oldalon szerzett élménye korlátozott lehet. Ez akkor is előfordulhat, ha a (WEBSITE_URL) vagy valamelyik szolgáltatója technikai kompatibilitási okokból nem tudja felismerni a terminál által használt böngésző típusát, a nyelvi és megjelenítési beállításokat, illetve azt az országot, ahonnan a terminál a jelek szerint csatlakozik. az interneten.</p>
+<p>Adott esetben (WEBSITE_URL) elhárít minden felelősséget a webhely romlott működéséhez és a (WEBSITE_URL) által esetlegesen kínált szolgáltatásokhoz kapcsolódó következményekért, amelyek (i) abból erednek, hogy a Felhasználó megtagadja a cookie-k használatát (ii) a (WEBSITE_URL) számára a működésükhöz szükséges Cookie-k elmentése vagy lekérdezése a Felhasználó választása miatt lehetetlen. A cookie-k és a felhasználói választások kezeléséhez az egyes böngészők konfigurációja eltérő. A böngésző súgó menüjében van leírva, amely lehetővé teszi, hogy megtudja, hogyan módosíthatja a Felhasználó a cookie-kkal kapcsolatos kívánságait.</p>
+<p>A Felhasználó bármikor dönthet úgy, hogy kifejezi és módosítja kívánságát a cookie-k tekintetében. (WEBSITE_URL) külső szolgáltatók szolgáltatásait is igénybe veheti az ebben a szakaszban leírt információk összegyűjtésére és feldolgozására.</p>
+<p>Végül a (WEBSITE_URL) webhelyén vagy annak mobilalkalmazásában megjelenő Twitter, Facebook, Linkedin és Google Plus közösségi hálózatok ikonjaira kattintva, és ha a Felhasználó a böngészés folytatásával elfogadta a cookie-k letétbe helyezését a Weboldalon vagy a (WEBSITE_URL) mobilalkalmazásában a Twitter, a Facebook, a Linkedin és a Google Plus cookie-kat is elhelyezhet az Ön eszközein (számítógépen, táblagépen, mobiltelefonon).</p>
+<p>Az ilyen típusú cookie-k csak akkor helyezkednek el a terminálokon, ha Ön beleegyezik abba, ha folytatja a böngészést a webhelyen vagy a (WEBSITE_URL) mobilalkalmazásában. A Felhasználó ennek ellenére bármikor visszavonhatja hozzájárulását az ilyen típusú cookie elhelyezéséhez (WEBSITE_URL).</p>
+
+<h3>9.2. szakasz. INTERNETES CÍMKÉK</h3>
+<p>A (WEBSITE_URL) időnként webjelzőket használhat, és egy olyan webelemző partneren keresztül telepítheti őket, amely esetleg egy külföldi országban található (és ezáltal kapcsolódó információkat tárolhat, beleértve a Felhasználó IP-címét is).</p>
+<p>Ezek a címkék mind az internetes hirdetésekben, mind a webhely különböző oldalain el vannak helyezve, amelyek lehetővé teszik az internetfelhasználók számára a webhely elérését. </p>
+<p>Ez a technológia lehetővé teszi (WEBSITE_URL) a látogatóknak a Webhelyre adott válaszainak és tevékenységeinek hatékonyságának (például egy oldal megnyitásának és megtekintésének számát), valamint a webhely használatának értékelését. a felhasználó. </p>
+<p>A külső szolgáltató ezen címkék használatával információkat gyűjthet a Webhely és más internetes oldalak látogatóiról, jelentéseket készíthet a webhely tevékenységéről a (WEBSITE_URL) figyelmébe, és egyéb szolgáltatásokat nyújthat a webhely és az internet használatával kapcsolatban. </p>
+
+<h2>10. Az alkalmazandó jog és a joghatóság megjelölése.</h2>
+<p>A webhely (WEBSITE_URL) használatával kapcsolatos bármely vitára a büntetőjog vonatkozik. Azon esetek kivételével, amikor a törvény ezt nem teszi lehetővé, kizárólagos joghatóságot az illetékes bíróságok biztosítanak.</p>

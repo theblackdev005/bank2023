@@ -1,0 +1,30 @@
+<?php
+
+return [
+	"TRAD_1" => "Conditions Générales d'Utilisation.",
+	
+	"TRAD_2" => "Bienvenue sur le site de (WEBSITE_NAME). Veuillez lire attentivement les présentes Conditions Générales d'Utilisation avant d'utiliser notre site Web et nos services. En accédant ou en utilisant notre site, vous acceptez les présentes CGU dans leur intégralité. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser notre site.",
+	"TRAD_3" => "Acceptation des CGU",
+	"TRAD_4" => "En accédant à notre site ou en utilisant nos services, vous acceptez de respecter les présentes CGU, ainsi que toutes les lois et réglementations applicables. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser notre site.",
+	"TRAD_5" => "Utilisation du Site",
+	"TRAD_6" => "Le contenu de ce site est fourni à titre informatif uniquement et ne constitue pas des conseils financiers, juridiques ou fiscaux. Vous êtes seul responsable de l'utilisation des informations fournies sur ce site.",
+	"TRAD_7" => "Vous acceptez de ne pas utiliser ce site à des fins illégales ou interdites.",
+	"TRAD_8" => "Vous vous engagez à ne pas perturber, endommager ou accéder illégalement à notre site, à nos serveurs ou à tout réseau connecté à notre site.",
+	"TRAD_9" => "Comptes d'Utilisateur",
+	"TRAD_10" => "Pour accéder à certains services ou fonctionnalités de notre site, vous pourriez devoir créer un compte utilisateur. Vous êtes responsable de maintenir la confidentialité de vos informations d'identification et de restreindre l'accès à votre compte.",
+	"TRAD_11" => "Vous êtes responsable de toutes les activités qui ont lieu sous votre compte d'utilisateur.",
+	"TRAD_12" => "Si vous pensez qu'une utilisation non autorisée de votre compte s'est produite, veuillez nous en informer immédiatement.",
+	"TRAD_13" => "Propriété Intellectuelle",
+	"TRAD_14" => "Le contenu de ce site, y compris les textes, images, logos, marques de commerce et autres éléments, est protégé par des droits d'auteur et d'autres lois sur la propriété intellectuelle.",
+	"TRAD_15" => "Vous n'êtes pas autorisé à reproduire, distribuer ou modifier le contenu de ce site sans notre consentement écrit préalable.",
+	"TRAD_16" => "Liens vers des Sites Tiers",
+	"TRAD_17" => "Notre site peut contenir des liens vers des sites Web de tiers. Nous ne contrôlons pas ces sites et n'assumons aucune responsabilité quant à leur contenu ou à leurs pratiques en matière de confidentialité.",
+	"TRAD_18" => "L'inclusion de liens vers des sites tiers ne constitue pas une approbation de leur contenu.",
+	"TRAD_19" => "Limitation de Responsabilité",
+	"TRAD_20" => "Nous nous efforçons de maintenir des informations précises et à jour sur notre site, mais nous ne pouvons garantir l'exactitude, l'exhaustivité ou la pertinence des informations fournies.",
+	"TRAD_21" => "Nous déclinons toute responsabilité en cas de perte, de dommage ou de préjudice causé par l'utilisation de notre site ou de son contenu.",
+	"TRAD_22" => "Modification des CGU",
+	"TRAD_23" => "Nous nous réservons le droit de modifier les présentes CGU à tout moment et sans préavis. Les modifications prendront effet dès leur publication sur notre site. Il est de votre responsabilité de consulter régulièrement les CGU pour être informé de toute mise à jour.",
+	"TRAD_24" => "Droit Applicable",
+	"TRAD_25" => "Les présentes CGU sont régies par les lois [insérer le pays ou la juridiction] et tout litige découlant de ces conditions sera soumis à la compétence exclusive des tribunaux de [insérer la ville et le pays].",
+];

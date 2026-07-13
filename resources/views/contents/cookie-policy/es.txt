@@ -1,0 +1,20 @@
+<P> (WEBSITE_NAME) tiene como objetivo proporcionar la mejor experiencia en línea durante su visita a nuestra página web, por lo que utilizamos ciertos tipos de "cookies". </P>
+
+<H3> ¿Qué son las cookies? </H3>
+<P> Las cookies son paquetes de información enviados por un servidor web (en este caso, por este sitio) en el navegador de Internet del visitante, almacenados en su ordenador y se envían al servidor cuando se accede a la siguiente página web. Por lo tanto, para el pleno uso de este sitio, se recomienda configurar el navegador para aceptar la recepción de cookies. </P>
+
+<H3> ¿Por qué la usamos? </H3>
+<P> Las cookies se utilizan para facilitar la navegación dentro del sitio y el uso correcto y con fines estadísticos, para saber qué áreas del sitio fueron visitadas para hacer mejoras y actualizaciones en función de los patrones de uso. Las cookies utilizadas en este sitio no permiten la adquisición de datos de identificación personal de los usuarios. El usuario puede navegar por el sitio sin revelar información personal. </P>
+
+<H3> Tipo de cookies utilizado </h3>
+<P> Las "cookies de sesión" - se encuentra exclusivamente en la memoria de la computadora del usuario y se elimina una vez se cierra el navegador. El uso está estrictamente limitado a la transmisión de identificadores de sesión consisten de números aleatorios generados por el servidor, es necesario para permitir que un sitio sea seguro y eficaz. </P>
+<P> Estas cookies nos permiten recopilar información anónima sobre las páginas visitadas por un usuario y cómo se utiliza nuestro sitio para mejorar la navegación en el futuro y determinar el origen de los posibles mensajes de error. Por ejemplo, la recopilación de información sobre las páginas visitadas, el número de visitas, el navegador del usuario. </P>
+
+<H3> Galletas terceros </h3>
+<P> Nuestro sitio puede, de vez en cuando contener enlaces a sitios web de terceros. Si sigue un enlace a estos sitios, por favor consulte a su política de privacidad, sobre las cookies y cómo se administran antes de proporcionar datos personales en estos sitios. </P>
+
+<H3> Cómo administrar la configuración de las cookies? </H3>
+<P> Para asegurarse de que usted hace el mejor uso de nuestro sitio web, le recomendamos que acepte cookies. La mayoría de los navegadores de Internet están configurados para aceptar cookies. Se puede, en cualquier momento, configurar su navegador para aceptar todas las cookies. Además, se puede establecer preferencias para el navegador para ser avisado cada vez que una cookie se almacena en el ordenador. Tenga en cuenta que las galletas con discapacidad pueden impedir la normal utilización óptima del sitio. </P>
+
+<H3> Cambios en esta política </h3>
+<P> Esta política puede cambiar con el tiempo y también está vinculada a la entrada en vigor de la nueva normativa. </P>

@@ -1,0 +1,20 @@
+<p>(WEBSITE_NAME) vise à fournir la meilleure expérience en ligne au cours de votre visite sur notre site, c'est pourquoi nous utilisons certains types de "cookies".</p>
+
+<h3>Que sont les cookies?</h3>
+<p>Les cookies sont des paquets d'information envoyés par un serveur Web (dans ce cas, par ce site) au navigateur Internet du visiteur, stockée sur son ordinateur et envoyées au serveur à chaque accès au site suivant. Par conséquent, pour l'utilisation complète de ce site, il vous est conseillé de configurer le navigateur pour qu'il accepte la réception de cookies.</p>
+
+<h3>Pourquoi nous les utilisons?</h3>
+<p>Les cookies sont utilisés pour faciliter la navigation dans le site et l'utilisation correcte et à des fins statistiques, pour savoir quelles zones du site ont été visitées pour apporter des améliorations et mises à jour basées sur les habitudes d'utilisation. Les cookies utilisés sur ce site ne permettent pas l'acquisition des données d'identification personnelles des utilisateurs. L'utilisateur peut alors naviguer sur le site sans divulguer ses informations personnelles.</p>
+
+<h3>Type de cookies utilisé</h3>
+<p>«Cookies de session» - réside exclusivement dans la mémoire de l'ordinateur de l'utilisateur et est effacé une fois que le navigateur est fermé. L'utilisation est strictement limitée à la transmission des identifiants de session, constitués de nombres aléatoires générés par le serveur, nécessaires pour permettre à un site d'être sécuritaire et efficace.</p>
+<p>Ces cookies nous permettent de recueillir des informations anonymes sur les pages visitées par un utilisateur et la façon dont vous utilisez notre site afin d'améliorer la navigation dans l'avenir et de déterminer la source des messages d'erreur possibles. Par exemple, recueillir des informations sur les pages visitées, le nombre de visites, le navigateur du visiteur.</p>
+
+<h3>Cookies des tiers</h3>
+<p>Notre site peut, de temps à autre, contenir des liens vers des sites Internet tiers. Si vous suivez un lien vers ces sites tiers, s'il vous plaît consulter leurs politiques de confidentialité, sur les cookies et la façon dont ils sont gérés avant de fournir des données personnelles sur ces sites.</p>
+
+<h3>Comment gérer les paramètres concernant les cookies?</h3>
+<p>Pour vous assurer que vous faites le meilleur usage de notre site web, nous vous recommandons d'accepter les cookies. La plupart des navigateurs Internet sont initialement configurés pour accepter les cookies. Vous pouvez, à tout moment, configurer votre navigateur pour accepter tous les cookies. En outre, vous pouvez définir des préférences pour le navigateur pour être averti chaque fois qu'un cookies est stocké sur votre ordinateur. S'il vous plaît noter que les cookies invalides peuvent empêcher l'utilisation normale et optimale du site.</p>
+
+<h3>Changements à cette politique</h3>
+<p>Cette politique peut changer au fil du temps et est également lié à l'entrée en vigueur de nouvelles réglementations.</p>

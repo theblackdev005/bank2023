@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Uvjeti računa",
+	"TRAD_2" => "Pristupanjem i korištenjem (WEBSITE_NAME), u potpunosti i bezrezervno pristajete na ove Uvjete računa. Pažljivo ih pročitajte prije kreiranja računa i korištenja naših usluga. Ako se ne slažete s ovim uvjetima, nemojte koristiti (WEBSITE_NAME).",
+	"TRAD_3" => "Izrada računa",
+	"TRAD_4" => "Da biste koristili naše usluge, morate kreirati račun dajući točne, aktualne i potpune podatke.",
+	"TRAD_5" => "Vi ste odgovorni za održavanje povjerljivosti podataka o svom računu i za zaštitu svoje lozinke.",
+	"TRAD_6" => "Korištenje računa",
+	"TRAD_7" => "Vi ste odgovorni za sve aktivnosti koje se izvode pod vašim računom.",
+	"TRAD_8" => "Suglasni ste s korištenjem (WEBSITE_NAME) samo u pravne svrhe iu skladu s važećim zakonima.",
+	"TRAD_9" => "Ne smijete ilegalno pristupiti niti pokušati pristupiti bilo kojem računu, sustavu ili podacima koji vam ne pripadaju.",
+	"TRAD_10" => "Usluge internetskog bankarstva",
+	"TRAD_11" => "(WEBSITE_NAME) omogućit će vam pristup određenim bankarskim uslugama, uključujući provjeru stanja, prijenose, plaćanja itd.",
+	"TRAD_12" => "Zadržavamo pravo izmjene ili ograničenja usluga dostupnih na (WEBSITE_NAME) bez prethodne obavijesti.",
+	"TRAD_13" => "Sigurnost i pristup",
+	"TRAD_14" => "Poduzet ćemo razumne korake kako bismo zaštitili sigurnost podataka o vašem računu i transakcija.",
+	"TRAD_15" => "U slučaju krađe, gubitka ili neovlaštenog otkrivanja podataka o vašem računu, odmah nas obavijestite.",
+	"TRAD_16" => "Odgovornost",
+	"TRAD_17" => "Preuzimate punu odgovornost za podatke koje dajete i radnje poduzete pod vašim računom.",
+	"TRAD_18" => "Nećemo biti odgovorni za bilo kakvu štetu nastalu korištenjem podataka vašeg računa od strane trećih strana.",
+	"TRAD_19" => "Naknade i provizije",
+	"TRAD_20" => "Određene usluge mogu podlijegati naknadama i provizijama. Pojedinosti o ovim naknadama bit će objavljene u odgovarajućim odjeljcima web stranice (WEBSITE_NAME).",
+	"TRAD_21" => "Ukidanje računa",
+	"TRAD_22" => "Svoj račun možete ukinuti bilo kada slijedeći postupak naveden na (WEBSITE_NAME).",
+	"TRAD_23" => "Zadržavamo pravo ukinuti vaš račun zbog kršenja ovih Uvjeta računa ili iz bilo kojeg opravdanog razloga.",
+	"TRAD_24" => "Promjene Uvjeta",
+	"TRAD_25" => "U bilo kojem trenutku možemo promijeniti ove Uvjete računa. Promjene će stupiti na snagu nakon objave na (WEBSITE_NAME).",
+	"TRAD_26" => "Nastavkom korištenja (WEBSITE_NAME) nakon objave promjena, slažete se s revidiranim Uvjetima računa.",
+	"TRAD_27" => "Uvjeti računa"
+);

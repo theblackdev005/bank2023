@@ -1,0 +1,112 @@
+<h2>Definities</h2>
+<p>
+<b>Klant:</b> elke professionele of natuurlijke persoon die bekwaam is in de zin van de volgende artikelen van het Burgerlijk Wetboek, of rechtspersoon, die de Site bezoekt met inachtneming van deze algemene voorwaarden.<br>
+<b>Voordelen en services:</b> (WEBSITE_URL) biedt klanten:
+</p>
+<p><b>Inhoud:</b> alle samenstellende elementen van de informatie die op de site aanwezig is, in het bijzonder teksten – afbeeldingen – video’s.</p>
+<p><b>Klantinformatie:</b> Hierna "Informatie" genoemd, die overeenkomt met alle persoonlijke gegevens die (WEBSITE_NAME) waarschijnlijk in bezit hebben voor het beheer van uw account, het beheer van de klant en voor analytische en statistische doeleinden.</p>
+<p><b>Gebruiker:</b> internetgebruiker die verbinding maakt via de bovengenoemde site.</p>
+<p><b>Persoonlijke informatie:</b> "Informatie die, in welke vorm dan ook, direct of indirect de identificatie mogelijk maakt van de natuurlijke personen op wie ze van toepassing is".</p>
+<p>De termen "persoonsgegevens", "betrokkene", "onderaannemer" en "gevoelige gegevens" hebben de betekenis zoals gedefinieerd door de Algemene Verordening Gegevensbescherming (RGPD: n° 2016-679)</p>
+
+<h2>1. Presentatie van de website.</h2>
+<p>Op grond van artikel 6 van wet nr. 2004-575 van 21 juni 2004 betreffende het vertrouwen in de digitale economie worden gebruikers van de website (WEBSITE_URL) geïnformeerd over de identiteit van de verschillende belanghebbenden in het kader van de implementatie en monitoring: </p>
+<p>
+<b>Eigenaar</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Publicatiemanager</b>: (AUTHOR_NAME)<br>
+<b>Webmaster</b>: (WEBMASTER_NAME)<br>
+<b>Data Protection Officer</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. Algemene gebruiksvoorwaarden van de site en de aangeboden diensten.</h2>
+<p>De Site is een intellectueel werk dat wordt beschermd door de bepalingen van de Intellectual Property Code en de toepasselijke internationale regelgeving. De Klant mag op geen enkele manier alle of een deel van de elementen of werken van de Site hergebruiken, overdragen of exploiteren voor eigen rekening.</p>
+<p>Het gebruik van de site (WEBSITE_NAME) impliceert de volledige aanvaarding van de hieronder beschreven algemene gebruiksvoorwaarden. Deze gebruiksvoorwaarden kunnen op elk moment worden gewijzigd of aangevuld, gebruikers van de site (WEBSITE_NAME) worden daarom uitgenodigd om ze regelmatig te raadplegen.</p>
+<p>Deze website is normaal gesproken altijd toegankelijk voor gebruikers. Een onderbreking als gevolg van technisch onderhoud kan echter worden beslist door (WEBSITE_NAME), die vervolgens zal trachten de gebruikers te communiceren vóór de data en tijden van de interventie. De juridische kennisgevingen kunnen op elk moment worden gewijzigd: ze zijn niettemin bindend voor de gebruiker die wordt uitgenodigd om ze zo vaak mogelijk te raadplegen om er kennis van te nemen.</p>
+
+<h2>3. Beschrijving van de geleverde diensten.</h2>
+<p>Het doel van de website (WEBSITE_NAME) is om informatie te verstrekken over alle activiteiten van het bedrijf. (WEBSITE_NAME) streeft ernaar om zo nauwkeurig mogelijke informatie te verstrekken. Het kan echter niet verantwoordelijk worden gehouden voor weglatingen, onnauwkeurigheden en tekortkomingen in de update, hetzij door hemzelf, hetzij door de externe partners die hem deze informatie verstrekken.</p>
+<p>Alle informatie op de site (WEBSITE_NAME) wordt alleen ter informatie gegeven en kan worden gewijzigd. Verder is de informatie op de site (WEBSITE_NAME) niet uitputtend. Ze worden gegeven onder voorbehoud van wijzigingen die zijn aangebracht sinds ze online zijn gezet.</p>
+
+<h2>4. Contractuele beperkingen op technische gegevens.</h2>
+<p>De site maakt gebruik van JavaScript-technologie. De website kan niet aansprakelijk worden gesteld voor materiële schade die verband houdt met het gebruik van de site. Bovendien stemt de gebruiker van de site ermee in om toegang te krijgen tot de site met behulp van recente apparatuur, die geen virussen bevat en met een bijgewerkte browser van de nieuwste generatie. De site (WEBSITE_NAME) wordt gehost door een dienstverlener op het grondgebied van de Europese Unie in overeenstemming met de bepalingen van de Algemene Verordening Gegevensbescherming (RGPD: n° 2016-679).</p>
+<p>Het doel is om een ​​service te bieden die de beste bereikbaarheid garandeert. De host verzekert de continuïteit van zijn dienstverlening 24 uur per dag, elke dag van het jaar. Het behoudt zich niettemin het recht voor om de hostingdienst voor de kortst mogelijke duur te onderbreken, in het bijzonder met het oog op onderhoud, verbetering van zijn infrastructuur, storing van zijn infrastructuur of indien de Diensten en Diensten verkeer genereren dat als abnormaal wordt beschouwd.</p>
+<p>(WEBSITE_NAME) en de host kunnen niet verantwoordelijk worden gehouden in geval van storing van het internetnetwerk, telefoonlijnen of computer- en telefonieapparatuur die in het bijzonder verband houdt met netwerkcongestie die de toegang tot de server verhindert.</p>
+
+<h2>5. Intellectuele eigendom en vervalsingen.</h2>
+<p>(WEBSITE_NAME) is de eigenaar van de intellectuele eigendomsrechten en bezit de gebruiksrechten op alle elementen die toegankelijk zijn op de website, in het bijzonder de teksten, afbeeldingen, grafieken, logo's, video's, iconen en geluiden. Elke reproductie, weergave, wijziging, publicatie, aanpassing van alle of een deel van de elementen van de site, ongeacht het gebruikte middel of proces, is verboden, behalve met de voorafgaande schriftelijke toestemming van: (WEBSITE_NAME).</p>
+<p>Elk ongeoorloofd gebruik van de site of een van de elementen die deze bevat, wordt beschouwd als een inbreuk en wordt vervolgd in overeenstemming met de bepalingen van artikelen L.335-2 en volgende van de Intellectual Property Code.</p>
+
+<h2>6. Beperking van aansprakelijkheid.</h2>
+<p>(WEBSITE_NAME) treedt op als uitgever van de site. (WEBSITE_NAME) is verantwoordelijk voor de kwaliteit en waarheidsgetrouwheid van de inhoud die het publiceert.</p>
+<p>(WEBSITE_NAME) kan niet aansprakelijk worden gesteld voor directe en indirecte schade veroorzaakt aan de apparatuur van de gebruiker bij het bezoeken van de website (WEBSITE_NAME) en die voortvloeit uit het gebruik van apparatuur die niet voldoet aan de specificaties vermeld in punt 4, ofwel het verschijnen van een bug of een incompatibiliteit.</p>
+<p>(WEBSITE_NAME) kan evenmin aansprakelijk worden gesteld voor gevolgschade (zoals marktverlies of verlies van kansen) als gevolg van het gebruik van de site (WEBSITE_URL). Interactieve ruimtes (mogelijkheid om vragen te stellen in de contactruimte) zijn beschikbaar voor gebruikers. (WEBSITE_URL) behoudt zich het recht voor om zonder voorafgaande kennisgeving inhoud te verwijderen die in deze ruimte is geplaatst en die in strijd zou zijn met de toepasselijke wetgeving in de Europese Unie, met name de bepalingen met betrekking tot gegevensbescherming. Indien van toepassing behoudt (WEBSITE_URL) zich ook het recht voor om de burgerlijke en/of strafrechtelijke aansprakelijkheid van de gebruiker in twijfel te trekken, met name in het geval van een racistisch, beledigend, lasterlijk of pornografisch bericht, ongeacht het gebruikte medium (tekst,
+
+<h2>7. Beheer van persoonlijke gegevens.</h2>
+<p>De Klant wordt geïnformeerd over de regelgeving inzake marketingcommunicatie, de wet van 21 juni 2014 voor het vertrouwen in de digitale economie, de Wet op de gegevensbescherming van 06 augustus 2004 en de Algemene Verordening Gegevensbescherming (RGPD : No. 2016-679). </p>
+
+<h3>7.1 Personen die verantwoordelijk zijn voor het verzamelen van persoonlijke gegevens</h3>
+<p>Voor de Persoonsgegevens die worden verzameld als onderdeel van het aanmaken van het persoonlijke account van de Gebruiker en de navigatie op de Site, is de persoon die verantwoordelijk is voor het verwerken van Persoonsgegevens: (WEBSITE_NAME).</p>
+<p>Als verantwoordelijke voor de verwerking van de gegevens die het verzamelt, verbindt (WEBSITE_URL) zich ertoe het kader van de geldende wettelijke bepalingen na te leven. Het is met name aan de Klant om de doeleinden van zijn gegevensverwerking vast te stellen, om zijn prospects en klanten, vanaf het verzamelen van hun toestemming, volledige informatie te verstrekken over de verwerking van hun persoonsgegevens en om een ​​register bij te houden van de behandelingen die consistent zijn met de werkelijkheid. Telkens wanneer (WEBSITE_URL) Persoonsgegevens verwerkt, neemt (WEBSITE_URL) alle redelijke stappen om de nauwkeurigheid en relevantie van de Persoonsgegevens te verzekeren met betrekking tot de doeleinden waarvoor (WEBSITE_URL) ze verwerkt.</p>
+
+<h3>7.2 Doel van de verzamelde gegevens</h3>
+<p>(WEBSITE_URL) kan alle of een deel van de gegevens verwerken:</p>
+<ul>
+<li>om navigatie op de site en het beheer en de traceerbaarheid van de door de gebruiker bestelde diensten mogelijk te maken: verbindings- en gebruiksgegevens voor de site, facturering, bestelgeschiedenis, enz. </li>
+<li>om computerfraude (spamming, hacking, enz.) te voorkomen en te bestrijden: computerapparatuur die wordt gebruikt voor browsen, IP-adres, wachtwoord (gehasht) </li>
+<li>om de navigatie op de site te verbeteren: verbindings- en gebruiksgegevens </li>
+<li>om optionele tevredenheidsenquêtes uit te voeren op (WEBSITE_URL): e-mailadres </li>
+<li>om communicatiecampagnes uit te voeren (sms, e-mail): telefoonnummer, e-mailadres</li>
+</ul>
+<p>(WEBSITE_URL) brengt uw persoonlijke gegevens niet op de markt, die daarom alleen worden gebruikt uit noodzaak of voor statistische en analysedoeleinden.</p>
+
+<h3>7.3 Recht op inzage, rectificatie en verzet</h3>
+<p>In overeenstemming met de huidige Europese regelgeving hebben gebruikers van (WEBSITE_URL) de volgende rechten: </p>
+<ul>
+<li>recht van toegang (artikel 15 AVG) en rectificatie (artikel 16 AVG), actualisering, volledigheid van gebruikersgegevens recht op blokkering of verwijdering van persoonlijke gebruikersgegevens (artikel 17 van de AVG), wanneer deze onjuist, onvolledig, dubbelzinnig zijn , verouderd, of waarvan het verzamelen, gebruiken, communiceren of opslaan verboden is </li>
+<li>recht om toestemming te allen tijde in te trekken (artikel 13-2c AVG) </li>
+<li>recht om de verwerking van gebruikersgegevens te beperken (Artikel 18 AVG) </li>
+<li>recht om bezwaar te maken tegen de verwerking van gebruikersgegevens (artikel 21 AVG) </li>
+<li>recht op overdraagbaarheid van gegevens die gebruikers hebben verstrekt, wanneer deze gegevens onderworpen zijn aan geautomatiseerde verwerking op basis van hun toestemming of op basis van een contract (artikel 20 AVG) </li>
+<li>recht om het lot van de gegevens van gebruikers na hun overlijden te bepalen en om te kiezen aan wie (WEBSITE_URL) hun gegevens al dan niet moet doorgeven aan een derde partij die ze eerder hebben aangewezen</li>
+</ul>
+<p>Zodra (WEBSITE_URL) kennis krijgt van het overlijden van een Gebruiker en bij gebrek aan instructies van hem, verbindt (WEBSITE_URL) zich ertoe zijn gegevens te vernietigen, tenzij de bewaring ervan noodzakelijk blijkt voor bewijsdoeleinden of om te voldoen aan een wettelijke verplichting. </p>
+<p>Als de Gebruiker wil weten hoe (WEBSITE_URL) zijn Persoonsgegevens gebruikt, deze wil corrigeren of zich verzet tegen de verwerking ervan, kan de Gebruiker schriftelijk contact opnemen met (WEBSITE_URL) op het volgende adres: (WEBSITE_ADDRESS). </p>
+<p>In dit geval moet de Gebruiker de Persoonsgegevens aangeven die hij (WEBSITE_URL) wil corrigeren, bijwerken of verwijderen, door zich nauwkeurig te identificeren met een kopie van een identiteitsbewijs (kaartidentiteit of paspoort). </p>
+<p>Verzoeken tot verwijdering van Persoonsgegevens zijn onderworpen aan de wettelijke verplichtingen op (WEBSITE_URL), in het bijzonder met betrekking tot het bewaren of archiveren van documenten.</p>
+
+<h3>7.4 Geheimhouding van persoonlijke gegevens</h3>
+Het is <p>(WEBSITE_URL) verboden om de informatie die over haar klanten is verzameld, te verwerken, te hosten of over te dragen naar een land dat buiten de Europese Unie ligt of door de Europese Commissie als "ongeschikt" wordt erkend, zonder de klant hiervan eerst op de hoogte te stellen. (WEBSITE_URL) blijft echter vrij om zijn technische en commerciële onderaannemers te kiezen op voorwaarde dat ze voldoende garanties bieden met betrekking tot de vereisten van de Algemene Verordening Gegevensbescherming (RGPD: n° 2016-679).</p>
+<p>(WEBSITE_URL) verbindt zich ertoe alle nodige voorzorgsmaatregelen te nemen om de veiligheid van de informatie te vrijwaren en in het bijzonder dat deze niet wordt meegedeeld aan onbevoegde personen. Indien echter een incident dat de integriteit of vertrouwelijkheid van de Informatie van de Klant aantast, onder de aandacht van (WEBSITE_URL) wordt gebracht, moet deze de Klant zo snel mogelijk op de hoogte brengen en hem informeren over de genomen corrigerende maatregelen. Bovendien verzamelt (WEBSITE_URL) geen "gevoelige gegevens".</p>
+<p>De persoonlijke gegevens van de gebruiker kunnen worden verwerkt door dochterondernemingen van (WEBSITE_URL) en onderaannemers (serviceproviders), uitsluitend om de doeleinden van dit beleid te bereiken.</p>
+<p>Binnen de limieten van hun respectieve toewijzingen en voor de bovengenoemde doeleinden, zijn de belangrijkste mensen die waarschijnlijk toegang hebben tot de gegevens van gebruikers van (WEBSITE_URL) voornamelijk onze klantenservicemedewerkers.</p>
+
+<h2>8. Melding van incidenten</h2>
+<p>Hoe hard je ook probeert, geen enkele verzendmethode via internet en geen enkele methode van elektronische opslag is volledig veilig. We kunnen daarom geen absolute veiligheid garanderen. Als we ons bewust worden van een inbreuk op de beveiliging, zullen we de betrokken gebruikers op de hoogte stellen zodat ze passende maatregelen kunnen nemen. Onze procedures voor het melden van incidenten houden rekening met onze wettelijke verplichtingen, zowel op nationaal als op Europees niveau. We doen er alles aan om onze klanten volledig te informeren over alle zaken met betrekking tot de beveiliging van hun account en om hen alle informatie te verstrekken die nodig is om hen te helpen aan hun eigen wettelijke rapportageverplichtingen te voldoen.</p>
+<p>Er wordt geen persoonlijke informatie van de gebruiker van de site (WEBSITE_URL) gepubliceerd zonder medeweten van de gebruiker, uitgewisseld, overgedragen, toegewezen of verkocht op welke drager dan ook aan derden. Alleen de hypothese van de verlossing van (WEBSITE_URL) en zijn rechten zou de overdracht van genoemde informatie aan de potentiële koper mogelijk maken, die op zijn beurt gebonden zou zijn door dezelfde verplichting om gegevens op te slaan en te wijzigen ten opzichte van de gebruiker van de website (WEBSITE_URL).</p>
+
+<h3>Beveiliging</h3>
+<p>Om de veiligheid en vertrouwelijkheid van persoonlijke gegevens en persoonlijke gezondheidsgegevens te waarborgen, maakt (WEBSITE_URL) gebruik van netwerken die worden beschermd door standaardapparatuur zoals firewalls, pseudonimisering, codering en wachtwoorden.</p>
+<p>Bij het verwerken van Persoonsgegevens neemt (WEBSITE_URL) alle redelijke maatregelen om deze te beschermen tegen verlies, misbruik, ongeoorloofde toegang, openbaarmaking, wijziging of vernietiging.</p>
+
+<h2>9. Hypertekstlinks “cookies” en internettags (“tags”)</h2>
+<p>De site (WEBSITE_URL) bevat een bepaald aantal hyperlinks naar andere sites, opgezet met toestemming van (WEBSITE_URL). (WEBSITE_URL) heeft echter niet de mogelijkheid om de inhoud van de aldus bezochte sites te verifiëren en aanvaardt daarom geen verantwoordelijkheid voor dit feit.</p>
+<p>Tenzij u besluit cookies uit te schakelen, gaat u ermee akkoord dat de site ze mag gebruiken. U kunt deze cookies op elk moment en gratis deactiveren met behulp van de deactivatiemogelijkheden die u worden aangeboden en hieronder worden herinnerd, wetende dat dit de toegankelijkheid van alle of een deel van de Diensten die door de site worden aangeboden, kan verminderen of voorkomen.</p>
+
+<h3>9.1. Gebruik van COOKIES</h3>
+<p>Een "cookie" is een klein informatiebestand dat naar de browser van de Gebruiker wordt verzonden en op de terminal van de Gebruiker (bijv. computer, smartphone) wordt opgeslagen (hierna "Cookies"). Dit bestand bevat informatie zoals de domeinnaam van de gebruiker, de internetprovider van de gebruiker, het besturingssysteem van de gebruiker, evenals de datum en tijd van toegang. Cookies lopen op geen enkele manier het risico de terminal van de gebruiker te beschadigen.</p>
+<p>(WEBSITE_URL) verwerkt waarschijnlijk de informatie van de gebruiker over zijn bezoek aan de site, zoals de geraadpleegde pagina's, de uitgevoerde zoekopdrachten. Met deze informatie kan (WEBSITE_URL) de inhoud van de site en de navigatie van de gebruiker verbeteren.</p>
+<p>Cookies die navigatie en/of het aanbieden van diensten aangeboden door de site vergemakkelijken, de gebruiker kan zijn browser zo configureren dat hij kan beslissen of hij ze al dan niet wil accepteren, zodat cookies worden opgeslagen in de terminal of, integendeel , worden ze verworpen, hetzij stelselmatig, hetzij volgens hun emittent. De gebruiker kan zijn browsersoftware ook zo configureren dat hem van tijd tot tijd de acceptatie of weigering van cookies wordt aangeboden, voordat een cookie waarschijnlijk op zijn terminal wordt opgeslagen. (WEBSITE_URL) informeert de gebruiker dat in dit geval mogelijk niet alle functionaliteiten van zijn navigatiesoftware beschikbaar zijn.</p>
+<p> Als de gebruiker de registratie van cookies in zijn terminal of zijn browser weigert, of als de gebruiker de cookies verwijdert die daar zijn geregistreerd, wordt de gebruiker geïnformeerd dat zijn navigatie en zijn ervaring op de site mogelijk beperkt zijn. Dit kan ook het geval zijn wanneer (WEBSITE_URL) of een van zijn serviceproviders, voor technische compatibiliteitsdoeleinden, het type browser dat door de terminal wordt gebruikt, de taal- en weergave-instellingen of het land van waaruit de terminal lijkt te zijn verbonden, niet kan herkennen het internet.</p>
+<p>In voorkomend geval wijst (WEBSITE_URL) alle verantwoordelijkheid af voor de gevolgen die verband houden met het verslechteren van de werking van de site en de diensten die mogelijk worden aangeboden door (WEBSITE_URL), als gevolg van (i) de weigering van cookies door de gebruiker (ii) van de onmogelijkheid voor (WEBSITE_URL) om de cookies die nodig zijn voor hun werking op te slaan of te raadplegen vanwege de keuze van de gebruiker. Voor het beheer van cookies en gebruikerskeuzes is de configuratie van elke browser anders. Het wordt beschreven in het helpmenu van de browser, zodat u weet hoe de gebruiker zijn wensen op het gebied van cookies kan wijzigen.</p>
+<p>Op elk moment kan de gebruiker ervoor kiezen om zijn wensen op het gebied van cookies kenbaar te maken en te wijzigen. (WEBSITE_URL) kan ook gebruikmaken van de diensten van externe serviceproviders om de informatie die in deze sectie wordt beschreven te verzamelen en te verwerken.</p>
+<p>Ten slotte, door te klikken op de pictogrammen voor de sociale netwerken Twitter, Facebook, Linkedin en Google Plus die verschijnen op de site van (WEBSITE_URL) of in zijn mobiele applicatie en als de gebruiker het plaatsen van cookies heeft geaccepteerd door verder te bladeren op de Website of de mobiele applicatie van (WEBSITE_URL), Twitter, Facebook, Linkedin en Google Plus kunnen ook cookies op uw apparaten (computer, tablet, mobiele telefoon) plaatsen.</p>
+<p>Dit soort cookies worden alleen op uw terminals geplaatst als u hiermee instemt, door verder te bladeren op de Website of de mobiele applicatie van (WEBSITE_URL). De Gebruiker kan op elk moment zijn toestemming voor (WEBSITE_URL) het plaatsen van dit type cookie intrekken.</p>
+
+<h3>Sectie 9.2. INTERNETTAGS</h3>
+<p>(WEBSITE_URL) kan af en toe webbakens gebruiken en deze inzetten via een webanalysepartner die zich in het buitenland bevindt (en dus gerelateerde informatie opslaat, inclusief het IP-adres van de gebruiker).</p>
+<p>Deze tags worden zowel in online advertenties geplaatst die internetgebruikers toegang geven tot de Site, als op de verschillende pagina's van de Site. </p>
+<p>Deze technologie stelt (WEBSITE_URL) in staat om de reacties van bezoekers op de site en de effectiviteit van zijn acties te evalueren (bijvoorbeeld het aantal keren dat een pagina wordt geopend en de geraadpleegde informatie), evenals het gebruik van deze site door de gebruiker. </p>
+<p>De externe serviceprovider kan informatie verzamelen over bezoekers van de site en andere internetsites die deze tags gebruiken, rapporten over de site-activiteit samenstellen ter attentie van (WEBSITE_URL) en andere diensten verlenen met betrekking tot het gebruik ervan en internet. </p>
+
+<h2>10. Toepasselijk recht en toewijzing van jurisdictie.</h2>
+<p>Elk geschil in verband met het gebruik van de site (WEBSITE_URL) is onderworpen aan het strafrecht. Behalve in gevallen waarin de wet dit niet toestaat, wordt de exclusieve bevoegdheid gegeven aan de bevoegde rechtbanken.</p>

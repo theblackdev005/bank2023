@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Account Terms",
+	"TRAD_2" => "By accessing and using (WEBSITE_NAME), you fully and unreservedly agree to these Account Terms. Please read them carefully before creating an account and using our services. If you do not agree to these terms, please do not use (WEBSITE_NAME).",
+	"TRAD_3" => "Account creation",
+	"TRAD_4" => "To use our services, you must create an account by providing accurate, current and complete information.",
+	"TRAD_5" => "You are responsible for maintaining the confidentiality of your account information and for securing your password.",
+	"TRAD_6" => "Use of Account",
+	"TRAD_7" => "You are responsible for all activities performed under your account.",
+	"TRAD_8" => "You agree to use (WEBSITE_NAME) only for legal purposes and in accordance with the laws in force.",
+	"TRAD_9" => "You must not illegally access or attempt to access any accounts, systems or data that do not belong to you.",
+	"TRAD_10" => "Online Banking Services",
+	"TRAD_11" => "(WEBSITE_NAME) will allow you to access certain banking services, including checking balances, transfers, payments, etc.",
+	"TRAD_12" => "We reserve the right to modify or restrict the services available on (WEBSITE_NAME) without notice.",
+	"TRAD_13" => "Security and Access",
+	"TRAD_14" => "We will take reasonable steps to protect the security of your account information and transactions.",
+	"TRAD_15" => "In the event of theft, loss or unauthorized disclosure of your account information, please notify us immediately.",
+	"TRAD_16" => "Responsibility",
+	"TRAD_17" => "You assume full responsibility for the information you provide and actions taken under your account.",
+	"TRAD_18" => "We will not be liable for any damages resulting from the use of your account information by third parties.",
+	"TRAD_19" => "Fees and Commissions",
+	"TRAD_20" => "Certain services may be subject to fees and commissions. Details of these charges will be communicated in the appropriate sections of the (WEBSITE_NAME) site.",
+	"TRAD_21" => "Account Termination",
+	"TRAD_22" => "You can terminate your account at any time by following the procedure indicated on (WEBSITE_NAME).",
+	"TRAD_23" => "We reserve the right to terminate your account for breach of these Account Terms or for any justified reason.",
+	"TRAD_24" => "Changes to Terms",
+	"TRAD_25" => "We may change these Account Terms at any time. Changes will be effective upon posting to (WEBSITE_NAME).",
+	"TRAD_26" => "By continuing to use (WEBSITE_NAME) after the changes are posted, you agree to the revised Account Terms.",
+	"TRAD_27" => "Account Terms"
+);

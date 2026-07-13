@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Pogoji računa",
+	"TRAD_2" => "Z dostopom in uporabo (WEBSITE_NAME) se v celoti in brez zadržkov strinjate s temi pogoji računa. Preden ustvarite račun in uporabite naše storitve, jih natančno preberite. Če se s temi pogoji ne strinjate, ne uporabljajte (WEBSITE_NAME).",
+	"TRAD_3" => "Ustvarjanje računa",
+	"TRAD_4" => "Če želite uporabljati naše storitve, morate ustvariti račun in zagotoviti točne, aktualne in popolne podatke.",
+	"TRAD_5" => "Odgovorni ste za ohranjanje zaupnosti podatkov o vašem računu in za zaščito vašega gesla.",
+	"TRAD_6" => "Uporaba računa",
+	"TRAD_7" => "Odgovorni ste za vse dejavnosti, ki se izvajajo pod vašim računom.",
+	"TRAD_8" => "Strinjate se, da boste (WEBSITE_NAME) uporabljali samo za pravne namene in v skladu z veljavno zakonodajo.",
+	"TRAD_9" => "Ne smete nezakonito dostopati ali poskušati dostopati do računov, sistemov ali podatkov, ki ne pripadajo vam.",
+	"TRAD_10" => "Spletne bančne storitve",
+	"TRAD_11" => "(WEBSITE_NAME) vam bo omogočil dostop do določenih bančnih storitev, vključno s preverjanjem stanja, nakazili, plačili itd.",
+	"TRAD_12" => "Pridržujemo si pravico, da brez predhodnega obvestila spremenimo ali omejimo storitve, ki so na voljo na (WEBSITE_NAME).",
+	"TRAD_13" => "Varnost in dostop",
+	"TRAD_14" => "Sprejeli bomo razumne korake za zaščito varnosti podatkov o vašem računu in transakcij.",
+	"TRAD_15" => "V primeru kraje, izgube ali nepooblaščenega razkritja podatkov o vašem računu nas nemudoma obvestite.",
+	"TRAD_16" => "Odgovornost",
+	"TRAD_17" => "Prevzemate polno odgovornost za podatke, ki jih posredujete, in dejanja, izvedena v okviru vašega računa.",
+	"TRAD_18" => "Ne bomo odgovorni za kakršno koli škodo, ki bi nastala zaradi uporabe podatkov o vašem računu s strani tretjih oseb.",
+	"TRAD_19" => "Pristojbine in provizije",
+	"TRAD_20" => "Določene storitve so lahko predmet pristojbin in provizij. Podrobnosti o teh stroških bodo objavljene v ustreznih razdelkih spletnega mesta (WEBSITE_NAME).",
+	"TRAD_21" => "Ukinitev računa",
+	"TRAD_22" => "Svoj račun lahko kadar koli prekinete tako, da sledite postopku, navedenemu na (WEBSITE_NAME).",
+	"TRAD_23" => "Pridržujemo si pravico, da prekinemo vaš račun zaradi kršitve teh pogojev računa ali iz katerega koli upravičenega razloga.",
+	"TRAD_24" => "Spremembe pogojev",
+	"TRAD_25" => "Te pogoje računa lahko kadar koli spremenimo. Spremembe bodo začele veljati po objavi na (WEBSITE_NAME).",
+	"TRAD_26" => "Z nadaljnjo uporabo (WEBSITE_NAME) po objavi sprememb se strinjate s spremenjenimi pogoji računa.",
+	"TRAD_27" => "Pogoji računa"
+);

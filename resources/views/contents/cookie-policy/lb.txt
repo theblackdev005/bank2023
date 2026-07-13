@@ -1,0 +1,20 @@
+<P> (WEBSITE_NAME) soll déi bescht Erfahrung online während Äre Besuch zu eiser Websäit ze bidden, dat ass firwat mer verschidden Zorte vu "Cookien" benotzen. </P>
+
+<H3> Wat sinn Cookien? </H3>
+<P> Cookien sinn bloer vun Informatiounen, déi vun engem Webserveur geschéckt (an dësem Fall, vun deem Site) am Internet Browser vun der Visiteur, op sengem Computer gespäichert an un de Server geschéckt, wann déi folgend Internetsäit vum Zougang. Dofir, fir déi voll Benotzung vun dësem Site, recommandéiere mer Iech de Browser ze Konfiguratioun den Empfang vun Cookien ze acceptéieren. </P>
+
+<H3> Firwat benotzt mer et? </H3>
+<P> Cookien sinn benotzt Navigatioun am Site ze vereinfachen an déi richteg benotzen a fir statistesch Zwecker, ze wëssen, wat Beräicher vun de Site besicht waren Verbesserungen an Aktualiséierungen op Benotzen Mustere Basis ze maachen. D'Cookien op dësem Site benotzt do erlaben net d'Acquisitioun vun perséinlech Identifikatioun Date vun de Benotzer. De Benotzer kann dann de Site Individuelles ouni perséinlech Informatioune präiszeginn. </P>
+
+<H3> Type vu Cookien benotzt </h3>
+<P> "Sessioun Cookien" - läit exklusiv an der Erënnerung vun de Computer an d'Benotzer an geläscht ass eemol de Browser zougemaach gëtt. D'Benotzung ass fir d'Transmissioun vun Sessiounsidentificateuren streng limitéiert aus zoufälleg Zuelen vum Server generéiert, waren Site ze erlaben sécher an effikass ze ginn. </P>
+<P> Dës Cookien erlaben eis anonym Informatiounen iwwert d'Säite vun engem Benotzer a wéi Dir benotzt eise Site ze verbesseren Navigatioun an Zukunft a bestëmmen d'Quell vun méiglech Fehler Messagen besicht ze sammelen. Zum Beispill, gesammelt Informatiounen iwwert d'Säite besicht, d'Zuel vun de Visiten, de Browser de Visiteur. </P>
+
+<H3> Cookien drëtt </h3>
+<P> Eis Site kënne, vun Zäit zu Zäit enthalen Linken op drëtt Partei Websäite. Wann dir e Link op dës Siten verfollegen, kuckt weg hir Privatsphär Politik, iwwer Cookien a wéi se virum déi perséinlech Daten op dëse Siten verlängert ginn. </P>
+
+<H3> Wéi Astellunge fir Cookien ze managen? </H3>
+<P> Fir sécherstellen, datt Dir déi bescht Benotze vun eiser Websäit maachen, recommandéiere mir dass Dir Cookien akzeptéieren. Stäerkste Internet Browser sinn Formatioun Ufank Cookien ze acceptéieren. Du kanns, zu all Moment, Formatioun Äre Browser all Cookien ze acceptéieren. Zousätzlech, kënnt Dir Virléiften fir de Browser Formatioun Autorisatioun gin wann e Cookie op Ärem Computer gespäichert ass. Weg drun, dass behënnert Cookien déi normal an optimal Notzung vum Site kënne verhënneren. </P>
+
+<H3> Ännerungen op dëser Politik </h3>
+<P> Dës Politik iwwer Zäit ännere kann, an och fir d'Akraafttrieden vun neien Reglementer verbonnen ass. </P>

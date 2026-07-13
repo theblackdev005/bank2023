@@ -1,0 +1,112 @@
+<h2>Tanımlar</h2>
+<p>
+<b>Müşteri:</b> Medeni Kanun'un aşağıdaki maddeleri anlamında ehliyetli herhangi bir profesyonel veya gerçek kişi veya bu genel koşullara tabi olarak Siteyi ziyaret eden tüzel kişi.<br>
+<b>Faydalar ve Hizmetler:</b> (WEBSITE_URL) Müşterilere şunları sağlar:
+</p>
+<p><b>İçerik:</b> Sitede bulunan bilgilerin tüm bileşenleri, özellikle metinler – resimler – videolar.</p>
+<p><b>Müşteri bilgileri:</b> Hesabınızın yönetimi, müşterinin yönetimi ve analitik amaçlar için (WEBSITE_NAME) tarafından tutulması muhtemel tüm kişisel verilere karşılık gelen bundan böyle "Bilgiler" olarak anılacaktır. ve istatistiksel amaçlar.</p>
+<p><b>Kullanıcı:</b> Yukarıda adı geçen siteyi kullanarak bağlanan İnternet kullanıcısı.</p>
+<p><b>Kişisel bilgiler:</b> "Her ne şekilde olursa olsun, doğrudan veya dolaylı olarak, ilgili olduğu gerçek kişilerin kimliğinin belirlenmesine izin veren bilgiler".</p>
+<p>"Kişisel veriler", "veri sahibi", "alt yüklenici" ve "hassas veriler" terimleri, Genel Veri Koruma Yönetmeliği'nde (RGPD: n° 2016-679) tanımlanan anlama sahiptir</p>
+
+<h2>1. Web sitesinin tanıtımı.</h2>
+<p>Dijital ekonomiye duyulan güvene ilişkin 21 Haziran 2004 tarih ve 2004-575 sayılı yasanın 6. maddesi uyarınca, web sitesinin (WEBSITE_URL) kullanıcıları, uygulamanın uygulanması ve izlenmesi çerçevesinde çeşitli paydaşların kimliği hakkında bilgilendirilir: </p>
+<p>
+<b>Sahip</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Yayınlama Yöneticisi</b>: (AUTHOR_NAME)<br>
+<b>Web yöneticisi</b>: (WEBMASTER_NAME)<br>
+<b>Veri Koruma Görevlisi</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. Sitenin ve sunulan hizmetlerin genel kullanım koşulları.</h2>
+<p>Site, Fikri Mülkiyet Kanunu ve geçerli Uluslararası Düzenlemeler hükümlerince korunan bir fikri eserdir. Müşteri, Site'nin öğelerinin veya çalışmalarının tamamını veya bir kısmını hiçbir şekilde yeniden kullanamaz, devredemez veya kendi hesabına kullanamaz.</p>
+<p>Sitenin (WEBSITE_NAME) kullanımı, aşağıda açıklanan genel kullanım koşullarının tamamen kabul edildiği anlamına gelir. Bu kullanım koşulları herhangi bir zamanda değiştirilebilir veya eklenebilir, bu nedenle sitenin (WEBSITE_NAME) kullanıcıları düzenli olarak onlara danışmaya davet edilir.</p>
+<p>Bu web sitesi normalde kullanıcılar tarafından herhangi bir zamanda erişilebilir durumdadır. Ancak teknik bakım nedeniyle bir kesintiye (WEBSITE_NAME) tarafından karar verilebilir ve bu durumda müdahale tarih ve saatlerinden önce kullanıcılarla iletişim kurmaya çalışacaktır. Yasal uyarılar herhangi bir zamanda değiştirilebilir: yine de, onları tanımak için onlara mümkün olduğunca sık başvurmaya davet edilen kullanıcı için bağlayıcıdırlar.</p>
+
+<h2>3. Sağlanan hizmetlerin açıklaması.</h2>
+<p>Web sitesinin (WEBSITE_NAME) amacı, şirketin tüm faaliyetleri hakkında bilgi sağlamaktır. (WEBSITE_NAME), mümkün olduğunca doğru bilgi sağlamaya çalışmaktadır. Ancak, ister kendi başına ister kendisine bu bilgileri sağlayan üçüncü taraf ortaklar tarafından yapılan güncellemedeki eksikliklerden, yanlışlıklardan ve eksikliklerden sorumlu tutulamaz.</p>
+<p>Sitede (WEBSITE_NAME) belirtilen tüm bilgiler sadece bilgi amaçlı verilmiştir ve değişebilir. Ayrıca, sitedeki (WEBSITE_NAME) bilgiler kapsamlı değildir. Çevrimiçi olduklarından beri yapılan değişikliklere tabidirler.</p>
+
+<h2>4. Teknik verilerle ilgili sözleşme sınırlamaları.</h2>
+<p>Site JavaScript teknolojisini kullanır. Sitenin kullanımıyla ilgili maddi zararlardan web sitesi sorumlu tutulamaz. Ayrıca sitenin kullanıcısı, siteye virüs içermeyen, güncel donanım ve güncellenmiş son nesil tarayıcı ile erişmeyi kabul eder. Site (WEBSITE_NAME), Genel Veri Koruma Yönetmeliği (RGPD: n° 2016-679) hükümlerine uygun olarak Avrupa Birliği topraklarında bir hizmet sağlayıcı tarafından barındırılmaktadır.</p>
+<p>Amaç, en iyi erişilebilirlik oranını sağlayan bir hizmet sunmaktır. Ev sahibi yılın her günü, günün 24 saati hizmetinin sürekliliğini sağlar. Bununla birlikte, özellikle bakım, altyapılarının iyileştirilmesi, altyapılarının arızalanması veya Hizmetler ve Hizmetlerin anormal kabul edilen trafik oluşturması gibi amaçlarla barındırma hizmetini mümkün olan en kısa sürelerle kesme hakkını saklı tutar.</p>
+<p>(WEBSITE_NAME) ve ev sahibi, İnternet ağının, telefon hatlarının veya özellikle ağ tıkanıklığına bağlı bilgisayar ve telefon ekipmanlarının sunucuya erişimi engelleyen arızalanması durumunda sorumlu tutulamaz.</p>
+
+<h2>5. Fikri Mülkiyet ve Sahte Ürünler.</h2>
+<p>(WEBSITE_NAME) fikri mülkiyet haklarının sahibidir ve web sitesinde erişilebilen tüm öğeler, özellikle metinler, resimler, grafikler, logolar, videolar, simgeler ve sesler üzerinde kullanım haklarına sahiptir. Kullanılan yöntem veya yöntem ne olursa olsun, site öğelerinin tamamının veya bir kısmının herhangi bir şekilde çoğaltılması, temsili, değiştirilmesi, yayınlanması, uyarlanması: (WEBSITE_NAME) tarafından önceden yazılı izin alınmadıkça yasaktır.</p>
+<p>Sitenin veya içerdiği herhangi bir unsurun izinsiz kullanımı ihlal teşkil etmiş sayılacak ve Fikri Mülkiyet Kanunu'nun L.335-2 maddeleri hükümlerine ve müteakip kovuşturmaya tabi tutulacaktır.</p>
+
+<h2>6. Sorumluluğun Sınırlandırılması.</h2>
+<p>(WEBSITE_NAME), sitenin yayıncısı olarak hareket eder. (WEBSITE_NAME), yayınladığı İçeriğin kalitesinden ve doğruluğundan sorumludur.</p>
+<p>(WEBSITE_NAME), web sitesine (WEBSITE_NAME) erişirken kullanıcının ekipmanına verilen doğrudan veya dolaylı zararlardan ve ya 4. maddede belirtilen özelliklere uymayan ekipmanın kullanımından ya da bir hata veya uyumsuzluk görünümü.</p>
+<p>(WEBSITE_NAME), sitenin (WEBSITE_URL) kullanımından kaynaklanan dolaylı zararlardan (pazar kaybı veya fırsat kaybı gibi) sorumlu tutulamaz. Etkileşimli alanlar (iletişim alanında soru sorma imkanı) kullanıcılar için mevcuttur. (WEBSITE_URL), bu alanda yayınlanan ve Avrupa Birliği'ndeki yürürlükteki mevzuatı, özellikle veri korumayla ilgili hükümleri ihlal edecek her türlü içeriği önceden haber vermeksizin silme hakkını saklı tutar. Uygulanabilir olduğu durumlarda, (WEBSITE_URL) ayrıca, kullanılan araç ne olursa olsun, özellikle ırkçı, küfürlü, karalayıcı veya pornografik bir mesaj olması durumunda kullanıcının hukuki ve/veya cezai sorumluluğunu sorgulama hakkını saklı tutar. (metin,
+
+<h2>7. Kişisel verilerin yönetimi.</h2>
+<p>Müşteri, pazarlama iletişimi ile ilgili düzenlemeler, Dijital Ekonomiye güven için 21 Haziran 2014 tarihli kanun, 06 Ağustos 2004 tarihli Veri Koruma Kanunu ve Genel Veri Koruma Düzenlemeleri (RGPD : No. 2016-679). </p>
+
+<h3>7.1 Kişisel verilerin toplanmasından sorumlu kişiler</h3>
+<p>Kullanıcının kişisel hesabının oluşturulmasının ve Sitede gezinmesinin bir parçası olarak toplanan Kişisel Veriler için, Kişisel Verilerin işlenmesinden sorumlu kişi: (WEBSITE_NAME).</p>
+<p>Topladığı verilerin işlenmesinden sorumlu olarak (WEBSITE_URL), yürürlükteki yasal hükümler çerçevesine uymayı taahhüt eder. Özellikle, veri işlemenin amaçlarını belirlemek, rızalarının alınmasından itibaren potansiyel müşterilere ve müşterilere, kişisel verilerinin işlenmesi hakkında eksiksiz bilgi sağlamak ve tutarlı bir tedavi kaydı tutmak Müşteriye bağlıdır. gerçeklikle. (WEBSITE_URL) Kişisel Verileri her işlediğinde, (WEBSITE_URL), Kişisel Verilerin (WEBSITE_URL) tarafından işlendiği amaçlarla ilgili olarak doğruluğunu ve uygunluğunu sağlamak için tüm makul adımları atar.</p>
+
+<h3>7.2 Toplanan verilerin amacı</h3>
+<p>(WEBSITE_URL) verilerin tamamını veya bir kısmını işleyebilir:</p>
+<ul>
+<li>Sitede gezinmeye ve kullanıcı tarafından sipariş edilen hizmetlerin yönetimine ve izlenebilirliğine izin vermek için: Site için bağlantı ve kullanım verileri, faturalandırma, sipariş geçmişi vb. </li>
+<li>Bilgisayar sahtekarlığını (istenmeyen posta gönderme, bilgisayar korsanlığı vb.) önlemek ve bunlarla mücadele etmek için: tarama için kullanılan bilgisayar ekipmanı, IP adresi, parola (karma) </li>
+<li>Sitede gezinmeyi iyileştirmek için: bağlantı ve kullanım verileri </li>
+<li>(WEBSITE_URL) adresinde isteğe bağlı memnuniyet anketleri yapmak için: e-posta adresi </li>
+<li>iletişim kampanyaları (sms, e-posta) yürütmek için: telefon numarası, e-posta adresi</li>
+</ul>
+<p>(WEBSITE_URL) kişisel verilerinizi pazarlamaz, bu nedenle yalnızca gereklilik dışında veya istatistik ve analiz amaçlarıyla kullanılır.</p>
+
+<h3>7.3 Erişim, düzeltme ve itiraz hakkı</h3>
+<p>Mevcut Avrupa düzenlemelerine göre (WEBSITE_URL) Kullanıcıları aşağıdaki haklara sahiptir: </p>
+<ul>
+<li>erişim hakkı (Madde 15 GDPR) ve düzeltme (Madde 16 GDPR), Güncelleme, Kullanıcı verilerinin eksiksizliği Kişisel Kullanıcı verilerini engelleme veya silme hakkı (GDPR Madde 17), yanlış, eksik, belirsiz olduklarında , güncel olmayan veya toplanması, kullanılması, iletilmesi veya depolanması yasaklanmış </li>
+<li>her zaman onayı geri çekme hakkı (madde 13-2c GDPR) </li>
+<li>Kullanıcı verilerinin işlenmesini sınırlama hakkı (Madde 18 GDPR) </li>
+<li>Kullanıcı verilerinin işlenmesine karşı çıkma hakkı (Madde 21 GDPR) </li>
+<li>Kullanıcıların sağladığı verilerin, bu veriler, rızalarına veya bir sözleşmeye dayalı olarak otomatik işlemeye tabi olması durumunda taşınabilirlik hakkı (Madde 20 GDPR) </li>
+<li>Ölümlerinden sonra Kullanıcıların verilerinin akıbetini belirleme ve (WEBSITE_URL) verilerini daha önce tayin edecekleri bir üçüncü tarafa kime ileteceğini (veya etmeyeceğini) seçme hakkı</li>
+</ul>
+<p>(WEBSITE_URL) bir Kullanıcının vefatından haberdar olur olmaz ve kullanıcı tarafından herhangi bir talimat alınmadığı takdirde, (WEBSITE_URL), muhafaza edilmesi kanıtlayıcı amaçlar veya yasal bir yükümlülüğün yerine getirilmesi için gerekli olmadığı sürece, kullanıcının verilerini imha etmeyi taahhüt eder. </p>
+<p>Kullanıcı (WEBSITE_URL) Kişisel Verilerini nasıl kullandığını öğrenmek isterse, düzeltilmesini talep ederse veya işlenmesine karşı çıkarsa, Kullanıcı (WEBSITE_URL) ile aşağıdaki adresten yazılı olarak iletişime geçebilir: (WEBSITE_ADDRESS). </p>
+<p>Bu durumda Kullanıcı, (WEBSITE_URL) düzeltmesini, güncellemesini veya silmesini istediği Kişisel Verilerini bir kimlik belgesinin (kart kimliği veya pasaport) fotokopisi ile tam olarak tanıtarak belirtmelidir. </p>
+<p>Kişisel Verilerin silinmesine ilişkin talepler, özellikle belgelerin korunması veya arşivlenmesi ile ilgili olarak (WEBSITE_URL)'ye yasaların getirdiği yükümlülüklere tabi olacaktır.</p>
+
+<h3>7.4 Kişisel verilerin ifşa edilmemesi</h3>
+<p>(WEBSITE_URL), Müşterileri hakkında toplanan Bilgileri, önce müşteriyi bilgilendirmeden, Avrupa Birliği dışında bulunan veya Avrupa Komisyonu tarafından "uygunsuz" olarak tanınan bir ülkeye işlemesi, barındırması veya aktarması yasaktır. Ancak, (WEBSITE_URL), Genel Veri Koruma Yönetmeliği'nin (RGPD: n° 2016-679) gerekliliklerine ilişkin yeterli garantileri sunmaları koşuluyla, teknik ve ticari alt yüklenicilerini seçmekte özgürdür. </p>
+<p>(WEBSITE_URL), Bilgilerin güvenliğini korumak ve özellikle yetkisiz kişilere iletilmemesini sağlamak için gerekli tüm önlemleri almayı taahhüt eder. Ancak, Müşteri Bilgilerinin bütünlüğünü veya gizliliğini etkileyen bir durum (WEBSITE_URL)'nin dikkatine sunulursa, Müşteri mümkün olan en kısa sürede Müşteriyi bilgilendirmeli ve alınan düzeltici önlemler hakkında Müşteriyi bilgilendirmelidir. Ayrıca (WEBSITE_URL) hiçbir "hassas veri" toplamaz.</p>
+<p>Kullanıcının Kişisel Verileri, yalnızca bu politikanın amaçlarına ulaşmak için (WEBSITE_URL) yan kuruluşları ve alt yükleniciler (hizmet sağlayıcılar) tarafından işlenebilir.</p>
+<p>İlgili niteliklerinin sınırları dahilinde ve yukarıda belirtilen amaçlar için, (WEBSITE_URL) Kullanıcılarının verilerine erişmesi muhtemel olan başlıca kişiler, esas olarak müşteri hizmetleri aracılarımızdır.</p>
+
+<h2>8. Olay bildirimi</h2>
+<p>Ne kadar denerseniz deneyin, İnternet üzerinden hiçbir aktarım yöntemi veya hiçbir elektronik depolama yöntemi tamamen güvenli değildir. Bu nedenle mutlak güvenliği garanti edemeyiz. Bir güvenlik ihlalinin farkına varırsak, uygun işlemi yapabilmeleri için etkilenen kullanıcıları bilgilendireceğiz. Olay bildirim prosedürlerimiz, ister ulusal ister Avrupa düzeyinde olsun, yasal yükümlülüklerimizi dikkate alır. Müşterilerimizi hesaplarının güvenliğiyle ilgili tüm konularda tam olarak bilgilendirmeye ve kendi yasal raporlama yükümlülüklerini yerine getirmelerine yardımcı olmak için gerekli tüm bilgileri onlara sağlamaya kararlıyız.</p>
+<p>Site kullanıcısının (WEBSITE_URL) hiçbir kişisel bilgisi, kullanıcının bilgisi olmadan yayınlanmaz, takas edilmez, devredilmez, devredilmez, herhangi bir ortamda üçüncü şahıslara satılmaz. Yalnızca (WEBSITE_URL) ve haklarının geri alınması hipotezi, söz konusu bilgilerin, web sitesinin kullanıcısına karşı verileri depolamak ve değiştirmek için aynı yükümlülüğe tabi olacak olan olası alıcıya iletilmesine izin verir (WEBSITE_URL).</p>
+
+<h3>Güvenlik</h3>
+<p>Kişisel Verilerin ve Kişisel Sağlık Verilerinin güvenliğini ve gizliliğini sağlamak için (WEBSITE_URL), güvenlik duvarları, takma ad, şifreleme ve şifreler gibi standart cihazlarla korunan ağları kullanır.</p>
+<p>Kişisel Verileri işlerken (WEBSITE_URL), bunları kaybolmaya, kötüye kullanıma, yetkisiz erişime, ifşaya, değiştirmeye veya yok edilmeye karşı korumak için tüm makul önlemleri alır.</p>
+
+<h2>9. Köprü metni "çerezler" ve internet etiketleri ("etiketler")</h2>
+<p>Site (WEBSITE_URL), (WEBSITE_URL) tarafından yetkilendirilen diğer sitelere belirli sayıda köprü metni bağlantısı içerir. Ancak, (WEBSITE_URL) bu şekilde ziyaret edilen sitelerin içeriğini doğrulama olanağına sahip değildir ve bu nedenle bu konuda hiçbir sorumluluk kabul etmez.</p>
+<p>Çerezleri devre dışı bırakmaya karar vermediğiniz sürece, sitenin bunları kullanabileceğini kabul etmiş olursunuz. Bu çerezleri, site tarafından sunulan Hizmetlerin tamamına veya bir kısmına erişimi azaltabileceğini veya engelleyebileceğini bilerek, size sunulan ve aşağıda hatırlatılan devre dışı bırakma olanaklarını kullanarak istediğiniz zaman ve ücretsiz olarak devre dışı bırakabilirsiniz.</p>
+
+<h3>9.1. ÇEREZ KULLANIMI</h3>
+<p>Bir "çerez", Kullanıcının tarayıcısına gönderilen ve Kullanıcının terminalinde (örn. bilgisayar, akıllı telefon) (bundan böyle "Çerezler" olarak anılacaktır) saklanan küçük bir bilgi dosyasıdır. Bu dosya, Kullanıcının etki alanı adı, Kullanıcının İnternet erişim sağlayıcısı, Kullanıcının işletim sistemi ve ayrıca erişim tarihi ve saati gibi bilgileri içerir. Çerezler hiçbir şekilde Kullanıcının terminaline zarar verme riskini taşımaz.</p>
+<p>(WEBSITE_URL), başvurulan sayfalar, gerçekleştirilen aramalar gibi Kullanıcının Siteyi ziyaretiyle ilgili bilgilerini işlemesi muhtemeldir. Bu bilgiler, (WEBSITE_URL) Sitenin içeriğini, Kullanıcının gezinmesini iyileştirmesine olanak tanır.</p>
+<p>Gezinmeyi ve/veya Site tarafından sunulan hizmetlerin sağlanmasını kolaylaştıran çerezler, Kullanıcı tarayıcısını, çerezlerin terminalde kaydedilmesi veya tam tersine, bunları kabul etmek isteyip istemediğine karar vermesine izin verecek şekilde yapılandırabilir. , sistematik olarak veya ihraççılarına göre reddedilirler. Kullanıcı ayrıca tarayıcı yazılımını, kendi terminalinde bir Çerezin kaydedilme olasılığından önce, kendisine zaman zaman Çerezlerin kabulü veya reddinin sunulacağı şekilde yapılandırabilir. (WEBSITE_URL), bu durumda, navigasyon yazılımının tüm işlevlerinin kullanılamayabileceği konusunda Kullanıcıyı bilgilendirir.</p>
+<p> Kullanıcı, kendi terminalinde veya tarayıcısında Çerezlerin kaydını reddederse veya Kullanıcı burada kayıtlı olanları silerse, Kullanıcı, Site'de gezinmesinin ve deneyiminin sınırlı olabileceği konusunda bilgilendirilir. Bu, (WEBSITE_URL) veya hizmet sağlayıcılarından birinin, teknik uyumluluk amacıyla, terminal tarafından kullanılan tarayıcının türünü, dil ve ekran ayarlarını veya terminalin bağlı olduğu görünen ülkeyi tanıyamaması durumunda da söz konusu olabilir. İnternet.</p>
+<p>Geçerli olduğu durumlarda, (WEBSITE_URL), (i) Kullanıcı tarafından Çerezlerin (ii) Kullanıcı tarafından reddedilmesinden kaynaklanan, Sitenin ve muhtemelen (WEBSITE_URL) tarafından sunulan hizmetlerin bozulmuş işleyişiyle bağlantılı sonuçlar için tüm sorumluluğu reddeder. (WEBSITE_URL)'nin çalışması için gerekli olan Çerezleri kaydetmesi veya kullanmasının, Kullanıcının seçimi nedeniyle imkansızlığı. Çerezlerin ve Kullanıcı seçeneklerinin yönetimi için her tarayıcının konfigürasyonu farklıdır. Kullanıcının Çerezler açısından isteklerini nasıl değiştirebileceğini bilmenizi sağlayacak olan tarayıcının yardım menüsünde açıklanmıştır.</p>
+<p>Kullanıcı dilediği zaman Çerezler açısından isteklerini ifade etmeyi ve değiştirmeyi seçebilir. (WEBSITE_URL), bu bölümde açıklanan bilgileri toplamasına ve işlemesine yardımcı olması için harici hizmet sağlayıcıların hizmetlerini de kullanabilir.</p>
+<p>Son olarak, (WEBSITE_URL) sitesinde veya mobil uygulamasında görünen Twitter, Facebook, Linkedin ve Google Plus sosyal ağlarına ayrılmış simgelere tıklayarak ve Kullanıcı göz atmaya devam ederek çerezlerin yatırılmasını kabul ettiyse (WEBSITE_URL), Twitter, Facebook, Linkedin ve Google Plus'ın Web Sitesinde veya mobil uygulamasında, cihazlarınıza (bilgisayar, tablet, cep telefonu) çerezler de yerleştirebilir.</p>
+<p>Bu tür tanımlama bilgileri, yalnızca (WEBSITE_URL) Web Sitesinde veya mobil uygulamasında gezinmeye devam ederek bunlara izin vermeniz durumunda terminallerinize yerleştirilir. Yine de Kullanıcı, (WEBSITE_URL) bu tür bir tanımlama bilgisinin yerleştirilmesine ilişkin onayını herhangi bir zamanda geri alabilir.</p>
+
+<h3>Bölüm 9.2. İNTERNET ETİKETLERİ</h3>
+<p>(WEBSITE_URL) zaman zaman web işaretçilerini kullanabilir ve bunları yabancı bir ülkede bulunabilecek (ve dolayısıyla Kullanıcının IP adresi de dahil olmak üzere ilgili bilgileri depolayabilecek) bir web analizi ortağı aracılığıyla dağıtabilir.</p>
+<p>Bu etiketler, hem İnternet kullanıcılarının Siteye erişmesine izin veren çevrimiçi reklamlara hem de Sitenin çeşitli sayfalarına yerleştirilir. </p>
+<p>Bu teknoloji (WEBSITE_URL), ziyaretçilerin Siteye verdiği yanıtları ve eylemlerinin etkinliğini (örneğin, bir sayfanın açılma sayısı ve başvurulan bilgiler) ve ayrıca bu Sitenin Kullanıcı. </p>
+<p>Dış hizmet sağlayıcı, bu etiketleri kullanarak Sitenin ve diğer İnternet sitelerinin ziyaretçileri hakkında bilgi toplayabilir, (WEBSITE_URL)'nin dikkatine sunmak üzere Site etkinliği hakkında raporlar derleyebilir ve Sitenin ve İnternet'in kullanımıyla ilgili diğer hizmetleri sağlayabilir. </p>
+
+<h2>10. Geçerli yasa ve yargı yetkisi.</h2>
+<p>Sitenin (WEBSITE_URL) kullanımıyla ilgili herhangi bir anlaşmazlık ceza kanununa tabidir. Yasaların izin vermediği durumlar dışında, münhasır yargı yetkisi yetkili mahkemelere verilmiştir.</p>

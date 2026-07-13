@@ -1,0 +1,26 @@
+<?php
+
+return [
+   "TRAD_1" => "Politique de Protection contre les Fraudes",
+   "TRAD_2" => "La sécurité de nos clients est une priorité absolue pour (WEBSITE_NAME). Nous mettons en place des mesures de protection rigoureuses pour prévenir les activités frauduleuses et garantir la sécurité des comptes de nos utilisateurs. Cette politique de protection contre les fraudes décrit nos procédures et nos engagements envers nos clients.",
+   "TRAD_3" => "Surveillance et détection des activités suspectes :",
+   "TRAD_4" => "Nous utilisons des systèmes de surveillance avancés pour détecter les activités suspectes et les tentatives de fraude.",
+   "TRAD_5" => "En cas de comportement inhabituel ou de transactions potentiellement frauduleuses, nous prendrons des mesures pour protéger les comptes de nos clients.",
+   "TRAD_6" => "Authentification et contrôle d'accès :",
+   "TRAD_7" => "Nous mettons en place des mesures de sécurité pour protéger l'accès aux comptes de nos clients, y compris l'utilisation de mots de passe forts, de codes d'authentification à deux facteurs et d'autres méthodes d'authentification sécurisées.",
+   "TRAD_8" => "Nous encourageons nos clients à utiliser des informations d'identification uniques et à ne jamais divulguer leurs identifiants de connexion à des tiers.",
+   "TRAD_9" => "Communication sécurisée :",
+   "TRAD_10" => "Nous utilisons des protocoles de communication sécurisés pour les transactions en ligne et les échanges de données sensibles.",
+   "TRAD_11" => "Nous ne demanderons jamais à nos clients de fournir des informations personnelles sensibles par e-mail ou par téléphone, sauf dans des circonstances spécifiques et sécurisées.",
+   "TRAD_12" => "Formation du personnel :",
+   "TRAD_13" => "Nous formons régulièrement notre personnel sur la détection des fraudes et les meilleures pratiques en matière de sécurité.",
+   "TRAD_14" => "Notre personnel est conscient des risques liés à la fraude et est formé pour identifier et signaler les activités suspectes.",
+   "TRAD_15" => "Collaboration avec les autorités compétentes :",
+   "TRAD_16" => "En cas de fraude avérée, nous coopérons pleinement avec les autorités compétentes dans le cadre des enquêtes et des poursuites judiciaires.",
+   "TRAD_17" => "Sensibilisation des clients :",
+   "TRAD_18" => "Nous fournissons à nos clients des informations et des conseils sur les meilleures pratiques en matière de sécurité en ligne, y compris des recommandations pour protéger leurs comptes et leurs informations personnelles.",
+   "TRAD_19" => "Surveillance continue et amélioration :",
+   "TRAD_20" => "Nous examinons régulièrement nos mesures de protection contre les fraudes pour nous assurer qu'elles sont à jour et efficaces.",
+   "TRAD_21" => "Nous tenons compte des évolutions technologiques et des nouvelles méthodes de fraude pour adapter nos procédures de sécurité en conséquence.",
+   "TRAD_22" => "Chez (WEBSITE_NAME), nous nous engageons à fournir un environnement sûr et sécurisé à nos clients. Nous travaillons continuellement pour renforcer nos mesures de protection contre les fraudes et pour garantir la confiance de nos utilisateurs dans nos services.",
+];

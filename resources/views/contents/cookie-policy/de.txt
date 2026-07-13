@@ -1,0 +1,20 @@
+<P> (WEBSITE_NAME) zielt darauf ab, die beste Online-Erfahrung während Ihres Besuchs auf unsere Website zur Verfügung zu stellen, weshalb wir bestimmte Arten von „Cookies“. </P>
+
+<H3> Was sind Cookies? </H3>
+<P> Cookies sind Informationspakete von einem Webserver gesendet werden (in diesem Fall von dieser Seite) im Internet-Browser des Besuchers, auf seinem Computer gespeichert und an den Server gesendet, wenn Sie die folgende Website zugreifen. Daher ist für die volle Nutzung dieser Website empfehlen wir Ihnen, den Browser zu konfigurieren, dass der Empfang von Cookies zu akzeptieren. </P>
+
+<H3> Warum nutzen wir es? </H3>
+<P> Cookies werden verwendet, Navigation innerhalb der Website zu erleichtern und die korrekten Verwendung und für statistische Zwecke, zu wissen, welche Bereiche der Website besucht wurden Verbesserungen und Updates auf Nutzungsmuster basieren. Die Cookies auf dieser Website nicht zulassen, dass die Erfassung der persönlichen Identifikationsdaten von Benutzern. Der Benutzer kann dann die Website besuchen, ohne persönliche Daten zu. </P>
+
+<H3> Art der verwendeten Cookies </h3>
+<P> „Session-Cookies“ - liegen ausschließlich in dem Speicher des Computers des Benutzers und gelöscht wird, sobald der Browser geschlossen wird. Die Nutzung ist auf die Übertragung von Sitzungskennungen streng begrenzt bestehen aus Zufallszahlen generiert durch den Server, benötigt eine Website zu ermöglichen, sicher und wirksam zu sein. </P>
+<P> Diese Cookies ermöglichen es uns, anonyme Informationen über die Seiten von einem Benutzer und wie Sie nutzen unsere Website zu verbessern Navigation in der Zukunft und bestimmen die Quelle der möglichen Fehlermeldungen besucht zu sammeln. Zum Beispiel, das Sammeln von Informationen über die besuchten Seiten, die Anzahl der Besuche, der Browser des Besuchers. </P>
+
+<H3> Cookies dritt </h3>
+<P> Unsere Website kann von Zeit zu Zeit enthält Links zu Websites Dritter. Wenn Sie einen Link zu diesen Seiten folgen, konsultieren Sie bitte die Datenschutzrichtlinien, über Cookies und wie sie vor Bereitstellung persönliche Daten auf diesen Seiten verwaltet werden. </P>
+
+<H3> Wie Einstellungen für Cookies verwalten? </H3>
+<P> Um sicherzustellen, dass Sie die beste Nutzung unserer Website zu machen, empfehlen wir, dass Sie Cookies akzeptieren. Die meisten Internet-Browser sind so eingestellt, Cookies zu akzeptieren. Sie können jederzeit Ihren Browser alle Cookies zu akzeptieren. Darüber hinaus können Sie die Einstellungen für den Browser so einstellen, benachrichtigt zu werden, wenn ein Cookie auf Ihrem Computer gespeichert wird. Bitte beachten Sie, dass Cookies deaktiviert die normale und optimale Nutzung der Website kann verhindern. </P>
+
+<H3> Änderungen an dieser Richtlinie </h3>
+<P> Diese Politik im Laufe der Zeit ändern kann und auch auf das Inkrafttreten der neuen Regelungen verknüpft. </P>

@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) hisobi shartlari",
+	"TRAD_2" => "(WEBSITE_NAME) saytiga kirish va undan foydalanish orqali siz ushbu Hisob shartlariga to‘liq va so‘zsiz rozilik bildirasiz. Hisob yaratish va xizmatlarimizdan foydalanishdan oldin ularni diqqat bilan o'qing. Agar siz ushbu shartlarga rozi boʻlmasangiz, (WEBSITE_NAME) foydalanmang.",
+	"TRAD_3" => "Hisob yaratish",
+	"TRAD_4" => "Xizmatlarimizdan foydalanish uchun siz aniq, joriy va toʻliq maʼlumotlarni taqdim etish orqali hisob yaratishingiz kerak.",
+	"TRAD_5" => "Siz hisobingiz ma'lumotlarining maxfiyligini saqlash va parolingizni himoya qilish uchun javobgarsiz.",
+	"TRAD_6" => "Hisobdan foydalanish",
+	"TRAD_7" => "Hisobingiz ostida amalga oshirilgan barcha harakatlar uchun siz javobgarsiz.",
+	"TRAD_8" => "Siz (WEBSITE_NAME) faqat qonuniy maqsadlarda va amaldagi qonunlarga muvofiq foydalanishga rozilik bildirasiz.",
+	"TRAD_9" => "Sizga tegishli bo'lmagan hisoblar, tizimlar yoki ma'lumotlarga noqonuniy kirish yoki kirishga urinmaslik kerak.",
+	"TRAD_10" => "Onlayn bank xizmatlari",
+	"TRAD_11" => "(WEBSITE_NAME) sizga baʼzi bank xizmatlaridan foydalanish imkonini beradi, jumladan, balanslarni tekshirish, oʻtkazmalar, toʻlovlar va hokazo.",
+	"TRAD_12" => "Biz (WEBSITE_NAME) mavjud xizmatlarni ogohlantirishsiz o‘zgartirish yoki cheklash huquqini saqlab qolamiz.",
+	"TRAD_13" => "Xavfsizlik va kirish",
+	"TRAD_14" => "Hisobingiz ma'lumotlari va tranzaktsiyalaringiz xavfsizligini himoya qilish uchun oqilona choralar ko'ramiz.",
+	"TRAD_15" => "Hisobingiz ma'lumotlari o'g'irlangan, yo'qolgan yoki ruxsatsiz oshkor qilingan taqdirda, iltimos, darhol bizga xabar bering.",
+	"TRAD_16" => "Mas'uliyat",
+	"TRAD_17" => "Siz taqdim etgan ma'lumotlar va hisobingiz ostida amalga oshirilgan harakatlar uchun to'liq javobgarlikni o'z zimmangizga olasiz.",
+	"TRAD_18" => "Biz uchinchi shaxslar tomonidan hisobingiz ma'lumotlaridan foydalanish natijasida kelib chiqadigan har qanday zarar uchun javobgar bo'lmaymiz.",
+	"TRAD_19" => "To'lovlar va komissiyalar",
+	"TRAD_20" => "Ba'zi xizmatlar uchun to'lovlar va komissiyalar olinishi mumkin. Bu toʻlovlar tafsilotlari (WEBSITE_NAME) saytining tegishli boʻlimlarida eʼlon qilinadi.",
+	"TRAD_21" => "Hisobni tugatish",
+	"TRAD_22" => "Istalgan vaqtda (WEBSITE_NAME) ko‘rsatilgan tartibni bajarish orqali hisobingizni tugatishingiz mumkin.",
+	"TRAD_23" => "Ushbu Hisob shartlarini buzganlik uchun yoki biron bir asosli sababga ko'ra hisobingizni tugatish huquqini o'zida saqlab qolamiz.",
+	"TRAD_24" => "Shartlarga o'zgartirishlar",
+	"TRAD_25" => "Ushbu Hisob shartlarini istalgan vaqtda o'zgartirishimiz mumkin. Oʻzgartirishlar (WEBSITE_NAME) eʼlon qilinganidan keyin kuchga kiradi.",
+	"TRAD_26" => "Oʻzgarishlar eʼlon qilinganidan keyin (WEBSITE_NAME) foydalanishni davom ettirish orqali siz qayta koʻrib chiqilgan Hisob shartlariga rozilik bildirasiz.",
+	"TRAD_27" => "Hisob shartlari"
+);

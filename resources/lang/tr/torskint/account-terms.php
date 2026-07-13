@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Hesap Koşulları",
+	"TRAD_2" => "(WEBSITE_NAME) sitesine erişerek ve onu kullanarak, bu Hesap Koşullarını tamamen ve kayıtsız şartsız kabul etmiş olursunuz. Bir hesap oluşturmadan ve hizmetlerimizi kullanmadan önce lütfen bunları dikkatlice okuyun. Bu şartları kabul etmiyorsanız, lütfen (WEBSITE_NAME)'yi kullanmayın.",
+	"TRAD_3" => "Hesap oluşturma",
+	"TRAD_4" => "Hizmetlerimizi kullanmak için doğru, güncel ve eksiksiz bilgiler vererek bir hesap oluşturmalısınız.",
+	"TRAD_5" => "Hesap bilgilerinizin gizliliğini korumaktan ve şifrenizi güvence altına almaktan siz sorumlusunuz.",
+	"TRAD_6" => "Hesabın Kullanımı",
+	"TRAD_7" => "Hesabınız altında gerçekleştirilen tüm faaliyetlerden siz sorumlusunuz.",
+	"TRAD_8" => "(WEBSITE_NAME) sitesini yalnızca yasal amaçlarla ve yürürlükteki yasalara uygun olarak kullanmayı kabul etmektesiniz.",
+	"TRAD_9" => "Size ait olmayan hiçbir hesaba, sisteme veya veriye yasa dışı bir şekilde erişmemeli veya erişmeye çalışmamalısınız.",
+	"TRAD_10" => "Çevrimiçi Bankacılık Hizmetleri",
+	"TRAD_11" => "(WEBSITE_NAME), bakiye kontrolü, transferler, ödemeler vb. dahil olmak üzere belirli bankacılık hizmetlerine erişmenize izin verecektir.",
+	"TRAD_12" => "(WEBSITE_NAME) üzerinde bulunan hizmetleri bildirimde bulunmaksızın değiştirme veya kısıtlama hakkını saklı tutarız.",
+	"TRAD_13" => "Güvenlik ve Erişim",
+	"TRAD_14" => "Hesap bilgilerinizin ve işlemlerinizin güvenliğini korumak için makul adımlar atacağız.",
+	"TRAD_15" => "Hesap bilgilerinizin çalınması, kaybolması veya yetkisiz olarak ifşa edilmesi durumunda lütfen derhal bizi bilgilendirin.",
+	"TRAD_16" => "Sorumluluk",
+	"TRAD_17" => "Verdiğiniz bilgilerin ve hesabınız altında gerçekleştirilen işlemlerin tüm sorumluluğunu üstleniyorsunuz.",
+	"TRAD_18" => "Hesap bilgilerinizin üçüncü şahıslar tarafından kullanılmasından kaynaklanan herhangi bir zarardan sorumlu olmayacağız.",
+	"TRAD_19" => "Ücretler ve Komisyonlar",
+	"TRAD_20" => "Belirli hizmetler ücret ve komisyonlara tabi olabilir. Bu ücretlerin ayrıntıları (WEBSITE_NAME) sitesinin uygun bölümlerinde bildirilecektir.",
+	"TRAD_21" => "Hesap Feshi",
+	"TRAD_22" => "(WEBSITE_NAME) adresinde belirtilen prosedürü izleyerek hesabınızı istediğiniz zaman sonlandırabilirsiniz.",
+	"TRAD_23" => "Bu Hesap Koşullarının ihlali veya herhangi bir haklı nedenle hesabınızı feshetme hakkını saklı tutarız.",
+	"TRAD_24" => "Şartlarda Değişiklikler",
+	"TRAD_25" => "Bu Hesap Koşullarını herhangi bir zamanda değiştirebiliriz. Değişiklikler (WEBSITE_NAME) sitesinde yayınlandıktan sonra geçerli olacaktır.",
+	"TRAD_26" => "Değişiklikler yayınlandıktan sonra (WEBSITE_NAME) sitesini kullanmaya devam ederek, revize edilmiş Hesap Koşullarını kabul etmiş olursunuz.",
+	"TRAD_27" => "Hesap Koşulları"
+);

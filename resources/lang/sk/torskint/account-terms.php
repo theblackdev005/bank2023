@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "Podmienky účtu (WEBSITE_NAME).",
+	"TRAD_2" => "Prístupom a používaním (WEBSITE_NAME) plne a bez výhrad súhlasíte s týmito Podmienkami účtu. Pred vytvorením účtu a používaním našich služieb si ich pozorne prečítajte. Ak nesúhlasíte s týmito podmienkami, nepoužívajte ich (WEBSITE_NAME).",
+	"TRAD_3" => "Vytvorenie účtu",
+	"TRAD_4" => "Ak chcete využívať naše služby, musíte si vytvoriť účet poskytnutím presných, aktuálnych a úplných informácií.",
+	"TRAD_5" => "Ste zodpovední za zachovanie dôvernosti informácií o vašom účte a za zabezpečenie svojho hesla.",
+	"TRAD_6" => "Používanie účtu",
+	"TRAD_7" => "Ste zodpovedný za všetky aktivity vykonávané pod vaším účtom.",
+	"TRAD_8" => "Súhlasíte s tým, že budete (WEBSITE_NAME) používať iba na právne účely av súlade s platnými zákonmi.",
+	"TRAD_9" => "Nesmiete nezákonne pristupovať alebo sa pokúšať o prístup k žiadnym účtom, systémom alebo údajom, ktoré vám nepatria.",
+	"TRAD_10" => "Služby online bankovníctva",
+	"TRAD_11" => "(WEBSITE_NAME) vám umožní prístup k určitým bankovým službám vrátane kontroly zostatkov, prevodov, platieb atď.",
+	"TRAD_12" => "Vyhradzujeme si právo upraviť alebo obmedziť služby dostupné na (WEBSITE_NAME) bez upozornenia.",
+	"TRAD_13" => "Zabezpečenie a prístup",
+	"TRAD_14" => "Prijmeme primerané kroky na ochranu bezpečnosti informácií o vašom účte a transakcií.",
+	"TRAD_15" => "V prípade krádeže, straty alebo neoprávneného zverejnenia informácií o vašom účte nás prosím ihneď informujte.",
+	"TRAD_16" => "Zodpovednosť",
+	"TRAD_17" => "Preberáte plnú zodpovednosť za informácie, ktoré poskytujete, a za akcie vykonané pod vaším účtom.",
+	"TRAD_18" => "Nenesieme zodpovednosť za žiadne škody vyplývajúce z používania informácií o vašom účte tretími stranami.",
+	"TRAD_19" => "Poplatky a provízie",
+	"TRAD_20" => "Niektoré služby môžu podliehať poplatkom a províziám. Podrobnosti o týchto poplatkoch budú uvedené v príslušných sekciách lokality (WEBSITE_NAME).",
+	"TRAD_21" => "Zrušenie účtu",
+	"TRAD_22" => "Svoj účet môžete kedykoľvek zrušiť podľa postupu uvedeného na stránke (WEBSITE_NAME).",
+	"TRAD_23" => "Vyhradzujeme si právo zrušiť váš účet z dôvodu porušenia týchto podmienok účtu alebo z akéhokoľvek oprávneného dôvodu.",
+	"TRAD_24" => "Zmeny podmienok",
+	"TRAD_25" => "Tieto Podmienky účtu môžeme kedykoľvek zmeniť. Zmeny nadobudnú účinnosť po odoslaní na (WEBSITE_NAME).",
+	"TRAD_26" => "Pokračovaním v používaní (WEBSITE_NAME) po odoslaní zmien vyjadrujete súhlas s upravenými podmienkami účtu.",
+	"TRAD_27" => "Podmienky účtu"
+);

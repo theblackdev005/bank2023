@@ -1,0 +1,20 @@
+<p>(WEBSITE_NAME) își propune să ofere cea mai bună experiență online în timpul vizitei dvs. pe site-ul nostru, motiv pentru care folosim anumite tipuri de „cookie-uri”.</p>
+
+<h3>Ce sunt cookie-urile?</h3>
+<p>Cookie-urile sunt pachete de informații trimise de un server web (în acest caz, acest site) către browserul de internet al unui vizitator, stocate pe computerul acestuia și trimise către server de fiecare dată când site-ul este accesat următoarea. Prin urmare, pentru utilizarea deplină a acestui site, vă recomandăm să configurați browserul să accepte primirea cookie-urilor.</p>
+
+<h3>De ce le folosim?</h3>
+<p>Cookie-urile sunt folosite pentru a facilita navigarea prin site și utilizarea corectă și în scopuri statistice, pentru a cunoaște ce zone ale site-ului au fost vizitate pentru a face îmbunătățiri și actualizări pe baza tiparelor de utilizare. Cookie-urile folosite pe acest site nu permit achizitionarea datelor personale de identificare ale utilizatorilor. Utilizatorul poate apoi să navigheze pe site fără a-și dezvălui informațiile personale.</p>
+
+<h3>Tipul de cookie-uri utilizate</h3>
+<p>„Cookie-uri de sesiune” - rezidă exclusiv în memoria computerului utilizatorului și este ștearsă odată ce browserul este închis. Utilizarea este strict limitată la transmiterea de identificatori de sesiune, constând din numere aleatorii generate de server, necesare pentru a permite unui site să fie sigur și eficient.</p>
+<p>Aceste cookie-uri ne permit să colectăm informații anonime despre paginile vizitate de un utilizator și despre modul în care utilizați site-ul nostru pentru a îmbunătăți navigarea în viitor și pentru a determina sursa posibilelor mesaje de eroare. De exemplu, colectați informații despre paginile vizitate, numărul de vizite, browserul vizitatorului.</p>
+
+<h3>Cookie-uri terță parte</h3>
+<p>Site-ul nostru poate conține, din când în când, link-uri către site-uri web ale terților. Dacă urmați un link către aceste site-uri terțe, vă rugăm să revizuiți politicile lor de confidențialitate, despre cookie-uri și despre modul în care sunt gestionate înainte de a furniza date personale pe aceste site-uri.</p>
+
+<h3>Cum să gestionezi setările cookie-urilor?</h3>
+<p>Pentru a vă asigura că utilizați cât mai bine site-ul nostru, vă recomandăm să acceptați cookie-urile. Majoritatea browserelor de internet sunt inițial configurate pentru a accepta cookie-uri. Puteți, în orice moment, să vă configurați browserul să accepte toate modulele cookie. În plus, puteți seta preferințele pentru ca browserul să fie notificat de fiecare dată când un cookie este stocat pe computerul dumneavoastră. Vă rugăm să rețineți că cookie-urile nevalide pot împiedica utilizarea normală și optimă a site-ului.</p>
+
+<h3>Modificări ale acestei politici</h3>
+<p>Această politică se poate modifica în timp și este, de asemenea, legată de intrarea în vigoare a noilor reglementări.</p>

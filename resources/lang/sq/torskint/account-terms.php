@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "Kushtet e llogarisë (WEBSITE_NAME).",
+	"TRAD_2" => "Duke hyrë dhe përdorur (WEBSITE_NAME), ju pranoni plotësisht dhe pa rezerva këto Kushte të llogarisë. Ju lutemi lexoni ato me kujdes përpara se të krijoni një llogari dhe të përdorni shërbimet tona. Nëse nuk jeni dakord me këto kushte, ju lutemi mos përdorni (WEBSITE_NAME).",
+	"TRAD_3" => "Krijimi i llogarisë",
+	"TRAD_4" => "Për të përdorur shërbimet tona, duhet të krijoni një llogari duke ofruar informacion të saktë, aktual dhe të plotë.",
+	"TRAD_5" => "Ju jeni përgjegjës për ruajtjen e konfidencialitetit të informacionit të llogarisë suaj dhe për sigurimin e fjalëkalimit tuaj.",
+	"TRAD_6" => "Përdorimi i llogarisë",
+	"TRAD_7" => "Ju jeni përgjegjës për të gjitha aktivitetet e kryera në llogarinë tuaj.",
+	"TRAD_8" => "Ju pranoni të përdorni (WEBSITE_NAME) vetëm për qëllime ligjore dhe në përputhje me ligjet në fuqi.",
+	"TRAD_9" => "Ju nuk duhet të hyni në mënyrë të paligjshme ose të përpiqeni të përdorni ndonjë llogari, sistem ose të dhëna që nuk ju përkasin.",
+	"TRAD_10" => "Shërbimet bankare në internet",
+	"TRAD_11" => "(WEBSITE_NAME) do t'ju lejojë të përdorni disa shërbime bankare, duke përfshirë kontrollin e bilanceve, transfertat, pagesat, etj.",
+	"TRAD_12" => "Ne rezervojmë të drejtën për të modifikuar ose kufizuar shërbimet e disponueshme në (WEBSITE_NAME) pa paralajmërim.",
+	"TRAD_13" => "Siguria dhe Qasja",
+	"TRAD_14" => "Ne do të marrim hapa të arsyeshëm për të mbrojtur sigurinë e informacionit dhe transaksioneve të llogarisë suaj.",
+	"TRAD_15" => "Në rast vjedhjeje, humbjeje ose zbulimi të paautorizuar të informacionit të llogarisë suaj, ju lutemi na njoftoni menjëherë.",
+	"TRAD_16" => "Përgjegjësia",
+	"TRAD_17" => "Ju merrni përgjegjësinë e plotë për informacionin që jepni dhe veprimet e ndërmarra në llogarinë tuaj.",
+	"TRAD_18" => "Ne nuk do të jemi përgjegjës për asnjë dëmtim që rezulton nga përdorimi i informacionit të llogarisë tuaj nga palët e treta.",
+	"TRAD_19" => "Tarifat dhe komisionet",
+	"TRAD_20" => "Disa shërbime mund të jenë subjekt i tarifave dhe komisioneve. Detajet e këtyre tarifave do të komunikohen në seksionet përkatëse të sajtit (WEBSITE_NAME).",
+	"TRAD_21" => "Përfundimi i llogarisë",
+	"TRAD_22" => "Ju mund ta mbyllni llogarinë tuaj në çdo kohë duke ndjekur procedurën e treguar në (WEBSITE_NAME).",
+	"TRAD_23" => "Ne rezervojmë të drejtën të mbyllim llogarinë tuaj për shkelje të këtyre Kushteve të Llogarisë ose për ndonjë arsye të justifikuar.",
+	"TRAD_24" => "Ndryshimet në Kushtet",
+	"TRAD_25" => "Ne mund t'i ndryshojmë këto Kushte të Llogarisë në çdo kohë. Ndryshimet do të jenë efektive pas postimit në (WEBSITE_NAME).",
+	"TRAD_26" => "Duke vazhduar përdorimin e (WEBSITE_NAME) pas postimit të ndryshimeve, ju pranoni Kushtet e rishikuara të llogarisë.",
+	"TRAD_27" => "Kushtet e llogarisë"
+);

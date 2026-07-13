@@ -1,0 +1,13 @@
+#pdf_page { width:100%; height: 842px; background: blue; padding: 20px; margin: 0px auto; }
+/*.text-bold { font-weight: bold; }*/
+table { box-sizing: border-box; width: 100%; margin: auto; background: pink; }
+.box-spacer { height: 10px; }
+#header tr { width: 100%; background: red; }
+#header tr td { width: auto; background: green; }
+/*#header td { width: 138.75px; }*/
+/*.signature { height: 70px; }*/
+.box-spacer-lg { height: 20px; }
+/*#main td { width: 277.5px; }*/
+#header, #main { background: white; width: 100%;}
+.mb-2 { margin-bottom: 20px !important; }
+.w-50 { width: 50% !important;  }

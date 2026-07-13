@@ -1,0 +1,112 @@
+<h2>Definitions</h2>
+<p>
+<b>Customer:</b> any professional or natural person capable within the meaning of the following articles of the Civil Code, or legal person, who visits the Site subject to these general conditions.<br>
+<b>Benefits and Services:</b> (WEBSITE_URL) provides Customers with:
+</p>
+<p><b>Content:</b> All the constituent elements of the information present on the Site, in particular texts – images – videos.</p>
+<p><b>Customer information:</b> Hereinafter referred to as "Information" which corresponds to all the personal data likely to be held by (WEBSITE_NAME) for the management of your account, the management of the client and for analytical and statistical purposes.</p>
+<p><b>User:</b> Internet user connecting, using the above-named site.</p>
+<p><b>Personal information:</b> "Information which allows, in any form whatsoever, directly or indirectly, the identification of the natural persons to whom it applies".</p>
+<p>The terms “personal data”, “person concerned”, “subcontractor” and “sensitive data” have the meaning defined by the General Data Protection Regulations (RGPD: n° 2016-679)</p>
+
+<h2>1. Presentation of the website.</h2>
+<p>Under article 6 of law no. 2004-575 of June 21, 2004 on confidence in the digital economy, users of the website (WEBSITE_URL) are informed of the identity of the various stakeholders in the framework for its implementation and monitoring:</p>
+<p>
+<b>Owner</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Publishing Manager</b>: (AUTHOR_NAME)<br>
+<b>Webmaster</b>: (WEBMASTER_NAME)<br>
+<b>Data Protection Officer</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. General conditions of use of the site and the services offered.</h2>
+<p>The Site constitutes an intellectual work protected by the provisions of the Intellectual Property Code and applicable International Regulations. The Customer may not in any way reuse, transfer or exploit for his own account all or part of the elements or works of the Site.</p>
+<p>The use of the site (WEBSITE_NAME) implies full acceptance of the general conditions of use described below. These conditions of use may be modified or supplemented at any time, users of the site (WEBSITE_NAME) are therefore invited to consult them on a regular basis.</p>
+<p>This website is normally accessible to users at any time. An interruption due to technical maintenance may however be decided by (WEBSITE_NAME), who will then endeavor to communicate to users before the dates and times of the intervention. The legal notices may be modified at any time: they are nevertheless binding on the user who is invited to refer to them as often as possible in order to become acquainted with them.</p>
+
+<h2>3. Description of the services provided.</h2>
+<p>The purpose of the website (WEBSITE_NAME) is to provide information concerning all of the company's activities. (WEBSITE_NAME) strives to provide information that is as accurate as possible. However, it cannot be held responsible for omissions, inaccuracies and deficiencies in the update, whether by itself or by the third party partners who provide it with this information.</p>
+<p>All the information indicated on the site (WEBSITE_NAME) is given for information only, and is subject to change. Furthermore, the information on the site (WEBSITE_NAME) is not exhaustive. They are given subject to modifications having been made since they were put online.</p>
+
+<h2>4. Contractual limitations on technical data.</h2>
+<p>The site uses JavaScript technology. The website cannot be held responsible for material damage related to the use of the site. In addition, the user of the site agrees to access the site using recent equipment, not containing viruses and with an updated latest generation browser. The site (WEBSITE_NAME) is hosted by a service provider on the territory of the European Union in accordance with the provisions of the General Data Protection Regulations (RGPD: n° 2016-679).</p>
+<p>The objective is to provide a service that ensures the best accessibility rate. The host ensures the continuity of its service 24 hours a day, every day of the year. It nevertheless reserves the right to interrupt the hosting service for the shortest possible durations, in particular for the purposes of maintenance, improvement of its infrastructures, failure of its infrastructures or if the Services and Services generate traffic deemed abnormal.</p>
+<p>(WEBSITE_NAME) and the host cannot be held responsible in the event of malfunction of the Internet network, telephone lines or computer and telephony equipment linked in particular to network congestion preventing access to the server.</p>
+
+<h2>5. Intellectual Property and Counterfeits.</h2>
+<p>(WEBSITE_NAME) is the owner of the intellectual property rights and holds the rights of use on all the elements accessible on the website, in particular the texts, images, graphics, logos, videos, icons and sounds. Any reproduction, representation, modification, publication, adaptation of all or part of the elements of the site, whatever the means or process used, is prohibited, except with the prior written authorization of: (WEBSITE_NAME).</p>
+<p>Any unauthorized use of the site or any of the elements it contains will be considered as constituting an infringement and prosecuted in accordance with the provisions of articles L.335-2 and following of the Intellectual Property Code.</p>
+
+<h2>6. Limitation of Liability.</h2>
+<p>(WEBSITE_NAME) acts as the publisher of the site. (WEBSITE_NAME) is responsible for the quality and veracity of the Content it publishes.</p>
+<p>(WEBSITE_NAME) cannot be held liable for direct and indirect damage caused to the user's equipment, when accessing the website (WEBSITE_NAME), and resulting either from the use of equipment that does not meet to the specifications indicated in point 4, either the appearance of a bug or an incompatibility.</p>
+<p>(WEBSITE_NAME) cannot also be held liable for consequential damages (such as loss of market or loss of opportunity) resulting from the use of the site (WEBSITE_URL). Interactive spaces (possibility to ask questions in the contact space) are available to users. (WEBSITE_URL) reserves the right to delete, without prior notice, any content posted in this space that would violate the applicable legislation in the European Union, in particular the provisions relating to data protection. Where applicable, (WEBSITE_URL) also reserves the right to question the civil and/or criminal liability of the user, in particular in the event of a racist, abusive, defamatory or pornographic message, regardless of the medium used. (text,
+
+<h2>7. Management of personal data.</h2>
+<p>The Customer is informed of the regulations concerning marketing communication, the law of June 21, 2014 for confidence in the Digital Economy, the Data Protection Act of August 06, 2004 as well as the General Data Protection Regulations (RGPD : No. 2016-679). </p>
+
+<h3>7.1 Persons responsible for collecting personal data</h3>
+<p>For the Personal Data collected as part of the creation of the User's personal account and its navigation on the Site, the person responsible for processing Personal Data is: (WEBSITE_NAME).</p>
+<p>As responsible for processing the data it collects, (WEBSITE_URL) undertakes to comply with the framework of the legal provisions in force. In particular, it is up to the Customer to establish the purposes of its data processing, to provide its prospects and customers, from the collection of their consents, with complete information on the processing of their personal data and to maintain a register of treatments consistent with reality. Whenever (WEBSITE_URL) processes Personal Data, (WEBSITE_URL) takes all reasonable steps to ensure the accuracy and relevance of the Personal Data with regard to the purposes for which (WEBSITE_URL) processes it.</p>
+
+<h3>7.2 Purpose of the data collected</h3>
+<p>(WEBSITE_URL) may process all or part of the data:</p>
+<ul>
+<li>to allow navigation on the Site and the management and traceability of the services ordered by the user: connection and use data for the Site, invoicing, order history, etc. </li>
+<li>to prevent and fight against computer fraud (spamming, hacking, etc.): computer equipment used for browsing, IP address, password (hashed) </li>
+<li>to improve navigation on the Site: connection and usage data </li>
+<li>to conduct optional satisfaction surveys at (WEBSITE_URL): email address </li>
+<li>to carry out communication campaigns (sms, email): telephone number, email address</li>
+</ul>
+<p>(WEBSITE_URL) does not market your personal data which is therefore only used out of necessity or for statistical and analysis purposes.</p>
+
+<h3>7.3 Right of access, rectification and opposition</h3>
+<p>In accordance with current European regulations, Users of (WEBSITE_URL) have the following rights: </p>
+<ul>
+<li>right of access (article 15 GDPR) and rectification (article 16 GDPR), updating, completeness of User data right of blocking or erasure of personal User data (article 17 of the GDPR), when they are inaccurate, incomplete, ambiguous, outdated, or whose collection, use, communication or storage is prohibited </li>
+<li>right to withdraw consent at any time (article 13-2c GDPR) </li>
+<li>right to limit the processing of User data (Article 18 GDPR) </li>
+<li>right to oppose the processing of User data (article 21 GDPR) </li>
+<li>right to the portability of data that Users have provided, when this data is subject to automated processing based on their consent or on a contract (article 20 GDPR) </li>
+<li>right to define the fate of Users' data after their death and to choose to whom (WEBSITE_URL) will have to communicate (or not) their data to a third party that they will have previously designated</li>
+</ul>
+<p>As soon as (WEBSITE_URL) becomes aware of the death of a User and in the absence of instructions from him, (WEBSITE_URL) undertakes to destroy his data, unless their conservation proves necessary for probative purposes or to meet a legal obligation.</p>
+<p>If the User wishes to know how (WEBSITE_URL) uses his Personal Data, ask to rectify it or object to its processing, the User may contact (WEBSITE_URL) in writing at the following address: (WEBSITE_ADDRESS). </p>
+<p>In this case, the User must indicate the Personal Data that he would like (WEBSITE_URL) to correct, update or delete, by identifying himself precisely with a copy of an identity document (card of identity or passport). </p>
+<p>Requests for the deletion of Personal Data will be subject to the obligations imposed on (WEBSITE_URL) by law, in particular with regard to the conservation or archiving of documents.</p>
+
+<h3>7.4 Non-disclosure of personal data</h3>
+<p>(WEBSITE_URL) is prohibited from processing, hosting or transferring the Information collected on its Customers to a country located outside the European Union or recognized as "unsuitable" by the European Commission without first informing the customer. However, (WEBSITE_URL) remains free to choose its technical and commercial subcontractors on the condition that they present sufficient guarantees with regard to the requirements of the General Data Protection Regulations (RGPD: n° 2016-679). </p>
+<p>(WEBSITE_URL) undertakes to take all the necessary precautions to preserve the security of the Information and in particular that it is not communicated to unauthorized persons. However, if an incident affecting the integrity or confidentiality of the Client's Information is brought to the attention of (WEBSITE_URL), the latter must inform the Client as soon as possible and inform him of the corrective measures taken. Furthermore (WEBSITE_URL) does not collect any "sensitive data".</p>
+<p>The User's Personal Data may be processed by subsidiaries of (WEBSITE_URL) and subcontractors (service providers), exclusively in order to achieve the purposes of this policy.</p>
+<p>Within the limits of their respective attributions and for the purposes mentioned above, the main people likely to have access to the data of Users of (WEBSITE_URL) are mainly our customer service agents.</p>
+
+<h2>8. Incident notification</h2>
+<p>No matter how hard you try, no method of transmission over the Internet, and no method of electronic storage, is completely secure. We cannot therefore guarantee absolute security. If we become aware of a security breach, we will notify affected users so that they can take appropriate action. Our incident notification procedures take into account our legal obligations, whether at national or European level. We are committed to fully informing our clients of all matters relating to the security of their account and to providing them with all the information necessary to help them meet their own regulatory reporting obligations.</p>
+<p>No personal information of the user of the site (WEBSITE_URL) is published without the knowledge of the user, exchanged, transferred, assigned or sold on any medium whatsoever to third parties. Only the assumption of redemption of (WEBSITE_URL) and its rights would allow the transmission of said information to the prospective purchaser who would in turn be bound by the same obligation to store and modify data with respect to the user of the website (WEBSITE_URL).</p>
+
+<h3>Security</h3>
+<p>To ensure the security and confidentiality of Personal Data and Personal Health Data, (WEBSITE_URL) uses networks protected by standard devices such as firewalls, pseudonymization, encryption and passwords.</p>
+<p>When processing Personal Data, (WEBSITE_URL) takes all reasonable measures to protect it against any loss, misuse, unauthorized access, disclosure, alteration or destruction.</p>
+
+<h2>9. Hypertext links “cookies” and internet tags (“tags”)</h2>
+<p>The site (WEBSITE_URL) contains a certain number of hypertext links to other sites, set up with the authorization of (WEBSITE_URL). However, (WEBSITE_URL) does not have the possibility of verifying the content of the sites thus visited, and therefore assumes no responsibility for this fact.</p>
+<p>Unless you decide to disable cookies, you agree that the site can use them. You can deactivate these cookies at any time and free of charge from the deactivation options offered to you and recalled below, knowing that this may reduce or prevent accessibility to all or part of the Services offered by the site.</p>
+
+<h3>9.1. Use of COOKIES</h3>
+<p>A "cookie" is a small information file sent to the User's browser and stored on the User's terminal (eg computer, smartphone), (hereinafter "Cookies"). This file includes information such as the User's domain name, the User's Internet access provider, the User's operating system, as well as the date and time of access. Cookies do not in any way risk damaging the User's terminal.</p>
+<p>(WEBSITE_URL) is likely to process the User's information concerning his visit to the Site, such as the pages consulted, the searches carried out. This information allows (WEBSITE_URL) to improve the content of the Site, the navigation of the User.</p>
+<p>Cookies facilitating navigation and/or the provision of services offered by the Site, the User can configure his browser to allow him to decide whether or not he wishes to accept them so that Cookies are recorded in the terminal or, on the contrary, they are rejected, either systematically or according to their issuer. The User can also configure his browser software so that the acceptance or refusal of Cookies is offered to him from time to time, before a Cookie is likely to be saved in his terminal. (WEBSITE_URL) informs the User that, in this case, the functionalities of his navigation software may not all be available.</p>
+<p> If the User refuses the registration of Cookies in his terminal or his browser, or if the User deletes those which are registered there, the User is informed that his navigation and his experience on the Site may be limited. This could also be the case when (WEBSITE_URL) or one of its service providers cannot recognise, for technical compatibility purposes, the type of browser used by the terminal, the language and display settings or the country from which the terminal appears to be connected to the Internet.</p>
+<p>Where applicable, (WEBSITE_URL) declines all responsibility for the consequences linked to the degraded functioning of the Site and the services possibly offered by (WEBSITE_URL), resulting (i) from the refusal of Cookies by the User (ii) from the impossibility for (WEBSITE_URL) to save or consult the Cookies necessary for their operation due to the choice of the User. For the management of Cookies and User choices, the configuration of each browser is different. It is described in the help menu of the browser, which will allow you to know how the User can modify his wishes in terms of Cookies.</p>
+<p>At any time, the User can choose to express and modify his wishes in terms of Cookies. (WEBSITE_URL) may also use the services of external service providers to help it collect and process the information described in this section.</p>
+<p>Finally, by clicking on the icons dedicated to the social networks Twitter, Facebook, Linkedin and Google Plus appearing on the Site of (WEBSITE_URL) or in its mobile application and if the User has accepted the deposit of cookies by continuing to browse on the Website or the mobile application of (WEBSITE_URL), Twitter, Facebook, Linkedin and Google Plus may also place cookies on your devices (computer, tablet, mobile phone).</p>
+<p>These types of cookies are only placed on your terminals if you consent to them, by continuing to browse the Website or the mobile application of (WEBSITE_URL). At any time, the User may nevertheless revoke his consent to (WEBSITE_URL) depositing this type of cookie.</p>
+
+<h3>Section 9.2. INTERNET TAGS</h3>
+<p>(WEBSITE_URL) may occasionally use web beacons and deploy them through a web analytics partner that may be located (and therefore store related information, including the IP address of the User) in a foreign country.</p>
+<p>These tags are placed both in online advertisements allowing Internet users to access the Site, and on the various pages of the Site. </p>
+<p>This technology allows (WEBSITE_URL) to evaluate visitors' responses to the Site and the effectiveness of its actions (for example, the number of times a page is opened and the information consulted), as well as the use of this Site by the User. </p>
+<p>The external service provider may collect information on visitors to the Site and other Internet sites using these tags, compile reports on Site activity for the attention of (WEBSITE_URL), and provide other services relating to the use of it and the Internet.</p>
+
+<h2>10. Applicable law and attribution of jurisdiction.</h2>
+<p>Any dispute in connection with the use of the site (WEBSITE_URL) is subject to criminal law. Except in cases where the law does not allow it, exclusive jurisdiction is given to the competent courts.</p>

@@ -1,0 +1,112 @@
+<h2>Definitsioonid</h2>
+<p>
+<b>Klient:</b> iga kutseline või füüsiline isik, kes on tsiviilseadustiku järgmiste artiklite tähenduses võimeline, või juriidiline isik, kes külastab saiti nende üldtingimuste kohaselt.<br>
+<b>Eelised ja teenused:</b> (WEBSITE_URL) pakub klientidele:
+</p>
+<p><b>Sisu:</b> kõik saidil oleva teabe koostisosad, eelkõige tekstid – pildid – videod.</p>
+<p><b>Kliendi teave:</b> edaspidi "teave", mis vastab kõigile isikuandmetele, mida (WEBSITE_NAME) tõenäoliselt hoiab teie konto haldamiseks, kliendi haldamiseks ja analüüsimiseks. ja statistilistel eesmärkidel.</p>
+<p><b>Kasutaja:</b> Interneti-kasutaja, kes loob ühenduse, kasutades ülalnimetatud saiti.</p>
+<p><b>Isikuandmed:</b> „teave, mis võimaldab mis tahes kujul, otseselt või kaudselt tuvastada füüsilised isikud, kelle suhtes see kehtib”.</p>
+<p>Mõistetel „isikuandmed”, „andmesubjekt”, „alltöövõtja” ja „tundlikud andmed” on isikuandmete kaitse üldmääruses (RGPD: nr 2016-679) määratletud tähendus.</p>
+
+<h2>1. Veebisaidi esitlus.</h2>
+<p>21. juuni 2004. aasta seaduse nr 2004-575, mis käsitleb usaldust digitaalmajanduse vastu, artikli 6 kohaselt teavitatakse veebisaidi (WEBSITE_URL) kasutajaid selle rakendamise ja järelevalve raames erinevate sidusrühmade identiteedist: </p>
+<p>
+<b>Omanik</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Avaldamishaldur</b>: (AUTHOR_NAME)<br>
+<b>Veebihaldur</b>: (WEBMASTER_NAME)<br>
+<b>Andmekaitseametnik</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. Saidi ja pakutavate teenuste kasutamise üldtingimused.</h2>
+<p>Sait kujutab endast intellektuaalset teost, mis on kaitstud intellektuaalomandi koodeksi sätete ja kohaldatavate rahvusvaheliste eeskirjadega. Klient ei tohi mingil viisil uuesti kasutada, üle kanda ega enda jaoks kasutada kõiki või osa saidi elemente või teoseid.</p>
+<p>Saidi (WEBSITE_NAME) kasutamine eeldab allkirjeldatud üldiste kasutustingimuste täielikku nõustumist. Neid kasutustingimusi võidakse igal ajal muuta või täiendada, seetõttu palutakse saidi (WEBSITE_NAME) kasutajatel nendega regulaarselt tutvuda.</p>
+<p>See veebisait on kasutajatele tavaliselt igal ajal juurdepääsetav. Tehnilisest hooldusest tingitud katkestuse võib siiski otsustada (WEBSITE_NAME), kes püüab seejärel kasutajatega enne sekkumise kuupäevi ja kellaaegu suhelda. Õigusalaseid teateid võib igal ajal muuta: need on siiski siduvad kasutajale, kellel palutakse nendega tutvumiseks võimalikult sageli nendega tutvuda.</p>
+
+<h2>3. Pakutavate teenuste kirjeldus.</h2>
+<p>Veebisaidi (WEBSITE_NAME) eesmärk on pakkuda teavet ettevõtte kõigi tegevuste kohta. (WEBSITE_NAME) püüab pakkuda võimalikult täpset teavet. Siiski ei saa ta vastutada värskenduse väljajätmiste, ebatäpsuste ja puuduste eest, ei ise ega kolmandatest osapooltest partnerid, kes talle seda teavet edastavad.</p>
+<p>Kogu saidil (WEBSITE_NAME) näidatud teave on esitatud ainult teavitamise eesmärgil ja seda võidakse muuta. Lisaks ei ole saidil (WEBSITE_NAME) olev teave ammendav. Neid võidakse muuta pärast nende võrku viimist.</p>
+
+<h2>4. Tehniliste andmete lepingulised piirangud.</h2>
+<p>Sait kasutab JavaScripti tehnoloogiat. Veebileht ei vastuta saidi kasutamisega seotud materiaalsete kahjude eest. Lisaks nõustub saidi kasutaja saidile juurdepääsuga, kasutades uusimaid, viiruseid mittesisaldavaid seadmeid ja uuendatud uusima põlvkonna brauserit. Saiti (WEBSITE_NAME) hostib teenusepakkuja Euroopa Liidu territooriumil vastavalt isikuandmete kaitse üldeeskirjade (RGPD: nr 2016-679) sätetele.</p>
+<p>Eesmärk on pakkuda teenust, mis tagab parima juurdepääsetavuse. Võõrustaja tagab oma teenuse järjepidevuse 24 tundi ööpäevas, igal päeval aastas. Sellegipoolest jätab ta endale õiguse katkestada hostimisteenus võimalikult lühikeseks ajaks, eelkõige hoolduse, infrastruktuuri parandamise, infrastruktuuri rikke või teenuste ja teenuste ebanormaalseks peetava liikluse korral.</p>
+<p>(WEBSITE_NAME) ja host ei vastuta Interneti-võrgu, telefoniliinide või arvuti- ja telefoniseadmete rikke korral, mis on seotud eelkõige võrgu ülekoormusega, mis takistab juurdepääsu serverile.</p>
+
+<h2>5. Intellektuaalomand ja võltsingud.</h2>
+<p>(WEBSITE_NAME) on intellektuaalomandi õiguste omanik ja talle kuuluvad kõikide veebisaidil juurdepääsetavate elementide, eelkõige tekstide, piltide, graafika, logode, videote, ikoonide ja helide kasutusõigused. Kõikide saidi elementide või nende osade reprodutseerimine, esitus, muutmine, avaldamine, kohandamine, olenemata kasutatud vahenditest või protsessidest, on keelatud, välja arvatud veebisaidi (WEBSITE_NAME) eelneval kirjalikul loal.</p>
+<p>Saidi või sellel sisalduvate elementide mis tahes loata kasutamist käsitatakse rikkumisena ja selle eest võetakse vastutusele vastavalt intellektuaalomandi seadustiku artiklite L.335-2 ja järgmistele sätetele.</p>
+
+<h2>6. Vastutuse piirang.</h2>
+<p>(WEBSITE_NAME) tegutseb saidi väljaandjana. (WEBSITE_NAME) vastutab avaldatava sisu kvaliteedi ja õigsuse eest.</p>
+<p>(WEBSITE_NAME) ei vastuta otsese ja kaudse kahju eest, mis on tekitatud kasutaja seadmetele veebisaidile (WEBSITE_NAME) sisenemisel ja mis tuleneb punktis 4 märgitud spetsifikatsioonidele mittevastavate seadmete kasutamisest või vea või kokkusobimatuse ilmnemine.</p>
+<p>(WEBSITE_NAME) ei vastuta saidi (WEBSITE_URL) kasutamisest tulenevate kaudsete kahjude (nt turu kaotus või võimaluse kaotamine) eest. Interaktiivsed ruumid (võimalus esitada küsimusi kontaktiruumis) on kasutajatele kättesaadavad. (WEBSITE_URL) jätab endale õiguse kustutada ilma ette teatamata mis tahes siia postitatud sisu, mis rikuks Euroopa Liidus kehtivaid õigusakte, eelkõige andmekaitsega seotud sätteid. Võimaluse korral jätab (WEBSITE_URL) endale õiguse seada kahtluse alla kasutaja tsiviil- ja/või kriminaalvastutus, eelkõige rassistliku, solvava, laimava või pornograafilise sõnumi korral, olenemata kasutatavast meediumist. (tekst,
+
+<h2>7. Isikuandmete haldamine.</h2>
+<p>Klienti on teavitatud turunduskommunikatsiooni puudutavatest eeskirjadest, 21. juuni 2014 digitaalmajanduse usalduse seadusest, 06. augusti 2004 andmekaitseseadusest ning andmekaitse üldmäärustest (RGPD: nr. 2016-679). </p>
+
+<h3>7.1 Isikuandmete kogumise eest vastutavad isikud</h3>
+<p>Kasutaja isikliku konto loomise ja saidil navigeerimise käigus kogutud isikuandmete puhul on isikuandmete töötlemise eest vastutav isik: (WEBSITE_NAME).</p>
+<p>Kogutavate andmete töötlemise eest vastutavana kohustub (WEBSITE_URL) järgima kehtivaid õigussätteid. Eelkõige on kliendi ülesanne määrata kindlaks oma andmetöötluse eesmärgid, anda oma potentsiaalsetele ja klientidele alates nende nõusolekute kogumisest täielikku teavet nende isikuandmete töötlemise kohta ning pidada järjepidevat raviregistrit. reaalsusega. Iga kord, kui (WEBSITE_URL) töötleb isikuandmeid, võtab (WEBSITE_URL) kõik mõistlikud meetmed, et tagada isikuandmete täpsus ja asjakohasus seoses eesmärkidega, milleks (WEBSITE_URL) neid töötleb.</p>
+
+<h3>7.2 Kogutavate andmete eesmärk</h3>
+<p>(WEBSITE_URL) võib töödelda kõiki andmeid või osa neist:</p>
+<ul>
+<li>Saidil navigeerimise ning kasutaja tellitud teenuste haldamise ja jälgitavuse võimaldamiseks: saidi ühendus- ja kasutusandmed, arved, tellimuste ajalugu jne. </li>
+<li>arvutipettuste (rämpspostitus, häkkimine jne) ennetamiseks ja vastu võitlemiseks: sirvimiseks kasutatav arvutivarustus, IP-aadress, parool (räsi) </li>
+<li>saidil navigeerimise parandamiseks: ühendus- ja kasutusandmed </li>
+<li>valikuliste rahuloluküsitluste läbiviimiseks aadressil (WEBSITE_URL): e-posti aadress </li>
+<li>suhtluskampaaniate läbiviimiseks (sms, email): telefoninumber, meiliaadress</li>
+</ul>
+<p>(WEBSITE_URL) ei turusta teie isikuandmeid, mida seetõttu kasutatakse ainult vajaduse tõttu või statistilistel ja analüüsilistel eesmärkidel.</p>
+
+<h3>7.3 Juurdepääsu-, parandamis- ja vastulauseõigus</h3>
+<p>Vastavalt kehtivatele Euroopa eeskirjadele on saidi (WEBSITE_URL) kasutajatel järgmised õigused: </p>
+<ul>
+<li>juurdepääsuõigus (GDPR artikkel 15) ja parandamine (GDPR artikkel 16), uuendamine, kasutajaandmete täielikkus; õigus blokeerida või kustutada kasutaja isikuandmed (GDPR artikkel 17), kui need on ebatäpsed, mittetäielikud, mitmetähenduslikud , aegunud või mille kogumine, kasutamine, edastamine või säilitamine on keelatud </li>
+<li>õigus nõusolek igal ajal tagasi võtta (GDPR artikkel 13-2c) </li>
+<li>õigus piirata kasutajaandmete töötlemist (GDPR artikkel 18) </li>
+<li>õigus olla vastu kasutajaandmete töötlemisele (GDPR artikkel 21) </li>
+<li>õigus kasutajate esitatud andmete kaasaskantavusele, kui neid andmeid töödeldakse automatiseeritud viisil nende nõusoleku või lepingu alusel (GDPR artikkel 20) </li>
+<li>õigus määrata kasutajate andmete saatus pärast nende surma ja valida, kellele (WEBSITE_URL) edastab (või mitte) oma andmed kolmandale osapoolele, kelle nad on eelnevalt määranud.</li>
+</ul>
+<p>Niipea, kui (WEBSITE_URL) saab teada kasutaja surmast ja tema juhiste puudumisel kohustub (WEBSITE_URL) hävitama tema andmed, välja arvatud juhul, kui nende säilitamine osutub vajalikuks tõenduslikul eesmärgil või juriidilise kohustuse täitmiseks. </p>
+<p>Kui kasutaja soovib teada, kuidas (WEBSITE_URL) tema isikuandmeid kasutab, palub neid parandada või on vastu nende töötlemisele, saab kasutaja (WEBSITE_URL) kirjalikult ühendust võtta järgmisel aadressil: (WEBSITE_ADDRESS). </p>
+<p>Sellisel juhul peab kasutaja märkima Isikuandmed, mida ta soovib (WEBSITE_URL) parandada, uuendada või kustutada, identifitseerides end täpselt isikut tõendava dokumendi (kaardi isikut tõendava dokumendi või passi) koopiaga. </p>
+<p>Isikuandmete kustutamise taotlustele kehtivad seadusega (WEBSITE_URL) kehtestatud kohustused, eelkõige seoses dokumentide säilitamise või arhiveerimisega.</p>
+
+<h3>7.4 Isikuandmete mitteavaldamine</h3>
+<p>(WEBSITE_URL) on keelatud oma Klientide kohta kogutud Teabe töötlemine, majutamine või edastamine väljaspool Euroopa Liitu asuvasse riiki või Euroopa Komisjoni poolt "sobimatuks" tunnistatud riiki ilma klienti eelnevalt teavitamata. Siiski võib (WEBSITE_URL) valida tehnilisi ja kaubanduslikke alltöövõtjaid tingimusel, et nad esitavad piisavad tagatised seoses andmekaitse üldeeskirjade (RGPD: nr 2016-679) nõuetega. </p>
+<p>(WEBSITE_URL) kohustub võtma kõik vajalikud ettevaatusabinõud teabe turvalisuse säilitamiseks ja eelkõige selleks, et seda ei edastataks volitamata isikutele. Kui aga (WEBSITE_URL) juhitakse Kliendi teabe terviklikkust või konfidentsiaalsust mõjutavale vahejuhtumile, peab viimane sellest Klienti esimesel võimalusel teavitama ja teavitama võetud parandusmeetmetest. Lisaks ei kogu (WEBSITE_URL) mingeid tundlikke andmeid.</p>
+<p>Kasutaja isikuandmeid võivad töödelda saidi (WEBSITE_URL) tütarettevõtted ja alltöövõtjad (teenusepakkujad) eranditult selle poliitika eesmärkide saavutamiseks.</p>
+<p>Nende vastavate omistamiste piires ja ülalnimetatud eesmärkidel on peamised inimesed, kellel on tõenäoliselt juurdepääs saidi (WEBSITE_URL) kasutajate andmetele, peamiselt meie klienditeenindajad.</p>
+
+<h2>8. Juhtumiteade</h2>
+<p>Ükskõik kui kõvasti proovite, pole ükski Interneti kaudu edastamise meetod ega elektrooniline salvestusmeetod täiesti turvaline. Seetõttu ei saa me tagada täielikku turvalisust. Kui saame teada turvarikkumisest, teavitame sellest mõjutatud kasutajaid, et nad saaksid võtta asjakohaseid meetmeid. Meie intsidentidest teavitamise menetlused võtavad arvesse meie juriidilisi kohustusi nii riiklikul kui ka Euroopa tasandil. Oleme kohustunud oma kliente täielikult teavitama kõigist nende konto turvalisusega seotud küsimustest ja andma neile kogu teabe, mis on vajalik, et aidata neil täita oma regulatiivseid aruandluskohustusi.</p>
+<p>Saidi (WEBSITE_URL) kasutaja isikuandmeid ei avaldata ilma kasutaja teadmata, neid vahetatakse, edastatakse, loovutatakse ega müüda mis tahes andmekandjal kolmandatele isikutele. Ainult hüpotees saidi (WEBSITE_URL) ja selle õiguste lunastamise kohta võimaldaks edastada nimetatud teavet potentsiaalsele ostjale, kes omakorda oleks seotud sama kohustusega säilitada ja muuta veebisaidi kasutaja suhtes andmeid (WEBSITE_URL).</p>
+
+<h3>Turvalisus</h3>
+<p>Isikuandmete ja isiklike terviseandmete turvalisuse ja konfidentsiaalsuse tagamiseks kasutab (WEBSITE_URL) võrke, mis on kaitstud standardsete seadmetega, nagu tulemüürid, pseudonüümiseerimine, krüpteerimine ja paroolid.</p>
+<p>Isikuandmete töötlemisel võtab (WEBSITE_URL) kõik mõistlikud meetmed, et kaitsta neid kaotsimineku, väärkasutuse, volitamata juurdepääsu, avalikustamise, muutmise või hävitamise eest.</p>
+
+<h2>9. Hüperteksti lingid "küpsised" ja Interneti-sildid ("sildid")</h2>
+<p>Sait (WEBSITE_URL) sisaldab teatud arvu hüpertekstilinke teistele saitidele, mis on seadistatud saidi (WEBSITE_URL) volitusel. Siiski ei ole (WEBSITE_URL) võimalust külastatud saitide sisu kontrollida ja seetõttu ei võta ta selle eest vastutust.</p>
+<p>Kui te ei otsusta küpsiseid keelata, nõustute, et sait võib neid kasutada. Saate need küpsised igal ajal ja tasuta deaktiveerida, kasutades teile pakutavaid ja allpool meelde tuletatud deaktiveerimisvõimalusi, teades, et see võib vähendada või takistada juurdepääsu kõigile saidi pakutavatele teenustele või osadele neist.</p>
+
+<h3>9.1. KÜPSISTE kasutamine</h3>
+<p>"Küpsis" on väike teabefail, mis saadetakse Kasutaja brauserisse ja salvestatakse kasutaja terminali (nt arvuti, nutitelefon) (edaspidi "küpsised"). See fail sisaldab teavet, nagu kasutaja domeeninimi, kasutaja Interneti-juurdepääsu pakkuja, kasutaja operatsioonisüsteem, samuti juurdepääsu kuupäev ja kellaaeg. Küpsised ei riski mingil viisil kahjustada Kasutaja terminali.</p>
+<p>(WEBSITE_URL) töötleb tõenäoliselt kasutaja teavet, mis puudutab tema saidi külastust, näiteks külastatud lehti, tehtud otsinguid. See teave võimaldab (WEBSITE_URL) parandada saidi sisu, kasutaja navigeerimist.</p>
+<p>Küpsised, mis hõlbustavad navigeerimist ja/või saidi pakutavate teenuste pakkumist, saab kasutaja seadistada oma brauseri nii, et ta saaks otsustada, kas ta soovib nendega nõustuda või mitte, nii et küpsised salvestatakse terminali või vastupidi. , lükatakse need tagasi kas süstemaatiliselt või vastavalt nende väljaandjale. Kasutaja saab ka seadistada oma brauseri tarkvara nii, et talle pakutakse aeg-ajalt küpsiste aktsepteerimist või keeldumist, enne kui küpsis tõenäoliselt tema terminali salvestatakse. (WEBSITE_URL) teavitab kasutajat, et sel juhul ei pruugi kõik tema navigatsioonitarkvara funktsioonid saadaval olla.</p>
+<p> Kui kasutaja keeldub küpsiste registreerimisest oma terminalis või brauseris või kui kasutaja kustutab need, mis on seal registreeritud, teavitatakse kasutajat, et tema navigeerimine ja saidil kasutamise kogemus võivad olla piiratud. See võib juhtuda ka siis, kui (WEBSITE_URL) või üks selle teenusepakkujatest ei suuda tehnilise ühilduvuse huvides tuvastada terminali kasutatava brauseri tüüpi, keele- ja kuvaseadeid või riiki, kust terminal näib olevat ühendatud Internetti.</p>
+<p>Vajadusel loobub (WEBSITE_URL) igasugusest vastutusest tagajärgede eest, mis on seotud saidi halvenenud toimimisega ja (WEBSITE_URL) pakutavate teenustega, mis tulenevad (i) kasutaja poolt küpsiste kasutamisest keeldumisest (ii) (WEBSITE_URL) ei saa kasutaja valiku tõttu oma tööks vajalikke küpsiseid salvestada või nendega tutvuda. Küpsiste ja kasutajate valikute haldamiseks on iga brauseri konfiguratsioon erinev. Seda kirjeldatakse brauseri abimenüüs, kust saate teada, kuidas kasutaja saab küpsiste osas oma soove muuta.</p>
+<p>Kasutaja saab igal ajal valida, kas väljendada ja muuta oma soove seoses küpsiste kasutamisega. (WEBSITE_URL) võib selles jaotises kirjeldatud teabe kogumiseks ja töötlemiseks kasutada ka väliste teenusepakkujate teenuseid.</p>
+<p>Lõpuks klõpsates ikoonidel, mis on pühendatud sotsiaalvõrgustikele Twitter, Facebook, Linkedin ja Google Plus, mis ilmuvad saidil (WEBSITE_URL) või selle mobiilirakenduses ja kui kasutaja on sirvimist jätkates küpsiste sissemakse vastu võtnud. veebisaidil või (WEBSITE_URL) mobiilirakenduses, Twitter, Facebook, Linkedin ja Google Plus võivad teie seadmetesse (arvuti, tahvelarvuti, mobiiltelefon) samuti küpsiseid paigutada.</p>
+<p>Seda tüüpi küpsised paigutatakse teie terminalidesse ainult siis, kui nõustute nendega, jätkates veebisaidi (WEBSITE_URL) või mobiilirakenduse sirvimist. Kasutaja võib sellegipoolest igal ajal tagasi võtta oma nõusoleku (WEBSITE_URL) seda tüüpi küpsise salvestamiseks.</p>
+
+<h3>Jaotis 9.2. INTERNETI MÄRGID</h3>
+<p>(WEBSITE_URL) võib aeg-ajalt kasutada veebimajakaid ja juurutada neid veebianalüütikapartneri kaudu, kes võib asuda (ja seetõttu salvestada seotud teavet, sealhulgas kasutaja IP-aadressi) välisriigis.</p>
+<p>Need sildid paigutatakse nii veebireklaamidesse, mis võimaldavad Interneti-kasutajatel saidile juurdepääsu, kui ka saidi erinevatele lehtedele. </p>
+<p>See tehnoloogia võimaldab (WEBSITE_URL) hinnata külastajate vastuseid saidile ja selle toimingute tõhusust (näiteks lehe avamiste arvu ja uuritud teavet), samuti selle saidi kasutamist kasutaja. </p>
+<p>Väline teenusepakkuja võib neid silte kasutades koguda teavet saidi ja muude veebisaitide külastajate kohta, koostada saidi tegevuse kohta aruandeid (WEBSITE_URL) ning pakkuda muid selle ja Interneti kasutamisega seotud teenuseid. </p>
+
+<h2>10. Kohaldatav seadus ja kohtualluvuse määramine.</h2>
+<p>Saidi (WEBSITE_URL) kasutamisega seotud vaidluste suhtes kohaldatakse kriminaalõigust. Välja arvatud juhtudel, kui seadus seda ei võimalda, antakse ainupädevus pädevatele kohtutele.</p>

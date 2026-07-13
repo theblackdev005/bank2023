@@ -1,0 +1,20 @@
+<P>(WEBSITE_NAME) ha lo scopo di fornire la migliore esperienza online durante la vostra visita al nostro sito web, che è il motivo per cui usiamo certi tipi di "cookies". </P>
+
+<H3> Cosa sono i cookies? </H3>
+<P> I cookie sono pacchetti di informazioni inviate da un web server (in questo caso, da questo sito) nel browser Internet del visitatore, memorizzati nel computer e inviati al server quando si accede al seguente sito web. Pertanto, per il pieno utilizzo di questo sito, si consiglia di configurare il browser per accettare la ricezione di cookie. </P>
+
+<H3> Perché lo usiamo? </H3>
+<P> I cookie vengono utilizzati per facilitare la navigazione all'interno del sito e l'uso corretto e per fini statistici, per conoscere quali aree del sito sono stati visitati per apportare miglioramenti e aggiornamenti basati su modelli di utilizzo. I cookies utilizzati in questo sito non consentono l'acquisizione di dati personali identificativi degli utenti. L'utente può quindi navigare il sito senza rivelare informazioni personali. </P>
+
+<H3> Tipo di cookie utilizzati </h3>
+<P> "cookies di sessione" - risiede esclusivamente nella memoria del computer dell'utente e vengono cancellati una volta che il browser viene chiuso. L'uso è strettamente limitato alla trasmissione di identificativi di sessione costituiti da numeri casuali generati dal server, necessari per consentire a un sito per essere sicuro ed efficace. </P>
+<P> Questi cookie ci permettono di raccogliere informazioni anonime sulle pagine visitate da un utente e come si utilizza il nostro sito per migliorare la navigazione in futuro e determinare l'origine di eventuali messaggi di errore. Ad esempio, la raccolta di informazioni sulle pagine visitate, il numero di visite, browser del visitatore. </P>
+
+<H3> cookie di terze </h3>
+<P> Il nostro sito può, di tanto in tanto contenere link a siti web di terzi. Se si segue un link a questi siti, si prega di consultare i loro politiche sulla privacy, sui cookie e come vengono gestiti prima di fornire dati personali su questi siti. </P>
+
+<H3> Come gestire le impostazioni per i cookie? </H3>
+<P> Per fare in modo che si fanno il miglior uso del nostro sito web, si consiglia di accettare i cookie. La maggior parte dei browser è inizialmente programmata per accettare i cookie. Si può, in qualsiasi momento, impostare il browser per accettare tutti i cookie. Inoltre, è possibile impostare le preferenze per il browser da notificare ogni volta che un cookie viene memorizzato sul computer. Si prega di notare che i cookie disabili possono impedire l'uso normale e ottimale del sito. </P>
+
+<H3> Modifiche a questa politica </h3>
+<P> Questa politica può cambiare nel tempo ed è legato anche l'entrata in vigore di nuove normative. </P>

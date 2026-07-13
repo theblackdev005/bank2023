@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Tiliehdot",
+	"TRAD_2" => "Kun käytät sivustoa (WEBSITE_NAME) ja käytät sitä, hyväksyt nämä tiliehdot täysin ja varauksetta. Lue ne huolellisesti ennen tilin luomista ja palveluidemme käyttöä. Jos et hyväksy näitä ehtoja, älä käytä sivustoa (WEBSITE_NAME).",
+	"TRAD_3" => "Tilin luominen",
+	"TRAD_4" => "Käyttääksesi palveluitamme sinun on luotava tili antamalla tarkat, ajantasaiset ja täydelliset tiedot.",
+	"TRAD_5" => "Olet vastuussa tilitietojesi luottamuksellisuudesta ja salasanasi turvaamisesta.",
+	"TRAD_6" => "Tilin käyttö",
+	"TRAD_7" => "Olet vastuussa kaikista tililläsi suoritetuista toimista.",
+	"TRAD_8" => "Suostut käyttämään sivustoa (WEBSITE_NAME) vain laillisiin tarkoituksiin ja voimassa olevien lakien mukaisesti.",
+	"TRAD_9" => "Et saa laittomasti käyttää tai yrittää päästä käsiksi tileihin, järjestelmiin tai tietoihin, jotka eivät kuulu sinulle.",
+	"TRAD_10" => "Verkkopankkipalvelut",
+	"TRAD_11" => "(WEBSITE_NAME) antaa sinun käyttää tiettyjä pankkipalveluita, kuten saldojen tarkistamista, siirtoja, maksuja jne.",
+	"TRAD_12" => "Pidätämme oikeuden muokata tai rajoittaa (WEBSITE_NAME) -sivustolla saatavilla olevia palveluita ilman erillistä ilmoitusta.",
+	"TRAD_13" => "Turvallisuus ja pääsy",
+	"TRAD_14" => "Ryhdymme kohtuullisiin toimenpiteisiin suojataksemme tilitietosi ja tapahtumiesi turvallisuutta.",
+	"TRAD_15" => "Jos tilitietosi varastetaan, katoaa tai annetaan luvatta, ilmoita siitä meille välittömästi.",
+	"TRAD_16" => "Vastuullisuus",
+	"TRAD_17" => "Otat täyden vastuun antamistasi tiedoista ja tililläsi tehdyistä toimista.",
+	"TRAD_18" => "Emme ole vastuussa mistään vahingoista, jotka johtuvat siitä, että kolmannet osapuolet ovat käyttäneet tilitietojasi.",
+	"TRAD_19" => "Palkkiot ja provisiot",
+	"TRAD_20" => "Tietyistä palveluista voidaan periä maksuja ja palkkioita. Näiden maksujen yksityiskohdat ilmoitetaan sivuston (WEBSITE_NAME) asianmukaisissa osioissa.",
+	"TRAD_21" => "Tilin lopettaminen",
+	"TRAD_22" => "Voit lopettaa tilisi milloin tahansa noudattamalla sivulla (WEBSITE_NAME) annettuja ohjeita.",
+	"TRAD_23" => "Pidätämme oikeuden sulkea tilisi, jos rikot näitä Tiliehtoja tai mistä tahansa perustellusta syystä.",
+	"TRAD_24" => "Muutokset ehtoihin",
+	"TRAD_25" => "Voimme muuttaa näitä tiliehtoja milloin tahansa. Muutokset tulevat voimaan, kun ne julkaistaan sivustolla (WEBSITE_NAME).",
+	"TRAD_26" => "Jatkamalla sivuston (WEBSITE_NAME) käyttöä muutosten julkaisemisen jälkeen hyväksyt tarkistetut tiliehdot.",
+	"TRAD_27" => "Tilin ehdot"
+);

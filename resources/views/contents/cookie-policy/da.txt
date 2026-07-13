@@ -1,0 +1,20 @@
+<P> (WEBSITE_NAME) har til formål at give den bedste online oplevelse under dit besøg på vores hjemmeside, hvilket er grunden til vi bruger bestemte typer af "cookies". </P>
+
+<H3> Hvad er cookies? </H3>
+<P> Cookies er pakker af oplysninger, der sendes af en webserver (i dette tilfælde, som dette site) i internetbrowseren af den besøgende, der er gemt på sin computer og sendes til serveren ved adgang til følgende websted. Derfor, for den fulde udnyttelse af dette websted, anbefaler vi dig at konfigurere browseren til at acceptere modtagelse af cookies. </P>
+
+<H3> Hvorfor bruger vi det? </H3>
+<P> Cookies bruges til at lette navigeringen inden for webstedet og korrekt brug og til statistiske formål, at vide, hvilke områder af webstedet blev besøgt at foretage forbedringer og opdateringer baseret på brugsmønstre. De cookies, der bruges på denne hjemmeside ikke tillader køb af personidentifikationsdata af brugere. Brugeren kan derefter gennemse webstedet uden at afsløre personlige oplysninger. </P>
+
+<H3> Type af cookies bruges </h3>
+<P> "Session cookies" - ligger udelukkende i hukommelsen på brugerens computer og slettes, når browseren lukkes. Brugen er strengt begrænset til transmission af sessions-id'er består af tilfældige tal genereret af serveren, er nødvendig for at gøre det muligt for et websted for at være sikker og effektiv. </P>
+<P> Disse cookies giver os mulighed for at indsamle anonyme oplysninger om de besøges af en bruger, og hvordan du bruger vores hjemmeside for at forbedre navigation i fremtiden, og bestemme kilden til eventuelle fejlmeddelelser sider. For eksempel, at indsamle oplysninger om de besøgte sider, antallet af besøg, den besøgendes browser. </P>
+
+<H3> Cookies tredje </h3>
+<P> Vores hjemmeside kan, fra tid til anden indeholde links til tredjeparts websteder. Hvis du følger et link til disse steder, skal du kontakte deres privatliv politikker, om cookies, og hvordan de forvaltes før give personlige oplysninger på disse websteder. </P>
+
+<H3> Hvordan til at administrere indstillingerne for cookies? </H3>
+<P> For at sikre, at du gør bedst brug af vores hjemmeside, anbefaler vi, at du accepterer cookies. De fleste Internet browsere er oprindeligt indstillet til at acceptere cookies. Du kan til enhver tid, skal du indstille din browser til at acceptere alle cookies. Derudover kan du angive indstillinger for browseren at blive underrettet, hver gang der gemmes en cookie på din computer. Bemærk, at handicappede cookies kan forhindre normal og optimal udnyttelse af pladsen.</P>
+
+<H3> Ændringer i denne politik </h3>
+<P> Denne politik kan ændre sig over tid, og er også knyttet til ikrafttrædelsen af nye regler. </P>

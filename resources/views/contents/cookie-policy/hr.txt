@@ -1,0 +1,20 @@
+<p>(WEBSITE_NAME) ima za cilj pružiti najbolje online iskustvo tijekom vašeg posjeta našoj stranici, zbog čega koristimo određene vrste "kolačića".</p>
+
+<h3>Što su kolačići?</h3>
+<p>Kolačići su paketi informacija koje web-poslužitelj (u ovom slučaju, ova stranica) šalje u internetski preglednik posjetitelja, pohranjuju se na njihovo računalo i šalju poslužitelju svaki put kada se stranici sljedeći put pristupi. Stoga, za potpunu upotrebu ove stranice, savjetujemo vam da konfigurirate preglednik da prihvati primanje kolačića.</p>
+
+<h3>Zašto ih koristimo?</h3>
+<p>Kolačići se koriste za olakšavanje navigacije kroz stranicu i ispravnu upotrebu te u statističke svrhe, kako bi se znalo koja su područja stranice posjećena radi poboljšanja i ažuriranja na temelju obrazaca korištenja. Kolačići koji se koriste na ovoj stranici ne dopuštaju stjecanje osobnih identifikacijskih podataka korisnika. Korisnik tada može pregledavati stranicu bez otkrivanja svojih osobnih podataka.</p>
+
+<h3>Vrsta korištenih kolačića</h3>
+<p>"Kolačići sesije" - nalaze se isključivo u memoriji računala korisnika i brišu se nakon zatvaranja preglednika. Korištenje je strogo ograničeno na prijenos identifikatora sesije, koji se sastoje od nasumičnih brojeva koje generira poslužitelj, a koji su potrebni kako bi web-mjesto bilo sigurno i učinkovito.</p>
+<p>Ovi nam kolačići omogućuju prikupljanje anonimnih informacija o stranicama koje je korisnik posjetio i o tome kako koristite našu stranicu kako bismo poboljšali navigaciju u budućnosti i utvrdili izvor mogućih poruka o pogrešci. Na primjer, prikupiti podatke o posjećenim stranicama, broju posjeta, pregledniku posjetitelja.</p>
+
+<h3>Kolačići treće strane</h3>
+<p>Naša stranica može, s vremena na vrijeme, sadržavati veze na web stranice trećih strana. Ako slijedite vezu do ovih web-mjesta trećih strana, pregledajte njihova pravila o privatnosti, o kolačićima i načinu na koji se njima upravlja prije pružanja bilo kakvih osobnih podataka na tim stranicama.</p>
+
+<h3>Kako upravljati postavkama kolačića?</h3>
+<p>Kako bismo osigurali da na najbolji način koristite našu web stranicu, preporučujemo da prihvatite kolačiće. Većina internetskih preglednika u početku je konfigurirana za prihvaćanje kolačića. U bilo kojem trenutku možete konfigurirati svoj preglednik da prihvati sve kolačiće. Osim toga, možete postaviti postavke da preglednik bude obaviješten svaki put kada se kolačić pohrani na vaše računalo. Imajte na umu da nevažeći kolačići mogu spriječiti normalno i optimalno korištenje stranice.</p>
+
+<h3>Promjene ovih Pravila</h3>
+<p>Ova se pravila s vremenom mogu promijeniti i također su povezana sa stupanjem na snagu novih propisa.</p>

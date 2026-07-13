@@ -1,0 +1,112 @@
+<h2>Määritelmät</h2>
+<p>
+<b>Asiakas:</b> mikä tahansa ammattihenkilö tai luonnollinen henkilö, joka on siviililain seuraavien artiklojen mukaisesti pätevä, tai oikeushenkilö, joka vierailee sivustolla näiden yleisten ehtojen mukaisesti.<br>
+<b>Edut ja palvelut:</b> (WEBSITE_URL) tarjoaa asiakkaille:
+</p>
+<p><b>Sisältö:</b> Kaikki sivustolla olevien tietojen osatekijät, erityisesti tekstit – kuvat – videot.</p>
+<p><b>Asiakastiedot:</b> Jäljempänä "Tiedot", jotka vastaavat kaikkia henkilötietoja, joita (WEBSITE_NAME) todennäköisesti säilyttää tilisi hallintaa, asiakkaan hallintaa ja analyyttisiä varten. ja tilastollisiin tarkoituksiin.</p>
+<p><b>Käyttäjä:</b> Internet-käyttäjä, joka muodostaa yhteyden yllä mainitun sivuston kautta.</p>
+<p><b>Henkilötiedot:</b> "Tiedot, jotka mahdollistavat missä tahansa muodossa suoraan tai välillisesti niiden luonnollisten henkilöiden tunnistamisen, joita ne koskevat".</p>
+<p>Termeillä "henkilötiedot", "rekisteröity", "alihankkija" ja "arkaluonteiset tiedot" on määritelty yleisessä tietosuoja-asetuksessa (RGPD: nro 2016-679)</p>
+
+<h2>1. Verkkosivuston esittely.</h2>
+<p>21. kesäkuuta 2004 luottamuksesta digitaalitalouteen annetun lain nro 2004-575 6 artiklan mukaan verkkosivuston (WEBSITE_URL) käyttäjille tiedotetaan eri sidosryhmien henkilöllisyydestä sen täytäntöönpanon ja seurannan yhteydessä: </p>
+<p>
+<b>Omistaja</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Julkaisupäällikkö</b>: (AUTHOR_NAME)<br>
+<b>Verkkovastaava</b>: (WEBMASTER_NAME)<br>
+<b>Tietosuojavastaava</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. Sivuston ja tarjottujen palvelujen yleiset käyttöehdot.</h2>
+<p>Sivusto on henkinen teos, joka on suojattu immateriaalioikeuskoodin ja sovellettavien kansainvälisten määräysten määräysten mukaisesti. Asiakas ei saa millään tavalla käyttää uudelleen, siirtää tai hyödyntää omaan lukuunsa kaikkia Sivuston elementtejä tai teoksia tai osaa niistä.</p>
+<p>Sivuston (WEBSITE_NAME) käyttö edellyttää alla kuvattujen yleisten käyttöehtojen täyttä hyväksymistä. Näitä käyttöehtoja voidaan muuttaa tai täydentää milloin tahansa, joten sivuston (WEBSITE_NAME) käyttäjiä pyydetään tutustumaan niihin säännöllisesti.</p>
+<p>Tämä verkkosivusto on yleensä käyttäjien käytettävissä milloin tahansa. (WEBSITE_NAME) voi kuitenkin päättää teknisestä huollosta johtuvasta keskeytyksestä, joka pyrkii viestimään käyttäjille ennen toimenpiteen päivämäärät ja kellonajat. Oikeudellisia huomautuksia voidaan muuttaa milloin tahansa: ne kuitenkin sitovat käyttäjää, jota pyydetään tutustumaan niihin mahdollisimman usein.</p>
+
+<h2>3. Kuvaus tarjotuista palveluista.</h2>
+<p>Sivuston (WEBSITE_NAME) tarkoitus on tarjota tietoa kaikesta yrityksen toiminnasta. (WEBSITE_NAME) pyrkii tarjoamaan mahdollisimman tarkkoja tietoja. Sitä ei kuitenkaan voida pitää vastuullisena päivityksen puutteista, epätarkkuuksista ja puutteista, joko itse tai kolmannet osapuolet, jotka toimittavat sille nämä tiedot.</p>
+<p>Kaikki sivustolla (WEBSITE_NAME) ilmoitetut tiedot ovat vain tiedoksi, ja ne voivat muuttua. Lisäksi sivuston (WEBSITE_NAME) tiedot eivät ole tyhjentäviä. Niihin saatetaan tehdä muutoksia, jotka on tehty sen jälkeen, kun ne asetettiin verkkoon.</p>
+
+<h2>4. Teknisiä tietoja koskevat sopimusrajoitukset.</h2>
+<p>Sivusto käyttää JavaScript-tekniikkaa. Sivusto ei ole vastuussa sivuston käyttöön liittyvistä aineellisista vahingoista. Lisäksi sivuston käyttäjä sitoutuu käyttämään sivustoa uusimmilla, viruksia sisältämättömillä laitteilla ja päivitetyllä uusimman sukupolven selaimella. Sivustoa (WEBSITE_NAME) isännöi palveluntarjoaja Euroopan unionin alueella yleisten tietosuoja-asetusten (RGPD: nro 2016-679) määräysten mukaisesti.</p>
+<p>Tavoitteena on tarjota palvelu, joka varmistaa parhaan saavutettavuuden. Isäntä varmistaa palvelunsa jatkuvuuden 24 tuntia vuorokaudessa, vuoden jokaisena päivänä. Se varaa kuitenkin oikeuden keskeyttää isännöintipalvelun mahdollisimman lyhyeksi ajaksi, erityisesti huoltoa, infrastruktuurinsa parantamista, infrastruktuurien toimintahäiriöitä tai jos Palvelut ja Palvelut synnyttävät epänormaalia liikennettä.</p>
+<p>(WEBSITE_NAME) ja isäntä eivät ole vastuussa Internet-verkon, puhelinlinjojen tai tietokone- ja puhelinlaitteiden toimintahäiriöistä, jotka liittyvät erityisesti verkon ruuhkautumiseen, joka estää pääsyn palvelimelle.</p>
+
+<h2>5. Immateriaaliomaisuus ja väärennökset.</h2>
+<p>(WEBSITE_NAME) on immateriaalioikeuksien omistaja ja omistaa käyttöoikeudet kaikkiin sivustolla oleviin elementteihin, erityisesti teksteihin, kuviin, grafiikkaan, logoihin, videoihin, kuvakkeisiin ja ääniin. Kaikkien sivuston elementtien tai osien kopioiminen, esittäminen, muokkaaminen, julkaiseminen, mukauttaminen käytetyistä keinoista tai prosessista riippumatta on kiellettyä, paitsi jos (WEBSITE_NAME) on etukäteen saatu kirjallinen lupa.</p>
+<p>Sivuston tai sen sisältämien elementtien luvaton käyttö katsotaan loukkaukseksi, ja siitä asetetaan syytteeseen immateriaalioikeuslain artiklojen L.335-2 ja sitä seuraavien määräysten mukaisesti.</p>
+
+<h2>6. Vastuun rajoitus.</h2>
+<p>(WEBSITE_NAME) toimii sivuston julkaisijana. (WEBSITE_NAME) on vastuussa julkaisemansa Sisällön laadusta ja todenperäisyydestä.</p>
+<p>(WEBSITE_NAME) ei ole vastuussa suorista tai epäsuorista vahingoista, jotka aiheutuvat käyttäjän laitteille, kun hän käyttää verkkosivustoa (WEBSITE_NAME), ja jotka johtuvat joko sellaisen laitteen käytöstä, joka ei täytä kohdassa 4 ilmoitettuja vaatimuksia tai virheen tai yhteensopimattomuuden esiintyminen.</p>
+<p>(WEBSITE_NAME) ei myöskään ole vastuussa välillisistä vahingoista (kuten markkinoiden menetyksestä tai mahdollisuuksien menetyksestä), jotka johtuvat sivuston (WEBSITE_URL) käytöstä. Käyttäjien käytettävissä on interaktiivisia tiloja (mahdollisuutta esittää kysymyksiä yhteystilassa). (WEBSITE_URL) pidättää oikeuden poistaa ilman ennakkoilmoitusta kaiken tähän tilaan lähetetyn sisällön, joka rikkoisi Euroopan unionin sovellettavaa lainsäädäntöä, erityisesti tietosuojaa koskevia säännöksiä. Tarvittaessa (WEBSITE_URL) varaa myös oikeuden kyseenalaistaa käyttäjän siviili- ja/tai rikosoikeudellisen vastuun, erityisesti rasistisen, loukkaavan, herjaavan tai pornografisen viestin tapauksessa käytetystä välineestä riippumatta. (teksti,
+
+<h2>7. Henkilötietojen hallinta.</h2>
+<p>Asiakkaalle tiedotetaan markkinointiviestintää koskevista säännöksistä, 21.6.2014 annetusta digitaalitalouden luottamuksesta annetusta laista, 6.8.2004 annetusta tietosuojalaista sekä yleisistä tietosuojasäännöistä (RGPD: No. 2016-679). </p>
+
+<h3>7.1 Henkilötietojen keräämisestä vastaavat henkilöt</h3>
+<p>Käyttäjän henkilökohtaisen tilin luomisen ja sivustolla liikkumisen yhteydessä kerättyjen henkilötietojen osalta henkilötietojen käsittelystä vastaava henkilö on: (WEBSITE_NAME).</p>
+<p>Vastaavana keräämiensä tietojen käsittelystä (WEBSITE_URL) sitoutuu noudattamaan voimassa olevia säännöksiä. Asiakkaan tehtävänä on erityisesti määrittää tietojenkäsittelynsä tarkoitukset, antaa mahdollisille asiakkailleen heidän suostumuksensa keräämisestä lähtien täydelliset tiedot henkilötietojensa käsittelystä ja ylläpitää johdonmukaista hoitorekisteriä. todellisuuden kanssa. Aina kun (WEBSITE_URL) käsittelee henkilötietoja, (WEBSITE_URL) ryhtyy kaikkiin kohtuullisiin toimiin varmistaakseen henkilötietojen oikeellisuuden ja merkityksen suhteessa niihin tarkoituksiin, joita varten (WEBSITE_URL) niitä käsittelee.</p>
+
+<h3>7.2 Kerättyjen tietojen tarkoitus</h3>
+<p>(WEBSITE_URL) voi käsitellä kaikkia tietoja tai osan niistä:</p>
+<ul>
+<li>sallimaan Sivustolla navigointi sekä käyttäjän tilaamien palvelujen hallinta ja jäljitettävyys: Sivuston yhteys- ja käyttötiedot, laskutus, tilaushistoria jne. </li>
+<li>estää ja torjua tietokonepetoksia (roskapostitus, hakkerointi jne.): selailuun käytettävät tietokonelaitteet, IP-osoite, salasana (hashed) </li>
+<li>sivustolla navigoinnin parantamiseksi: yhteys- ja käyttötiedot </li>
+<li>valinnaisten tyytyväisyyskyselyjen tekeminen osoitteessa (WEBSITE_URL): sähköpostiosoite </li>
+<li>viestintäkampanjoiden toteuttamiseen (sms, sähköposti): puhelinnumero, sähköpostiosoite</li>
+</ul>
+<p>(WEBSITE_URL) ei markkinoi henkilötietojasi, joten niitä käytetään vain pakosta tai tilastollisiin ja analyysitarkoituksiin.</p>
+
+<h3>7.3 Oikeus tutustua, oikaista ja vastustaa</h3>
+<p>Nykyisten eurooppalaisten säädösten mukaisesti sivuston (WEBSITE_URL) käyttäjillä on seuraavat oikeudet: </p>
+<ul>
+<li>käyttöoikeus (GDPR artikla 15) ja oikaisu (GDPR 16 artikla), päivittäminen, käyttäjätietojen täydellisyys oikeus estää tai poistaa henkilökohtaisia ​​käyttäjätietoja (GDPR artikla 17), kun ne ovat epätarkkoja, epätäydellisiä tai moniselitteisiä , vanhentunut tai jonka kerääminen, käyttö, viestintä tai säilyttäminen on kielletty </li>
+<li>oikeus peruuttaa suostumus milloin tahansa (GDPR artikla 13-2c) </li>
+<li>oikeus rajoittaa käyttäjätietojen käsittelyä (GDPR artikla 18) </li>
+<li>oikeus vastustaa Käyttäjätietojen käsittelyä (GDPR artikla 21) </li>
+<li>oikeus käyttäjien antamien tietojen siirrettävyyteen, kun näitä tietoja käsitellään automatisoidusti heidän suostumuksensa tai sopimuksen perusteella (GDPR artikla 20) </li>
+<li>oikeus määrittää Käyttäjien tietojen kohtalo heidän kuolemansa jälkeen ja valita, kenelle (WEBSITE_URL) on välitettävä (tai ei) tietonsa kolmannelle osapuolelle, jonka he ovat aiemmin nimenneet.</li>
+</ul>
+<p>Heti kun (WEBSITE_URL) saa tietää Käyttäjän kuolemasta ja jos hän ei ole antanut ohjeita, (WEBSITE_URL) sitoutuu tuhoamaan hänen tietonsa, ellei niiden säilyttäminen ole tarpeellista todistustarkoituksiin tai lakisääteisen velvoitteen täyttämiseksi. </p>
+<p>Jos käyttäjä haluaa tietää, kuinka (WEBSITE_URL) käyttää henkilötietojaan, pyytää oikaisua tai vastustaa niiden käsittelyä, hän voi ottaa yhteyttä (WEBSITE_URL) kirjallisesti seuraavaan osoitteeseen: (WEBSITE_ADDRESS). </p>
+<p>Käyttäjän on tässä tapauksessa ilmoitettava henkilötiedot, jotka hän haluaa (WEBSITE_URL) korjata, päivittää tai poistaa, tunnistautumalla tarkasti henkilöllisyystodistuksen kopiolla (korttihenkilöllisyys tai passi). </p>
+<p>Henkilötietojen poistopyyntöihin sovelletaan (WEBSITE_URL) laissa asetettuja velvoitteita, erityisesti asiakirjojen säilyttämisen tai arkistoinnin osalta.</p>
+
+<h3>7.4 Henkilötietojen salassapito</h3>
+<p>(WEBSITE_URL) ei saa käsitellä, isännöidä tai siirtää asiakkaistaan ​​kerättyjä tietoja Euroopan unionin ulkopuolella sijaitsevaan tai Euroopan komission "sopimattomaksi" toteamaan maahan ilmoittamatta asiasta etukäteen asiakkaalle. (WEBSITE_URL) voi kuitenkin vapaasti valita tekniset ja kaupalliset alihankkijansa sillä ehdolla, että he antavat riittävät takeet yleisten tietosuoja-asetusten (RGPD: nro 2016-679) vaatimusten suhteen. </p>
+<p>(WEBSITE_URL) sitoutuu ryhtymään kaikkiin tarvittaviin varotoimiin tietojen turvallisuuden säilyttämiseksi ja erityisesti sen, ettei niitä välitetä luvattomille henkilöille. Jos Asiakkaan Tietojen eheyteen tai luottamuksellisuuteen vaikuttava tapaus kuitenkin saatetaan (WEBSITE_URL) tietoon, viimeksi mainitun on ilmoitettava asiasta Asiakkaalle mahdollisimman pian ja ilmoitettava hänelle tehdyistä korjaavista toimenpiteistä. Lisäksi (WEBSITE_URL) ei kerää "arkaluonteisia tietoja".</p>
+<p>Sivuston (WEBSITE_URL) tytäryhtiöt ja alihankkijat (palveluntarjoajat) voivat käsitellä käyttäjän henkilötietoja yksinomaan tämän käytännön tavoitteiden saavuttamiseksi.</p>
+<p>Omien määritteidensä rajoissa ja yllä mainittuja tarkoituksia varten tärkeimmät ihmiset, joilla on todennäköisesti pääsy sivuston (WEBSITE_URL) käyttäjien tietoihin, ovat pääasiassa asiakaspalvelumme.</p>
+
+<h2>8. Tapahtumailmoitus</h2>
+<p>Yrittäisit kuinka kovasti tahansa, mikään Internetin kautta tapahtuva tiedonsiirto tai sähköinen tallennustapa ei ole täysin turvallinen. Emme siis voi taata täydellistä turvallisuutta. Jos saamme tietoomme tietoturvaloukkauksen, ilmoitamme asiasta käyttäjille, jotta he voivat ryhtyä tarvittaviin toimiin. Häiriöilmoitusmenettelymme ottavat huomioon lakisääteiset velvoitteemme kansallisella tai Euroopan tasolla. Olemme sitoutuneet tiedottamaan asiakkaillemme täysin kaikista heidän tilinsä turvallisuuteen liittyvistä seikoista ja antamaan heille kaikki tiedot, joita he tarvitsevat, jotta he voivat täyttää omat lakisääteiset raportointivelvoitteensa.</p>
+<p>Sivuston käyttäjän (WEBSITE_URL) henkilökohtaisia ​​tietoja ei julkaista ilman käyttäjän tietämystä, eikä niitä vaihdeta, siirretä, luovutetaan tai myydään millään tavalla kolmansille osapuolille. Ainoastaan ​​hypoteesi sivuston (WEBSITE_URL) lunastamisesta ja sen oikeuksista mahdollistaisi mainittujen tietojen välittämisen mahdolliselle ostajalle, jota puolestaan ​​sitoisi sama velvollisuus tallentaa ja muokata tietoja verkkosivuston käyttäjää kohtaan (WEBSITE_URL).</p>
+
+<h3>Turvallisuus</h3>
+<p>Henkilötietojen ja henkilökohtaisten terveystietojen turvallisuuden ja luottamuksellisuuden varmistamiseksi (WEBSITE_URL) käyttää verkkoja, jotka on suojattu vakiolaitteilla, kuten palomuureilla, pseudonyymisillä, salauksilla ja salasanoilla.</p>
+<p>Käsitellessä henkilötietoja (WEBSITE_URL) toteuttaa kaikki kohtuulliset toimenpiteet suojatakseen niitä katoamiselta, väärinkäytöltä, luvattomalta käytöltä, paljastamiselta, muuttamiselta tai tuhoamiselta.</p>
+
+<h2>9. Hypertekstilinkit "evästeisiin" ja Internet-tageihin ("tunnisteisiin")</h2>
+<p>Sivusto (WEBSITE_URL) sisältää tietyn määrän hypertekstilinkkejä muille sivustoille, jotka on määritetty osoitteen (WEBSITE_URL) luvalla. Sillä (WEBSITE_URL) ei kuitenkaan ole mahdollisuutta tarkistaa näin vierailtujen sivustojen sisältöä, joten se ei ole vastuussa tästä.</p>
+<p>Ellet päätä poistaa evästeitä käytöstä, hyväksyt, että sivusto voi käyttää niitä. Voit poistaa nämä evästeet käytöstä milloin tahansa ja maksutta käyttämällä sinulle tarjottuja ja alla mainittuja deaktivointimahdollisuuksia tietäen, että tämä voi heikentää tai estää pääsyn kaikkiin tai osiin sivuston tarjoamiin palveluihin.</p>
+
+<h3>9.1. Evästeiden käyttö</h3>
+<p>"Eväste" on pieni tietotiedosto, joka lähetetään Käyttäjän selaimeen ja tallennetaan Käyttäjän päätelaitteisiin (esim. tietokoneeseen, älypuhelimeen) (jäljempänä "evästeet"). Tämä tiedosto sisältää tietoja, kuten Käyttäjän verkkotunnuksen, Käyttäjän Internet-palveluntarjoajan, Käyttäjän käyttöjärjestelmän sekä käyttöpäivämäärän ja -ajan. Evästeet eivät millään tavalla vaaranna käyttäjän päätettä.</p>
+<p>(WEBSITE_URL) käsittelee todennäköisesti käyttäjän tietoja, jotka koskevat hänen vierailuaan Sivustossa, kuten tarkasteltuja sivuja ja suoritettuja hakuja. Näiden tietojen avulla (WEBSITE_URL) voi parantaa sivuston sisältöä, käyttäjän navigointia.</p>
+<p>Evästeet, jotka helpottavat navigointia ja/tai Sivuston tarjoamien palvelujen tarjoamista, Käyttäjä voi määrittää selaimensa sallimaan hänen päättää, haluaako hän hyväksyä ne niin, että evästeet tallennetaan päätteeseen tai päinvastoin. , ne hylätään joko järjestelmällisesti tai liikkeeseenlaskijansa mukaan. Käyttäjä voi myös konfiguroida selainohjelmistonsa niin, että hänelle tarjotaan ajoittain evästeiden hyväksymistä tai kieltäytymistä, ennen kuin eväste todennäköisesti tallentuu hänen päätelaitteeseensa. (WEBSITE_URL) ilmoittaa käyttäjälle, että tässä tapauksessa kaikki hänen navigointiohjelmistonsa toiminnot eivät välttämättä ole käytettävissä.</p>
+<p> Jos käyttäjä kieltäytyy rekisteröimästä evästeitä päätelaitteeseensa tai selaimeensa tai jos käyttäjä poistaa siellä rekisteröidyt evästeet, käyttäjälle ilmoitetaan, että hänen navigointiaan ja kokemustaan ​​Sivustolla voidaan rajoittaa. Näin voi olla myös silloin, kun (WEBSITE_URL) tai jokin sen palveluntarjoajista ei voi teknisen yhteensopivuuden vuoksi tunnistaa päätelaitteen käyttämän selaimen tyyppiä, kieli- ja näyttöasetuksia tai maata, josta pääte näyttää olevan yhteydessä Internetissä.</p>
+<p>Soveltuvin osin (WEBSITE_URL) kieltäytyy kaikesta vastuusta seurauksista, jotka liittyvät Sivuston heikentyneeseen toimintaan ja (WEBSITE_URL) mahdollisesti tarjoamiin palveluihin, jotka johtuvat (i) siitä, että käyttäjä on kieltäytynyt evästeistä (ii) (WEBSITE_URL) on mahdotonta tallentaa tai tarkastella toimintansa edellyttämiä evästeitä käyttäjän valinnan vuoksi. Evästeiden ja käyttäjien valintojen hallinnassa kunkin selaimen asetukset ovat erilaiset. Se on kuvattu selaimen ohjevalikossa, josta voit tietää, kuinka käyttäjä voi muokata evästeitä koskevia toiveitaan.</p>
+<p>Käyttäjä voi milloin tahansa halutessaan ilmaista ja muokata evästeitä koskevia toiveitaan. (WEBSITE_URL) voi myös käyttää ulkopuolisten palveluntarjoajien palveluita auttaakseen keräämään ja käsittelemään tässä osiossa kuvattuja tietoja.</p>
+<p>Lopuksi napsauttamalla sosiaalisten verkostojen Twitter, Facebook, Linkedin ja Google Plus kuvakkeita, jotka näkyvät sivustossa (WEBSITE_URL) tai sen mobiilisovelluksessa ja jos käyttäjä on hyväksynyt evästeiden talletuksen jatkamalla selaamista Verkkosivustolla tai (WEBSITE_URL) mobiilisovelluksessa Twitter, Facebook, Linkedin ja Google Plus voivat myös asettaa evästeitä laitteillesi (tietokone, tabletti, matkapuhelin).</p>
+<p>Tämän tyyppisiä evästeitä sijoitetaan päätelaitteillesi vain, jos hyväksyt ne jatkamalla verkkosivuston tai (WEBSITE_URL) mobiilisovelluksen selaamista. Käyttäjä voi kuitenkin milloin tahansa peruuttaa suostumuksensa (WEBSITE_URL) tämäntyyppisen evästeen tallentamiseen.</p>
+
+<h3>Osio 9.2. INTERNET-TAGIT</h3>
+<p>(WEBSITE_URL) voi ajoittain käyttää jäljitteitä ja ottaa ne käyttöön verkkoanalytiikkakumppanin kautta, joka saattaa sijaita (ja siksi tallentaa asiaan liittyviä tietoja, mukaan lukien käyttäjän IP-osoite) vieraassa maassa.</p>
+<p>Nämä tunnisteet sijoitetaan sekä online-mainoksiin, jotka antavat Internetin käyttäjille pääsyn sivustoon, että sivuston eri sivuille. </p>
+<p>Tämän tekniikan avulla (WEBSITE_URL) voi arvioida vierailijoiden vastauksia sivustoon ja sen toimien tehokkuutta (esimerkiksi sivun avauskertojen lukumäärää ja tarkasteltujen tietojen määrää) sekä tämän sivuston käyttöä käyttäjä. </p>
+<p>Ulkoinen palveluntarjoaja voi kerätä tietoja Sivuston ja muiden Internet-sivustojen vierailijoista näiden tunnisteiden avulla, koota raportteja Sivuston toiminnasta (WEBSITE_URL) huomioivaksi ja tarjota muita sen ja Internetin käyttöön liittyviä palveluita. </p>
+
+<h2>10. Sovellettava laki ja toimivallan myöntäminen.</h2>
+<p>Kaikki kiistat, jotka liittyvät sivuston (WEBSITE_URL) käyttöön, ovat rikoslain alaisia. Lukuun ottamatta tapauksia, joissa laki ei salli sitä, yksinomainen toimivalta on toimivaltaisilla tuomioistuimilla.</p>

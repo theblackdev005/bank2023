@@ -1,0 +1,20 @@
+<p>(WEBSITE_NAME) saytimizga tashrif buyurganingizda eng yaxshi onlayn tajribani taqdim etishga qaratilgan, shuning uchun biz ma'lum turdagi "cookie"lardan foydalanamiz.</p>
+
+<h3>Cookie-fayllar nima?</h3>
+<p>Cookie-fayllar - bu veb-server (bu holda, ushbu sayt) tomonidan tashrif buyuruvchining Internet-brauzeriga yuborilgan, uning kompyuterida saqlanadigan va saytga har safar keyingi kirishda serverga yuboriladigan ma'lumotlar paketlari. Shu sababli, ushbu saytdan toʻliq foydalanish uchun brauzerni cookie-fayllarni qabul qilish uchun sozlashingiz tavsiya etiladi.</p>
+
+<h3>Nima uchun biz ulardan foydalanamiz?</h3>
+<p>Cookie-fayllar sayt bo'ylab navigatsiyani osonlashtirish va to'g'ri foydalanish va statistik maqsadlarda, saytning qaysi sohalariga tashrif buyurilganligini bilish uchun, foydalanish namunalari asosida yaxshilash va yangilanishlarni amalga oshirish uchun ishlatiladi. Ushbu saytda ishlatiladigan cookie-fayllar foydalanuvchilarning shaxsiy identifikatsiya ma'lumotlarini olishga ruxsat bermaydi. Keyin foydalanuvchi shaxsiy maʼlumotlarini oshkor qilmasdan saytni koʻrib chiqishi mumkin.</p>
+
+<h3>Ishlatilgan cookie-fayllar turi</h3>
+<p>"Seans cookie-fayllari" - faqat foydalanuvchi kompyuterining xotirasida joylashadi va brauzer yopilgandan keyin o'chiriladi. Foydalanish qat'iy ravishda server tomonidan yaratilgan tasodifiy raqamlardan iborat bo'lgan seans identifikatorlarini uzatish bilan cheklangan, bu sayt xavfsiz va samarali bo'lishiga imkon beradi.</p>
+<p>Ushbu cookie-fayllar kelajakda navigatsiyani yaxshilash va yuzaga kelishi mumkin bo'lgan xato xabarlari manbasini aniqlash uchun foydalanuvchi tashrif buyurgan sahifalar va siz bizning saytimizdan qanday foydalanishingiz haqida anonim ma'lumotlarni to'plash imkonini beradi. Masalan, tashrif buyurilgan sahifalar, tashriflar soni, tashrif buyuruvchilar brauzeri haqida ma'lumot to'plang.</p>
+
+<h3>Uchinchi tomon cookie-fayllari</h3>
+<p>Bizning saytimiz vaqti-vaqti bilan uchinchi tomon veb-saytlariga havolalarni o'z ichiga olishi mumkin. Agar siz ushbu uchinchi tomon saytlariga havolani kuzatsangiz, ushbu saytlarda shaxsiy maʼlumotlarni taqdim etishdan oldin ularning maxfiylik siyosatlari, cookie-fayllar va ular qanday boshqarilishi haqida koʻrib chiqing.</p>
+
+<h3>Cookie sozlamalarini qanday boshqarish mumkin?</h3>
+<p>Veb-saytimizdan maksimal darajada foydalanishingizga ishonch hosil qilish uchun cookie-fayllarni qabul qilishingizni tavsiya qilamiz. Ko'pgina Internet-brauzerlar dastlab cookie-fayllarni qabul qilish uchun tuzilgan. Siz istalgan vaqtda brauzeringizni barcha cookie-fayllarni qabul qiladigan tarzda sozlashingiz mumkin. Bundan tashqari, kompyuteringizda cookie-fayllar har safar saqlanganida brauzerga xabar berish uchun afzalliklarni o'rnatishingiz mumkin. Yaroqsiz cookie-fayllar saytdan normal va maqbul foydalanishga xalaqit berishi mumkinligini unutmang.</p>
+
+<h3>Ushbu siyosatga kiritilgan o'zgartirishlar</h3>
+<p>Ushbu siyosat vaqt oʻtishi bilan oʻzgarishi mumkin va u yangi qoidalarning kuchga kirishi bilan ham bogʻliq.</p>

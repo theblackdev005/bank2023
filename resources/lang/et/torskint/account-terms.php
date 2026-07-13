@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Konto tingimused",
+	"TRAD_2" => "(WEBSITE_NAME) juurde pääsedes ja seda kasutades nõustute täielikult ja tingimusteta nende kontotingimustega. Lugege need enne konto loomist ja meie teenuste kasutamist hoolikalt läbi. Kui te nende tingimustega ei nõustu, ärge kasutage veebisaiti (WEBSITE_NAME).",
+	"TRAD_3" => "Konto loomine",
+	"TRAD_4" => "Meie teenuste kasutamiseks peate looma konto, esitades täpse, ajakohase ja täieliku teabe.",
+	"TRAD_5" => "Vastutate oma kontoteabe konfidentsiaalsuse säilitamise ja parooli turvalisuse eest.",
+	"TRAD_6" => "Konto kasutamine",
+	"TRAD_7" => "Vastutate kõigi teie konto all tehtud toimingute eest.",
+	"TRAD_8" => "Nõustute kasutama saiti (WEBSITE_NAME) ainult seaduslikel eesmärkidel ja kooskõlas kehtivate seadustega.",
+	"TRAD_9" => "Te ei tohi ebaseaduslikult juurde pääseda ühelegi kontole, süsteemile või andmetele, mis ei kuulu teile, ega üritada juurde pääseda.",
+	"TRAD_10" => "Interneti-pangateenused",
+	"TRAD_11" => "(WEBSITE_NAME) võimaldab teil juurdepääsu teatud pangateenustele, sealhulgas saldode kontrollimisele, ülekannetele, maksetele jne.",
+	"TRAD_12" => "Jätame endale õiguse muuta või piirata saidil (WEBSITE_NAME) saadaolevaid teenuseid ilma ette teatamata.",
+	"TRAD_13" => "Turvalisus ja juurdepääs",
+	"TRAD_14" => "Astume mõistlikud meetmed, et kaitsta teie kontoteabe ja tehingute turvalisust.",
+	"TRAD_15" => "Teie kontoandmete varguse, kaotsimineku või volitamata avaldamise korral teavitage meid sellest viivitamatult.",
+	"TRAD_16" => "Vastutus",
+	"TRAD_17" => "Võtate täieliku vastutuse teie esitatud teabe ja teie kontol tehtud toimingute eest.",
+	"TRAD_18" => "Me ei vastuta kahjude eest, mis tulenevad teie kontoandmete kasutamisest kolmandate isikute poolt.",
+	"TRAD_19" => "Tasud ja komisjonitasud",
+	"TRAD_20" => "Teatud teenuste eest võidakse nõuda tasusid ja komisjonitasusid. Nende tasude üksikasjad edastatakse saidi (WEBSITE_NAME) vastavates jaotistes.",
+	"TRAD_21" => "Konto lõpetamine",
+	"TRAD_22" => "Saate oma konto igal ajal lõpetada, järgides veebisaidil (WEBSITE_NAME) näidatud protseduuri.",
+	"TRAD_23" => "Jätame endale õiguse teie konto sulgeda käesolevate kontotingimuste rikkumisel või mis tahes põhjendatud põhjusel.",
+	"TRAD_24" => "Tingimuste muudatused",
+	"TRAD_25" => "Võime neid kontotingimusi igal ajal muuta. Muudatused jõustuvad saidile (WEBSITE_NAME) postitamisel.",
+	"TRAD_26" => "Kui jätkate veebisaidi (WEBSITE_NAME) kasutamist pärast muudatuste postitamist, nõustute muudetud kontotingimustega.",
+	"TRAD_27" => "Konto tingimused"
+);

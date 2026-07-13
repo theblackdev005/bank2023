@@ -1,0 +1,112 @@
+<h2>Definiciones</h2>
+<p>
+<b>Cliente:</b> cualquier profesional o persona física capaz en el sentido de los siguientes artículos del Código Civil, o persona jurídica, que visita el Sitio sujeto a estas condiciones generales.<br>
+<b>Beneficios y servicios:</b> (WEBSITE_URL) proporciona a los Clientes:
+</p>
+<p><b>Contenido:</b> Todos los elementos constitutivos de la información presente en el Sitio, en particular textos – imágenes – videos.</p>
+<p><b>Información del cliente:</b> En lo sucesivo, "Información" que corresponde a todos los datos personales que (WEBSITE_NAME) pueda tener para la gestión de su cuenta, la gestión del cliente y para fines analíticos. y fines estadísticos.</p>
+<p><b>Usuario:</b> Usuario de Internet que se conecta utilizando el sitio mencionado anteriormente.</p>
+<p><b>Información personal:</b> "Información que permite, en cualquier forma, directa o indirectamente, la identificación de las personas físicas a las que se aplica".</p>
+<p>Los términos “datos personales”, “interesado”, “subcontratista” y “datos sensibles” tienen el significado definido por el Reglamento General de Protección de Datos (RGPD: n° 2016-679)</p>
+
+<h2>1. Presentación del sitio web.</h2>
+<p>En virtud del artículo 6 de la ley n.º 2004-575, de 21 de junio de 2004, sobre la confianza en la economía digital, se informa a los usuarios del sitio web (WEBSITE_URL) de la identidad de los distintos actores en el marco de su implementación y seguimiento: </p>
+<p>
+<b>Propietario</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Administrador de publicación</b>: (AUTHOR_NAME)<br>
+<b>Webmaster</b>: (WEBMASTER_NAME)<br>
+<b>Delegado de Protección de Datos</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. Condiciones generales de uso del sitio y de los servicios ofrecidos.</h2>
+<p>El Sitio constituye una obra intelectual protegida por las disposiciones del Código de Propiedad Intelectual y las Normas Internacionales aplicables. El Cliente no podrá en modo alguno reutilizar, transferir o explotar por cuenta propia la totalidad o parte de los elementos u obras del Sitio.</p>
+<p>La utilización del sitio (WEBSITE_NAME) implica la plena aceptación de las condiciones generales de uso descritas a continuación. Estas condiciones de uso pueden modificarse o complementarse en cualquier momento, por lo que se invita a los usuarios del sitio (WEBSITE_NAME) a consultarlas periódicamente.</p>
+<p>Este sitio web normalmente es accesible para los usuarios en cualquier momento. Sin embargo, una interrupción debido a mantenimiento técnico puede ser decidida por (WEBSITE_NAME), quien luego se esforzará por comunicar a los usuarios antes de las fechas y horas de la intervención. Los avisos legales pueden modificarse en cualquier momento: no obstante, son vinculantes para el usuario, al que se invita a consultarlos con la mayor frecuencia posible para familiarizarse con ellos.</p>
+
+<h2>3. Descripción de los servicios prestados.</h2>
+<p>El sitio web (WEBSITE_NAME) tiene como objetivo brindar información sobre todas las actividades de la empresa. (WEBSITE_NAME) se esfuerza por brindar información lo más precisa posible. Sin embargo, no se hace responsable de las omisiones, inexactitudes y deficiencias en la actualización, ya sea por sí mismo o por los terceros socios que le proporcionan esta información.</p>
+<p>Toda la información indicada en el sitio (WEBSITE_NAME) se proporciona únicamente a título informativo y está sujeta a cambios. Además, la información en el sitio (WEBSITE_NAME) no es exhaustiva. Se proporcionan sujetos a las modificaciones que se hayan realizado desde que se pusieron en línea.</p>
+
+<h2>4. Limitaciones contractuales sobre datos técnicos.</h2>
+<p>El sitio utiliza tecnología JavaScript. El sitio web no se hace responsable de los daños materiales relacionados con el uso del sitio. Además, el usuario del sitio se compromete a acceder al sitio utilizando equipos recientes, que no contengan virus y con un navegador actualizado de última generación. El sitio (WEBSITE_NAME) está alojado por un proveedor de servicios en el territorio de la Unión Europea de acuerdo con lo dispuesto en el Reglamento General de Protección de Datos (RGPD: n° 2016-679).</p>
+<p>El objetivo es brindar un servicio que garantice la mejor tasa de accesibilidad. El anfitrión asegura la continuidad de su servicio las 24 horas del día, todos los días del año. No obstante, se reserva el derecho a interrumpir el servicio de alojamiento por el menor tiempo posible, en particular a efectos de mantenimiento, mejora de sus infraestructuras, fallo de sus infraestructuras o si los Servicios y Servicios generan un tráfico que se considera anómalo.</p>
+<p>(WEBSITE_NAME) y el anfitrión no se hacen responsables en caso de mal funcionamiento de la red de Internet, de las líneas telefónicas o de los equipos informáticos y telefónicos vinculados en particular a la congestión de la red que impide el acceso al servidor.</p>
+
+<h2>5. Propiedad Intelectual y Falsificaciones.</h2>
+<p>(WEBSITE_NAME) es titular de los derechos de propiedad intelectual y titular de los derechos de uso sobre todos los elementos accesibles en el sitio web, en particular los textos, imágenes, gráficos, logotipos, vídeos, iconos y sonidos. Queda prohibida cualquier reproducción, representación, modificación, publicación, adaptación de todo o parte de los elementos del sitio, cualquiera que sea el medio o proceso utilizado, excepto con la autorización previa por escrito de: (WEBSITE_NAME).</p>
+<p>Cualquier uso no autorizado del sitio o de cualquiera de los elementos que contiene se considerará constitutivo de una infracción y será perseguido de conformidad con lo dispuesto en los artículos L.335-2 y siguientes del Código de la Propiedad Intelectual.</p>
+
+<h2>6. Limitación de responsabilidad.</h2>
+<p>(WEBSITE_NAME) actúa como editor del sitio. (WEBSITE_NAME) es responsable de la calidad y veracidad del Contenido que publica.</p>
+<p>(WEBSITE_NAME) no se hace responsable de los daños directos e indirectos causados ​​al equipo del usuario, al acceder al sitio web (WEBSITE_NAME), y que resulten ya sea del uso de equipos que no cumplan con las especificaciones indicadas en el punto 4, ya sea la aparición de un error o una incompatibilidad.</p>
+<p>(WEBSITE_NAME) tampoco puede ser considerado responsable de daños consecuentes (como pérdida de mercado o pérdida de oportunidades) que resulten del uso del sitio (WEBSITE_URL). Los espacios interactivos (posibilidad de hacer preguntas en el espacio de contacto) están disponibles para los usuarios. (WEBSITE_URL) se reserva el derecho a eliminar, sin previo aviso, cualquier contenido publicado en este espacio que infrinja la legislación aplicable en la Unión Europea, en particular las disposiciones relativas a la protección de datos. En su caso, (WEBSITE_URL) también se reserva el derecho a cuestionar la responsabilidad civil y/o penal del usuario, en particular en caso de mensaje racista, injurioso, difamatorio o pornográfico, independientemente del medio utilizado (texto,
+
+<h2>7. Gestión de datos personales.</h2>
+<p>Se informa al Cliente de la normativa en materia de comunicaciones comerciales, la ley de 21 de junio de 2014 para la confianza en la Economía Digital, la Ley de Protección de Datos de 06 de agosto de 2004 así como el Reglamento General de Protección de Datos (RGPD: No. 2016-679). </p>
+
+<h3>7.1 Responsables de la recogida de datos personales</h3>
+<p>Para los Datos Personales recopilados como parte de la creación de la cuenta personal del Usuario y su navegación en el Sitio, el responsable del procesamiento de los Datos Personales es: (WEBSITE_NAME).</p>
+<p>Como responsable del tratamiento de los datos que recaba, (WEBSITE_URL) se compromete a cumplir con el marco de las disposiciones legales vigentes. En particular, corresponde al Cliente establecer los fines de su procesamiento de datos, proporcionar a sus clientes potenciales y clientes, a partir de la recopilación de sus consentimientos, información completa sobre el procesamiento de sus datos personales y mantener un registro de tratamientos coherente con la realidad Cada vez que (WEBSITE_URL) procesa Datos personales, (WEBSITE_URL) toma todas las medidas razonables para garantizar la precisión y relevancia de los Datos personales con respecto a los fines para los que (WEBSITE_URL) los procesa.</p>
+
+<h3>7.2 Finalidad de los datos recabados</h3>
+<p>(WEBSITE_URL) podrá tratar la totalidad o parte de los datos:</p>
+<ul>
+<li>permitir la navegación en el Sitio y la gestión y trazabilidad de los servicios solicitados por el usuario: datos de conexión y uso del Sitio, facturación, historial de pedidos, etc. </li>
+<li>para prevenir y luchar contra el fraude informático (spamming, hacking, etc.): equipo informático utilizado para la navegación, dirección IP, contraseña (hash)</li>
+<li>para mejorar la navegación en el Sitio: datos de conexión y uso</li>
+<li>para realizar encuestas de satisfacción opcionales en (WEBSITE_URL): dirección de correo electrónico </li>
+<li>para realizar campañas de comunicación (sms, email): número de teléfono, dirección de correo electrónico</li>
+</ul>
+<p>(WEBSITE_URL) no comercializa sus datos personales por lo que solo se utilizan por necesidad o con fines estadísticos y de análisis.</p>
+
+<h3>7.3 Derecho de acceso, rectificación y oposición</h3>
+<p>De acuerdo con la normativa europea vigente, los Usuarios de (WEBSITE_URL) tienen los siguientes derechos: </p>
+<ul>
+<li>derecho de acceso (artículo 15 del RGPD) y rectificación (artículo 16 del RGPD), actualización, integridad de los datos del Usuario derecho de bloqueo o eliminación de los datos personales del Usuario (artículo 17 del RGPD), cuando sean inexactos, incompletos, ambiguos , desactualizados, o cuya recogida, uso, comunicación o almacenamiento está prohibido</li>
+<li>derecho a retirar el consentimiento en cualquier momento (artículo 13-2c RGPD) </li>
+<li>derecho a limitar el tratamiento de los datos del Usuario (artículo 18 del RGPD) </li>
+<li>derecho a oponerse al tratamiento de los datos del Usuario (artículo 21 RGPD) </li>
+<li>derecho a la portabilidad de los datos que los Usuarios hayan facilitado, cuando estos datos sean objeto de tratamiento automatizado en base a su consentimiento o en virtud de un contrato (artículo 20 RGPD) </li>
+<li>derecho a definir el destino de los datos de los Usuarios tras su fallecimiento y a elegir a quién (WEBSITE_URL) tendrá que comunicar (o no) sus datos a un tercero que éste habrá designado previamente</li>
+</ul>
+<p>En cuanto (WEBSITE_URL) tenga conocimiento del fallecimiento de un Usuario y en ausencia de instrucciones por su parte, (WEBSITE_URL) se compromete a destruir sus datos, salvo que su conservación resulte necesaria con fines probatorios o para cumplir con una obligación legal. </p>
+<p>Si el Usuario desea saber cómo (WEBSITE_URL) utiliza sus Datos Personales, solicitar su rectificación u oponerse a su tratamiento, el Usuario puede ponerse en contacto con (WEBSITE_URL) por escrito en la siguiente dirección: (WEBSITE_ADDRESS).</p>
+<p>En este caso, el Usuario deberá indicar los Datos Personales que desea (WEBSITE_URL) corregir, actualizar o eliminar, identificándose precisamente con una copia de un documento de identidad (carné de identidad o pasaporte). </p>
+<p>Las solicitudes de supresión de Datos Personales estarán sujetas a las obligaciones impuestas a (WEBSITE_URL) por la ley, en particular en lo relativo a la conservación o archivo de documentos.</p>
+
+<h3>7.4 No divulgación de datos personales</h3>
+<p>(WEBSITE_URL) tiene prohibido procesar, alojar o transferir la Información recopilada sobre sus Clientes a un país ubicado fuera de la Unión Europea o reconocido como "inadecuado" por la Comisión Europea sin informar primero al cliente. No obstante, (WEBSITE_URL) sigue siendo libre de elegir sus subcontratistas técnicos y comerciales siempre que presenten garantías suficientes respecto a las exigencias del Reglamento General de Protección de Datos (RGPD: n° 2016-679).</p>
+<p>(WEBSITE_URL) se compromete a tomar todas las precauciones necesarias para preservar la seguridad de la Información y, en particular, que no sea comunicada a personas no autorizadas. No obstante, si se pone en conocimiento de (WEBSITE_URL) una incidencia que afecte a la integridad o confidencialidad de la Información del Cliente, éste deberá informar al Cliente a la mayor brevedad posible e informarle de las medidas correctivas adoptadas. Además (WEBSITE_URL) no recopila ningún "dato confidencial".</p>
+<p>Los Datos Personales del Usuario pueden ser procesados ​​por subsidiarias de (WEBSITE_URL) y subcontratistas (proveedores de servicios), exclusivamente para lograr los propósitos de esta política.</p>
+<p>Dentro de los límites de sus respectivas atribuciones y para los fines mencionados anteriormente, las principales personas susceptibles de tener acceso a los datos de los Usuarios de (WEBSITE_URL) son principalmente nuestros agentes de atención al cliente.</p>
+
+<h2>8. Notificación de incidentes</h2>
+<p>No importa cuánto lo intente, ningún método de transmisión a través de Internet ni ningún método de almacenamiento electrónico es completamente seguro. Por lo tanto, no podemos garantizar una seguridad absoluta. Si nos damos cuenta de una brecha de seguridad, notificaremos a los usuarios afectados para que puedan tomar las medidas adecuadas. Nuestros procedimientos de notificación de incidentes tienen en cuenta nuestras obligaciones legales, ya sea a nivel nacional o europeo. Estamos comprometidos a informar completamente a nuestros clientes de todos los asuntos relacionados con la seguridad de su cuenta y a brindarles toda la información necesaria para ayudarlos a cumplir con sus propias obligaciones regulatorias de informes.</p>
+<p>Ninguna información personal del usuario del sitio (WEBSITE_URL) se publica sin el conocimiento del usuario, se intercambia, transfiere, asigna o vende por cualquier medio a terceros. Únicamente la hipótesis de la redención de (WEBSITE_URL) y sus derechos permitiría la transmisión de dicha información al posible comprador quien a su vez estaría sujeto a la misma obligación de almacenar y modificar datos frente al usuario del sitio web (WEBSITE_URL).</p>
+
+<h3>Seguridad</h3>
+<p>Para garantizar la seguridad y confidencialidad de los Datos Personales y los Datos Personales de Salud, (WEBSITE_URL) utiliza redes protegidas por dispositivos estándar como firewalls, seudonimización, encriptación y contraseñas.</p>
+<p>Al procesar Datos Personales, (WEBSITE_URL) toma todas las medidas razonables para protegerlos contra pérdida, uso indebido, acceso no autorizado, divulgación, alteración o destrucción.</p>
+
+<h2>9. Enlaces de hipertexto “cookies” y etiquetas de Internet (“tags”)</h2>
+<p>El sitio (WEBSITE_URL) contiene una cierta cantidad de enlaces de hipertexto a otros sitios, configurados con la autorización de (WEBSITE_URL). Sin embargo, (WEBSITE_URL) no tiene la posibilidad de verificar el contenido de los sitios así visitados, y por lo tanto no asume ninguna responsabilidad por este hecho.</p>
+<p>A menos que decida deshabilitar las cookies, acepta que el sitio pueda usarlas. Puede desactivar estas cookies en cualquier momento y de forma gratuita utilizando las posibilidades de desactivación que se le ofrecen y que se recuerdan a continuación, sabiendo que esto puede reducir o impedir la accesibilidad a todos o parte de los Servicios ofrecidos por el sitio.</p>
+
+<h3>9.1. Uso de COOKIES</h3>
+<p>Una "cookie" es un pequeño archivo de información enviado al navegador del Usuario y almacenado en el terminal del Usuario (por ejemplo, computadora, teléfono inteligente), (en adelante, "Cookies"). Este archivo incluye información como el nombre de dominio del Usuario, el proveedor de acceso a Internet del Usuario, el sistema operativo del Usuario, así como la fecha y hora de acceso. Las cookies no corren ningún riesgo de dañar el terminal del Usuario.</p>
+Es probable que <p>(WEBSITE_URL) procese la información del Usuario relativa a su visita al Sitio, como las páginas consultadas, las búsquedas realizadas. Esta información permite (WEBSITE_URL) mejorar el contenido del Sitio, la navegación del Usuario.</p>
+<p>Cookies que facilitan la navegación y/o la prestación de los servicios que ofrece el Site, el Usuario puede configurar su navegador para que le permita decidir si desea aceptarlas o no para que las Cookies queden registradas en el terminal o, por el contrario , son rechazados, ya sea sistemáticamente o según su emisor. El Usuario también puede configurar el software de su navegador para que se le ofrezca la aceptación o rechazo de Cookies de vez en cuando, antes de que sea probable que una Cookie se guarde en su terminal. (WEBSITE_URL) informa al Usuario que, en este caso, es posible que no todas las funcionalidades de su software de navegación estén disponibles.</p>
+<p> Si el Usuario rechaza el registro de Cookies en su terminal o en su navegador, o si borra las que allí se encuentren registradas, se le informa que su navegación y su experiencia en el Sitio pueden verse limitadas. Este también podría ser el caso cuando (WEBSITE_URL) o uno de sus proveedores de servicios no pueda reconocer, por motivos de compatibilidad técnica, el tipo de navegador utilizado por el terminal, la configuración de idioma y visualización o el país desde el que parece estar conectado el terminal. Internet.</p>
+<p>En su caso, (WEBSITE_URL) declina toda responsabilidad por las consecuencias vinculadas al funcionamiento degradado del Sitio y de los servicios posiblemente ofrecidos por (WEBSITE_URL), resultantes (i) del rechazo de las Cookies por parte del Usuario (ii) de la imposibilidad de (WEBSITE_URL) de guardar o consultar las Cookies necesarias para su funcionamiento por elección del Usuario. Para la gestión de las Cookies y de las elecciones del Usuario, la configuración de cada navegador es diferente. Se describe en el menú de ayuda del navegador, que le permitirá saber cómo el Usuario puede modificar sus deseos en materia de Cookies.</p>
+<p>En cualquier momento, el Usuario puede optar por expresar y modificar sus deseos en materia de Cookies. (WEBSITE_URL) también puede usar los servicios de proveedores de servicios externos para ayudarlo a recopilar y procesar la información descrita en esta sección.</p>
+<p>Finalmente, haciendo clic en los iconos dedicados a las redes sociales Twitter, Facebook, Linkedin y Google Plus que aparecen en el Sitio de (WEBSITE_URL) o en su aplicación móvil y si el Usuario ha aceptado el depósito de cookies al continuar navegando en el sitio web o la aplicación móvil de (WEBSITE_URL), Twitter, Facebook, Linkedin y Google Plus también pueden colocar cookies en sus dispositivos (computadora, tableta, teléfono móvil).</p>
+<p>Este tipo de cookies solo se colocan en sus terminales si usted las acepta, al continuar navegando por el sitio web o la aplicación móvil de (WEBSITE_URL). No obstante, en cualquier momento, el Usuario puede revocar su consentimiento para (WEBSITE_URL) depositar este tipo de cookies.</p>
+
+<h3>Sección 9.2. ETIQUETAS DE INTERNET</h3>
+<p>(WEBSITE_URL) puede ocasionalmente usar balizas web e implementarlas a través de un socio de análisis web que puede estar ubicado (y por lo tanto almacenar información relacionada, incluida la dirección IP del Usuario) en un país extranjero.</p>
+<p>Estas etiquetas se colocan tanto en los anuncios en línea que permiten a los usuarios de Internet acceder al Sitio, como en las distintas páginas del Sitio. </p>
+<p>Esta tecnología permite (WEBSITE_URL) evaluar las respuestas de los visitantes al Sitio y la efectividad de sus acciones (por ejemplo, la cantidad de veces que se abre una página y la información consultada), así como el uso de este Sitio por el usuario. </p>
+<p>El proveedor de servicios externo puede recopilar información sobre los visitantes del Sitio y otros sitios de Internet utilizando estas etiquetas, recopilar informes sobre la actividad del Sitio para la atención de (WEBSITE_URL) y proporcionar otros servicios relacionados con el uso de este y de Internet. </p>
+
+<h2>10. Ley aplicable y atribución de jurisdicción.</h2>
+<p>Cualquier disputa relacionada con el uso del sitio (WEBSITE_URL) está sujeta a la ley penal. Salvo en los casos en que la ley no lo permita, la jurisdicción exclusiva corresponde a los tribunales competentes.</p>

@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Paskyros sąlygos",
+	"TRAD_2" => "Pasiekdami ir naudodami (WEBSITE_NAME) visiškai ir be išlygų sutinkate su šiomis paskyros sąlygomis. Atidžiai juos perskaitykite prieš kurdami paskyrą ir naudodamiesi mūsų paslaugomis. Jei nesutinkate su šiomis sąlygomis, nenaudokite (WEBSITE_NAME).",
+	"TRAD_3" => "Paskyros sukūrimas",
+	"TRAD_4" => "Norėdami naudotis mūsų paslaugomis, turite susikurti paskyrą, pateikdami tikslią, naujausią ir išsamią informaciją.",
+	"TRAD_5" => "Jūs esate atsakingi už paskyros informacijos konfidencialumo palaikymą ir slaptažodžio apsaugą.",
+	"TRAD_6" => "Paskyros naudojimas",
+	"TRAD_7" => "Jūs esate atsakingi už visą veiklą, atliekamą jūsų paskyroje.",
+	"TRAD_8" => "Sutinkate naudoti (WEBSITE_NAME) tik teisėtais tikslais ir pagal galiojančius įstatymus.",
+	"TRAD_9" => "Negalite neteisėtai pasiekti ar bandyti prieiti prie jokių paskyrų, sistemų ar duomenų, kurie jums nepriklauso.",
+	"TRAD_10" => "Internetinės bankininkystės paslaugos",
+	"TRAD_11" => "(WEBSITE_NAME) leis jums pasiekti tam tikras banko paslaugas, įskaitant likučių tikrinimą, pervedimus, mokėjimus ir kt.",
+	"TRAD_12" => "Pasiliekame teisę be įspėjimo keisti arba apriboti (WEBSITE_NAME) teikiamas paslaugas.",
+	"TRAD_13" => "Saugumas ir prieiga",
+	"TRAD_14" => "Imsimės pagrįstų veiksmų, kad apsaugotume jūsų paskyros informacijos ir operacijų saugumą.",
+	"TRAD_15" => "Pavogę, pametę ar neteisėtai atskleidę paskyros informaciją, nedelsdami praneškite mums.",
+	"TRAD_16" => "Atsakomybė",
+	"TRAD_17" => "Jūs prisiimate visą atsakomybę už pateiktą informaciją ir veiksmus, kurių buvo imtasi naudojant jūsų paskyrą.",
+	"TRAD_18" => "Mes nebūsime atsakingi už jokią žalą, atsiradusią dėl to, kad trečiosios šalys naudojasi jūsų paskyros informacija.",
+	"TRAD_19" => "Mokesčiai ir komisiniai",
+	"TRAD_20" => "Tam tikroms paslaugoms gali būti taikomi mokesčiai ir komisiniai. Išsami informacija apie šiuos mokesčius bus pateikta atitinkamose (WEBSITE_NAME) svetainės skiltyse.",
+	"TRAD_21" => "Paskyros nutraukimas",
+	"TRAD_22" => "Galite bet kada nutraukti savo paskyrą, vadovaudamiesi (WEBSITE_NAME) nurodyta procedūra.",
+	"TRAD_23" => "Pasiliekame teisę nutraukti jūsų paskyrą dėl šių Sąlygų pažeidimo arba dėl bet kokios pateisinamos priežasties.",
+	"TRAD_24" => "Sąlygų pakeitimai",
+	"TRAD_25" => "Mes galime bet kada pakeisti šias paskyros sąlygas. Pakeitimai įsigalios paskelbus (WEBSITE_NAME).",
+	"TRAD_26" => "Paskelbus pakeitimus ir toliau naudodami (WEBSITE_NAME) sutinkate su peržiūrėtomis paskyros sąlygomis.",
+	"TRAD_27" => "Paskyros sąlygos"
+);

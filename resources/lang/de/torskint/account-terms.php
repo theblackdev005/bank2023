@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Kontobedingungen",
+	"TRAD_2" => "Durch den Zugriff auf und die Nutzung von (WEBSITE_NAME) stimmen Sie diesen Kontobedingungen vollständig und vorbehaltlos zu. Bitte lesen Sie diese sorgfältig durch, bevor Sie ein Konto erstellen und unsere Dienste nutzen. Wenn Sie mit diesen Bedingungen nicht einverstanden sind, verwenden Sie bitte nicht (WEBSITE_NAME).",
+	"TRAD_3" => "Konto-Erstellung",
+	"TRAD_4" => "Um unsere Dienste nutzen zu können, müssen Sie ein Konto erstellen und dabei genaue, aktuelle und vollständige Informationen angeben.",
+	"TRAD_5" => "Sie sind für die Wahrung der Vertraulichkeit Ihrer Kontoinformationen und die Sicherung Ihres Passworts verantwortlich.",
+	"TRAD_6" => "Nutzung des Kontos",
+	"TRAD_7" => "Sie sind für alle Aktivitäten verantwortlich, die unter Ihrem Konto ausgeführt werden.",
+	"TRAD_8" => "Sie erklären sich damit einverstanden, (WEBSITE_NAME) nur für rechtmäßige Zwecke und in Übereinstimmung mit den geltenden Gesetzen zu nutzen.",
+	"TRAD_9" => "Sie dürfen nicht illegal auf Konten, Systeme oder Daten zugreifen oder dies versuchen, die Ihnen nicht gehören.",
+	"TRAD_10" => "Online-Banking-Dienste",
+	"TRAD_11" => "(WEBSITE_NAME) ermöglicht Ihnen den Zugriff auf bestimmte Bankdienstleistungen, einschließlich der Prüfung von Guthaben, Überweisungen, Zahlungen usw.",
+	"TRAD_12" => "Wir behalten uns das Recht vor, die auf (WEBSITE_NAME) verfügbaren Dienste ohne vorherige Ankündigung zu ändern oder einzuschränken.",
+	"TRAD_13" => "Sicherheit und Zugriff",
+	"TRAD_14" => "Wir werden angemessene Maßnahmen ergreifen, um die Sicherheit Ihrer Kontoinformationen und Transaktionen zu schützen.",
+	"TRAD_15" => "Im Falle eines Diebstahls, Verlusts oder einer unbefugten Weitergabe Ihrer Kontoinformationen benachrichtigen Sie uns bitte umgehend.",
+	"TRAD_16" => "Verantwortung",
+	"TRAD_17" => "Sie übernehmen die volle Verantwortung für die von Ihnen bereitgestellten Informationen und die unter Ihrem Konto durchgeführten Aktionen.",
+	"TRAD_18" => "Wir haften nicht für Schäden, die aus der Verwendung Ihrer Kontoinformationen durch Dritte entstehen.",
+	"TRAD_19" => "Gebühren und Provisionen",
+	"TRAD_20" => "Für bestimmte Dienste können Gebühren und Provisionen anfallen. Einzelheiten zu diesen Gebühren werden in den entsprechenden Abschnitten der Website (WEBSITE_NAME) mitgeteilt.",
+	"TRAD_21" => "Kontokündigung",
+	"TRAD_22" => "Sie können Ihr Konto jederzeit kündigen, indem Sie dem auf (WEBSITE_NAME) angegebenen Verfahren folgen.",
+	"TRAD_23" => "Wir behalten uns das Recht vor, Ihr Konto bei Verstoß gegen diese Kontobedingungen oder aus jedem berechtigten Grund zu kündigen.",
+	"TRAD_24" => "Änderungen der Bedingungen",
+	"TRAD_25" => "Wir können diese Kontobedingungen jederzeit ändern. Änderungen werden mit der Veröffentlichung auf (WEBSITE_NAME) wirksam.",
+	"TRAD_26" => "Durch die weitere Nutzung von (WEBSITE_NAME) nach der Veröffentlichung der Änderungen stimmen Sie den überarbeiteten Kontobedingungen zu.",
+	"TRAD_27" => "Kontobedingungen"
+);

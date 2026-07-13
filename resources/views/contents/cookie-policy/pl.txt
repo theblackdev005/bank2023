@@ -1,0 +1,22 @@
+<p>(WEBSITE_NAME) ma na celu zapewnienie najlepszych doświadczeń online podczas Twojej wizyty na naszej stronie, dlatego używamy pewnych rodzajów "cookies".</p>
+
+<h3>Co to są ciasteczka? </h3>
+<p>Cookies to pakiety informacji wysyłane przez serwer WWW (w tym przypadku przez niniejszą witrynę) do przeglądarki internetowej odwiedzającego, przechowywane na komputerze odwiedzającego i wysyłane do serwera przy każdym kolejnym wejściu na stronę. Dlatego, aby w pełni korzystać z tej strony, zaleca się skonfigurowanie przeglądarki tak, aby akceptowała otrzymywanie plików cookie.</p>
+
+<h3>Dlaczego ich używamy</h3>
+<p>Pliki cookie są wykorzystywane do ułatwienia nawigacji w witrynie i prawidłowego korzystania z niej oraz do celów statystycznych, aby wiedzieć, które obszary witryny były odwiedzane w celu wprowadzania ulepszeń i aktualizacji w oparciu o wzorce użytkowania. Pliki cookies stosowane na tej stronie nie pozwalają na pozyskiwanie danych identyfikacyjnych użytkowników. Użytkownik może wtedy przeglądać stronę bez ujawniania danych osobowych.</p>.
+
+<h3>Rodzaj wykorzystywanych plików cookie</h3>.
+<p>"Cookies sesyjne" - rezydują wyłącznie w pamięci komputera użytkownika i są usuwane po zamknięciu przeglądarki. Użycie jest ściśle ograniczone do przesyłania identyfikatorów sesji, składających się z przypadkowych liczb generowanych przez serwer, niezbędnych do zapewnienia bezpieczeństwa i wydajności witryny.</p>
+<p>Pliki cookie sesji są używane, aby umożliwić nam wysyłanie informacji o witrynie.</p>
+<p>Te pliki cookies pozwalają nam na zbieranie anonimowych informacji o stronach odwiedzanych przez użytkownika i sposobie korzystania z naszej witryny w celu ulepszenia nawigacji w przyszłości i określenia źródła ewentualnych komunikatów o błędach. Na przykład, zbierają informacje o odwiedzanych stronach, liczbie wizyt, przeglądarce odwiedzającego.</p>
+
+<h3>Pliki cookie osób trzecich</h3>
+<p>Nasza strona może, od czasu do czasu, zawierać linki do stron internetowych osób trzecich. Jeśli podążasz za linkiem do stron osób trzecich, prosimy o sprawdzenie ich polityki prywatności, plików cookie i sposobu ich obsługi przed podaniem danych osobowych na tych stronach.</p>
+<p>Strona nie ma na celu zastąpienia prywatności naszych gości.</p>
+
+<h3>Jak zarządzać ustawieniami dotyczącymi cookies</h3>.
+<p>Aby zapewnić jak najlepsze korzystanie z naszej strony internetowej, zalecamy akceptację plików cookie. Większość przeglądarek internetowych jest wstępnie skonfigurowana tak, aby akceptować pliki cookie. W każdej chwili możesz ustawić swoją przeglądarkę tak, aby akceptowała wszystkie pliki cookie. Ponadto, użytkownik może ustawić preferencje przeglądarki tak, aby powiadamiała go o każdym zapisaniu pliku cookie na jego komputerze. Należy pamiętać, że nieważne pliki cookie mogą uniemożliwić normalne i optymalne korzystanie z witryny.</p>
+
+<h3>Zmiany w tej polityce</h3>
+<p>Polityka ta może ulec zmianie w czasie i jest również związana z wejściem w życie nowych regulacji prawnych.</p>

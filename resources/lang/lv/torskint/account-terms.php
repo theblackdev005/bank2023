@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Konta noteikumi",
+	"TRAD_2" => "Piekļūstot (WEBSITE_NAME) un izmantojot to, jūs pilnībā un bez ierunām piekrītat šiem konta noteikumiem. Lūdzu, rūpīgi izlasiet tos pirms konta izveides un mūsu pakalpojumu izmantošanas. Ja nepiekrītat šiem noteikumiem, lūdzu, neizmantojiet vietni (WEBSITE_NAME).",
+	"TRAD_3" => "Konta izveide",
+	"TRAD_4" => "Lai izmantotu mūsu pakalpojumus, jums ir jāizveido konts, sniedzot precīzu, aktuālu un pilnīgu informāciju.",
+	"TRAD_5" => "Jūs esat atbildīgs par sava konta informācijas konfidencialitātes saglabāšanu un paroles drošību.",
+	"TRAD_6" => "Konta izmantošana",
+	"TRAD_7" => "Jūs esat atbildīgs par visām jūsu kontā veiktajām darbībām.",
+	"TRAD_8" => "Jūs piekrītat izmantot vietni (WEBSITE_NAME) tikai likumīgiem nolūkiem un saskaņā ar spēkā esošajiem tiesību aktiem.",
+	"TRAD_9" => "Jūs nedrīkstat nelikumīgi piekļūt vai mēģināt piekļūt kontiem, sistēmām vai datiem, kas jums nepieder.",
+	"TRAD_10" => "Tiešsaistes bankas pakalpojumi",
+	"TRAD_11" => "(WEBSITE_NAME) ļaus jums piekļūt noteiktiem bankas pakalpojumiem, tostarp bilances pārbaudei, pārskaitījumiem, maksājumiem utt.",
+	"TRAD_12" => "Mēs paturam tiesības bez brīdinājuma mainīt vai ierobežot (WEBSITE_NAME) pieejamos pakalpojumus.",
+	"TRAD_13" => "Drošība un piekļuve",
+	"TRAD_14" => "Mēs veiksim saprātīgas darbības, lai aizsargātu jūsu konta informācijas un darījumu drošību.",
+	"TRAD_15" => "Jūsu konta informācijas zādzības, nozaudēšanas vai neatļautas izpaušanas gadījumā, lūdzu, nekavējoties informējiet mūs.",
+	"TRAD_16" => "Atbildība",
+	"TRAD_17" => "Jūs uzņematies pilnu atbildību par sniegto informāciju un darbībām, kas veiktas jūsu kontā.",
+	"TRAD_18" => "Mēs neuzņemamies atbildību par zaudējumiem, kas radušies, ja jūsu konta informāciju izmanto trešās puses.",
+	"TRAD_19" => "Maksas un komisijas",
+	"TRAD_20" => "Par noteiktiem pakalpojumiem var tikt piemērota maksa un komisijas maksa. Sīkāka informācija par šīm maksām tiks sniegta attiecīgajās vietnes (WEBSITE_NAME) sadaļās.",
+	"TRAD_21" => "Konta darbības pārtraukšana",
+	"TRAD_22" => "Varat jebkurā laikā pārtraukt sava konta darbību, veicot vietnē (WEBSITE_NAME) norādīto procedūru.",
+	"TRAD_23" => "Mēs paturam tiesības pārtraukt jūsu konta darbību šo konta noteikumu pārkāpuma vai jebkura pamatota iemesla dēļ.",
+	"TRAD_24" => "Noteikumu izmaiņas",
+	"TRAD_25" => "Mēs varam mainīt šos konta noteikumus jebkurā laikā. Izmaiņas stāsies spēkā, kad tās tiks publicētas vietnē (WEBSITE_NAME).",
+	"TRAD_26" => "Turpinot lietot vietni (WEBSITE_NAME) pēc izmaiņu publicēšanas, jūs piekrītat pārskatītajiem konta noteikumiem.",
+	"TRAD_27" => "Konta noteikumi"
+);

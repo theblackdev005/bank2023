@@ -1,0 +1,112 @@
+<h2>Apibrėžimai</h2>
+<p>
+<b>Klientas:</b> bet kuris profesionalus arba fizinis asmuo, galintis pagal šiuos Civilinio kodekso straipsnius, arba juridinis asmuo, kuris lankosi svetainėje pagal šias bendrąsias sąlygas.<br>
+<b>Privalumai ir paslaugos:</b> (WEBSITE_URL) suteikia klientams:
+</p>
+<p><b>Turinys:</b> visi Svetainėje pateikiamos informacijos sudedamosios dalys, ypač tekstai – vaizdai – vaizdo įrašai.</p>
+<p><b>Kliento informacija:</b> toliau vadinama „Informacija“, kuri atitinka visus asmens duomenis, kuriuos gali turėti (WEBSITE_NAME) jūsų paskyrai tvarkyti, kliento tvarkymui ir analitiniams tikslams. ir statistiniais tikslais.</p>
+<p><b>Vartotojas:</b> interneto vartotojas, prisijungęs naudodamas aukščiau nurodytą svetainę.</p>
+<p><b>Asmeninė informacija:</b> „Informacija, leidžianti bet kokia forma, tiesiogiai ar netiesiogiai nustatyti fizinių asmenų, kuriems ji taikoma, tapatybę“.</p>
+<p>Sąvokos „asmens duomenys“, „duomenų subjektas“, „subrangovas“ ir „neskelbtini duomenys“ turi reikšmę, apibrėžtą Bendrajame duomenų apsaugos reglamente (RGPD: Nr. 2016-679)</p>
+
+<h2>1. Svetainės pristatymas.</h2>
+<p>Pagal 2004 m. birželio 21 d. Įstatymo Nr. 2004-575 dėl pasitikėjimo skaitmenine ekonomika 6 straipsnį, svetainės (WEBSITE_URL) naudotojai informuojami apie įvairių suinteresuotųjų šalių tapatybę įgyvendinant ir stebint: </p>
+<p>
+<b>Savininkas</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Leidybos vadovas</b>: (AUTHOR_NAME)<br>
+<b>Žiniatinklio valdytojas</b>: (WEBMASTER_NAME)<br>
+<b>Duomenų apsaugos pareigūnas</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. Bendrosios naudojimosi svetaine sąlygos ir siūlomos paslaugos.</h2>
+<p>Svetainė yra intelektinis kūrinys, saugomas Intelektinės nuosavybės kodekso nuostatų ir taikomų tarptautinių taisyklių. Klientas jokiu būdu negali pakartotinai naudoti, perduoti ar naudoti savo sąskaita visų ar dalies Svetainės elementų ar kūrinių.</p>
+<p>Naudojimasis svetaine (WEBSITE_NAME) reiškia visišką sutikimą su toliau aprašytomis bendromis naudojimo sąlygomis. Šios naudojimo sąlygos gali būti bet kada pakeistos arba papildytos, todėl svetainės (WEBSITE_NAME) naudotojai kviečiami reguliariai su jomis susipažinti.</p>
+<p>Ši svetainė paprastai pasiekiama naudotojams bet kuriuo metu. Tačiau (WEBSITE_NAME) gali nuspręsti dėl techninės priežiūros nutraukimo, kuris tada stengsis pranešti naudotojams prieš intervencijos datas ir laiką. Teisiniai pranešimai gali būti keičiami bet kuriuo metu, tačiau jie yra privalomi vartotojui, kuris kviečiamas kuo dažniau jais susipažinti, kad su jais susipažintų.</p>
+
+<h2>3. Teikiamų paslaugų aprašymas.</h2>
+<p>Svetainės (WEBSITE_NAME) tikslas – teikti informaciją apie visą įmonės veiklą. (WEBSITE_NAME) stengiasi pateikti kuo tikslesnę informaciją. Tačiau ji negali būti laikoma atsakinga už atnaujinimo praleidimus, netikslumus ir trūkumus nei pati, nei trečiųjų šalių partneriai, kurie jai pateikia šią informaciją.</p>
+<p>Visa svetainėje (WEBSITE_NAME) nurodyta informacija yra skirta tik informacijai ir gali būti keičiama. Be to, informacija svetainėje (WEBSITE_NAME) nėra išsami. Jie pateikiami atsižvelgiant į pakeitimus, padarytus nuo tada, kai jie buvo įtraukti į internetą.</p>
+
+<h2>4. Sutartiniai techninių duomenų apribojimai.</h2>
+<p>Svetainėje naudojama „JavaScript“ technologija. Svetainė negali būti laikoma atsakinga už materialinę žalą, susijusią su svetainės naudojimu. Be to, svetainės vartotojas sutinka prisijungti prie svetainės naudodamas naujausią įrangą, kurioje nėra virusų, ir su atnaujinta naujausios kartos naršykle. Svetainę (WEBSITE_NAME) priglobia paslaugų teikėjas Europos Sąjungos teritorijoje pagal Bendrųjų duomenų apsaugos reglamentų (RGPD: Nr. 2016-679) nuostatas.</p>
+<p>Tikslas – teikti paslaugą, užtikrinančią geriausią pasiekiamumo lygį. Šeimininkas užtikrina savo paslaugų tęstinumą 24 valandas per parą, kiekvieną metų dieną. Nepaisant to, ji pasilieka teisę nutraukti prieglobos paslaugą kuo trumpesniam laikui, ypač techninės priežiūros, infrastruktūros tobulinimo, infrastruktūros gedimo ar paslaugų ir paslaugų srauto, kuris laikomas neįprastu, tikslais.</p>
+<p>(WEBSITE_NAME) ir priegloba negali būti laikomi atsakingais interneto tinklo, telefono linijų arba kompiuterių ir telefonijos įrangos gedimo atveju, ypač dėl tinklo perkrovos, neleidžiančios pasiekti serverio.</p>
+
+<h2>5. Intelektinė nuosavybė ir klastotės.</h2>
+<p>(WEBSITE_NAME) yra intelektinės nuosavybės teisių savininkas ir jai priklauso visų svetainėje pasiekiamų elementų, ypač tekstų, vaizdų, grafikos, logotipų, vaizdo įrašų, piktogramų ir garsų, naudojimo teisės. Bet koks visų ar dalies svetainės elementų atgaminimas, vaizdavimas, keitimas, publikavimas, pritaikymas, neatsižvelgiant į naudojamas priemones ar procesą, yra draudžiamas, išskyrus išankstinį raštišką leidimą: (WEBSITE_NAME).</p>
+<p>Bet koks neteisėtas svetainės ar joje esančių elementų naudojimas bus laikomas pažeidimu ir bus patrauktas baudžiamojon atsakomybėn pagal Intelektinės nuosavybės kodekso L.335-2 ir vėlesnių straipsnių nuostatas.</p>
+
+<h2>6. Atsakomybės apribojimas.</h2>
+<p>(WEBSITE_NAME) veikia kaip svetainės leidėjas. (WEBSITE_NAME) yra atsakinga už savo skelbiamo Turinio kokybę ir teisingumą.</p>
+<p>(WEBSITE_NAME) negali būti laikoma atsakinga už tiesioginę ir netiesioginę žalą, padarytą naudotojo įrangai prisijungiant prie svetainės (WEBSITE_NAME) ir dėl įrangos, kuri neatitinka 4 punkte nurodytų specifikacijų, naudojimo, arba klaidos ar nesuderinamumo atsiradimas.</p>
+<p>(WEBSITE_NAME) taip pat negali būti laikoma atsakinga už pasekmę žalą (pvz., rinkos praradimą arba galimybių praradimą), atsiradusią dėl svetainės (WEBSITE_URL) naudojimo. Vartotojams yra prieinamos interaktyvios erdvės (galima užduoti klausimus kontaktų erdvėje). (WEBSITE_URL) pasilieka teisę be išankstinio įspėjimo ištrinti bet kokį šioje erdvėje paskelbtą turinį, kuris pažeistų galiojančius Europos Sąjungos teisės aktus, ypač su duomenų apsauga susijusias nuostatas. Kai taikoma, (WEBSITE_URL) taip pat pasilieka teisę suabejoti civiline ir (arba) baudžiamąja vartotojo atsakomybe, ypač rasistinio, įžeidžiančio, šmeižikiško ar pornografinio pranešimo atveju, neatsižvelgiant į naudojamą laikmeną. (tekstas,
+
+<h2>7. Asmens duomenų tvarkymas.</h2>
+<p>Klientas informuojamas apie rinkodaros komunikacijos taisykles, 2014 m. birželio 21 d. įstatymą dėl pasitikėjimo skaitmenine ekonomika, 2004 m. rugpjūčio 6 d. Duomenų apsaugos įstatymą ir Bendruosius duomenų apsaugos reglamentus (RGPD: Nr. 2016-679). </p>
+
+<h3>7.1 Asmenys, atsakingi už asmens duomenų rinkimą</h3>
+<p>Asmens duomenims, renkamiems kuriant asmeninę vartotojo paskyrą ir naršant Svetainėje, už Asmens duomenų tvarkymą atsakingas asmuo yra: (WEBSITE_NAME).</p>
+<p>Kaip atsakinga už renkamų duomenų tvarkymą, (WEBSITE_URL) įsipareigoja laikytis galiojančių teisinių nuostatų. Visų pirma, Klientas turi nustatyti savo duomenų tvarkymo tikslus, suteikti savo potencialiems klientams ir klientams, surinkusiems jų sutikimus, visą informaciją apie jų asmens duomenų tvarkymą ir tvarkyti nuoseklų gydymo registrą. su tikrove. Kai (WEBSITE_URL) apdoroja asmens duomenis, (WEBSITE_URL) imasi visų pagrįstų veiksmų, kad užtikrintų asmens duomenų tikslumą ir tinkamumą, atsižvelgiant į tikslus, kuriais (WEBSITE_URL) juos tvarko.</p>
+
+<h3>7.2 Renkamų duomenų paskirtis</h3>
+<p>(WEBSITE_URL) gali apdoroti visus arba dalį duomenų:</p>
+<ul>
+<li>leisti naršyti Svetainėje ir valdyti bei atsekti vartotojo užsakytas paslaugas: prisijungimo ir naudojimo duomenis Svetainei, sąskaitų faktūrų išrašymą, užsakymų istoriją ir kt. </li>
+<li>užkirsti kelią ir kovoti su kompiuteriniu sukčiavimu (spam, įsilaužimu ir kt.): kompiuterinė įranga, naudojama naršymui, IP adresas, slaptažodis (maišos) </li>
+<li>norėdami pagerinti naršymą svetainėje: ryšio ir naudojimo duomenys </li>
+<li>atlikti pasirenkamas pasitenkinimo apklausas adresu (WEBSITE_URL): el. pašto adresas </li>
+<li>vykdyti komunikacijos kampanijas (sms, el. paštas): telefono numeris, el. pašto adresas</li>
+</ul>
+<p>(WEBSITE_URL) neplatina jūsų asmeninių duomenų, todėl naudojami tik dėl būtinybės arba statistikos ir analizės tikslais.</p>
+
+<h3>7.3 Teisė susipažinti, ištaisyti ir prieštarauti</h3>
+<p>Pagal galiojančius Europos teisės aktus (WEBSITE_URL) naudotojai turi šias teises: </p>
+<ul>
+<li>teisė susipažinti (BDAR 15 straipsnis) ir ištaisyti (BDAR 16 straipsnis), Naudotojo duomenų atnaujinimą, išsamumą, teisę blokuoti arba ištrinti asmeninius Vartotojo duomenis (BDAR 17 straipsnis), kai jie yra netikslūs, neišsamūs, dviprasmiški , pasenę arba kurių rinkimas, naudojimas, bendravimas ar saugojimas yra draudžiamas </li>
+<li>teisė bet kuriuo metu atšaukti sutikimą (BDAR 13-2c straipsnis) </li>
+<li>teisė apriboti Vartotojo duomenų tvarkymą (BDAR 18 straipsnis) </li>
+<li>teisė nesutikti, kad būtų tvarkomi naudotojo duomenys (BDAR 21 straipsnis) </li>
+<li>teisė į Vartotojų pateiktų duomenų perkeliamumą, kai šie duomenys yra tvarkomi automatizuotai remiantis jų sutikimu arba sutartimi (BDAR 20 straipsnis) </li>
+<li>teisė nustatyti Naudotojų duomenų likimą po jų mirties ir pasirinkti, kam (WEBSITE_URL) turės perduoti (arba ne) savo duomenis trečiajai šaliai, kurią jie anksčiau paskyrė.</li>
+</ul>
+<p>Kai tik (WEBSITE_URL) sužino apie Naudotojo mirtį ir negavus jo nurodymų, (WEBSITE_URL) įsipareigoja sunaikinti jo duomenis, nebent jų išsaugojimas būtų būtinas įrodomiesiems tikslams arba teisiniam įsipareigojimui įvykdyti. </p>
+<p>Jei Vartotojas nori sužinoti, kaip (WEBSITE_URL) naudoja jo Asmens duomenis, paprašyti juos ištaisyti arba nesutikti su jų tvarkymu, Naudotojas gali susisiekti su (WEBSITE_URL) raštu šiuo adresu: (WEBSITE_ADDRESS).</p>
+<p>Tokiu atveju Vartotojas turi nurodyti Asmens duomenis, kuriuos jis norėtų (WEBSITE_URL) taisyti, atnaujinti ar ištrinti, tiksliai identifikuodamas save asmens dokumento (kortelės tapatybės ar paso) kopija. </p>
+<p>Prašymams ištrinti asmens duomenis bus taikomi (WEBSITE_URL) įstatymais nustatyti įpareigojimai, ypač susiję su dokumentų išsaugojimu ar archyvavimu.</p>
+
+<h3>7.4 Asmens duomenų neatskleidimas</h3>
+<p>(WEBSITE_URL) draudžiama apdoroti, talpinti arba perduoti informaciją, surinktą apie savo Klientus į šalį, esančią už Europos Sąjungos ribų arba Europos Komisijos pripažintą „netinkama“, prieš tai neinformavus kliento. Tačiau (WEBSITE_URL) gali laisvai pasirinkti savo techninius ir komercinius subrangovus su sąlyga, kad jie pateiks pakankamai garantijų, susijusių su Bendrųjų duomenų apsaugos reglamentų (RGPD: Nr. 2016-679) reikalavimais. </p>
+<p>(WEBSITE_URL) įsipareigoja imtis visų būtinų atsargumo priemonių, kad būtų išsaugotas informacijos saugumas ir ypač kad ji nebūtų perduota pašaliniams asmenims. Tačiau jei (WEBSITE_URL) atkreipiamas dėmesys į incidentą, turintį įtakos Kliento informacijos vientisumui ar konfidencialumui, pastarasis turi kuo greičiau informuoti Klientą ir informuoti jį apie taisomąsias priemones, kurių buvo imtasi. Be to, (WEBSITE_URL) nerenka jokių „jautrių duomenų“.</p>
+<p>Naudotojo asmeninius duomenis gali tvarkyti (WEBSITE_URL) dukterinės įmonės ir subrangovai (paslaugų teikėjai), tik siekiant šios politikos tikslų.</p>
+<p>Neviršijant atitinkamų priskyrimų ir aukščiau nurodytais tikslais, pagrindiniai žmonės, galintys pasiekti (WEBSITE_URL) naudotojų duomenis, daugiausia yra mūsų klientų aptarnavimo agentai.</p>
+
+<h2>8. Pranešimas apie incidentą</h2>
+<p>Kad ir kaip stengtumėtės, joks perdavimo internetu būdas ir joks elektroninio saugojimo būdas nėra visiškai saugus. Todėl negalime garantuoti visiško saugumo. Jei sužinosime apie saugumo pažeidimą, informuosime paveiktus naudotojus, kad jie galėtų imtis atitinkamų veiksmų. Mūsų pranešimo apie incidentus procedūrose atsižvelgiama į mūsų teisinius įsipareigojimus tiek nacionaliniu, tiek Europos lygiu. Esame įsipareigoję visapusiškai informuoti savo klientus apie visus klausimus, susijusius su jų paskyros saugumu, ir suteikti jiems visą informaciją, reikalingą, kad padėtume jiems įvykdyti savo reguliavimo ataskaitų teikimo įsipareigojimus.</p>
+<p>Jokia asmeninė svetainės naudotojo informacija (WEBSITE_URL) neskelbiama be vartotojo žinios, keičiama, perduodama, priskiriama ar parduodama bet kokioje laikmenoje trečiosioms šalims. Tik hipotezė apie (WEBSITE_URL) ir jo teisių išpirkimą leistų perduoti minėtą informaciją būsimam pirkėjui, kuris savo ruožtu būtų saistomas tos pačios pareigos saugoti ir keisti duomenis svetainės naudotojo atžvilgiu (WEBSITE_URL).</p>
+
+<h3>Sauga</h3>
+<p>Siekdama užtikrinti asmens duomenų ir asmens sveikatos duomenų saugumą ir konfidencialumą, (WEBSITE_URL) naudoja tinklus, apsaugotus standartiniais įrenginiais, tokiais kaip ugniasienės, pseudonimų nustatymas, šifravimas ir slaptažodžiai.</p>
+<p>Apdorodama asmens duomenis (WEBSITE_URL) imasi visų pagrįstų priemonių, kad apsaugotų juos nuo praradimo, netinkamo naudojimo, neteisėtos prieigos, atskleidimo, pakeitimo ar sunaikinimo.</p>
+
+<h2>9. Hipertekstinės nuorodos „slapukai“ ir interneto žymos („žymos“)</h2>
+<p>Svetainėje (WEBSITE_URL) yra tam tikras skaičius hipertekstinių nuorodų į kitas svetaines, nustatytas leidus (WEBSITE_URL). Tačiau (WEBSITE_URL) neturi galimybės patikrinti taip lankomų svetainių turinio, todėl neprisiima atsakomybės už šį faktą.</p>
+<p>Nebent nuspręsite išjungti slapukus, sutinkate, kad svetainė galėtų juos naudoti. Šiuos slapukus galite bet kada ir nemokamai išjungti, naudodamiesi jums siūlomomis ir toliau nurodytomis išjungimo galimybėmis, žinodami, kad tai gali sumažinti arba neleisti pasiekti visų ar dalies svetainės siūlomų Paslaugų.</p>
+
+<h3>9.1. Slapukų naudojimas</h3>
+<p>"Slapukas" yra nedidelis informacijos failas, siunčiamas į Vartotojo naršyklę ir saugomas Vartotojo terminale (pvz., kompiuteryje, išmaniajame telefone) (toliau "Slapukai"). Šiame faile yra tokia informacija kaip Vartotojo domeno pavadinimas, Vartotojo interneto prieigos teikėjas, Vartotojo operacinė sistema, taip pat prieigos data ir laikas. Slapukai jokiu būdu nekelia pavojaus sugadinti Vartotojo terminalą.</p>
+Tikėtina, kad <p>(WEBSITE_URL) apdoros Naudotojo informaciją apie jo apsilankymą Svetainėje, pvz., puslapius, kuriuose buvo peržiūrėtas, atliktas paieškas. Ši informacija leidžia (WEBSITE_URL) pagerinti svetainės turinį, naudotojo naršymą.</p>
+<p>Slapukai, palengvinantys naršymą ir (arba) Svetainės siūlomų paslaugų teikimą, Vartotojas gali sukonfigūruoti savo naršyklę taip, kad jis galėtų nuspręsti, ar jis nori juos priimti, kad slapukai būtų įrašyti terminale arba, priešingai, , jie atmetami sistemingai arba pagal jų išdavėją. Vartotojas taip pat gali sukonfigūruoti savo naršyklės programinę įrangą taip, kad jam retkarčiais būtų pasiūlytas slapukų priėmimas arba atsisakymas, kol slapukas greičiausiai bus išsaugotas jo terminale. (WEBSITE_URL) informuoja vartotoją, kad tokiu atveju gali būti prieinamos ne visos jo navigacijos programinės įrangos funkcijos.</p>
+<p> Jei Naudotojas atsisako registruoti slapukus savo terminale ar naršyklėje arba jei Naudotojas ištrina ten registruotus, Vartotojas informuojamas, kad jo naršymas ir patirtis Svetainėje gali būti apribota. Taip gali būti ir tada, kai (WEBSITE_URL) arba vienas iš jo paslaugų teikėjų techninio suderinamumo sumetimais negali atpažinti terminalo naudojamos naršyklės tipo, kalbos ir rodymo nustatymų arba šalies, prie kurios terminalas, atrodo, yra prijungtas. internetu.</p>
+<p>Jei taikoma, (WEBSITE_URL) neprisiima jokios atsakomybės už pasekmes, susijusias su pablogėjusiu Svetainės veikimu ir paslaugomis, kurias galimai siūlo (WEBSITE_URL), atsiradusias (i) vartotojui atsisakius slapukų (ii) negalėjimas (WEBSITE_URL) išsaugoti ar peržiūrėti jų veikimui reikalingus slapukus dėl Naudotojo pasirinkimo. Slapukų ir vartotojų pasirinkimų valdymui kiekvienos naršyklės konfigūracija skiriasi. Tai aprašyta naršyklės pagalbos meniu, kuris leis jums žinoti, kaip Vartotojas gali keisti savo pageidavimus dėl slapukų.</p>
+<p>Naudotojas bet kuriuo metu gali pasirinkti išreikšti ir keisti savo pageidavimus dėl slapukų. (WEBSITE_URL) taip pat gali naudotis išorinių paslaugų teikėjų paslaugomis, kad padėtų rinkti ir apdoroti šioje skiltyje aprašytą informaciją.</p>
+<p>Galiausiai, spustelėdami socialiniams tinklams Twitter, Facebook, Linkedin ir Google Plus skirtas piktogramas, rodomas (WEBSITE_URL) svetainėje arba jos mobiliojoje programoje ir jei Naudotojas sutiko su slapukų įmokėjimu toliau naršydamas Svetainėje arba mobiliojoje programoje (WEBSITE_URL), Twitter, Facebook, Linkedin ir Google Plus taip pat gali įdėti slapukus į jūsų įrenginius (kompiuterį, planšetinį kompiuterį, mobilųjį telefoną).</p>
+<p>Šio tipo slapukai įdedami į jūsų terminalus tik tuo atveju, jei sutinkate su jais toliau naršydami svetainėje arba mobiliojoje programoje (WEBSITE_URL). Nepaisant to, Naudotojas bet kuriuo metu gali atšaukti savo sutikimą (WEBSITE_URL) įdėti tokio tipo slapuką.</p>
+
+<h3>9.2 skirsnis. INTERNETO ŽYMĖS</h3>
+<p>(WEBSITE_URL) retkarčiais gali naudoti žiniatinklio signalus ir įdiegti juos per žiniatinklio analizės partnerį, kuris gali būti (ir saugoti susijusią informaciją, įskaitant naudotojo IP adresą) užsienio šalyje.</p>
+<p>Šios žymos dedamos ir į internetinius skelbimus, leidžiančius interneto vartotojams pasiekti Svetainę, ir įvairiuose svetainės puslapiuose. </p>
+<p>Ši technologija leidžia (WEBSITE_URL) įvertinti lankytojų atsakymus į svetainę ir jos veiksmų efektyvumą (pavyzdžiui, kiek kartų puslapis atidaromas ir kokia informacija buvo peržiūrėta), taip pat šios svetainės naudojimą Vartotojas. </p>
+<p>Išorinis paslaugų teikėjas gali rinkti informaciją apie svetainės ir kitų interneto svetainių lankytojus, naudodamas šias žymas, rengti ataskaitas apie svetainės veiklą, skirtą (WEBSITE_URL) dėmesiui, ir teikti kitas paslaugas, susijusias su jos naudojimu ir internetu. </p>
+
+<h2>10. Taikytina teisė ir jurisdikcijos priskyrimas.</h2>
+<p>Visiems ginčams, susijusiems su svetainės (WEBSITE_URL) naudojimu, taikomas baudžiamasis įstatymas. Išskyrus atvejus, kai įstatymai to neleidžia, išimtinė jurisdikcija suteikiama kompetentingiems teismams.</p>

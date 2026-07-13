@@ -1,0 +1,112 @@
+<h2>Definicije</h2>
+<p>
+<b>Stranka:</b> katera koli poklicna ali fizična oseba, sposobna v smislu naslednjih členov Civilnega zakonika, ali pravna oseba, ki obišče spletno mesto pod temi splošnimi pogoji.<br>
+<b>Ugodnosti in storitve:</b> (WEBSITE_URL) strankam nudi:
+</p>
+<p><b>Vsebina:</b> Vsi sestavni elementi informacij, ki so prisotne na spletnem mestu, zlasti besedila – slike – videoposnetki.</p>
+<p><b>Podatki o strankah:</b> V nadaljnjem besedilu "Informacije", ki ustrezajo vsem osebnim podatkom, ki jih verjetno hrani (WEBSITE_NAME) za upravljanje vašega računa, upravljanje stranke in za analitične in statistične namene.</p>
+<p><b>Uporabnik:</b> Internetni uporabnik se povezuje z uporabo zgoraj navedenega spletnega mesta.</p>
+<p><b>Osebni podatki:</b> "Informacije, ki v kakršni koli obliki, neposredno ali posredno, omogočajo identifikacijo fizičnih oseb, za katere se nanašajo."</p>
+<p>Izrazi »osebni podatki«, »na katerega se nanašajo osebni podatki«, »podizvajalec« in »občutljivi podatki« imajo pomen, opredeljen v Splošni uredbi o varstvu podatkov (RGPD: št. 2016-679)</p>
+
+<h2>1. Predstavitev spletne strani.</h2>
+<p>V skladu s 6. členom zakona št. 2004-575 z dne 21. junija 2004 o zaupanju v digitalno gospodarstvo so uporabniki spletnega mesta (WEBSITE_URL) obveščeni o identiteti različnih deležnikov v okviru njegovega izvajanja in spremljanja: </p>
+<p>
+<b>Lastnik</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Upravitelj založništva</b>: (AUTHOR_NAME)<br>
+<b>Spletni skrbnik</b>: (WEBMASTER_NAME)<br>
+<b>Pooblaščenec za varstvo podatkov</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. Splošni pogoji uporabe strani in ponujenih storitev.</h2>
+<p>Stran predstavlja intelektualno delo, zaščiteno z določbami Kodeksa intelektualne lastnine in veljavnimi mednarodnimi predpisi. Stranka ne sme na noben način ponovno uporabiti, prenesti ali izkoriščati za svoj račun vseh ali dela elementov ali del spletnega mesta.</p>
+<p>Uporaba spletnega mesta (WEBSITE_NAME) pomeni popolno sprejemanje spodaj opisanih splošnih pogojev uporabe. Ti pogoji uporabe se lahko kadar koli spremenijo ali dopolnijo, zato so uporabniki spletnega mesta (WEBSITE_NAME) vabljeni, da jih redno pregledujejo.</p>
+<p>To spletno mesto je običajno dostopno uporabnikom kadar koli. Za prekinitev zaradi tehničnega vzdrževanja pa lahko odloči (WEBSITE_NAME), ki si bo nato prizadeval obvestiti uporabnike pred datumi in časi intervencije. Pravna obvestila se lahko kadar koli spremenijo: kljub temu so zavezujoča za uporabnika, ki je povabljen, da se nanje čim pogosteje sklicuje, da bi se z njimi seznanil.</p>
+
+<h2>3. Opis opravljenih storitev.</h2>
+<p>Namen spletnega mesta (WEBSITE_NAME) je zagotoviti informacije o vseh dejavnostih podjetja. (WEBSITE_NAME) si prizadeva zagotoviti čim natančnejše informacije. Vendar pa ne more biti odgovoren za opustitve, netočnosti in pomanjkljivosti v posodobitvi, bodisi sam bodisi tretji partnerji, ki mu posredujejo te podatke.</p>
+<p>Vse informacije, navedene na spletnem mestu (WEBSITE_NAME), so podane zgolj informativno in se lahko spremenijo. Poleg tega informacije na spletnem mestu (WEBSITE_NAME) niso izčrpne. So predmet sprememb, odkar so bile objavljene na spletu.</p>
+
+<h2>4. Pogodbene omejitve tehničnih podatkov.</h2>
+<p>Stran uporablja tehnologijo JavaScript. Spletno mesto ne odgovarja za materialno škodo, povezano z uporabo strani. Poleg tega se uporabnik strani strinja z dostopom do strani z uporabo najnovejše opreme, ki ne vsebuje virusov in s posodobljenim brskalnikom zadnje generacije. Spletno mesto (WEBSITE_NAME) gosti ponudnik storitev na ozemlju Evropske unije v skladu z določbami Splošne uredbe o varstvu podatkov (RGPD: št. 2016-679).</p>
+<p>Cilj je zagotoviti storitev, ki zagotavlja najboljšo stopnjo dostopnosti. Gostitelj zagotavlja kontinuiteto svoje storitve 24 ur na dan, vse dni v letu. Kljub temu si pridržuje pravico do prekinitve storitve gostovanja za najkrajši možni čas, zlasti zaradi vzdrževanja, izboljšanja svoje infrastrukture, okvare njene infrastrukture ali če storitve in storitve ustvarjajo promet, ki se šteje za nenormalen.</p>
+<p>(WEBSITE_NAME) in gostitelj ne moreta biti odgovorna v primeru okvare internetnega omrežja, telefonskih linij ali računalniške in telefonske opreme, ki je povezana zlasti z prezasedenostjo omrežja, ki preprečuje dostop do strežnika.</p>
+
+<h2>5. Intelektualna lastnina in ponaredki.</h2>
+<p>(WEBSITE_NAME) je lastnik pravic intelektualne lastnine in ima pravice za uporabo vseh elementov, ki so dostopni na spletnem mestu, zlasti besedil, slik, grafik, logotipov, videoposnetkov, ikon in zvokov. Vsako razmnoževanje, zastopanje, spreminjanje, objava, prilagajanje vseh ali dela elementov spletnega mesta, ne glede na uporabljeno sredstvo ali postopek, je prepovedano, razen s predhodnim pisnim dovoljenjem: (WEBSITE_NAME).</p>
+<p>Vsaka nepooblaščena uporaba spletnega mesta ali katerega koli elementa, ki ga vsebuje, se bo štela za kršitev in bo preganjana v skladu z določbami členov L.335-2 in naslednjimi Zakonikom o intelektualni lastnini.</p>
+
+<h2>6. Omejitev odgovornosti.</h2>
+<p>(WEBSITE_NAME) deluje kot izdajatelj spletnega mesta. (WEBSITE_NAME) je odgovorno za kakovost in verodostojnost vsebine, ki jo objavlja.</p>
+<p>(WEBSITE_NAME) ne more biti odgovoren za neposredno in posredno škodo, povzročeno na opremi uporabnika pri dostopu do spletnega mesta (WEBSITE_NAME) in nastalo bodisi zaradi uporabe opreme, ki ne ustreza specifikacijam, navedenim v točki 4, bodisi videz hrošča ali nezdružljivosti.</p>
+<p>(WEBSITE_NAME) prav tako ne more biti odgovoren za posledično škodo (kot je izguba trga ali izguba priložnosti), ki je posledica uporabe spletnega mesta (WEBSITE_URL). Uporabnikom so na voljo interaktivni prostori (možnost postavljanja vprašanj v kontaktnem prostoru). (WEBSITE_URL) si pridržuje pravico, da brez predhodnega obvestila izbriše katero koli vsebino, objavljeno v tem prostoru, ki bi kršila veljavno zakonodajo Evropske unije, zlasti določbe v zvezi z varstvom podatkov. Kjer je primerno, (WEBSITE_URL) si pridržuje tudi pravico do dvoma o civilni in/ali kazenski odgovornosti uporabnika, zlasti v primeru rasističnega, žaljivega, obrekovalnega ali pornografskega sporočila, ne glede na uporabljeni medij. (besedilo,
+
+<h2>7. Upravljanje osebnih podatkov.</h2>
+<p>Stranka je seznanjena s predpisi v zvezi s trženjskim komuniciranjem, zakonom z dne 21. junija 2014 o zaupanju v digitalno gospodarstvo, Zakonom o varstvu podatkov z dne 6. avgusta 2004 ter Splošnimi predpisi o varstvu podatkov (RGPD: št. 2016-679). </p>
+
+<h3>7.1 Osebe, odgovorne za zbiranje osebnih podatkov</h3>
+<p>Za osebne podatke, zbrane v okviru ustvarjanja osebnega računa uporabnika in njegove navigacije po spletnem mestu, je odgovorna oseba za obdelavo osebnih podatkov: (WEBSITE_NAME).</p>
+<p>Kot odgovoren za obdelavo podatkov, ki jih zbira, se (WEBSITE_URL) zavezuje, da bo ravnal v skladu z okvirom veljavnih zakonskih določb. Zlasti mora stranka določiti namene svoje obdelave podatkov, zagotoviti svojim potencialnim strankam in strankam, od zbiranja njihovih privolitev, popolne informacije o obdelavi njihovih osebnih podatkov in vzdrževati register doslednih obravnav. z realnostjo. Kadar koli (WEBSITE_URL) obdeluje osebne podatke, (WEBSITE_URL) sprejme vse razumne ukrepe, da zagotovi točnost in ustreznost osebnih podatkov glede na namene, za katere jih (WEBSITE_URL) obdeluje.</p>
+
+<h3>7.2 Namen zbranih podatkov</h3>
+<p>(WEBSITE_URL) lahko obdeluje vse ali del podatkov:</p>
+<ul>
+<li>za omogočanje navigacije po spletnem mestu ter upravljanje in sledljivost storitev, ki jih je naročil uporabnik: podatki o povezavi in ​​uporabi za spletno mesto, izdajanje računov, zgodovina naročil itd. </li>
+<li>za preprečevanje in boj proti računalniškim goljufijam (neželena pošta, vdiranje itd.): računalniška oprema, ki se uporablja za brskanje, naslov IP, geslo (zgoščeno) </li>
+<li>za izboljšanje navigacije po spletnem mestu: podatki o povezavi in ​​uporabi </li>
+<li>za izvedbo neobveznih raziskav o zadovoljstvu na (WEBSITE_URL): e-poštni naslov </li>
+<li>za izvedbo komunikacijskih kampanj (sms, email): telefonska številka, elektronski naslov</li>
+</ul>
+<p>(WEBSITE_URL) ne trži vaših osebnih podatkov, ki se zato uporabljajo samo po potrebi ali za statistične in analizne namene.</p>
+
+<h3>7.3 Pravica do dostopa, popravka in nasprotovanja</h3>
+<p>V skladu z veljavnimi evropskimi predpisi imajo uporabniki (WEBSITE_URL) naslednje pravice: </p>
+<ul>
+<li>pravica dostopa (člen 15 GDPR) in popravka (člen 16 GDPR), posodobitev, popolnost podatkov o uporabnikih pravica do blokiranja ali izbrisa osebnih podatkov uporabnika (člen 17 GDPR), kadar so netočni, nepopolni, dvoumni , zastareli ali katerih zbiranje, uporaba, komunikacija ali shranjevanje je prepovedano </li>
+<li>pravica do umika privolitve kadar koli (člen 13-2c GDPR) </li>
+<li>pravica do omejitve obdelave uporabniških podatkov (člen 18 GDPR) </li>
+<li>pravica do nasprotovanja obdelavi uporabniških podatkov (21. člen GDPR) </li>
+<li>pravica do prenosljivosti podatkov, ki so jih posredovali Uporabniki, kadar so ti podatki predmet avtomatske obdelave na podlagi njihove privolitve ali pogodbe (20. člen GDPR) </li>
+<li>pravica do opredelitve usode uporabnikovih podatkov po njihovi smrti in do izbire, komu (WEBSITE_URL) bo moral svoje podatke posredovati (ali ne) tretji osebi, ki jo bodo predhodno določili.</li>
+</ul>
+<p>Takoj ko (WEBSITE_URL) izve za smrt uporabnika in v odsotnosti njegovih navodil, se (WEBSITE_URL) zavezuje, da bo njegove podatke uničil, razen če se izkaže, da je njihovo ohranjanje potrebno za dokazne namene ali za izpolnitev zakonske obveznosti. </p>
+<p>Če želi uporabnik izvedeti, kako (WEBSITE_URL) uporablja svoje osebne podatke, zahteva, da jih popravi ali nasprotuje njihovi obdelavi, se lahko uporabnik obrne na (WEBSITE_URL) pisno na naslednji naslov: (WEBSITE_ADDRESS). </p>
+<p>V tem primeru mora uporabnik navesti Osebne podatke, ki jih želi (WEBSITE_URL) popraviti, posodobiti ali izbrisati, tako da se natančno identificira s kopijo osebnega dokumenta (identiteta kartice ali potnega lista). </p>
+<p>Za zahteve za izbris osebnih podatkov bodo veljale obveznosti, ki jih zakonodaja nalaga (WEBSITE_URL), zlasti v zvezi s hrambo ali arhiviranjem dokumentov.</p>
+
+<h3>7.4 Nerazkritje osebnih podatkov</h3>
+<p>(WEBSITE_URL) je prepovedano obdelovati, gostiti ali prenašati podatke, zbrane o svojih strankah, v državo, ki se nahaja zunaj Evropske unije ali jo Evropska komisija priznava kot "neprimerno", ne da bi prej o tem obvestila stranko. Vendar (WEBSITE_URL) lahko še vedno svobodno izbere svoje tehnične in komercialne podizvajalce pod pogojem, da predložijo zadostna jamstva glede na zahteve Splošne uredbe o varstvu podatkov (RGPD: št. 2016-679). </p>
+<p>(WEBSITE_URL) se zavezuje, da bo sprejel vse potrebne varnostne ukrepe za ohranitev varnosti informacij in zlasti, da jih ne bo posredoval nepooblaščenim osebam. Če pa (WEBSITE_URL) opozori na incident, ki vpliva na celovitost ali zaupnost strankinih podatkov, mora ta čim prej obvestiti naročnika in ga obvestiti o sprejetih korektivnih ukrepih. Poleg tega (WEBSITE_URL) ne zbira nobenih "občutljivih podatkov".</p>
+<p>Osebne podatke uporabnika lahko obdelujejo hčerinske družbe (WEBSITE_URL) in podizvajalci (ponudniki storitev) izključno za doseganje namenov te politike.</p>
+<p>V mejah njihovih ustreznih avtorskih pravic in za zgoraj navedene namene so glavni ljudje, ki bodo verjetno imeli dostop do podatkov uporabnikov spletnega mesta (WEBSITE_URL), večinoma naši agenti za pomoč strankam.</p>
+
+<h2>8. Obvestilo o incidentu</h2>
+<p>Ne glede na to, kako se trudite, noben način prenosa prek interneta in noben način elektronskega shranjevanja ni popolnoma varen. Zato ne moremo zagotoviti popolne varnosti. Če izvemo za varnostno kršitev, bomo o tem obvestili prizadete uporabnike, da bodo lahko ustrezno ukrepali. Naši postopki obveščanja o incidentih upoštevajo naše pravne obveznosti, bodisi na nacionalni ali evropski ravni. Zavezani smo k temu, da bomo naše stranke v celoti obveščali o vseh zadevah v zvezi z varnostjo njihovega računa in jim zagotovili vse potrebne informacije, ki jim bodo pomagale pri izpolnjevanju lastnih obveznosti glede poročanja predpisov.</p>
+<p>Nobeni osebni podatki uporabnika spletnega mesta (WEBSITE_URL) se ne objavijo brez vednosti uporabnika, izmenjujejo, prenašajo, dodelijo ali prodajajo na katerem koli mediju tretjim osebam. Samo hipoteza odkupa (WEBSITE_URL) in njegovih pravic bi omogočila posredovanje omenjenih informacij bodočemu kupcu, ki bi bil nato zavezan z enako obveznostjo shranjevanja in spreminjanja podatkov v odnosu do uporabnika spletnega mesta (WEBSITE_URL).</p>
+
+<h3>Varnost</h3>
+<p>Za zagotovitev varnosti in zaupnosti osebnih podatkov in osebnih zdravstvenih podatkov (WEBSITE_URL) uporablja omrežja, zaščitena s standardnimi napravami, kot so požarni zidovi, psevdonimizacija, šifriranje in gesla.</p>
+<p>Pri obdelavi osebnih podatkov (WEBSITE_URL) sprejme vse razumne ukrepe, da jih zaščiti pred izgubo, zlorabo, nepooblaščenim dostopom, razkritjem, spremembo ali uničenjem.</p>
+
+<h2>9. Hiperbesedilne povezave »piškotki« in internetne oznake (»oznake«)</h2>
+<p>Stran (WEBSITE_URL) vsebuje določeno število hiperbesedilnih povezav na druga spletna mesta, ki so nastavljena z avtorizacijo (WEBSITE_URL). Vendar (WEBSITE_URL) nima možnosti preverjanja vsebine tako obiskanih strani in zato ne prevzema nobene odgovornosti za to dejstvo.</p>
+<p>Razen če se odločite onemogočiti piškotke, se strinjate, da jih spletno mesto lahko uporablja. Te piškotke lahko kadar koli in brezplačno deaktivirate z uporabo možnosti deaktivacije, ki so vam ponujene in navedene spodaj, saj se zavedate, da lahko to zmanjša ali prepreči dostop do vseh ali dela storitev, ki jih ponuja spletno mesto.</p>
+
+<h3>9.1. Uporaba PIŠKOTKOV</h3>
+<p>»Piškotek« je majhna informacijska datoteka, poslana uporabnikovemu brskalniku in shranjena na uporabnikovem terminalu (npr. računalnik, pametni telefon), (v nadaljevanju »Piškotki«). Ta datoteka vključuje informacije, kot so uporabniško ime domene, uporabnikov ponudnik internetnega dostopa, uporabnikov operacijski sistem ter datum in čas dostopa. Piškotki na noben način ne tvegajo, da bi poškodovali uporabniški terminal.</p>
+<p>(WEBSITE_URL) bo verjetno obdelal podatke uporabnika v zvezi z njegovim obiskom spletnega mesta, kot so strani, ki jih je pregledal, opravljena iskanja. Te informacije omogočajo (WEBSITE_URL) izboljšanje vsebine spletnega mesta, navigacijo uporabnika.</p>
+<p>Piškotki, ki olajšajo navigacijo in/ali zagotavljanje storitev, ki jih ponuja spletno mesto, lahko uporabnik konfigurira svoj brskalnik tako, da se lahko odloči, ali jih želi sprejeti ali ne, tako da se piškotki shranijo v terminal ali, nasprotno , so zavrnjene bodisi sistematično bodisi glede na izdajatelja. Uporabnik lahko tudi konfigurira svojo programsko opremo brskalnika tako, da se mu občasno ponudi sprejem ali zavrnitev piškotkov, preden se piškotek verjetno shrani v njegov terminal. (WEBSITE_URL) obvešča uporabnika, da v tem primeru funkcije njegove navigacijske programske opreme morda ne bodo na voljo.</p>
+<p> Če uporabnik zavrne registracijo piškotkov v svojem terminalu ali svojem brskalniku ali če uporabnik izbriše tiste, ki so tam registrirani, je uporabnik obveščen, da sta lahko njegova navigacija in izkušnja na spletnem mestu omejeni. To se lahko zgodi tudi, če (WEBSITE_URL) ali eden od njegovih ponudnikov storitev zaradi tehnične združljivosti ne more prepoznati vrste brskalnika, ki ga uporablja terminal, nastavitev jezika in zaslona ali države, iz katere se zdi, da je terminal povezan. internet.</p>
+<p>Kjer je primerno, (WEBSITE_URL) zavrača vso odgovornost za posledice, povezane s poslabšanim delovanjem spletnega mesta in storitev, ki jih morda ponuja (WEBSITE_URL), ki so posledica (i) zavrnitve piškotkov s strani uporabnika (ii) iz nezmožnost za (WEBSITE_URL) shranjevanje ali ogled piškotkov, potrebnih za njihovo delovanje, zaradi izbire uporabnika. Za upravljanje piškotkov in uporabniških izbir je konfiguracija vsakega brskalnika drugačna. Opisano je v meniju pomoči brskalnika, ki vam omogoča, da veste, kako lahko uporabnik spremeni svoje želje glede piškotkov.</p>
+<p>Uporabnik se lahko kadar koli odloči izraziti in spremeniti svoje želje v smislu piškotkov. (WEBSITE_URL) lahko uporablja tudi storitve zunanjih ponudnikov storitev za pomoč pri zbiranju in obdelavi informacij, opisanih v tem razdelku.</p>
+<p>Nazadnje, s klikom na ikone, namenjene družbenim omrežjem Twitter, Facebook, Linkedin in Google Plus, ki se pojavljajo na spletnem mestu (WEBSITE_URL) ali v njegovi mobilni aplikaciji in če je uporabnik sprejel depozit piškotkov z nadaljevanjem brskanja na spletnem mestu ali mobilni aplikaciji (WEBSITE_URL), Twitter, Facebook, Linkedin in Google Plus lahko piškotke namestijo tudi na vaše naprave (računalnik, tablica, mobilni telefon).</p>
+<p>Te vrste piškotkov se namestijo na vaše terminale samo, če se z njimi strinjate, tako da nadaljujete z brskanjem po spletnem mestu ali mobilni aplikaciji (WEBSITE_URL). Uporabnik lahko kljub temu kadar koli prekliče svoje soglasje za (WEBSITE_URL) deponiranje te vrste piškotkov.</p>
+
+<h3>Oddelek 9.2. INTERNETNE OZNAKE</h3>
+<p>(WEBSITE_URL) lahko občasno uporablja spletne svetilnike in jih uvede prek partnerja za spletno analitiko, ki se morda nahaja (in zato shranjuje povezane informacije, vključno z naslovom IP uporabnika) v tuji državi.</p>
+<p>Te oznake so nameščene v spletnih oglasih, ki uporabnikom interneta omogočajo dostop do spletnega mesta, in na različnih straneh spletnega mesta. </p>
+<p>Ta tehnologija omogoča (WEBSITE_URL) ocenjevanje odzivov obiskovalcev na spletno mesto in učinkovitosti njegovih dejanj (na primer, kolikokrat se stran odpre in informacije, ki so bile uporabljene), kot tudi uporabo tega spletnega mesta s strani uporabnika. </p>
+<p>Zunanji ponudnik storitev lahko zbira informacije o obiskovalcih spletnega mesta in drugih spletnih mest, ki uporabljajo te oznake, sestavlja poročila o dejavnosti spletnega mesta za pozornost (WEBSITE_URL) in zagotavlja druge storitve v zvezi z njegovo uporabo in internetom. </p>
+
+<h2>10. Veljavno pravo in dodelitev jurisdikcije.</h2>
+<p>Vsak spor v zvezi z uporabo spletnega mesta (WEBSITE_URL) je predmet kazenskega prava. Razen v primerih, ko zakon tega ne dovoljuje, je izključno pristojna pristojna sodišča.</p>

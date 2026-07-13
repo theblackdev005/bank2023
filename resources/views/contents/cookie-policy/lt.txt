@@ -1,0 +1,20 @@
+<P> (WEBSITE_NAME) siekiama suteikti geriausią interneto patirtį per savo vizitą į mūsų svetainę, kuri yra, kodėl mes naudojame tam tikrų tipų "cookies". </P>
+
+<H3> Kas yra sausainėliai? </H3>
+<P> Slapukai yra paketai atsiųsta informacija interneto serverį (šiuo atveju šios svetainės) į interneto naršyklėje lankytojo, saugomi savo kompiuterį ir siunčiami į serverį, kai patekti į šią svetainę. Todėl už visą naudojimosi šios svetainės, mes rekomenduojame jums konfigūruoti naršyklę priimti slapukus kvitą. </P>
+
+<H3> Kodėl mes jį naudoti? </H3>
+<P> Slapukai yra naudojami siekiant palengvinti navigaciją svetainėje, per kurią ir teisingo naudojimo ir statistikos tikslais, žinoti, kurie lankėsi sritys svetainėje padaryti patobulinimus ir atnaujinimus remiantis naudojimo būdus. Naudojami šioje svetainėje slapukai neleidžia asmens tapatybės duomenų vartotojų įsigijimą. Tada vartotojas gali naršyti puslapį neatskleidžiant asmeninę informaciją. </p>
+
+<H3> tipas slapukus naudojamas </h3>
+<P> "Sesijos slapukai" - yra išskirtinai naudotojo kompiuterio atmintyje ir yra ištrinami, kai naršyklė yra uždarytas. Naudojimas yra griežtai apribota sesijos identifikatorių perdavimo sudarys atsitiktinių skaičių generuoja serverio, reikia leisti svetainė būtų saugus ir veiksmingas. </P>
+<P> Šios slapukai leidžia mums surinkti anoniminę informaciją apie lankytų puslapių vartotojas ir kaip naudoti mūsų svetainėje, siekiant pagerinti navigaciją ateityje ir nustatyti galimus klaidų pranešimų šaltinį. Pavyzdžiui, renkant informaciją apie aplankytų tinklalapių, apsilankymų skaičius, lankytojo naršyklės. </P>
+
+<H3> Slapukai trečiosios </h3>
+<P> Mūsų svetainė gali laikas nuo laiko būti nuorodų į trečiųjų šalių svetaines. Jei sekti nuorodą į šias svetaines, prašome konsultuotis su savo privatumo politiką, apie slapukus ir kaip jie yra tvarkomi, prieš teikiant asmens duomenis šiose svetainėse. </P>
+
+<H3> Kaip valdyti nustatymus slapukus? </H3>
+<P> Norėdami įsitikinti, kad jūs kuo geriau pasinaudoti mūsų interneto svetainėje, mes rekomenduojame, kad jūs priimate slapukus. Dauguma interneto naršyklių yra nustatytas priimti slapukus. Jūs galite bet kuriuo metu, nustatyti savo naršyklę, kad priimti visus slapukus. Be to, galite nustatyti lengvatas naršyklėje turi būti pranešta, kai slapukas yra saugomi jūsų kompiuteryje. Atkreipkite dėmesį, kad neįgalūs slapukai gali trukdyti įprastą ir optimaliai panaudoti svetainėje. </P>
+
+<H3> Pokyčiai šios politikos </h3>
+<P> Ši politika gali keistis laikui bėgant, taip pat yra susijęs su įsigaliojus naujiems teisės aktų. </P>

@@ -1,0 +1,112 @@
+<h2>Definitionen</h2>
+<p>
+<b>Kunde:</b> jede professionelle oder natürliche Person, die im Sinne der folgenden Artikel des Bürgerlichen Gesetzbuchs geschäftsfähig ist, oder juristische Person, die die Website unter diesen allgemeinen Bedingungen besucht.<br>
+<b>Vorteile und Dienste:</b> (WEBSITE_URL) bietet Kunden:
+</p>
+<p><b>Inhalt:</b> Alle Bestandteile der auf der Website vorhandenen Informationen, insbesondere Texte – Bilder – Videos.</p>
+<p><b>Kundeninformationen:</b> Im Folgenden als "Informationen" bezeichnet, die allen personenbezogenen Daten entsprechen, die wahrscheinlich von (WEBSITE_NAME) für die Verwaltung Ihres Kontos, die Verwaltung des Kunden und für Analysen gespeichert werden und statistische Zwecke.</p>
+<p><b>Benutzer:</b> Internetbenutzer, der sich über die oben genannte Site verbindet.</p>
+<p><b>Persönliche Informationen:</b> „Informationen, die in irgendeiner Form, direkt oder indirekt, die Identifizierung der natürlichen Personen ermöglichen, auf die sie sich beziehen.“</p>
+<p>Die Begriffe „personenbezogene Daten“, „betroffene Person“, „Subunternehmer“ und „sensible Daten“ haben die in der Allgemeinen Datenschutzverordnung (RGPD: Nr. 2016-679) definierte Bedeutung</p>
+
+<h2>1. Darstellung der Website.</h2>
+<p>Gemäß Artikel 6 des Gesetzes Nr. 2004-575 vom 21. Juni 2004 über das Vertrauen in die digitale Wirtschaft werden die Benutzer der Website (WEBSITE_URL) über die Identität der verschiedenen Interessengruppen im Rahmen ihrer Umsetzung und Überwachung informiert: </p>
+<p>
+<b>Inhaber</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Publishing Manager</b>: (AUTHOR_NAME)<br>
+<b>Webmaster</b>: (WEBMASTER_NAME)<br>
+<b>Datenschutzbeauftragter</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. Allgemeine Nutzungsbedingungen der Website und der angebotenen Dienste.</h2>
+<p>Die Website stellt ein geistiges Werk dar, das durch die Bestimmungen des Gesetzes über geistiges Eigentum und geltende internationale Vorschriften geschützt ist. Der Kunde darf in keiner Weise alle oder einen Teil der Elemente oder Werke der Website wiederverwenden, übertragen oder für eigene Rechnung nutzen.</p>
+<p>Die Nutzung der Website (WEBSITE_NAME) setzt die vollständige Annahme der unten beschriebenen allgemeinen Nutzungsbedingungen voraus. Diese Nutzungsbedingungen können jederzeit geändert oder ergänzt werden, Benutzer der Website (WEBSITE_NAME) werden daher gebeten, sie regelmäßig zu konsultieren.</p>
+<p>Diese Website ist normalerweise für Benutzer jederzeit zugänglich. Eine Unterbrechung aufgrund von technischen Wartungsarbeiten kann jedoch von (WEBSITE_NAME) entschieden werden, die sich dann bemühen wird, den Benutzern die Daten und Uhrzeiten des Eingriffs vorab mitzuteilen. Die rechtlichen Hinweise können jederzeit geändert werden, sie sind jedoch für den Benutzer bindend, der aufgefordert wird, so oft wie möglich auf sie zurückzugreifen, um sich mit ihnen vertraut zu machen.</p>
+
+<h2>3. Beschreibung der erbrachten Dienstleistungen.</h2>
+<p>Der Zweck der Website (WEBSITE_NAME) besteht darin, Informationen über alle Aktivitäten des Unternehmens bereitzustellen. (WEBSITE_NAME) ist bestrebt, so genaue Informationen wie möglich bereitzustellen. Es kann jedoch nicht für Auslassungen, Ungenauigkeiten und Mängel in der Aktualisierung verantwortlich gemacht werden, weder von ihm selbst noch von den Drittpartnern, die ihm diese Informationen zur Verfügung stellen.</p>
+<p>Alle auf der Website (WEBSITE_NAME) angegebenen Informationen dienen nur zu Informationszwecken und können sich ändern. Außerdem sind die Informationen auf der Website (WEBSITE_NAME) nicht vollständig. Sie werden vorbehaltlich von Änderungen gegeben, die seit ihrer Veröffentlichung vorgenommen wurden.</p>
+
+<h2>4. Vertragliche Beschränkungen der technischen Daten.</h2>
+<p>Die Website verwendet JavaScript-Technologie. Die Website kann nicht für materielle Schäden im Zusammenhang mit der Nutzung der Website haftbar gemacht werden. Darüber hinaus erklärt sich der Benutzer der Website damit einverstanden, auf die Website mit neueren Geräten zuzugreifen, die keine Viren enthalten, und mit einem aktualisierten Browser der neuesten Generation. Die Website (WEBSITE_NAME) wird von einem Dienstanbieter auf dem Gebiet der Europäischen Union gemäß den Bestimmungen der Allgemeinen Datenschutzbestimmungen (RGPD: Nr. 2016-679) gehostet.</p>
+<p>Das Ziel ist es, einen Dienst bereitzustellen, der die beste Erreichbarkeitsrate gewährleistet. Der Gastgeber gewährleistet die Kontinuität seines Dienstes 24 Stunden am Tag, jeden Tag des Jahres. Sie behält sich jedoch das Recht vor, den Hosting-Dienst für die kürzestmögliche Dauer zu unterbrechen, insbesondere zu Wartungszwecken, zur Verbesserung ihrer Infrastrukturen, zum Ausfall ihrer Infrastrukturen oder wenn die Dienste und Dienste als anormal erachteten Datenverkehr erzeugen.</p>
+<p>(WEBSITE_NAME) und der Host können nicht haftbar gemacht werden im Falle einer Fehlfunktion des Internetnetzwerks, der Telefonleitungen oder der Computer- und Telefonausrüstung, die insbesondere mit einer Netzwerküberlastung verbunden ist, die den Zugriff auf den Server verhindert.</p>
+
+<h2>5. Geistiges Eigentum und Fälschungen.</h2>
+<p>(WEBSITE_NAME) ist Inhaber der geistigen Eigentumsrechte und besitzt die Nutzungsrechte an allen auf der Website zugänglichen Elementen, insbesondere den Texten, Bildern, Grafiken, Logos, Videos, Symbolen und Tönen. Jegliche Vervielfältigung, Darstellung, Änderung, Veröffentlichung, Anpassung aller oder eines Teils der Elemente der Website, unabhängig von den verwendeten Mitteln oder Verfahren, ist verboten, außer mit vorheriger schriftlicher Genehmigung von: (WEBSITE_NAME).</p>
+<p>Jede unbefugte Nutzung der Website oder eines der darin enthaltenen Elemente wird als Verstoß angesehen und gemäß den Bestimmungen der Artikel L.335-2 und folgende des Gesetzes über geistiges Eigentum verfolgt.</p>
+
+<h2>6. Haftungsbeschränkung.</h2>
+<p>(WEBSITE_NAME) fungiert als Herausgeber der Website. (WEBSITE_NAME) ist für die Qualität und Richtigkeit der veröffentlichten Inhalte verantwortlich.</p>
+<p>(WEBSITE_NAME) kann auch nicht für direkte und indirekte Schäden haftbar gemacht werden, die am Gerät des Benutzers beim Zugriff auf die Website (WEBSITE_NAME) entstehen und entweder aus der Verwendung von Geräten resultieren, die nicht den in Punkt 4 angegebenen Spezifikationen entsprechen das Auftreten eines Fehlers oder einer Inkompatibilität.</p>
+<p>(WEBSITE_NAME) kann auch nicht für Folgeschäden (z. B. Marktverlust oder entgangene Chancen) haftbar gemacht werden, die sich aus der Nutzung der Website (WEBSITE_URL) ergeben. Interaktive Bereiche (Möglichkeit, Fragen im Kontaktbereich zu stellen) stehen den Benutzern zur Verfügung. (WEBSITE_URL) behält sich das Recht vor, in diesem Bereich veröffentlichte Inhalte ohne vorherige Ankündigung zu löschen, die gegen geltendes Recht in der Europäischen Union, insbesondere die Bestimmungen zum Datenschutz, verstoßen würden. (WEBSITE_URL) behält sich gegebenenfalls auch vor, die zivil- und/oder strafrechtliche Verantwortlichkeit des Nutzers in Frage zu stellen, insbesondere im Falle einer rassistischen, beleidigenden, diffamierenden oder pornografischen Nachricht, unabhängig vom verwendeten Medium (Text,
+
+<h2>7. Verwaltung personenbezogener Daten.</h2>
+<p>Der Kunde wird über die Vorschriften zur Marketingkommunikation, das Gesetz vom 21. Juni 2014 zum Vertrauen in die digitale Wirtschaft, das Datenschutzgesetz vom 06. August 2004 sowie die Allgemeinen Datenschutzbestimmungen (RGPD: Nr. 2016-679). </p>
+
+<h3>7.1 Personen, die für die Erhebung personenbezogener Daten verantwortlich sind</h3>
+<p>Für die personenbezogenen Daten, die im Rahmen der Erstellung des persönlichen Kontos des Benutzers und seiner Navigation auf der Website erhoben werden, ist die für die Verarbeitung personenbezogener Daten verantwortliche Person: (WEBSITE_NAME).</p>
+<p>Als Verantwortlicher für die Verarbeitung der erhobenen Daten verpflichtet sich (WEBSITE_URL) im Rahmen der geltenden gesetzlichen Bestimmungen. Insbesondere ist es Sache des Kunden, die Zwecke seiner Datenverarbeitung festzulegen, seinen Interessenten und Kunden ab der Einholung ihrer Einwilligungen vollständige Informationen über die Verarbeitung ihrer personenbezogenen Daten zu geben und ein konsistentes Behandlungsregister zu führen mit Realität. Wann immer (WEBSITE_URL) personenbezogene Daten verarbeitet, unternimmt (WEBSITE_URL) alle angemessenen Schritte, um die Genauigkeit und Relevanz der personenbezogenen Daten im Hinblick auf die Zwecke, für die (WEBSITE_URL) sie verarbeitet, sicherzustellen.</p>
+
+<h3>7.2 Zweck der erhobenen Daten</h3>
+<p>(WEBSITE_URL) kann alle oder einen Teil der Daten verarbeiten:</p>
+<ul>
+<li>um die Navigation auf der Website und die Verwaltung und Rückverfolgbarkeit der vom Benutzer bestellten Dienste zu ermöglichen: Verbindungs- und Nutzungsdaten für die Website, Rechnungsstellung, Bestellhistorie usw. </li>
+<li>um Computerbetrug (Spamming, Hacking usw.) zu verhindern und zu bekämpfen: Computerausrüstung, die zum Surfen verwendet wird, IP-Adresse, Passwort (gehasht) </li>
+<li>zur Verbesserung der Navigation auf der Website: Verbindungs- und Nutzungsdaten </li>
+<li>Um optionale Umfragen zur Zufriedenheit durchzuführen unter (WEBSITE_URL): E-Mail-Adresse </li>
+<li>zur Durchführung von Kommunikationskampagnen (SMS, E-Mail): Telefonnummer, E-Mail-Adresse</li>
+</ul>
+<p>(WEBSITE_URL) vermarktet Ihre personenbezogenen Daten nicht, die daher nur aus Notwendigkeit oder zu statistischen und Analysezwecken verwendet werden.</p>
+
+<h3>7.3 Auskunfts-, Berichtigungs- und Widerspruchsrecht</h3>
+<p>In Übereinstimmung mit den geltenden europäischen Vorschriften haben Benutzer von (WEBSITE_URL) die folgenden Rechte: </p>
+<ul>
+<li>Recht auf Auskunft (Art. 15 DSGVO) und Berichtigung (Art. 16 DSGVO), Aktualisierung, Vollständigkeit der Nutzerdaten Recht auf Sperrung oder Löschung personenbezogener Nutzerdaten (Art. 17 DSGVO), wenn diese unrichtig, unvollständig, zweideutig sind , veraltet oder deren Erfassung, Verwendung, Übermittlung oder Speicherung verboten ist </li>
+<li>Recht auf jederzeitigen Widerruf der Einwilligung (Artikel 13-2c DSGVO) </li>
+<li>Recht auf Einschränkung der Verarbeitung von Nutzerdaten (Artikel 18 DSGVO) </li>
+<li>Recht auf Widerspruch gegen die Verarbeitung von Nutzerdaten (Artikel 21 DSGVO) </li>
+<li>Recht auf Übertragbarkeit von Daten, die Benutzer bereitgestellt haben, wenn diese Daten aufgrund ihrer Einwilligung oder eines Vertrags einer automatisierten Verarbeitung unterliegen (Artikel 20 DSGVO) </li>
+<li>das Recht, das Schicksal der Benutzerdaten nach ihrem Tod zu bestimmen und zu entscheiden, wem (WEBSITE_URL) ihre Daten an einen von ihnen zuvor bestimmten Dritten mitgeteilt werden müssen (oder nicht)</li>
+</ul>
+<p>Sobald (WEBSITE_URL) vom Tod eines Nutzers Kenntnis erlangt und keine Weisungen von ihm vorliegen, verpflichtet sich (WEBSITE_URL) zur Vernichtung seiner Daten, es sei denn, deren Aufbewahrung erweist sich als zu Beweiszwecken oder zur Erfüllung einer gesetzlichen Verpflichtung erforderlich. </p>
+<p>Wenn der Benutzer wissen möchte, wie (WEBSITE_URL) seine personenbezogenen Daten verwendet, um deren Berichtigung bittet oder der Verarbeitung widerspricht, kann sich der Benutzer schriftlich unter der folgenden Adresse an (WEBSITE_URL) wenden: (WEBSITE_ADDRESS).</p>
+<p>In diesem Fall muss der Benutzer die personenbezogenen Daten angeben, die er korrigieren, aktualisieren oder löschen möchte (WEBSITE_URL), indem er sich mit einer Kopie eines Identitätsdokuments (Personalausweis oder Reisepass) genau identifiziert. </p>
+<p>Anfragen zur Löschung personenbezogener Daten unterliegen den gesetzlichen Verpflichtungen, die (WEBSITE_URL) auferlegt werden, insbesondere in Bezug auf die Aufbewahrung oder Archivierung von Dokumenten.</p>
+
+<h3>7.4 Geheimhaltung personenbezogener Daten</h3>
+<p>(WEBSITE_URL) ist es untersagt, die über seine Kunden gesammelten Informationen in ein Land außerhalb der Europäischen Union zu verarbeiten, zu hosten oder zu übertragen, das von der Europäischen Kommission als „ungeeignet“ anerkannt wurde, ohne den Kunden vorher zu informieren. (WEBSITE_URL) steht es jedoch frei, seine technischen und kaufmännischen Subunternehmer auszuwählen, sofern diese ausreichende Garantien im Hinblick auf die Anforderungen der Datenschutz-Grundverordnung (RGPD: Nr. 2016-679) bieten.</p>
+<p>(WEBSITE_URL) verpflichtet sich, alle notwendigen Vorkehrungen zu treffen, um die Sicherheit der Informationen zu wahren und insbesondere, dass sie nicht an unbefugte Personen weitergegeben werden. Wenn (WEBSITE_URL) jedoch auf einen Vorfall aufmerksam gemacht wird, der die Integrität oder Vertraulichkeit der Informationen des Kunden beeinträchtigt, muss Letzterer den Kunden so schnell wie möglich informieren und ihn über die ergriffenen Korrekturmaßnahmen informieren. Darüber hinaus sammelt (WEBSITE_URL) keine "sensiblen Daten".</p>
+<p>Die personenbezogenen Daten des Benutzers dürfen von Tochterunternehmen von (WEBSITE_URL) und Subunternehmern (Dienstleistern) ausschließlich zur Erreichung der Zwecke dieser Richtlinie verarbeitet werden.</p>
+<p>Im Rahmen ihrer jeweiligen Zuständigkeiten und für die oben genannten Zwecke sind die Hauptpersonen, die wahrscheinlich Zugriff auf die Daten von Benutzern von (WEBSITE_URL) haben, hauptsächlich unsere Kundendienstmitarbeiter.</p>
+
+<h2>8. Vorfallbenachrichtigung</h2>
+<p>Wie sehr Sie sich auch bemühen, keine Übertragungsmethode über das Internet und keine elektronische Speichermethode ist vollkommen sicher. Absolute Sicherheit können wir daher nicht garantieren. Wenn uns eine Sicherheitsverletzung bekannt wird, werden wir betroffene Benutzer benachrichtigen, damit sie geeignete Maßnahmen ergreifen können. Unsere Verfahren zur Meldung von Vorfällen berücksichtigen unsere gesetzlichen Verpflichtungen, sei es auf nationaler oder europäischer Ebene. Wir verpflichten uns, unsere Kunden umfassend über alle Angelegenheiten im Zusammenhang mit der Sicherheit ihres Kontos zu informieren und ihnen alle Informationen zur Verfügung zu stellen, die sie zur Erfüllung ihrer eigenen regulatorischen Meldepflichten benötigen.</p>
+<p>Keine persönlichen Informationen des Benutzers der Website (WEBSITE_URL) werden ohne Wissen des Benutzers veröffentlicht, ausgetauscht, übertragen, abgetreten oder auf irgendeinem Medium an Dritte verkauft. Nur die Hypothese der Einlösung von (WEBSITE_URL) und seiner Rechte würde die Übermittlung dieser Informationen an den potenziellen Käufer ermöglichen, der wiederum an die gleiche Verpflichtung zur Speicherung und Änderung von Daten gegenüber dem Benutzer der Website gebunden wäre (WEBSITE_URL).</p>
+
+<h3>Sicherheit</h3>
+<p>Um die Sicherheit und Vertraulichkeit personenbezogener Daten und personenbezogener Gesundheitsdaten zu gewährleisten, verwendet (WEBSITE_URL) Netzwerke, die durch Standardgeräte wie Firewalls, Pseudonymisierung, Verschlüsselung und Passwörter geschützt sind.</p>
+<p>Bei der Verarbeitung personenbezogener Daten ergreift (WEBSITE_URL) alle angemessenen Maßnahmen, um sie vor Verlust, Missbrauch, unbefugtem Zugriff, Offenlegung, Änderung oder Zerstörung zu schützen.</p>
+
+<h2>9. Hypertext-Links „Cookies“ und Internet-Tags („Tags“)</h2>
+<p>Die Website (WEBSITE_URL) enthält eine bestimmte Anzahl von Hypertext-Links zu anderen Websites, die mit der Genehmigung von (WEBSITE_URL) eingerichtet wurden. (WEBSITE_URL) hat jedoch keine Möglichkeit, den Inhalt der so besuchten Seiten zu überprüfen, und übernimmt daher keine Verantwortung für diesen Umstand.</p>
+<p>Wenn Sie sich nicht entscheiden, Cookies zu deaktivieren, stimmen Sie zu, dass die Website sie verwenden kann. Sie können diese Cookies jederzeit und kostenlos über die Ihnen angebotenen und unten aufgeführten Deaktivierungsmöglichkeiten deaktivieren, da Sie wissen, dass dies den Zugriff auf alle oder einen Teil der von der Website angebotenen Dienste einschränken oder verhindern kann.</p>
+
+<h3>9.1. Verwendung von COOKIES</h3>
+<p>Ein „Cookie“ ist eine kleine Informationsdatei, die an den Browser des Benutzers gesendet und auf dem Endgerät des Benutzers (z. B. Computer, Smartphone) gespeichert wird (im Folgenden „Cookies“). Diese Datei enthält Informationen wie den Domainnamen des Benutzers, den Internetzugangsanbieter des Benutzers, das Betriebssystem des Benutzers sowie Datum und Uhrzeit des Zugriffs. Cookies riskieren in keiner Weise, das Endgerät des Benutzers zu beschädigen.</p>
+<p>(WEBSITE_URL) wird wahrscheinlich die Informationen des Benutzers über seinen Besuch auf der Website verarbeiten, wie z. B. die konsultierten Seiten, die durchgeführten Suchen. Diese Informationen ermöglichen es (WEBSITE_URL), den Inhalt der Website und die Navigation des Benutzers zu verbessern.</p>
+<p>Cookies, die die Navigation und/oder die Bereitstellung der von der Website angebotenen Dienste erleichtern, der Benutzer kann seinen Browser so konfigurieren, dass er entscheiden kann, ob er sie akzeptieren möchte oder nicht, damit Cookies im Terminal gespeichert werden oder umgekehrt , werden sie entweder systematisch oder je nach Emittent abgelehnt. Der Benutzer kann seine Browser-Software auch so konfigurieren, dass ihm von Zeit zu Zeit die Annahme oder Ablehnung von Cookies angeboten wird, bevor ein Cookie voraussichtlich in seinem Endgerät gespeichert wird. (WEBSITE_URL) weist den Nutzer darauf hin, dass in diesem Fall eventuell nicht alle Funktionalitäten seiner Navigationssoftware zur Verfügung stehen.</p>
+<p> Wenn der Benutzer die Registrierung von Cookies in seinem Terminal oder seinem Browser ablehnt oder wenn der Benutzer die dort registrierten löscht, wird der Benutzer darüber informiert, dass seine Navigation und sein Erlebnis auf der Website eingeschränkt sein können. Dies könnte auch der Fall sein, wenn (WEBSITE_URL) oder einer ihrer Dienstanbieter aus Gründen der technischen Kompatibilität den vom Endgerät verwendeten Browsertyp, die Sprach- und Anzeigeeinstellungen oder das Land, mit dem das Endgerät verbunden zu sein scheint, nicht erkennen kann das Internet.</p>
+<p>Gegebenenfalls lehnt (WEBSITE_URL) jegliche Verantwortung für die Folgen ab, die mit der eingeschränkten Funktion der Website und den möglicherweise von (WEBSITE_URL) angebotenen Diensten verbunden sind, die sich (i) aus der Ablehnung von Cookies durch den Benutzer (ii) aus der Unmöglichkeit für (WEBSITE_URL), die für ihren Betrieb erforderlichen Cookies aufgrund der Wahl des Benutzers zu speichern oder abzurufen. Für die Verwaltung von Cookies und Benutzerauswahl ist die Konfiguration jedes Browsers unterschiedlich. Es wird im Hilfemenü des Browsers beschrieben, wodurch Sie erfahren können, wie der Benutzer seine Wünsche in Bezug auf Cookies ändern kann.</p>
+<p>Der Benutzer kann jederzeit seine Wünsche in Bezug auf Cookies äußern und ändern. (WEBSITE_URL) kann auch die Dienste externer Dienstleister nutzen, um dabei zu helfen, die in diesem Abschnitt beschriebenen Informationen zu sammeln und zu verarbeiten.</p>
+<p>Schließlich durch Klicken auf die Symbole für die sozialen Netzwerke Twitter, Facebook, Linkedin und Google Plus, die auf der Website von (WEBSITE_URL) oder in ihrer mobilen Anwendung erscheinen und wenn der Benutzer die Hinterlegung von Cookies akzeptiert hat, indem er weiter surft auf der Website oder der mobilen Anwendung von (WEBSITE_URL), Twitter, Facebook, Linkedin und Google Plus können auch Cookies auf Ihren Geräten (Computer, Tablet, Mobiltelefon) platzieren.</p>
+<p>Diese Arten von Cookies werden nur dann auf Ihren Endgeräten platziert, wenn Sie damit einverstanden sind, indem Sie weiterhin auf der Website oder der mobilen Anwendung von (WEBSITE_URL) surfen. Der Nutzer kann jedoch jederzeit seine Zustimmung zur Platzierung dieser Art von Cookies durch (WEBSITE_URL) widerrufen.</p>
+
+<h3>Abschnitt 9.2. INTERNET-TAGS</h3>
+<p>(WEBSITE_URL) kann gelegentlich Web-Beacons verwenden und sie über einen Webanalysepartner bereitstellen, der sich möglicherweise in einem anderen Land befindet (und daher zugehörige Informationen speichert, einschließlich der IP-Adresse des Benutzers).</p>
+<p>Diese Tags werden sowohl in Online-Anzeigen platziert, die Internetnutzern den Zugriff auf die Website ermöglichen, als auch auf den verschiedenen Seiten der Website. </p>
+<p>Mit dieser Technologie kann (WEBSITE_URL) die Reaktionen der Besucher auf die Website und die Effektivität ihrer Aktionen (z. B. die Anzahl der Seitenaufrufe und abgerufenen Informationen) sowie die Nutzung dieser Website durch diese Website auswerten der Benutzer. </p>
+<p>Der externe Dienstleister kann unter Verwendung dieser Tags Informationen über Besucher der Website und anderer Internetseiten sammeln, Berichte über die Websiteaktivitäten für (WEBSITE_URL) zusammenstellen und andere Dienstleistungen im Zusammenhang mit der Nutzung der Website und des Internets erbringen. </p>
+
+<h2>10. Anwendbares Recht und Gerichtsstand.</h2>
+<p>Jeder Streit im Zusammenhang mit der Nutzung der Website (WEBSITE_URL) unterliegt dem Strafrecht. Außer in Fällen, in denen das Gesetz dies nicht zulässt, liegt die ausschließliche Zuständigkeit bei den zuständigen Gerichten.</p>

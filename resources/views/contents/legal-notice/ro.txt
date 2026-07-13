@@ -1,0 +1,112 @@
+<h2>Definiții</h2>
+<p>
+<b>Client:</b> orice persoană fizică sau profesionistă capabilă în sensul următoarelor articole din Codul civil, sau persoană juridică, care vizitează Site-ul sub rezerva acestor condiții generale.<br>
+<b>Beneficii și servicii:</b> (WEBSITE_URL) oferă Clienților:
+</p>
+<p><b>Conținut:</b> Toate elementele constitutive ale informațiilor prezente pe Site, în special texte – imagini – videoclipuri.</p>
+<p><b>Informații despre client:</b> denumite în continuare „Informații” care corespund tuturor datelor cu caracter personal susceptibile de a fi deținute de (WEBSITE_NAME) pentru gestionarea contului dvs., gestionarea clientului și pentru analize și în scopuri statistice.</p>
+<p><b>Utilizator:</b> utilizator de internet care se conectează, folosind site-ul denumit mai sus.</p>
+<p><b>Informații cu caracter personal:</b> „Informații care permit, sub orice formă, direct sau indirect, identificarea persoanelor fizice cărora li se aplică”.</p>
+<p>Termenii „date cu caracter personal”, „persoane vizate”, „subcontractant” și „date sensibile” au sensul definit de Regulamentul general privind protecția datelor (RGPD: nr. 2016-679)</p>
+
+<h2>1. Prezentarea site-ului.</h2>
+<p>În temeiul articolului 6 din Legea nr.2004-575 din 21 iunie 2004 privind încrederea în economia digitală, utilizatorii site-ului (WEBSITE_URL) sunt informați cu privire la identitatea diferitelor părți interesate în cadrul implementării și monitorizării acestuia: </p>
+<p>
+<b>Proprietar</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Manager de publicare</b>: (AUTHOR_NAME)<br>
+<b>Webmaster</b>: (WEBMASTER_NAME)<br>
+<b>Ofițer cu protecția datelor</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. Condiții generale de utilizare a site-ului și a serviciilor oferite.</h2>
+<p>Site-ul constituie o operă intelectuală protejată de prevederile Codului de proprietate intelectuală și de reglementările internaționale aplicabile. Clientul nu poate în niciun fel reutiliza, transfera sau exploata în cont propriu, toate sau o parte din elementele sau lucrările Site-ului.</p>
+<p>Utilizarea site-ului (WEBSITE_NAME) implică acceptarea deplină a condițiilor generale de utilizare descrise mai jos. Aceste condiții de utilizare pot fi modificate sau completate în orice moment, utilizatorii site-ului (WEBSITE_NAME) sunt așadar invitați să le consulte în mod regulat.</p>
+<p>Acest site web este în mod normal accesibil utilizatorilor în orice moment. O întrerupere din cauza întreținerii tehnice poate fi totuși decisă de (WEBSITE_NAME), care se va strădui apoi să comunice utilizatorilor înainte de datele și orele intervenției. Avizele legale pot fi modificate în orice moment: ele sunt totuși obligatorii pentru utilizatorul care este invitat să se refere la ele cât mai des posibil pentru a se familiariza cu ele.</p>
+
+<h2>3. Descrierea serviciilor oferite.</h2>
+<p>Scopul site-ului web (WEBSITE_NAME) este de a oferi informații cu privire la toate activitățile companiei. (WEBSITE_NAME) se străduiește să furnizeze informații cât mai exacte posibil. Cu toate acestea, nu poate fi făcut responsabil pentru omisiuni, inexactități și deficiențe ale actualizării, fie ea însăși, fie de către partenerii terți care îi furnizează aceste informații.</p>
+<p>Toate informațiile indicate pe site (WEBSITE_NAME) sunt oferite doar cu titlu informativ și pot fi modificate. Mai mult, informațiile de pe site (WEBSITE_NAME) nu sunt exhaustive. Acestea sunt date sub rezerva modificărilor aduse de când au fost puse online.</p>
+
+<h2>4. Limitări contractuale privind datele tehnice.</h2>
+<p>Site-ul folosește tehnologia JavaScript. Site-ul nu poate fi făcut responsabil pentru daune materiale legate de utilizarea site-ului. In plus, utilizatorul site-ului este de acord sa acceseze site-ul folosind echipamente recente, care nu contin virusi si cu un browser de ultima generatie actualizat. Site-ul (WEBSITE_NAME) este găzduit de un furnizor de servicii pe teritoriul Uniunii Europene în conformitate cu prevederile Regulamentului General de Protecție a Datelor (RGPD: nr. 2016-679).</p>
+<p>Obiectivul este de a oferi un serviciu care să asigure cea mai bună rată de accesibilitate. Gazda asigură continuitatea serviciului său 24 de ore din 24, în fiecare zi a anului. Cu toate acestea, își rezervă dreptul de a întrerupe serviciul de găzduire pentru cele mai scurte durate posibile, în special în scopuri de întreținere, îmbunătățire a infrastructurilor sale, defecțiuni ale infrastructurilor sale sau dacă Serviciile și Serviciile generează trafic considerat anormal.</p>
+<p>(WEBSITE_NAME) și gazda nu pot fi considerate responsabili în cazul unei defecțiuni a rețelei de internet, a liniilor telefonice sau a echipamentelor informatice și de telefonie legate în special de congestionarea rețelei care împiedică accesul la server.</p>
+
+<h2>5. Proprietatea intelectuală și contrafacerile.</h2>
+<p>(WEBSITE_NAME) este proprietarul drepturilor de proprietate intelectuală și deține drepturile de utilizare asupra tuturor elementelor accesibile pe site, în special a textelor, imaginilor, graficelor, siglelor, videoclipurilor, pictogramelor și sunetelor. Orice reproducere, reprezentare, modificare, publicare, adaptare integrală sau parțială a elementelor site-ului, indiferent de mijlocul sau procedeul utilizat, este interzisă, cu excepția autorizației prealabile scrise a: (WEBSITE_NAME).</p>
+<p>Orice utilizare neautorizată a site-ului sau a oricăruia dintre elementele pe care acesta le conține va fi considerată ca fiind o încălcare și urmărită penal în conformitate cu prevederile articolelor L.335-2 și următoarele din Codul de proprietate intelectuală.</p>
+
+<h2>6. Limitarea răspunderii.</h2>
+<p>(WEBSITE_NAME) acţionează ca editor al site-ului. (WEBSITE_NAME) este responsabil pentru calitatea și veridicitatea Conținutului pe care îl publică.</p>
+<p>(WEBSITE_NAME) nu poate fi tras la răspundere pentru daunele directe și indirecte produse echipamentelor utilizatorului, la accesarea site-ului web (WEBSITE_NAME), și care rezultă fie din utilizarea unor echipamente care nu corespund specificațiilor indicate la punctul 4, fie apariția unei erori sau a unei incompatibilități.</p>
+<p>(WEBSITE_NAME) nu poate fi considerat responsabil și pentru daunele indirecte (cum ar fi pierderea pieței sau pierderea unei oportunități) rezultate din utilizarea site-ului (WEBSITE_URL). Spații interactive (posibilitatea de a pune întrebări în spațiul de contact) sunt disponibile utilizatorilor. (WEBSITE_URL) își rezervă dreptul de a șterge, fără notificare prealabilă, orice conținut postat în acest spațiu care ar încălca legislația aplicabilă în Uniunea Europeană, în special prevederile referitoare la protecția datelor. Acolo unde este cazul, (WEBSITE_URL) își rezervă, de asemenea, dreptul de a pune în discuție răspunderea civilă și/sau penală a utilizatorului, în special în cazul unui mesaj rasist, abuziv, defăimător sau pornografic, indiferent de mediul utilizat. (text,
+
+<h2>7. Gestionarea datelor cu caracter personal.</h2>
+<p>Clientul este informat cu privire la reglementările privind comunicarea de marketing, legea din 21 iunie 2014 pentru încrederea în economia digitală, Legea privind protecția datelor din 06 august 2004 precum și Regulamentul general privind protecția datelor (RGPD : Nr. 2016-679). </p>
+
+<h3>7.1 Persoane responsabile cu colectarea datelor cu caracter personal</h3>
+<p>Pentru datele cu caracter personal colectate ca parte a creării contului personal al utilizatorului și a navigării acestuia pe site, persoana responsabilă pentru prelucrarea datelor cu caracter personal este: (WEBSITE_NAME).</p>
+<p>În calitate de responsabil pentru prelucrarea datelor pe care le colectează, (WEBSITE_URL) se obligă să respecte cadrul prevederilor legale în vigoare. În special, revine Clientului să stabilească scopurile prelucrării datelor sale, să furnizeze potențialilor și clienților săi, din colectarea consimțământului acestora, informații complete cu privire la prelucrarea datelor sale personale și să mențină un registru de tratamente consistent. cu realitatea. Ori de câte ori (WEBSITE_URL) prelucrează Date cu caracter personal, (WEBSITE_URL) ia toate măsurile rezonabile pentru a asigura acuratețea și relevanța Datelor cu caracter personal în ceea ce privește scopurile pentru care (WEBSITE_URL) le prelucrează.</p>
+
+<h3>7.2 Scopul datelor colectate</h3>
+<p>(WEBSITE_URL) poate procesa toate sau o parte din datele:</p>
+<ul>
+<li>să permită navigarea pe Site și gestionarea și trasabilitatea serviciilor comandate de utilizator: date de conectare și utilizare pentru Site, facturare, istoric comenzi etc. </li>
+<li>pentru a preveni și a lupta împotriva fraudei informatice (spam, hacking, etc.): echipament informatic utilizat pentru navigare, adresa IP, parolă (hashed) </li>
+<li>pentru a îmbunătăți navigarea pe Site: date de conectare și utilizare </li>
+<li>pentru a efectua sondaje opționale de satisfacție la (WEBSITE_URL): adresa de e-mail </li>
+<li>a desfasura campanii de comunicare (sms, email): numar de telefon, adresa de email</li>
+</ul>
+<p>(WEBSITE_URL) nu comercializează datele dumneavoastră cu caracter personal, care sunt, prin urmare, folosite doar din necesitate sau în scopuri statistice și de analiză.</p>
+
+<h3>7.3 Dreptul de acces, rectificare și opoziție</h3>
+<p>În conformitate cu reglementările europene actuale, Utilizatorii (WEBSITE_URL) au următoarele drepturi: </p>
+<ul>
+<li>dreptul de acces (articolul 15 GDPR) și rectificare (articolul 16 GDPR), actualizarea, integralitatea datelor utilizatorului dreptul de blocare sau ștergere a datelor personale ale utilizatorului (articolul 17 din GDPR), atunci când acestea sunt inexacte, incomplete, ambigue , învechit sau a căror colectare, utilizare, comunicare sau stocare este interzisă </li>
+<li>dreptul de a retrage consimțământul în orice moment (articolul 13-2c GDPR) </li>
+<li>dreptul de a limita prelucrarea datelor utilizatorului (articolul 18 GDPR) </li>
+<li>dreptul de a vă opune prelucrării datelor utilizatorului (articolul 21 GDPR) </li>
+<li>dreptul la portabilitatea datelor pe care le-au furnizat Utilizatorii, atunci când aceste date fac obiectul unei prelucrări automatizate pe baza consimțământului acestora sau pe baza unui contract (articolul 20 GDPR) </li>
+<li>dreptul de a defini soarta datelor Utilizatorilor după moartea acestora și de a alege cui (WEBSITE_URL) va trebui să comunice (sau nu) datele acestora unui terț pe care l-au desemnat anterior</li>
+</ul>
+<p>De îndată ce (WEBSITE_URL) ia cunoștință de decesul unui Utilizator și în lipsa unor instrucțiuni din partea acestuia, (WEBSITE_URL) se obligă să-i distrugă datele, cu excepția cazului în care conservarea acestora se dovedește necesară în scopuri probatorii sau pentru îndeplinirea unei obligații legale. </p>
+<p>Dacă Utilizatorul dorește să știe cum (WEBSITE_URL) își folosește Datele cu Caracter Personal, cere rectificarea acestora sau se opune prelucrării acestora, Utilizatorul poate contacta (WEBSITE_URL) în scris la următoarea adresă: (WEBSITE_ADDRESS). </p>
+<p>În acest caz, Utilizatorul trebuie să indice Datele Personale pe care ar dori (WEBSITE_URL) să le corecteze, să actualizeze sau să le șteargă, identificându-se exact cu o copie a unui act de identitate (carte de identitate sau pașaport). </p>
+<p>Solicitările de ștergere a datelor cu caracter personal vor fi supuse obligațiilor impuse (WEBSITE_URL) de lege, în special în ceea ce privește conservarea sau arhivarea documentelor.</p>
+
+<h3>7.4 Nedivulgarea datelor cu caracter personal</h3>
+<p>(WEBSITE_URL) îi este interzisă prelucrarea, găzduirea sau transferul Informațiilor colectate despre Clienții săi într-o țară situată în afara Uniunii Europene sau recunoscută ca „nepotrivită” de către Comisia Europeană fără a informa în prealabil clientul. Totuși, (WEBSITE_URL) rămâne liberă să-și aleagă subcontractanții tehnici și comerciali cu condiția ca aceștia să prezinte garanții suficiente cu privire la cerințele Regulamentului General de Protecție a Datelor (RGPD: nr. 2016-679).</p>
+<p>(WEBSITE_URL) se angajează să ia toate măsurile de precauție necesare pentru a păstra securitatea Informațiilor și în special ca acestea să nu fie comunicate unor persoane neautorizate. Cu toate acestea, în cazul în care un incident care afectează integritatea sau confidențialitatea Informațiilor Clientului este adus la cunoștința (WEBSITE_URL), acesta din urmă trebuie să informeze Clientul cât mai curând posibil și să-l informeze despre măsurile corective luate. În plus (WEBSITE_URL) nu colectează „date sensibile”.</p>
+<p>Datele cu caracter personal ale utilizatorului pot fi prelucrate de filialele (WEBSITE_URL) și subcontractanții (furnizorii de servicii), exclusiv în scopul realizării scopurilor acestei politici.</p>
+<p>În limitele atribuțiilor lor respective și în scopurile menționate mai sus, principalele persoane susceptibile de a avea acces la datele Utilizatorilor (WEBSITE_URL) sunt în principal agenții noștri de servicii pentru clienți.</p>
+
+<h2>8. Notificare de incident</h2>
+<p>Oricât de mult ai încerca, nicio metodă de transmitere prin Internet și nicio metodă de stocare electronică nu este complet sigură. Prin urmare, nu putem garanta securitatea absolută. Dacă descoperim o încălcare a securității, vom notifica utilizatorii afectați, astfel încât aceștia să poată lua măsurile corespunzătoare. Procedurile noastre de notificare a incidentelor țin cont de obligațiile noastre legale, fie la nivel național sau european. Ne angajăm să informăm pe deplin clienții noștri cu privire la toate aspectele legate de securitatea contului lor și să le oferim toate informațiile necesare pentru a-i ajuta să-și îndeplinească propriile obligații de raportare de reglementare.</p>
+<p>Nici o informație personală a utilizatorului site-ului (WEBSITE_URL) nu este publicată fără știrea utilizatorului, schimbată, transferată, atribuită sau vândută pe orice suport către terți. Doar ipoteza răscumpărării (WEBSITE_URL) și a drepturilor acestuia ar permite transmiterea respectivelor informații către potențialul cumpărător care ar avea, la rândul său, aceeași obligație de stocare și modificare a datelor față de utilizatorul site-ului (WEBSITE_URL).</p>
+
+<h3>Securitate</h3>
+<p>Pentru a asigura securitatea și confidențialitatea Datelor cu caracter personal și a datelor personale de sănătate, (WEBSITE_URL) utilizează rețele protejate de dispozitive standard, cum ar fi firewall-uri, pseudonimizare, criptare și parole.</p>
+<p>La prelucrarea datelor cu caracter personal, (WEBSITE_URL) ia toate măsurile rezonabile pentru a le proteja împotriva pierderii, utilizării greșite, accesului neautorizat, dezvăluirii, modificării sau distrugerii.</p>
+
+<h2>9. Legături hipertext „cookie-uri” și etichete de internet („etichete”)</h2>
+<p>Site-ul (WEBSITE_URL) conține un anumit număr de link-uri hypertext către alte site-uri, create cu autorizația (WEBSITE_URL). Totuși, (WEBSITE_URL) nu are posibilitatea de a verifica conținutul site-urilor astfel vizitate și, prin urmare, nu își asumă nicio responsabilitate pentru acest fapt.</p>
+<p>Cu excepția cazului în care decideți să dezactivați modulele cookie, sunteți de acord că site-ul le poate folosi. Puteți dezactiva aceste cookie-uri în orice moment și în mod gratuit folosind posibilitățile de dezactivare care vi se oferă și amintite mai jos, știind că acest lucru poate reduce sau împiedica accesibilitatea la toate sau o parte a Serviciilor oferite de site.</p>
+
+<h3>9.1. Utilizarea COOKIE-urilor</h3>
+<p>Un „cookie” este un mic fișier de informații trimis către browserul Utilizatorului și stocat pe terminalul Utilizatorului (de exemplu, computer, smartphone), (denumite în continuare „Cookie-uri”). Acest fișier include informații precum numele de domeniu al Utilizatorului, furnizorul de acces la Internet al Utilizatorului, sistemul de operare al Utilizatorului, precum și data și ora accesului. Cookie-urile nu riscă în niciun fel să deterioreze terminalul Utilizatorului.</p>
+<p>(WEBSITE_URL) este de natură să prelucreze informațiile Utilizatorului privind vizita sa pe Site, precum paginile consultate, căutările efectuate. Aceste informații permit (WEBSITE_URL) să îmbunătățească conținutul Site-ului, navigarea Utilizatorului.</p>
+<p>Cookie-uri care facilitează navigarea și/sau furnizarea serviciilor oferite de Site, Utilizatorul își poate configura browser-ul pentru a-i permite să decidă dacă dorește sau nu să le accepte astfel încât Cookie-urile să fie înregistrate în terminal sau, dimpotrivă , acestea sunt respinse, fie sistematic, fie conform emitentului lor. Utilizatorul își poate configura și software-ul browserului astfel încât să i se ofere din când în când acceptarea sau refuzul Cookie-urilor, înainte ca un Cookie să fie susceptibil să fie salvat în terminalul său. (WEBSITE_URL) informează Utilizatorul că, în acest caz, este posibil ca funcționalitățile software-ului său de navigare să nu fie toate disponibile.</p>
+<p> În cazul în care Utilizatorul refuză înregistrarea Cookie-urilor în terminalul sau browserul său, sau dacă Utilizatorul le șterge pe cele care sunt înregistrate acolo, Utilizatorul este informat că navigarea și experiența sa pe Site pot fi limitate. Acesta ar putea fi și cazul în care (WEBSITE_URL) sau unul dintre furnizorii săi de servicii nu poate recunoaște, din motive de compatibilitate tehnică, tipul de browser utilizat de terminal, setările de limbă și de afișare sau țara de la care terminalul pare să fie conectat. Internetul.</p>
+<p>Acolo unde este cazul, (WEBSITE_URL) își declină orice responsabilitate pentru consecințele legate de funcționarea degradată a Site-ului și a serviciilor eventual oferite de (WEBSITE_URL), rezultate (i) din refuzul Cookie-urilor de către Utilizator (ii) din partea imposibilitatea pentru (WEBSITE_URL) de a salva sau consulta Cookie-urile necesare functionarii acestora din cauza alegerii Utilizatorului. Pentru gestionarea Cookie-urilor și a alegerilor Utilizatorului, configurația fiecărui browser este diferită. Este descris în meniul de ajutor al browserului, care vă va permite să știți cum își poate modifica dorințele Utilizatorul în ceea ce privește Cookie-urile.</p>
+<p>În orice moment, Utilizatorul poate alege să-și exprime și să-și modifice dorințele în ceea ce privește Cookie-urile. (WEBSITE_URL) poate utiliza, de asemenea, serviciile furnizorilor externi de servicii pentru a-l ajuta să colecteze și să proceseze informațiile descrise în această secțiune.</p>
+<p>În final, făcând clic pe pictogramele dedicate rețelelor sociale Twitter, Facebook, Linkedin și Google Plus care apar pe Site-ul (WEBSITE_URL) sau în aplicația sa mobilă și dacă Utilizatorul a acceptat depunerea de cookie-uri continuând navigarea pe site-ul web sau în aplicația mobilă (WEBSITE_URL), Twitter, Facebook, Linkedin și Google Plus pot plasa, de asemenea, cookie-uri pe dispozitivele dvs. (computer, tabletă, telefon mobil).</p>
+<p>Aceste tipuri de cookie-uri sunt plasate pe terminalele dumneavoastră numai dacă sunteți de acord cu ele, continuând să navigați pe site-ul web sau prin aplicația mobilă a (WEBSITE_URL). În orice moment, Utilizatorul își poate revoca consimțământul pentru (WEBSITE_URL) depunerea acestui tip de cookie.</p>
+
+<h3>Secțiunea 9.2. ETICHETE INTERNET</h3>
+<p>(WEBSITE_URL) poate folosi ocazional semnalizatoare web și le poate implementa printr-un partener de analiză web care poate fi localizat (și, prin urmare, stochează informații aferente, inclusiv adresa IP a Utilizatorului) într-o țară străină.</p>
+<p>Aceste etichete sunt plasate atât în ​​reclamele online care permit utilizatorilor de Internet să acceseze Site-ul, cât și pe diferitele pagini ale Site-ului. </p>
+<p>Această tehnologie permite (WEBSITE_URL) să evalueze răspunsurile vizitatorilor la Site și eficacitatea acțiunilor acestuia (de exemplu, de câte ori o pagină este deschisă și informațiile consultate), precum și utilizarea acestui Site de către utilizatorul. </p>
+<p>Furnizorul extern de servicii poate colecta informații despre vizitatorii Site-ului și a altor site-uri de Internet folosind aceste etichete, poate compila rapoarte privind activitatea Site-ului în atenția (WEBSITE_URL) și poate furniza alte servicii legate de utilizarea acestuia și a Internetului. </p>
+
+<h2>10. Legea aplicabilă și atribuirea competenței.</h2>
+<p>Orice dispută în legătură cu utilizarea site-ului (WEBSITE_URL) este supusă legii penale. Cu excepția cazurilor în care legea nu permite acest lucru, competența exclusivă este acordată instanțelor competente.</p>

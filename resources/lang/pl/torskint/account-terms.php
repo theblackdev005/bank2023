@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Warunki konta",
+	"TRAD_2" => "Uzyskując dostęp i korzystając z (WEBSITE_NAME), w pełni i bez zastrzeżeń zgadzasz się na niniejsze Warunki konta. Przeczytaj je uważnie przed utworzeniem konta i skorzystaniem z naszych usług. Jeśli nie zgadzasz się z tymi warunkami, nie korzystaj z (WEBSITE_NAME).",
+	"TRAD_3" => "Tworzenie konta",
+	"TRAD_4" => "Aby korzystać z naszych usług, musisz założyć konto, podając dokładne, aktualne i kompletne informacje.",
+	"TRAD_5" => "Jesteś odpowiedzialny za zachowanie poufności informacji o swoim koncie i zabezpieczenie hasła.",
+	"TRAD_6" => "Korzystanie z konta",
+	"TRAD_7" => "Ponosisz odpowiedzialność za wszystkie czynności wykonywane w ramach Twojego konta.",
+	"TRAD_8" => "Zgadzasz się używać (WEBSITE_NAME) wyłącznie do celów prawnych i zgodnie z obowiązującym prawem.",
+	"TRAD_9" => "Nie wolno uzyskiwać nielegalnego dostępu ani próbować uzyskać dostępu do żadnych kont, systemów lub danych, które nie należą do Ciebie.",
+	"TRAD_10" => "Usługi bankowości internetowej",
+	"TRAD_11" => "(WEBSITE_NAME) umożliwi Ci dostęp do niektórych usług bankowych, w tym sprawdzania sald, przelewów, płatności itp.",
+	"TRAD_12" => "Zastrzegamy sobie prawo do modyfikowania lub ograniczania usług dostępnych w witrynie (WEBSITE_NAME) bez powiadomienia.",
+	"TRAD_13" => "Bezpieczeństwo i dostęp",
+	"TRAD_14" => "Podejmiemy uzasadnione kroki w celu ochrony bezpieczeństwa informacji o koncie i transakcji.",
+	"TRAD_15" => "W przypadku kradzieży, utraty lub nieupoważnionego ujawnienia informacji o koncie prosimy o natychmiastowe powiadomienie nas.",
+	"TRAD_16" => "Odpowiedzialność",
+	"TRAD_17" => "Przyjmujesz pełną odpowiedzialność za informacje, które podajesz i działania podejmowane w ramach Twojego konta.",
+	"TRAD_18" => "Nie ponosimy odpowiedzialności za jakiekolwiek szkody wynikające z wykorzystania informacji o Twoim koncie przez osoby trzecie.",
+	"TRAD_19" => "Opłaty i prowizje",
+	"TRAD_20" => "Niektóre usługi mogą podlegać opłatom i prowizjom. Szczegóły tych opłat zostaną podane w odpowiednich sekcjach witryny (WEBSITE_NAME).",
+	"TRAD_21" => "Likwidacja konta",
+	"TRAD_22" => "Możesz zamknąć swoje konto w dowolnym momencie, postępując zgodnie z procedurą wskazaną na stronie (WEBSITE_NAME).",
+	"TRAD_23" => "Zastrzegamy sobie prawo do zamknięcia Twojego konta z powodu naruszenia niniejszych Warunków konta lub z jakiegokolwiek uzasadnionego powodu.",
+	"TRAD_24" => "Zmiany Warunków",
+	"TRAD_25" => "Możemy zmienić niniejsze Warunki konta w dowolnym momencie. Zmiany zaczną obowiązywać po opublikowaniu ich w witrynie (WEBSITE_NAME).",
+	"TRAD_26" => "Kontynuując korzystanie z (WEBSITE_NAME) po opublikowaniu zmian, wyrażasz zgodę na zmienione Warunki konta.",
+	"TRAD_27" => "Warunki konta"
+);

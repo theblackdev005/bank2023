@@ -1,0 +1,20 @@
+<p>(WEBSITE_NAME), sitemizi ziyaretiniz sırasında en iyi çevrimiçi deneyimi sağlamayı amaçlamaktadır, bu nedenle belirli türlerde "çerezler" kullanıyoruz.</p>
+
+<h3>Çerezler nedir?</h3>
+<p>Çerezler, bir web sunucusu (bu durumda bu site) tarafından bir ziyaretçinin İnternet tarayıcısına gönderilen, bilgisayarında depolanan ve siteye her erişildiğinde sunucuya gönderilen bilgi paketleridir. Bu nedenle, bu sitenin tam kullanımı için tarayıcıyı çerezlerin alınmasını kabul edecek şekilde yapılandırmanız önerilir.</p>
+
+<h3>Onları neden kullanıyoruz?</h3>
+<p>Çerezler, sitede gezinmeyi ve doğru kullanımı kolaylaştırmak ve istatistiksel amaçlarla, sitenin hangi alanlarının ziyaret edildiğini bilmek, kullanım kalıplarına göre iyileştirmeler ve güncellemeler yapmak için kullanılmaktadır. Bu sitede kullanılan çerezler, kullanıcıların kişisel kimlik bilgilerinin elde edilmesine izin vermemektedir. Kullanıcı daha sonra kişisel bilgilerini açıklamadan siteye göz atabilir.</p>
+
+<h3>Kullanılan çerez türü</h3>
+<p>"Oturum tanımlama bilgileri" - yalnızca kullanıcının bilgisayarının belleğinde bulunur ve tarayıcı kapatıldığında silinir. Kullanım, bir sitenin güvenli ve verimli olmasını sağlamak için gerekli olan, sunucu tarafından oluşturulan rastgele sayılardan oluşan oturum tanımlayıcılarının iletimiyle kesinlikle sınırlıdır.</p>
+<p>Bu tanımlama bilgileri, gelecekte gezinmeyi iyileştirmek ve olası hata mesajlarının kaynağını belirlemek için bir kullanıcının ziyaret ettiği sayfalar ve sitemizi nasıl kullandığınız hakkında anonim bilgiler toplamamıza olanak tanır. Örneğin, ziyaret edilen sayfalar, ziyaret sayısı, ziyaretçinin tarayıcısı hakkında bilgi toplayın.</p>
+
+<h3>Üçüncü taraf çerezleri</h3>
+<p>Sitemiz zaman zaman üçüncü taraf web sitelerine bağlantılar içerebilir. Bu üçüncü taraf sitelerine giden bir bağlantıyı takip ederseniz, lütfen bu sitelerde herhangi bir kişisel veri sağlamadan önce çerezler ve nasıl yönetildikleri ile ilgili gizlilik politikalarını inceleyin.</p>
+
+<h3>Çerez ayarları nasıl yönetilir?</h3>
+<p>Web sitemizden en iyi şekilde yararlanmanızı sağlamak için çerezleri kabul etmenizi öneririz. Çoğu İnternet tarayıcısı başlangıçta çerezleri kabul edecek şekilde yapılandırılmıştır. Tarayıcınızı istediğiniz zaman tüm çerezleri kabul edecek şekilde yapılandırabilirsiniz. Ek olarak, bilgisayarınızda bir çerez depolandığında her zaman bilgilendirilecek tarayıcı için tercihler belirleyebilirsiniz. Geçersiz çerezlerin sitenin normal ve optimal kullanımını engelleyebileceğini lütfen unutmayın.</p>
+
+<h3>Bu Politikadaki Değişiklikler</h3>
+<p>Bu politika zamanla değişebilir ve ayrıca yeni düzenlemelerin yürürlüğe girmesiyle bağlantılıdır.</p>

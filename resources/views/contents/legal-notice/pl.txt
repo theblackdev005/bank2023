@@ -1,0 +1,112 @@
+<h2>Definicje</h2>
+<p>
+<b>Klient:</b> każda osoba profesjonalna lub fizyczna w rozumieniu poniższych artykułów Kodeksu Cywilnego lub osoba prawna, która odwiedza Witrynę zgodnie z niniejszymi warunkami ogólnymi.<br>
+<b>Korzyści i usługi:</b> (WEBSITE_URL) zapewnia Klientom:
+</p>
+<p><b>Treść:</b> Wszystkie elementy składowe informacji obecnych na Stronie, w szczególności teksty – obrazy – filmy.</p>
+<p><b>Informacje o kliencie:</b> zwane dalej „Informacjami”, które odpowiadają wszystkim danym osobowym, które mogą być przechowywane przez (WEBSITE_NAME) w celu zarządzania kontem, zarządzania klientem i do celów analitycznych i celów statystycznych.</p>
+<p><b>Użytkownik:</b> połączenie użytkownika z Internetem za pomocą wyżej wymienionej witryny.</p>
+<p><b>Dane osobowe:</b> „Informacje, które umożliwiają w dowolnej formie, bezpośrednio lub pośrednio, identyfikację osób fizycznych, których dotyczą”.</p>
+<p>Pojęcia „dane osobowe”, „osoba, której dane dotyczą”, „podwykonawca” i „dane wrażliwe” mają znaczenie określone w ogólnym rozporządzeniu o ochronie danych (RGPD: nr 2016-679)</p>
+
+<h2>1. Prezentacja strony internetowej.</h2>
+<p>Zgodnie z artykułem 6 ustawy nr 2004-575 z dnia 21 czerwca 2004 r. o zaufaniu do gospodarki cyfrowej, użytkownicy strony internetowej (WEBSITE_URL) są informowani o tożsamości różnych interesariuszy w ramach jej wdrażania i monitorowania: </p>
+<p>
+<b>Właściciel</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Menedżer publikowania</b>: (AUTHOR_NAME)<br>
+<b>Webmaster</b>: (WEBMASTER_NAME)<br>
+<b>Inspektor ochrony danych</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. Ogólne warunki korzystania z witryny i oferowanych usług.</h2>
+<p>Witryna stanowi dzieło intelektualne chronione postanowieniami Kodeksu własności intelektualnej i obowiązującymi przepisami międzynarodowymi. Klient nie może w żaden sposób ponownie wykorzystywać, przenosić ani wykorzystywać na własne konto całości lub części elementów lub dzieł Witryny.</p>
+<p>Korzystanie z witryny (WEBSITE_NAME) oznacza pełną akceptację ogólnych warunków użytkowania opisanych poniżej. Niniejsze warunki użytkowania mogą być modyfikowane lub uzupełniane w dowolnym momencie, dlatego użytkownicy witryny (WEBSITE_NAME) są zachęcani do regularnego ich przeglądania.</p>
+<p>Ta witryna jest zwykle dostępna dla użytkowników w dowolnym momencie. O przerwie spowodowanej konserwacją techniczną może jednak zdecydować (WEBSITE_NAME), która następnie podejmie starania, aby komunikować się z użytkownikami przed datami i godzinami interwencji. Informacje prawne mogą zostać zmienione w dowolnym momencie: są jednak wiążące dla użytkownika, który jest proszony o odwoływanie się do nich tak często, jak to możliwe, w celu zapoznania się z nimi.</p>
+
+<h2>3. Opis świadczonych usług.</h2>
+<p>Celem witryny (WEBSITE_NAME) jest dostarczanie informacji dotyczących wszystkich działań firmy. (WEBSITE_NAME) stara się dostarczać jak najdokładniejsze informacje. Jednak nie może być pociągnięty do odpowiedzialności za pominięcia, nieścisłości i braki w aktualizacji, czy to samodzielnie, czy przez partnerów zewnętrznych, którzy dostarczają mu te informacje.</p>
+<p>Wszystkie informacje podane w witrynie (WEBSITE_NAME) mają charakter wyłącznie informacyjny i mogą ulec zmianie. Ponadto informacje na stronie (WEBSITE_NAME) nie są wyczerpujące. Są one poddawane modyfikacjom, które zostały wprowadzone od czasu ich umieszczenia w Internecie.</p>
+
+<h2>4. Ograniczenia umowne dotyczące danych technicznych.</h2>
+<p>Witryna korzysta z technologii JavaScript. Serwis nie ponosi odpowiedzialności za szkody materialne związane z korzystaniem z serwisu. Ponadto użytkownik serwisu wyraża zgodę na dostęp do serwisu przy użyciu najnowszego sprzętu, niezawierającego wirusów i zaktualizowanej przeglądarki najnowszej generacji. Witryna (WEBSITE_NAME) jest hostowana przez dostawcę usług na terytorium Unii Europejskiej zgodnie z postanowieniami ogólnego rozporządzenia o ochronie danych (RGPD: nr 2016-679).</p>
+<p>Celem jest dostarczenie usługi zapewniającej najlepszy wskaźnik dostępności. Host zapewnia ciągłość swoich usług 24 godziny na dobę, każdego dnia w roku. Niemniej jednak zastrzega sobie prawo do przerwania świadczenia usług hostingowych na najkrótszy możliwy czas, w szczególności w celu konserwacji, poprawy infrastruktury, awarii infrastruktury lub jeśli Usługi i Usługi generują ruch uznany za nienormalny.</p>
+<p>(WEBSITE_NAME) i gospodarz nie ponosi odpowiedzialności w przypadku awarii sieci internetowej, linii telefonicznych lub sprzętu komputerowego i telefonicznego związanego w szczególności z przeciążeniem sieci uniemożliwiającym dostęp do serwera.</p>
+
+<h2>5. Własność intelektualna i podróbki.</h2>
+<p>(WEBSITE_NAME) jest właścicielem praw własności intelektualnej i posiada prawa do użytkowania wszystkich elementów dostępnych na stronie, w szczególności tekstów, obrazów, grafik, logo, filmów, ikon i dźwięków. Jakiekolwiek powielanie, przedstawianie, modyfikowanie, publikowanie, dostosowywanie całości lub części elementów witryny, niezależnie od zastosowanych środków lub procesów, jest zabronione, z wyjątkiem uprzedniej pisemnej zgody: (WEBSITE_NAME).</p>
+<p>Każde nieautoryzowane użycie witryny lub któregokolwiek z jej elementów będzie uważane za stanowiące naruszenie i ścigane zgodnie z postanowieniami artykułów L.335-2 i następnych Kodeksu własności intelektualnej.</p>
+
+<h2>6. Ograniczenie odpowiedzialności.</h2>
+<p>(WEBSITE_NAME) działa jako wydawca witryny. (WEBSITE_NAME) odpowiada za jakość i prawdziwość publikowanych przez siebie Treści.</p>
+<p>(WEBSITE_NAME) nie ponosi odpowiedzialności za bezpośrednie i pośrednie szkody wyrządzone w sprzęcie użytkownika podczas uzyskiwania dostępu do strony internetowej (WEBSITE_NAME) i wynikające albo z użytkowania sprzętu, który nie spełnia specyfikacji wskazanych w punkcie 4, albo pojawienie się błędu lub niezgodności.</p>
+<p>(WEBSITE_NAME) nie ponosi również odpowiedzialności za szkody wtórne (takie jak utrata rynku lub utrata możliwości) wynikające z korzystania z witryny (WEBSITE_URL). Przestrzenie interaktywne (możliwość zadawania pytań w przestrzeni kontaktowej) są dostępne dla użytkowników. (WEBSITE_URL) zastrzega sobie prawo do usunięcia, bez uprzedniego powiadomienia, wszelkich treści zamieszczonych w tym miejscu, które naruszałyby obowiązujące w Unii Europejskiej przepisy, w szczególności przepisy dotyczące ochrony danych. W stosownych przypadkach (WEBSITE_URL) zastrzega sobie również prawo do kwestionowania odpowiedzialności cywilnej i/lub karnej użytkownika, w szczególności w przypadku wiadomości rasistowskiej, obraźliwej, zniesławiającej lub pornograficznej, niezależnie od użytego medium (tekst,
+
+<h2>7. Zarządzanie danymi osobowymi.</h2>
+<p>Klient jest informowany o przepisach dotyczących komunikacji marketingowej, ustawie z dnia 21 czerwca 2014 r. o zaufaniu do gospodarki cyfrowej, ustawie z dnia 6 sierpnia 2004 r. o ochronie danych osobowych oraz ogólnych przepisach o ochronie danych (RGPD: nr. 2016-679). </p>
+
+<h3>7.1 Osoby odpowiedzialne za zbieranie danych osobowych</h3>
+<p>W przypadku Danych Osobowych zebranych w ramach tworzenia konta osobistego Użytkownika i jego nawigacji w Witrynie, osobą odpowiedzialną za przetwarzanie Danych Osobowych jest: (WEBSITE_NAME).</p>
+<p>Jako osoba odpowiedzialna za przetwarzanie gromadzonych danych, (WEBSITE_URL) zobowiązuje się do przestrzegania ram obowiązujących przepisów prawnych. W szczególności do Klienta należy ustalenie celów przetwarzania jego danych, zapewnienie potencjalnym i klientom, na podstawie zebranych przez nich zgód, pełnej informacji o przetwarzaniu ich danych osobowych oraz prowadzenie spójnego rejestru zabiegów. z rzeczywistością. Ilekroć (WEBSITE_URL) przetwarza dane osobowe, (WEBSITE_URL) podejmuje wszelkie uzasadnione kroki w celu zapewnienia dokładności i przydatności Danych osobowych w odniesieniu do celów, dla których (WEBSITE_URL) je przetwarza.</p>
+
+<h3>7.2 Cel gromadzonych danych</h3>
+<p>(WEBSITE_URL) może przetwarzać wszystkie lub część danych:</p>
+<ul>
+<li>aby umożliwić nawigację w Witrynie oraz zarządzanie i śledzenie usług zamówionych przez użytkownika: dane dotyczące połączenia i użytkowania Witryny, fakturowania, historii zamówień itp. </li>
+<li>w celu zapobiegania i zwalczania oszustw komputerowych (spamowania, hakowania itp.): sprzęt komputerowy używany do przeglądania, adres IP, hasło (hasowane) </li>
+<li>ulepszyć nawigację w Witrynie: dane dotyczące połączenia i użytkowania </li>
+<li>aby przeprowadzić opcjonalne ankiety satysfakcji pod adresem (WEBSITE_URL): adres e-mail </li>
+<li>przeprowadzać kampanie komunikacyjne (sms, e-mail): numer telefonu, adres e-mail</li>
+</ul>
+<p>(WEBSITE_URL) nie sprzedaje Twoich danych osobowych, które w związku z tym są wykorzystywane wyłącznie z konieczności lub do celów statystycznych i analitycznych.</p>
+
+<h3>7.3 Prawo dostępu, sprostowania i sprzeciwu</h3>
+<p>Zgodnie z obowiązującymi przepisami europejskimi, Użytkownicy (WEBSITE_URL) mają następujące prawa: </p>
+<ul>
+<li>prawo dostępu (art. 15 RODO) i sprostowania (art. 16 RODO), aktualizacji, kompletności danych Użytkownika prawo do zablokowania lub usunięcia danych osobowych Użytkownika (art. 17 RODO), gdy są one niedokładne, niekompletne, niejednoznaczne , nieaktualne lub których gromadzenie, wykorzystywanie, przekazywanie lub przechowywanie jest zabronione </li>
+<li>prawo do wycofania zgody w dowolnym momencie (art. 13-2c RODO) </li>
+<li>prawo do ograniczenia przetwarzania danych Użytkownika (art. 18 RODO)</li>
+<li>prawo do sprzeciwu wobec przetwarzania danych Użytkownika (art. 21 RODO) </li>
+<li>prawo do przenoszenia danych, które podali Użytkownicy, gdy dane te podlegają zautomatyzowanemu przetwarzaniu na podstawie ich zgody lub umowy (art. 20 RODO) </li>
+<li>prawo do określenia losu danych Użytkowników po ich śmierci i wyboru, komu (WEBSITE_URL) będzie musiał przekazać (lub nie) swoje dane stronie trzeciej, którą wcześniej wyznaczyli</li>
+</ul>
+<p>Z chwilą, gdy (WEBSITE_URL) dowie się o śmierci Użytkownika i w przypadku braku poleceń od niego, (WEBSITE_URL) zobowiązuje się do zniszczenia jego danych, chyba że ich zachowanie okaże się konieczne dla celów dowodowych lub wywiązania się z obowiązku prawnego. </p>
+<p>Jeśli Użytkownik chce wiedzieć, w jaki sposób (WEBSITE_URL) wykorzystuje jego Dane Osobowe, poprosić o ich sprostowanie lub sprzeciwić się ich przetwarzaniu, Użytkownik może skontaktować się z (WEBSITE_URL) pisemnie pod następującym adresem: (WEBSITE_ADDRESS).</p>
+<p>W takim przypadku Użytkownik musi wskazać Dane Osobowe, które chciałby (WEBSITE_URL) poprawić, zaktualizować lub usunąć, identyfikując się dokładnie za pomocą kopii dokumentu tożsamości (dowodu osobistego lub paszportu). </p>
+<p>Wnioski o usunięcie Danych Osobowych będą podlegać obowiązkom nałożonym na (WEBSITE_URL) przez prawo, w szczególności w odniesieniu do przechowywania lub archiwizowania dokumentów.</p>
+
+<h3>7.4 Nieujawnianie danych osobowych</h3>
+<p>(WEBSITE_URL) nie może przetwarzać, hostować ani przekazywać Informacji zebranych o swoich Klientach do kraju znajdującego się poza Unią Europejską lub uznanego za „nieodpowiedni” przez Komisję Europejską bez uprzedniego poinformowania klienta. Jednak (WEBSITE_URL) zachowuje swobodę wyboru podwykonawców technicznych i handlowych pod warunkiem, że przedstawią oni wystarczające gwarancje w odniesieniu do wymagań ogólnych przepisów o ochronie danych (RGPD: nr 2016-679).</p>
+<p>(WEBSITE_URL) zobowiązuje się do podjęcia wszelkich niezbędnych środków ostrożności w celu zachowania bezpieczeństwa Informacji, a w szczególności, aby nie były one przekazywane osobom nieupoważnionym. Jednakże, jeśli incydent naruszający integralność lub poufność Informacji Klienta zostanie zgłoszony (WEBSITE_URL), ten ostatni musi jak najszybciej poinformować Klienta i poinformować go o podjętych środkach naprawczych. Ponadto (WEBSITE_URL) nie zbiera żadnych „danych wrażliwych”.</p>
+<p>Dane osobowe użytkownika mogą być przetwarzane przez spółki zależne (WEBSITE_URL) i podwykonawców (usługodawców), wyłącznie w celu osiągnięcia celów niniejszej polityki.</p>
+<p>W granicach ich odpowiednich atrybucji i w celach wymienionych powyżej, głównymi osobami, które mogą mieć dostęp do danych Użytkowników (WEBSITE_URL) są głównie nasi agenci obsługi klienta.</p>
+
+<h2>8. Powiadomienie o zdarzeniu</h2>
+<p>Bez względu na to, jak bardzo się starasz, żadna metoda transmisji przez Internet ani żadna metoda elektronicznego przechowywania nie jest całkowicie bezpieczna. Dlatego nie możemy zagwarantować absolutnego bezpieczeństwa. Jeśli dowiemy się o naruszeniu bezpieczeństwa, powiadomimy dotkniętych nim użytkowników, aby mogli podjąć odpowiednie działania. Nasze procedury powiadamiania o incydentach uwzględniają nasze zobowiązania prawne, zarówno na poziomie krajowym, jak i europejskim. Zobowiązujemy się do pełnego informowania naszych klientów o wszystkich sprawach związanych z bezpieczeństwem ich konta i dostarczania im wszystkich informacji niezbędnych do pomocy im w wypełnianiu ich własnych obowiązków sprawozdawczych wynikających z przepisów.</p>
+<p>Żadne dane osobowe użytkownika witryny (WEBSITE_URL) nie są publikowane bez wiedzy użytkownika, wymieniane, przekazywane, przypisywane lub sprzedawane na jakimkolwiek nośniku stronom trzecim. Tylko hipoteza umorzenia (WEBSITE_URL) i jego praw pozwoliłaby na przekazanie tych informacji potencjalnemu nabywcy, który z kolei byłby zobowiązany do przechowywania i modyfikowania danych w stosunku do użytkownika strony internetowej (WEBSITE_URL).</p>
+
+<h3>Bezpieczeństwo</h3>
+<p>Aby zapewnić bezpieczeństwo i poufność Danych Osobowych i Danych Osobowych dotyczących Zdrowia, (WEBSITE_URL) korzysta z sieci chronionych przez standardowe urządzenia, takie jak zapory, pseudonimizacja, szyfrowanie i hasła.</p>
+<p>Przetwarzając dane osobowe, (WEBSITE_URL) podejmuje wszelkie uzasadnione środki w celu ochrony ich przed utratą, niewłaściwym użyciem, nieuprawnionym dostępem, ujawnieniem, zmianą lub zniszczeniem.</p>
+
+<h2>9. Linki hipertekstowe „pliki cookie” i znaczniki internetowe („tagi”)</h2>
+<p>Witryna (WEBSITE_URL) zawiera pewną liczbę linków hipertekstowych do innych witryn, skonfigurowanych za zgodą (WEBSITE_URL). Jednak (WEBSITE_URL) nie ma możliwości weryfikacji treści odwiedzanych w ten sposób stron i dlatego nie ponosi za to odpowiedzialności.</p>
+<p>O ile nie zdecydujesz się wyłączyć plików cookie, zgadzasz się, że witryna może z nich korzystać. Możesz dezaktywować te pliki cookie w dowolnym momencie i bezpłatnie, korzystając z możliwości dezaktywacji oferowanych i przypomnianych poniżej, wiedząc, że może to zmniejszyć lub uniemożliwić dostęp do wszystkich lub części Usług oferowanych przez witrynę.</p>
+
+<h3>9.1. Korzystanie z COOKIES</h3>
+<p> „Cookie” to niewielki plik informacyjny wysyłany do przeglądarki Użytkownika i przechowywany na urządzeniu końcowym Użytkownika (np. komputerze, smartfonie) (dalej „Cookies”). Plik ten zawiera informacje takie jak nazwa domeny Użytkownika, dostawca dostępu do Internetu Użytkownika, system operacyjny Użytkownika, a także data i godzina dostępu. Pliki cookie w żaden sposób nie stwarzają ryzyka uszkodzenia terminala Użytkownika.</p>
+<p>(WEBSITE_URL) prawdopodobnie będzie przetwarzać informacje Użytkownika dotyczące jego wizyty w Witrynie, takie jak przeglądane strony, przeprowadzone wyszukiwania. Informacje te pozwalają (WEBSITE_URL) poprawić zawartość Witryny, nawigację Użytkownika.</p>
+<p>Pliki cookie ułatwiające nawigację i/lub świadczenie usług oferowanych przez Witrynę, Użytkownik może skonfigurować swoją przeglądarkę, aby umożliwić mu podjęcie decyzji, czy chce je zaakceptować, aby pliki cookie były zapisywane w urządzeniu końcowym, czy wręcz przeciwnie , są odrzucane, systematycznie lub w zależności od ich wystawcy. Użytkownik może również skonfigurować oprogramowanie swojej przeglądarki, aby od czasu do czasu oferować mu akceptację lub odmowę plików cookie, zanim prawdopodobnie plik cookie zostanie zapisany na jego terminalu. (WEBSITE_URL) informuje Użytkownika, że ​​w takim przypadku funkcje jego oprogramowania nawigacyjnego mogą nie być dostępne.</p>
+<p> Jeśli Użytkownik odmówi rejestracji plików Cookies w swoim urządzeniu końcowym lub przeglądarce, lub jeśli usunie te, które są tam zarejestrowane, Użytkownik jest informowany, że jego nawigacja i doświadczenia w Serwisie mogą być ograniczone. Może tak być również w przypadku, gdy (WEBSITE_URL) lub jeden z jego usługodawców nie jest w stanie rozpoznać, dla celów zgodności technicznej, typu przeglądarki używanej przez terminal, ustawień języka i wyświetlania lub kraju, z którego terminal wydaje się być połączony w Internecie.</p>
+<p>W stosownych przypadkach (WEBSITE_URL) nie ponosi żadnej odpowiedzialności za konsekwencje związane z pogorszonym funkcjonowaniem Witryny i usług ewentualnie oferowanych przez (WEBSITE_URL), wynikające (i) z odrzucenia plików cookie przez Użytkownika (ii) z brak możliwości (WEBSITE_URL) zapisywania lub przeglądania Plików Cookies niezbędnych do ich działania ze względu na wybór Użytkownika. W celu zarządzania plikami cookie i wyborami użytkownika konfiguracja każdej przeglądarki jest inna. Zostało to opisane w menu pomocy przeglądarki, które pozwoli Ci dowiedzieć się, w jaki sposób Użytkownik może modyfikować swoje życzenia w zakresie plików cookie.</p>
+<p>W dowolnym momencie Użytkownik może wyrazić i zmodyfikować swoje życzenia w zakresie plików cookie. (WEBSITE_URL) może również korzystać z usług zewnętrznych dostawców usług, aby pomóc mu zbierać i przetwarzać informacje opisane w tej sekcji.</p>
+<p>Na koniec, klikając ikony przeznaczone dla sieci społecznościowych Twitter, Facebook, Linkedin i Google Plus pojawiające się w Witrynie (WEBSITE_URL) lub w jej aplikacji mobilnej oraz jeśli Użytkownik zaakceptował depozycję plików cookie, kontynuując przeglądanie w Witrynie lub aplikacji mobilnej (WEBSITE_URL), Twitter, Facebook, Linkedin i Google Plus mogą również umieszczać pliki cookie na Twoich urządzeniach (komputer, tablet, telefon komórkowy).</p>
+<p>Tego rodzaju pliki cookie są umieszczane na terminalach użytkownika tylko wtedy, gdy wyrażasz na nie zgodę, kontynuując przeglądanie Witryny lub aplikacji mobilnej (WEBSITE_URL). W dowolnym momencie Użytkownik może jednak odwołać swoją zgodę na (WEBSITE_URL) umieszczanie tego typu plików cookie.</p>
+
+<h3>Sekcja 9.2. TAGI INTERNETOWE</h3>
+<p>(WEBSITE_URL) może od czasu do czasu używać sygnałów nawigacyjnych i wdrażać je za pośrednictwem partnera analityki internetowej, który może znajdować się (i w związku z tym przechowywać powiązane informacje, w tym adres IP Użytkownika) w obcym kraju.</p>
+<p>Te tagi są umieszczane zarówno w reklamach internetowych, które umożliwiają użytkownikom Internetu dostęp do Witryny, jak i na różnych stronach Witryny. </p>
+<p>Ta technologia umożliwia (WEBSITE_URL) ocenę odpowiedzi odwiedzających na Witrynę i skuteczności jej działań (na przykład, ile razy strona jest otwierana i jakie informacje są konsultowane), a także korzystania z tej Witryny przez użytkownik. </p>
+<p>Zewnętrzny usługodawca może zbierać informacje o odwiedzających Witrynę i inne witryny internetowe za pomocą tych znaczników, sporządzać raporty dotyczące aktywności w Witrynie do wiadomości (WEBSITE_URL) oraz świadczyć inne usługi związane z korzystaniem z niej i Internetu. </p>
+
+<h2>10. Obowiązujące prawo i przyznanie jurysdykcji.</h2>
+<p>Wszelkie spory związane z korzystaniem z witryny (WEBSITE_URL) podlegają prawu karnemu. Z wyjątkiem przypadków, w których prawo na to nie pozwala, wyłączną jurysdykcję mają właściwe sądy.</p>

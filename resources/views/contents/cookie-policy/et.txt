@@ -1,0 +1,21 @@
+<p>(WEBSITE_NAME) eesmärk on pakkuda teile parimat veebikogemust meie veebilehe külastamise ajal, mistõttu kasutame teatud tüüpi küpsiseid.</p>
+
+<h3>Mida on küpsised?</h3>
+<p>Küpsised on infopaketid, mille veebiserver (antud juhul see sait) saadab külastaja internetibrauserile, mis salvestatakse külastaja arvutisse ja saadetakse serverile iga kord, kui külastatakse järgmist saiti. Seetõttu soovitame teil selle saidi täielikuks kasutamiseks seadistada brauser küpsiste vastuvõtmiseks.</p>
+
+<h3>Miks me neid kasutame</h3>
+<p>Kookisid kasutatakse veebilehe navigeerimise ja korrektse kasutamise hõlbustamiseks ning statistilistel eesmärkidel, et teada saada, milliseid veebilehe valdkondi on külastatud, et teha parandusi ja uuendusi vastavalt kasutusmustritele. Sellel veebisaidil kasutatavad küpsised ei võimalda koguda kasutajate isikuandmeid. Seejärel saab kasutaja veebilehte sirvida ilma isikuandmeid avaldamata.</p>.
+
+<h3>Kasutatavate küpsiste tüüp</h3>
+<p>"Seansiküpsised" - jäävad ainult kasutaja arvuti mällu ja kustutatakse pärast brauseri sulgemist. Kasutamine piirdub rangelt serveri poolt genereeritud juhuslikest numbritest koosnevate seansitunnuste edastamisega, mis on vajalikud selleks, et veebileht oleks turvaline ja tõhus.</p>
+<p>Sessiooniküpsiseid kasutatakse selleks, et me saaksime teile saata teavet veebilehe kohta.</p>
+<p>Selle küpsised võimaldavad meil koguda anonüümset teavet lehekülgede kohta, mida kasutaja külastab, ja selle kohta, kuidas te meie veebilehte kasutate, et parandada navigeerimist tulevikus ja määrata kindlaks võimalike veateadete allikas. Näiteks koguda teavet külastatud lehekülgede, külastuste arvu ja külastaja brauseri kohta.</p>
+
+<h3>Kolmanda osapoole küpsised</h3>
+<p>Meie veebileht võib aeg-ajalt sisaldada linke kolmandate isikute veebilehtedele. Kui te järgite linki nendele kolmandate osapoolte veebisaitidele, siis palun kontrollige nende privaatsuspoliitikat, küpsiste ja nende käitlemise kohta, enne kui esitate isikuandmeid nendel saitidel.</p> <p>Sait ei ole mõeldud asendama kolmanda osapoole privaatsuspoliitikat.</p>
+
+<h3>Kui hallata küpsiseid puudutavaid seadeid</h3>
+<p>Selle tagamiseks, et saaksite meie veebisaiti parimal viisil kasutada, soovitame küpsised heaks kiita. Enamik internetibrausereid on algselt seadistatud küpsiste vastuvõtmiseks. Võite igal ajal seadistada oma brauseri nii, et see aktsepteerib kõik küpsised. Lisaks saate seadistada brauseri eelistusi, et teid teavitatakse, kui teie arvutisse salvestatakse küpsis. Pange tähele, et kehtetud küpsised võivad takistada veebilehe normaalset ja optimaalset kasutamist.</p>
+
+<h3>Muudatused selles eeskirjas</h3>
+<p>See poliitika võib aja jooksul muutuda ja on seotud ka uute määruste jõustumisega.</p>See poliitika võib aja jooksul muutuda ja on seotud ka uute määruste jõustumisega.</p>

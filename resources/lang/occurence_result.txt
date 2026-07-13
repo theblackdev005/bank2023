@@ -1,0 +1,32 @@
+Array
+(
+    [F:\htdocs\htdocs\laravel-projects\banking\resources\lang\es\torskint/refund-and-return-policy.php] => Array
+        (
+            [(WEBSITE_NAME)] => Array
+                (
+                    [ligne] => TRAD_2
+                    [normal] => 1
+                    [trouvé] => 0
+                    [la ligne] => Nosotros, (NOMBRE DEL SITIO WEB), estamos comprometidos a brindar servicios bancarios en línea de alta calidad a nuestros clientes. Si no está completamente satisfecho con nuestros servicios, nos complace brindarle información sobre nuestra política de reembolso y devolución.
+                )
+
+        )
+
+)
+
+Array
+(
+    [F:\htdocs\htdocs\laravel-projects\banking\resources\lang\es\torskint/legal-notice.php] => Array
+        (
+            [(WEBSITE_PHONE)] => Array
+                (
+                    [ligne] => TRAD_7
+                    [normal] => 1
+                    [trouvé] => 0
+                    [la ligne] => Número de teléfono: (SITIO WEB_TELÉFONO)
+                )
+
+        )
+
+)
+

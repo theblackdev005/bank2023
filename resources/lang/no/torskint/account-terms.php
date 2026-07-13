@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Kontovilkår",
+	"TRAD_2" => "Ved å gå inn på og bruke (WEBSITE_NAME), godtar du disse kontovilkårene fullstendig og uforbeholdent. Vennligst les dem nøye før du oppretter en konto og bruker våre tjenester. Hvis du ikke godtar disse vilkårene, vennligst ikke bruk (WEBSITE_NAME).",
+	"TRAD_3" => "Kontoopprettelse",
+	"TRAD_4" => "For å bruke tjenestene våre må du opprette en konto ved å oppgi nøyaktig, oppdatert og fullstendig informasjon.",
+	"TRAD_5" => "Du er ansvarlig for å opprettholde konfidensialiteten til kontoinformasjonen din og for å sikre passordet ditt.",
+	"TRAD_6" => "Bruk av konto",
+	"TRAD_7" => "Du er ansvarlig for alle aktiviteter som utføres under kontoen din.",
+	"TRAD_8" => "Du godtar å bruke (WEBSITE_NAME) kun til juridiske formål og i samsvar med gjeldende lover.",
+	"TRAD_9" => "Du må ikke ulovlig få tilgang til eller forsøke å få tilgang til kontoer, systemer eller data som ikke tilhører deg.",
+	"TRAD_10" => "Nettbanktjenester",
+	"TRAD_11" => "(WEBSITE_NAME) gir deg tilgang til visse banktjenester, inkludert kontroll av saldoer, overføringer, betalinger osv.",
+	"TRAD_12" => "Vi forbeholder oss retten til å endre eller begrense tjenestene som er tilgjengelige på (WEBSITE_NAME) uten varsel.",
+	"TRAD_13" => "Sikkerhet og tilgang",
+	"TRAD_14" => "Vi vil ta rimelige skritt for å beskytte sikkerheten til din kontoinformasjon og transaksjoner.",
+	"TRAD_15" => "I tilfelle tyveri, tap eller uautorisert utlevering av kontoinformasjonen din, vennligst gi oss beskjed umiddelbart.",
+	"TRAD_16" => "Ansvar",
+	"TRAD_17" => "Du påtar deg det fulle ansvar for informasjonen du gir og handlinger som er utført under kontoen din.",
+	"TRAD_18" => "Vi vil ikke være ansvarlige for eventuelle skader som følge av bruk av kontoinformasjonen din av tredjeparter.",
+	"TRAD_19" => "Gebyrer og provisjoner",
+	"TRAD_20" => "Enkelte tjenester kan være underlagt gebyrer og provisjoner. Detaljer om disse kostnadene vil bli kommunisert i de aktuelle delene av nettstedet (WEBSITE_NAME).",
+	"TRAD_21" => "Kontooppsigelse",
+	"TRAD_22" => "Du kan avslutte kontoen din når som helst ved å følge prosedyren angitt på (WEBSITE_NAME).",
+	"TRAD_23" => "Vi forbeholder oss retten til å avslutte kontoen din på grunn av brudd på disse kontovilkårene eller av enhver berettiget grunn.",
+	"TRAD_24" => "Endringer i vilkårene",
+	"TRAD_25" => "Vi kan endre disse kontovilkårene når som helst. Endringene trer i kraft når de publiseres på (WEBSITE_NAME).",
+	"TRAD_26" => "Ved å fortsette å bruke (WEBSITE_NAME) etter at endringene er lagt ut, godtar du de reviderte kontovilkårene.",
+	"TRAD_27" => "Kontovilkår"
+);

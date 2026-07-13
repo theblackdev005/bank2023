@@ -1,0 +1,20 @@
+<p>(WEBSITE_NAME) pyrkii tarjoamaan parhaan verkkokokemuksen vierailusi aikana sivustollamme, minkä vuoksi käytämme tietyntyyppisiä "evästeitä".</p>
+
+<h3>Mitä evästeet ovat?</h3>
+<p>Evästeet ovat tietopaketteja, jotka verkkopalvelin (tässä tapauksessa tämä sivusto) lähettää vierailijan Internet-selaimelle, tallennetaan hänen tietokoneelleen ja lähetetään palvelimelle aina, kun sivustoa käytetään seuraavan kerran. Tästä syystä, jotta voit käyttää tätä sivustoa täysimääräisesti, sinun on suositeltavaa määrittää selain hyväksymään evästeiden vastaanottaminen.</p>
+
+<h3>Miksi käytämme niitä?</h3>
+<p>Evästeitä käytetään helpottamaan sivustolla liikkumista ja oikeaa käyttöä sekä tilastollisiin tarkoituksiin, jotta tiedetään, millä sivuston alueilla on vierailtu ja tehdään parannuksia ja päivityksiä käyttötapoihin perustuen. Tällä sivustolla käytetyt evästeet eivät salli käyttäjien henkilötietojen hankkimista. Käyttäjä voi sitten selata sivustoa paljastamatta henkilökohtaisia tietojaan.</p>
+
+<h3>Käytettyjen evästeiden tyyppi</h3>
+<p>"Istuntoevästeet" - sijaitsevat yksinomaan käyttäjän tietokoneen muistissa ja poistetaan, kun selain suljetaan. Käyttö on tiukasti rajoitettu istuntotunnisteiden lähettämiseen, jotka koostuvat palvelimen luomista satunnaisluvuista ja jotka ovat välttämättömiä sivuston turvallisuuden ja tehokkuuden takaamiseksi.</p>
+<p>Näiden evästeiden avulla voimme kerätä nimettömiä tietoja sivuista, joilla käyttäjä vierailee ja kuinka käytät sivustoamme, jotta voimme parantaa navigointia tulevaisuudessa ja määrittää mahdollisten virheilmoitusten lähteet. Kerää esimerkiksi tietoja vierailluista sivuista, käyntien määrästä, vierailijan selaimesta.</p>
+
+<h3>Kolmannen osapuolen evästeet</h3>
+<p>Sivustomme voi ajoittain sisältää linkkejä kolmansien osapuolien verkkosivustoille. Jos seuraat linkkiä näille kolmannen osapuolen sivustoille, tarkista niiden tietosuojakäytännöt, evästeet ja niiden hallinta, ennen kuin annat mitään henkilökohtaisia tietoja näillä sivustoilla.</p>
+
+<h3>Kuinka hallinnoida evästeasetuksia?</h3>
+<p>Varmistaaksesi, että käytät verkkosivustoamme parhaalla mahdollisella tavalla, suosittelemme evästeiden hyväksymistä. Useimmat Internet-selaimet on alun perin määritetty hyväksymään evästeet. Voit milloin tahansa määrittää selaimesi hyväksymään kaikki evästeet. Lisäksi voit määrittää selaimen asetukset, jotka ilmoittavat aina, kun eväste tallennetaan tietokoneellesi. Huomaa, että virheelliset evästeet voivat estää sivuston normaalin ja optimaalisen käytön.</p>
+
+<h3>Muutokset tähän käytäntöön</h3>
+<p>Tämä käytäntö voi muuttua ajan myötä, ja se liittyy myös uusien säädösten voimaantuloon.</p>

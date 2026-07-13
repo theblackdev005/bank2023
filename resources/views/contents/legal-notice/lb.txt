@@ -1,0 +1,112 @@
+<h2>Definitiounen</h2>
+<p>
+<b>Client:</b> all berufflech oder natierlech Persoun, déi am Sënn vun de folgenden Artikele vum Code Civil, oder juristesch Persoun, déi de Site ënner dësen allgemenge Bedéngungen besicht.<br>
+<b>Virdeeler a Servicer:</b> (WEBSITE_URL) bitt de Clienten:
+</p>
+<p><b>Inhalt:</b> All d'Bestanddeeler vun der Informatioun déi um Site präsent ass, besonnesch Texter - Biller - Videoen.</p>
+<p><b>Clientinformatioun:</b> Heino als "Informatioun" bezeechent, déi all de perséinlechen Donnéeën entsprécht, déi méiglecherweis vum (WEBSITE_NAME) gehale ginn fir d'Gestioun vun Ärem Kont, d'Gestioun vum Client a fir analytesch a statistesch Zwecker.</p>
+<p><b>Benotzer:</b> Internet Benotzer konnektéieren, mam uewe genannte Site.</p>
+<p><b>Perséinlech Informatioun:</b> "Informatiounen déi et erlaben, an iergendenger Form och, direkt oder indirekt, d'Identifikatioun vun den natierleche Persounen op déi se gëlt."</p>
+<p>D'Begrëffer "perséinlech Donnéeën", "Datenbetreffend", "Ënnerkontrakter" a "sensibel Donnéeën" hunn d'Bedeitung definéiert vum General Dateschutzreglement (RGPD: n° 2016-679)</p>
+
+<h2>1. Presentatioun vun der Websäit.</h2>
+<p>Ënnert dem Artikel 6 vum Gesetz Nr 2004-575 vum 21. Juni 2004 iwwert d’Vertrauen an d’digital Economie ginn d’Benotzer vun der Websäit (WEBSITE_URL) am Kader vun hirer Ëmsetzung an Iwwerwaachung iwwert d’Identitéit vun de verschiddenen Akteuren informéiert: </p>
+<p>
+<b>Besëtzer</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Verëffentlechungsmanager</b>: (AUTHOR_NAME)<br>
+<b>Webmaster</b>: (WEBMASTER_NAME)<br>
+<b>Dateschutzbeamten</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. Allgemeng Konditioune vum Gebrauch vum Site an de Servicer ugebueden.</h2>
+<p>De Site stellt eng intellektuell Aarbecht aus, geschützt duerch d'Bestëmmunge vum Intellektuellen Eegentumscode an applicabel international Reglementer. De Client däerf op kee Fall all oder en Deel vun den Elementer oder Wierker vum Site fir säin eegene Kont weiderbenotzen, transferéieren oder ausnotzen.</p>
+<p>D'Benotzung vum Site (WEBSITE_NAME) implizéiert eng voll Akzeptanz vun den allgemenge Benotzungsbedingunge hei ënnendrënner beschriwwen. Dës Benotzungsbedingunge kënnen zu all Moment geännert oder ergänzt ginn, Benotzer vum Site (WEBSITE_NAME) sinn dofir invitéiert se regelméisseg ze konsultéieren.</p>
+<p>Dës Websäit ass normalerweis zu all Moment fir Benotzer zougänglech. Eng Ënnerbriechung wéinst techneschen Ënnerhalt kann awer vum (WEBSITE_NAME) decidéiert ginn, deen dann beméit d'Benotzer virun den Datumen an Zäiten vun der Interventioun ze kommunizéieren. Déi juristesch Uschléi kënnen zu all Moment geännert ginn: si sinn trotzdem verbindlech fir de Benotzer, deen invitéiert ass, sou dacks wéi méiglech op si ze referenzéieren, fir se kennenzeléieren.</p>
+
+<h2>3. Beschreiwung vun de geliwwert Servicer.</h2>
+<p>Den Zweck vun der Websäit (WEBSITE_NAME) ass Informatioun iwwer all d'Aktivitéite vun der Firma ze bidden. (WEBSITE_NAME) beméit sech fir Informatioun ze liwweren déi sou korrekt wéi méiglech ass. Wéi och ëmmer, et kann net verantwortlech gemaach ginn fir Noléissegkeeten, Ongenauegkeeten a Mängel am Update, sief et selwer oder vun den Drëttpartner, déi et dës Informatioun ubidden.</p>
+<p>All d'Informatiounen, déi um Site (WEBSITE_NAME) uginn sinn, ginn nëmme fir Informatioun uginn, an ënnerleien ze änneren. Ausserdeem ass d'Informatioun um Site (WEBSITE_NAME) net ustrengend. Si ginn ënnerleien datt Ännerungen gemaach goufen zënter datt se online gesat goufen.</p>
+
+<h2>4. Kontraktuell Aschränkungen op technesch Donnéeën.</h2>
+<p>De Site benotzt JavaScript Technologie. D'Websäit kann net verantwortlech gemaach ginn fir materielle Schued am Zesummenhang mat der Benotzung vum Site. Zousätzlech, averstanen de Benotzer vum Site Zougang zu de Site benotzt rezent Ausrüstung, net mat Viren a mat engem aktualiséiert lescht Generatioun Browser. De Site (WEBSITE_NAME) gëtt gehost vun engem Déngschtleeschter um Territoire vun der Europäescher Unioun am Aklang mat de Bestëmmunge vun den allgemengen Dateschutzreglementer (RGPD: n° 2016-679).</p>
+<p>D'Zil ass et e Service ze bidden deen dee beschten Zougänglechkeetsquote garantéiert. De Host suergt fir d'Kontinuitéit vu sengem Service 24 Stonnen den Dag, all Dag vum Joer. Et behält sech trotzdem d'Recht fir den Hosting-Service fir déi kuerst méiglech Dauer ze ënnerbriechen, besonnesch fir den Ënnerhalt, d'Verbesserung vun hiren Infrastrukturen, d'Feele vu sengen Infrastrukturen oder wann d'Servicer an d'Servicer Traffic generéieren, déi als anormal ugesi gëtt.</p>
+<p>(WEBSITE_NAME) an den Host kënnen net verantwortlech gehale ginn am Fall vun enger Feelfunktioun vum Internetnetz, Telefonslinnen oder Computer- an Telefonieausrüstung, déi besonnesch mat Netzstau verbonne sinn, déi Zougang zum Server verhënnert.</p>
+
+<h2>5. Intellektuell Eegentum a Fälschungen.</h2>
+<p>(WEBSITE_NAME) ass de Besëtzer vun den intellektuellen Eegentumsrechter an hält d'Rechter vum Gebrauch op all Elementer, déi op der Websäit zougänglech sinn, besonnesch Texter, Biller, Grafiken, Logoen, Videoen, Ikonen a Kläng. All Reproduktioun, Representatioun, Ännerung, Verëffentlechung, Adaptatioun vun all oder en Deel vun den Elementer vum Site, egal wéi eng Moyen oder Prozess benotzt, ass verbueden, ausser mat der viraus schrëftlecher Autorisatioun vun: (WEBSITE_NAME).</p>
+<p>All onerlaabt Notzung vum Site oder iergendeng vun den Elementer déi et enthält gëtt als Verstouss ugesinn a verfollegt am Aklang mat de Bestëmmunge vun den Artikelen L.335-2 a folgende vum Code des Intellectual Property.</p>
+
+<h2>6. Limitatioun vun Haftung.</h2>
+<p>(WEBSITE_NAME) handelt als Verlag vum Site. (WEBSITE_NAME) ass verantwortlech fir d'Qualitéit an d'Wahrheet vum Inhalt deen se publizéiert.</p>
+<p>(WEBSITE_NAME) kann net verantwortlech gehale ginn fir direkten an indirekte Schued, deen dem Benotzer seng Ausrüstung verursaacht gëtt, wann Dir op d'Websäit (WEBSITE_NAME) gitt, an entweder duerch d'Benotzung vun Ausrüstung entsprécht, déi net un de Spezifikatioune am Punkt 4 entsprécht, entweder d'Erscheinung vun engem Käfer oder enger Inkompatibilitéit.</p>
+<p>(WEBSITE_NAME) kann och net verantwortlech gehale ginn fir Konsequenzschued (wéi zum Beispill Maartverloscht oder Méiglechkeetsverloscht) entstinn aus der Benotzung vum Site (WEBSITE_URL). Interaktive Plazen (Méiglechkeet fir Froen am Kontaktraum ze stellen) si fir Benotzer verfügbar. (WEBSITE_URL) behält sech d'Recht fir, ouni Préavis, all Inhalt, deen an dësem Raum gepost gëtt, ze läschen, deen déi applicabel Gesetzgebung an der Europäescher Unioun verletze géif, besonnesch d'Bestëmmunge betreffend Dateschutz. Wann zoutreffend, (WEBSITE_URL) behält sech och d'Recht fir d'zivil an/oder kriminell Verantwortung vum Benotzer a Fro ze stellen, besonnesch am Fall vun enger rassistescher, beleidegend, diffaméierender oder pornographescher Noriicht, onofhängeg vum Medium, deen benotzt gëtt. (Text,
+
+<h2>7. Gestioun vu perséinlechen Donnéeën.</h2>
+<p>De Client gëtt informéiert iwwer d'Reglementer betreffend Marketingkommunikatioun, d'Gesetz vum 21. Juni 2014 fir d'Vertrauen an d'Digital Economie, d'Dateschutzgesetz vum 06. August 2004 souwéi d'Allgemeng Dateschutzreglement (RGPD: Nr. 2016-679). </p>
+
+<h3>7.1 Persoune verantwortlech fir perséinlech Donnéeën ze sammelen </h3>
+<p>Fir déi perséinlech Donnéeë gesammelt als Deel vun der Schafung vum Benotzer säi perséinleche Kont a senger Navigatioun um Site, ass déi verantwortlech Persoun fir d'Veraarbechtung vu perséinlechen Donnéeën: (WEBSITE_NAME).</p>
+<p>Als verantwortlech fir d'Veraarbechtung vun den Donnéeën déi se sammelen, (WEBSITE_URL) verpflicht de Kader vun de gesetzleche Bestëmmungen a Kraaft ze respektéieren. Besonnesch ass et un de Client d'Ziler vu senger Dateveraarbechtung festzeleeën, seng Perspektiven a Clienten, aus der Sammlung vun hiren Zoustëmmungen, komplett Informatioun iwwer d'Veraarbechtung vun hire perséinlechen Donnéeën ze bidden an e Register vu Behandlungen konsequent z'erhalen. mat Realitéit. Wann ëmmer (WEBSITE_URL) Perséinlech Donnéeën veraarbecht, (WEBSITE_URL) hëlt all raisonnabel Schrëtt fir d'Genauegkeet an d'Relevanz vun de perséinlechen Donnéeën ze garantéieren mat Bezuch op d'Ziler fir déi (WEBSITE_URL) se veraarbecht.</p>
+
+<h3>7.2 Zweck vun den gesammelten Donnéeën </h3>
+<p>(WEBSITE_URL) kann all oder en Deel vun den Donnéeën veraarbecht:</p>
+<ul>
+<li>fir d'Navigatioun um Site z'erméiglechen an d'Gestioun an d'Tracéierbarkeet vun de Servicer, déi vum Benotzer bestallt sinn: Verbindungs- a Gebrauchsdaten fir de Site, Rechnung, Bestellungsgeschicht, asw. </li>
+<li>fir Computerbedruch ze verhënneren a géint Computerbedruch (Spamming, Hacking, asw.): Computerausrüstung benotzt fir ze surfen, IP Adress, Passwuert (hashed) </li>
+<li>fir d'Navigatioun um Site ze verbesseren: Verbindungs- a Benotzungsdaten </li>
+<li>fir fakultativ Zefriddenheets-Ëmfroen op (WEBSITE_URL): E-Mailadress ze maachen </li>
+<li>Kommunikatiounskampagnen auszeféieren (Sms, E-Mail): Telefonsnummer, E-Mailadress</li>
+</ul>
+<p>(WEBSITE_URL) vermaart Är perséinlech Donnéeën net, déi dofir nëmmen aus Noutwennegkeet oder fir statistesch an Analysezwecker benotzt ginn.</p>
+
+<h3>7.3 Recht op Zougang, Rectifikatioun an Oppositioun </h3>
+<p>Am Aklang mat aktuellen europäesche Reglementer hunn d'Benotzer vun (WEBSITE_URL) déi folgend Rechter: </p>
+<ul>
+<li>Recht op Zougang (Artikel 15 GDPR) a Korrektur (Artikel 16 GDPR), Aktualiséierung, Vollständegkeet vun Benotzerdaten Recht op Spär oder Läschen vu perséinleche Benotzerdaten (Artikel 17 vum GDPR), wa se ongenau, onkomplett, zweedeiteg sinn , veroudert, oder deenen hir Sammlung, Notzung, Kommunikatioun oder Lagerung verbueden ass </li>
+<li>Recht d'Zoustëmmung zu all Moment zréckzezéien (Artikel 13-2c GDPR) </li>
+<li>Recht d'Veraarbechtung vu Benotzerdaten ze limitéieren (Artikel 18 GDPR) </li>
+<li>Recht op der Veraarbechtung vu Benotzerdaten (Artikel 21 GDPR) </li>
+<li>Recht op d'Portabilitéit vun den Donnéeën, déi d'Benotzer geliwwert hunn, wann dës Donnéeën ënner automatiséierter Veraarbechtung baséiert op hirer Zoustëmmung oder op engem Kontrakt (Artikel 20 GDPR) </li>
+<li>Recht fir d'Schicksal vun den Donnéeën vun de Benotzer no hirem Doud ze definéieren an ze wielen wiem (WEBSITE_URL) hir Donnéeën un eng Drëtt Partei kommunizéieren (oder net) déi se virdru designéiert hunn</li>
+</ul>
+<p>Soubal (WEBSITE_URL) den Doud vun engem Benotzer bewosst gëtt an an der Verontreiung vun Instruktioune vun him, verpflicht (WEBSITE_URL) seng Donnéeën ze zerstéieren, ausser datt hir Konservatioun néideg ass fir probativ Zwecker oder fir eng gesetzlech Verpflichtung ze erfëllen. </p>
+<p>Wann de Benotzer wësse wëllt wéi (WEBSITE_URL) seng perséinlech Donnéeë benotzt, frot se ze korrigéieren oder géint seng Veraarbechtung ze widderstoen, kann de Benotzer (WEBSITE_URL) schrëftlech op der folgender Adress kontaktéieren: (WEBSITE_ADDRESS). </p>
+<p>An dësem Fall muss de Benotzer d'Perséinlech Donnéeën uginn, déi hie wëll (WEBSITE_URL) korrigéieren, aktualiséieren oder läschen, andeems hien sech präzis mat enger Kopie vun engem Identitéitsdokument (Kaartidentitéit oder Pass) identifizéiert. </p>
+<p>Ufroe fir d'Läsche vu perséinlechen Donnéeën ënnerleien den Obligatiounen, déi (WEBSITE_URL) vum Gesetz opgesat sinn, besonnesch wat d'Konservatioun oder d'Archivéierung vun Dokumenter ugeet.</p>
+
+<h3>7.4 Net-Offenbarung vu perséinlechen Donnéeën </h3>
+<p>(WEBSITE_URL) ass verbueden d'Informatioun, déi op senge Clienten gesammelt gëtt, ze veraarbechten, ze hosten oder ze transferéieren an e Land dat ausserhalb vun der Europäescher Unioun läit oder vun der Europäescher Kommissioun als "onpassend" unerkannt gëtt ouni de Client éischt z'informéieren. Wéi och ëmmer, (WEBSITE_URL) bleift fräi seng technesch a kommerziell Ënnerkontrakter ze wielen, op der Bedingung datt se genuch Garantien mat Bezuch op d'Ufuerderunge vum General Data Protection Regulations (RGPD: n° 2016-679) presentéieren.</p>
+<p>(WEBSITE_URL) verpflicht all déi néideg Virsiichtsmoossnamen ze huelen fir d'Sécherheet vun der Informatioun ze erhalen a besonnesch datt se net un onerlaabten Persoune kommunizéiert gëtt. Wéi och ëmmer, wann en Tëschefall, deen d'Integritéit oder d'Vertraulechkeet vun der Informatioun vum Client beaflosst, op d'Opmierksamkeet vun (WEBSITE_URL) bruecht gëtt, muss dee Leschten de Client sou séier wéi méiglech informéieren an him iwwer d'Korrekturmesuren informéieren. Ausserdeem sammelt (WEBSITE_URL) keng "sensibel Donnéeën".</p>
+<p>D'Perséinlech Donnéeë vum Benotzer kënne vu Filialen vun (WEBSITE_URL) an Ënnerkontrakter (Serviceprovider) veraarbecht ginn, exklusiv fir d'Ziler vun dëser Politik z'erreechen.</p>
+<p>Bannent de Grenze vun hiren jeweilegen Attributiounen a fir déi uewe genannten Zwecker sinn d'Haaptleit déi méiglecherweis Zougang zu den Donnéeën vun de Benotzer vun (WEBSITE_URL) hunn haaptsächlech eis Clientsservice Agenten.</p>
+
+<h2>8. Tëschefall Notifikatioun </h2>
+<p>Egal wéi schwéier Dir probéiert, keng Method fir Iwwerdroung iwwer den Internet, a keng Method fir elektronesch Späichere, ass komplett sécher. Mir kënnen also keng absolut Sécherheet garantéieren. Wa mir vun engem Sécherheetsbroch bewosst ginn, wäerte mir betraff Benotzer matdeelen, fir datt se entspriechend Handlunge kënne maachen. Eis Tëschefall Notifikatiounsprozeduren berücksichtegen eis gesetzlech Verpflichtungen, sief et um nationalen oder europäeschen Niveau. Mir verpflichte eis Clienten voll ze informéieren iwwer all Themen am Zesummenhang mat der Sécherheet vun hirem Kont an hinnen all déi néideg Informatioun ze ginn fir hinnen ze hëllefen hir eege reglementaresch Berichterstattung ze erfëllen.</p>
+<p>Keng perséinlech Informatioun vum Benotzer vum Site (WEBSITE_URL) gëtt ouni d'Wëssen vum Benotzer publizéiert, ausgetosch, transferéiert, zougewisen oder op iergendeng Medium iwwerhaapt un Drëttubidder verkaaft. Nëmmen d'Hypothese vun der Erléisung vun (WEBSITE_URL) a seng Rechter géifen d'Iwwerdroung vun dëser Informatioun un de potenzielle Keefer erlaben, deen am Tour vun der selwechter Verpflichtung gebonnen ass fir Daten vis-à-vis vum Benotzer vun der Websäit ze späicheren an z'änneren (WEBSITE_URL).</p>
+
+<h3>Sécherheet</h3>
+<p>Fir d'Sécherheet an d'Vertraulechkeet vu perséinlechen Donnéeën a Perséinleche Gesondheetsdaten ze garantéieren, benotzt (WEBSITE_URL) Netzwierker geschützt vu Standardapparater wéi Firewalls, Pseudonymiséierung, Verschlësselung a Passwierder.</p>
+<p>Beim Veraarbechtung vu perséinlechen Donnéeën, (WEBSITE_URL) hëlt all raisonnabel Moossname fir se géint Verloscht, Mëssbrauch, onerlaabten Zougang, Verëffentlechung, Ännerung oder Zerstéierung ze schützen.</p>
+
+<h2>9. Hypertext verlinkt "Cookien" an Internet-Tags ("Tags")</h2>
+<p>De Site (WEBSITE_URL) enthält eng gewëssen Unzuel vun Hypertextlinken op aner Siten, opgeriicht mat der Autorisatioun vun (WEBSITE_URL). Wéi och ëmmer, (WEBSITE_URL) huet net d'Méiglechkeet den Inhalt vun de sou besichte Site z'iwwerpréiwen, an iwwerhëlt dofir keng Verantwortung fir dës Tatsaach.</p>
+<p>Ausser Dir decidéiert Cookien auszeschalten, sidd Dir averstanen datt de Site se benotze kann. Dir kënnt dës Cookien zu all Moment a gratis deaktivéieren andeems Dir d'Desaktivéierungsméiglechkeeten benotzt, déi Iech ugebuede ginn an hei ënnen erënnert, wëssend datt dëst d'Accessibilitéit fir all oder en Deel vun de Servicer, déi vum Site ugebuede ginn, reduzéieren oder verhënneren.</p>
+
+<h3> 9.1. Benotze vu COOKIES</h3>
+<p>E "Cookie" ass e klengen Informatiounsdatei, deen an de Benotzer säi Browser geschéckt gëtt an um Terminal vum Benotzer (z.B. Computer, Smartphone) gespäichert gëtt (nodréiglech "Cookien"). Dës Datei enthält Informatioun wéi den Domain Numm vum Benotzer, den Internetzougangsprovider vum Benotzer, de Betribssystem vum Benotzer, souwéi den Datum an Zäit vum Zougang. Cookies riskéieren op kee Fall dem Benotzer säin Terminal ze beschiedegen.</p>
+<p>(WEBSITE_URL) wäert méiglecherweis dem Benotzer seng Informatioun iwwer säi Besuch um Site veraarbecht, sou wéi d'Säiten, déi konsultéiert goufen, d'Sichungen déi duerchgefouert goufen. Dës Informatioun erlaabt (WEBSITE_URL) den Inhalt vum Site, d'Navigatioun vum Benotzer ze verbesseren.</p>
+<p>Cookies, déi d'Navigatioun an/oder d'Bereetstellung vu Servicer vum Site erliichteren, kann de Benotzer säi Browser konfiguréieren fir him z'erméiglechen ze entscheeden ob hien se wëllt akzeptéieren oder net, sou datt Cookien am Terminal opgeholl ginn oder am Géigendeel , ginn se verworf, entweder systematesch oder no hirem Emittent. De Benotzer kann och seng Browser Software konfiguréieren sou datt d'Akzeptanz oder d'Refus vu Cookien him vun Zäit zu Zäit ugebuede gëtt, ier e Cookie wahrscheinlech a sengem Terminal gespäichert gëtt. (WEBSITE_URL) informéiert de Benotzer datt an dësem Fall d'Funktionalitéite vu senger Navigatiounssoftware net all verfügbar sinn.</p>
+<p> Wann de Benotzer d'Aschreiwung vu Cookien a sengem Terminal oder sengem Browser refuséiert, oder wann de Benotzer déi läscht, déi do registréiert sinn, gëtt de Benotzer informéiert datt seng Navigatioun a seng Erfahrung um Site limitéiert kënne sinn. Dëst kéint och de Fall sinn wann (WEBSITE_URL) oder ee vu senge Déngschtleeschter net, fir technesch Kompatibilitéitszwecker, d'Aart vum Browser, deen vum Terminal benotzt gëtt, d'Sprooch an d'Displayastellungen oder d'Land aus deem den Terminal schéngt verbonne sinn ze erkennen. den Internet.</p>
+<p>Wou zoutreffend, (WEBSITE_URL) refuséiert all Verantwortung fir d'Konsequenze verbonne mat der degradéierter Fonctionnement vum Site an de Servicer, déi méiglecherweis vun (WEBSITE_URL) ugebuede ginn, entstinn (i) aus der Refus vu Cookien vum Benotzer (ii) vun der Onméiglechkeet fir (WEBSITE_URL) d'Cookien ze späicheren oder ze konsultéieren déi néideg sinn fir hir Operatioun wéinst der Wiel vum Benotzer. Fir d'Gestioun vu Cookien a Benotzerwahlen ass d'Konfiguratioun vun all Browser anescht. Et gëtt am Hëllefsmenü vum Browser beschriwwen, deen Iech erlaabt ze wëssen wéi de Benotzer seng Wënsch a Saache Cookien änneren kann.</p>
+<p>De Benotzer kann zu all Moment wielen seng Wënsch a Saache Cookien auszedrécken an z'änneren. (WEBSITE_URL) kann och d'Servicer vun externen Déngschtleeschter benotzen fir et ze hëllefen d'Informatioun ze sammelen an ze veraarbecht, déi an dëser Rubrik beschriwwen ass.</p>
+<p>Schlussendlech, andeems Dir op d'Symboler gewidmet fir de sozialen Netzwierker Twitter, Facebook, Linkedin a Google Plus klickt, déi um Site vun (WEBSITE_URL) oder a senger mobiler Applikatioun erschéngen, a wann de Benotzer d'Depositioun vu Cookien akzeptéiert huet andeems Dir weider surft op der Websäit oder der mobiler Applikatioun vun (WEBSITE_URL), Twitter, Facebook, Linkedin a Google Plus kënnen och Cookien op Ären Apparater (Computer, Tablet, Handy) setzen.</p>
+<p>Dës Zorte vu Cookien ginn nëmmen op Är Terminaler gesat wann Dir hinnen zoustëmmt, andeems Dir weider op der Websäit oder der mobiler Applikatioun vun (WEBSITE_URL) surft. Zu all Moment kann de Benotzer awer seng Zoustëmmung fir (WEBSITE_URL) deposéieren vun dëser Zort Cookie zréckzéien.</p>
+
+<h3> Abschnitt 9.2. INTERNET TAGS</h3>
+<p>(WEBSITE_URL) kann heiansdo Web-Beaconen benotzen an se duerch e Webanalytikpartner ofsetzen, deen an engem frieme Land lokaliséiert ka sinn (an dofir verbonne Informatioun späicheren, dorënner d'IP Adress vum Benotzer).</p>
+<p>Dës Tags gi souwuel an Online Annoncë plazéiert, déi den Internet Benotzer Zougang zum Site erlaben, an op de verschiddene Säiten vum Site. </p>
+<p>Dës Technologie erlaabt (WEBSITE_URL) d'Äntwerte vun de Besucher op de Site an d'Effektivitéit vun hiren Aktiounen ze evaluéieren (zum Beispill d'Zuel vun Mol eng Säit opgemaach an d'Informatioun konsultéiert), souwéi d'Benotzung vun dësem Site vun de Benotzer. </p>
+<p>Den externen Déngschtleeschter kann Informatiounen iwwer Besucher vum Site an aner Internetsäiten sammelen, déi dës Tags benotzen, Berichter iwwer d'Aktivitéit vum Site zesummestellen fir d'Opmierksamkeet vun (WEBSITE_URL), an aner Servicer ubidden, déi d'Benotzung dovun an den Internet betreffen. </p>
+
+<h2>10. Applicabel Gesetz an Attributioun vun Juridictioun.</h2>
+<p>All Sträit am Zesummenhang mat der Benotzung vum Site (WEBSITE_URL) ass ënner strafrecht. Ausser a Fäll wou d'Gesetz et net erlaabt, gëtt exklusiv Juridictioun un déi zoustänneg Geriichter ginn.</p>

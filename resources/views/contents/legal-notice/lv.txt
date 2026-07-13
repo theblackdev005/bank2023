@@ -1,0 +1,112 @@
+<h2>Definīcijas</h2>
+<p>
+<b>Klients:</b> jebkura profesionāla vai fiziska persona, kas ir spējīga tālāk norādīto Civilkodeksa pantu izpratnē, vai juridiska persona, kas apmeklē vietni saskaņā ar šiem vispārīgajiem nosacījumiem.<br>
+<b>Priekšrocības un pakalpojumi:</b> (WEBSITE_URL) nodrošina klientiem:
+</p>
+<p><b>Saturs:</b> visi Vietnē esošās informācijas elementi, jo īpaši teksti – attēli – video.</p>
+<p><b>Klienta informācija:</b> turpmāk tekstā "Informācija", kas atbilst visiem personas datiem, kas, iespējams, glabājas vietnē (WEBSITE_NAME), lai pārvaldītu jūsu kontu, pārvaldītu klientu un veiktu analītiskos datus. un statistikas nolūkos.</p>
+<p><b>Lietotājs:</b> interneta lietotājs izveido savienojumu, izmantojot iepriekš minēto vietni.</p>
+<p><b>Personas informācija:</b> "Informācija, kas ļauj jebkādā veidā tieši vai netieši identificēt fiziskās personas, uz kurām tā attiecas".</p>
+<p>Terminiem “personas dati”, “datu subjekts”, “apakšuzņēmējs” un “sensitīvie dati” ir nozīme, kas noteikta Vispārīgajā datu aizsardzības regulā (RGPD: Nr. 2016-679)</p>
+
+<h2>1. Vietnes prezentācija.</h2>
+<p>Saskaņā ar 2004. gada 21. jūnija likuma Nr. 2004-575 par uzticēšanos digitālajai ekonomikai 6. pantu tīmekļa vietnes (WEBSITE_URL) lietotāji tiek informēti par dažādu ieinteresēto personu identitāti tās ieviešanas un uzraudzības ietvaros: </p>
+<p>
+<b>Īpašnieks</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Publicēšanas pārvaldnieks</b>: (AUTHOR_NAME)<br>
+<b>Tīmekļa pārzinis</b>: (WEBMASTER_NAME)<br>
+<b>Datu aizsardzības speciālists</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. Vietnes un piedāvāto pakalpojumu vispārīgie lietošanas nosacījumi.</h2>
+<p>Vietne ir intelektuāls darbs, ko aizsargā Intelektuālā īpašuma kodeksa noteikumi un piemērojamie starptautiskie noteikumi. Klients nekādā veidā nedrīkst atkārtoti izmantot, nodot vai izmantot savā vārdā visus vai daļu no Vietnes elementiem vai darbiem.</p>
+<p>Vietnes (WEBSITE_NAME) izmantošana nozīmē pilnīgu piekrišanu tālāk aprakstītajiem vispārīgajiem lietošanas nosacījumiem. Šie lietošanas nosacījumi var tikt mainīti vai papildināti jebkurā laikā, tādēļ vietnes (WEBSITE_NAME) lietotāji tiek aicināti regulāri ar tiem iepazīties.</p>
+<p>Šī vietne parasti ir pieejama lietotājiem jebkurā laikā. Tomēr par pārtraukumu tehniskās apkopes dēļ var izlemt (WEBSITE_NAME), kas pēc tam centīsies sazināties ar lietotājiem pirms iejaukšanās datumiem un laikiem. Juridiskie paziņojumi var tikt mainīti jebkurā laikā, taču tie ir saistoši lietotājam, kurš tiek aicināts uz tiem atsaukties pēc iespējas biežāk, lai ar tiem iepazīties.</p>
+
+<h2>3. Sniegto pakalpojumu apraksts.</h2>
+<p>Tīmekļa vietnes (WEBSITE_NAME) mērķis ir sniegt informāciju par visām uzņēmuma darbībām. (WEBSITE_NAME) cenšas sniegt pēc iespējas precīzāku informāciju. Tomēr tas nevar būt atbildīgs par izlaidumiem, neprecizitātēm un trūkumiem atjauninājumā gan pats, gan trešo pušu partneri, kas tai sniedz šo informāciju.</p>
+<p>Visa vietnē (WEBSITE_NAME) norādītā informācija ir sniegta tikai informācijai un var tikt mainīta. Turklāt informācija vietnē (WEBSITE_NAME) nav pilnīga. Tie ir pakļauti izmaiņām, kas veiktas kopš to ievietošanas tiešsaistē.</p>
+
+<h2>4. Tehnisko datu līgumiski ierobežojumi.</h2>
+<p>Vietne izmanto JavaScript tehnoloģiju. Vietne nevar būt atbildīga par materiālajiem zaudējumiem, kas saistīti ar vietnes izmantošanu. Turklāt vietnes lietotājs piekrīt piekļūt vietnei, izmantojot jaunāko aprīkojumu, kas nesatur vīrusus un ar atjauninātu jaunākās paaudzes pārlūkprogrammu. Vietni (WEBSITE_NAME) mitina pakalpojumu sniedzējs Eiropas Savienības teritorijā saskaņā ar Vispārīgo datu aizsardzības noteikumu (RGPD: nr. 2016-679) noteikumiem.</p>
+<p>Mērķis ir nodrošināt pakalpojumu, kas nodrošina vislabāko pieejamības līmeni. Saimnieks nodrošina sava dienesta nepārtrauktību 24 stundas diennaktī, katru gada dienu. Tomēr tā patur tiesības pārtraukt mitināšanas pakalpojumu uz iespējami īsāku laiku, jo īpaši, lai veiktu apkopi, uzlabotu tās infrastruktūru, bojātu tās infrastruktūru vai ja Pakalpojumi un pakalpojumi rada trafiku, kas tiek uzskatīta par neparastu.</p>
+<p>(WEBSITE_NAME) un resursdators nevar būt atbildīgi par interneta tīkla, tālruņa līniju vai datoru un telefonijas aprīkojuma darbības traucējumiem, kas īpaši saistīti ar tīkla pārslodzi, kas liedz piekļuvi serverim.</p>
+
+<h2>5. Intelektuālais īpašums un viltojumi.</h2>
+<p>(WEBSITE_NAME) ir intelektuālā īpašuma tiesību īpašnieks, un viņam ir lietošanas tiesības uz visiem vietnē pieejamajiem elementiem, jo ​​īpaši tekstiem, attēliem, grafikiem, logotipiem, videoklipiem, ikonām un skaņām. Jebkāda visu vietnes elementu vai to daļas reproducēšana, attēlošana, modificēšana, publicēšana, pielāgošana neatkarīgi no izmantotajiem līdzekļiem vai procesa ir aizliegta, izņemot, ja ir saņemta iepriekšēja rakstiska atļauja no: (WEBSITE_NAME).</p>
+<p>Jebkura vietnes vai tajā ietverto elementu neatļauta izmantošana tiks uzskatīta par pārkāpumu, un tā tiks saukta pie atbildības saskaņā ar Intelektuālā īpašuma kodeksa L.335-2. un turpmākajiem pantiem.</p>
+
+<h2>6. Atbildības ierobežojums.</h2>
+<p>(WEBSITE_NAME) darbojas kā vietnes izdevējs. (WEBSITE_NAME) ir atbildīgs par tā publicētā Satura kvalitāti un patiesumu.</p>
+<p>(WEBSITE_NAME) nevar saukt pie atbildības par tiešiem un netiešiem bojājumiem, kas nodarīti lietotāja aprīkojumam, piekļūstot vietnei (WEBSITE_NAME), un kas radušies, izmantojot aprīkojumu, kas neatbilst 4. punktā norādītajām specifikācijām, vai arī kļūdas vai nesaderības parādīšanās.</p>
+<p>(WEBSITE_NAME) nevar arī būt atbildīgs par izrietošiem zaudējumiem (piemēram, tirgus vai iespēju zaudēšanu), kas radušies vietnes (WEBSITE_URL) lietošanas rezultātā. Lietotājiem ir pieejamas interaktīvās telpas (iespēja uzdot jautājumus kontaktu telpā). (WEBSITE_URL) patur tiesības bez iepriekšēja brīdinājuma dzēst jebkuru šajā vietā ievietoto saturu, kas pārkāptu piemērojamos tiesību aktus Eiropas Savienībā, jo īpaši noteikumus, kas attiecas uz datu aizsardzību. Attiecīgā gadījumā (WEBSITE_URL) arī patur tiesības apšaubīt lietotāja civiltiesisko un/vai kriminālatbildību, jo īpaši rasistiska, aizskaroša, apmelojoša vai pornogrāfiska ziņojuma gadījumā, neatkarīgi no izmantotā medija. (teksts,
+
+<h2>7. Personas datu pārvaldība.</h2>
+<p>Klients ir informēts par mārketinga komunikācijas noteikumiem, 2014. gada 21. jūnija likumu par uzticību digitālajai ekonomikai, 2004. gada 6. augusta Datu aizsardzības likumu, kā arī Vispārīgajiem datu aizsardzības noteikumiem (RGPD: Nr. 2016-679). </p>
+
+<h3>7.1. Personas, kas ir atbildīgas par personas datu vākšanu</h3>
+<p>Attiecībā uz Personas datiem, kas savākti, veidojot Lietotāja personīgo kontu un pārvietojoties Vietnē, par personas datu apstrādi atbildīgā persona ir: (WEBSITE_NAME).</p>
+<p>Kā atbildīgs par apkopoto datu apstrādi, (WEBSITE_URL) apņemas ievērot spēkā esošos tiesību aktus. Konkrēti, Klienta ziņā ir noteikt datu apstrādes mērķus, nodrošināt saviem potenciālajiem klientiem un klientiem pilnīgu informāciju par viņu personas datu apstrādi un nodrošināt konsekventu ārstēšanas reģistru. ar realitāti. Ikreiz, kad (WEBSITE_URL) apstrādā personas datus, (WEBSITE_URL) veic visus saprātīgos pasākumus, lai nodrošinātu personas datu precizitāti un atbilstību mērķiem, kādiem (WEBSITE_URL) tos apstrādā.</p>
+
+<h3>7.2. Savākto datu mērķis</h3>
+<p>(WEBSITE_URL) var apstrādāt visus datus vai daļu no tiem:</p>
+<ul>
+<li>lai atļautu navigāciju Vietnē un lietotāja pasūtīto pakalpojumu pārvaldību un izsekojamību: Vietnes savienojuma un lietošanas dati, rēķini, pasūtījumu vēsture utt. </li>
+<li>lai novērstu un cīnītos pret datorkrāpšanu (surogātpasta sūtīšanu, uzlaušanu utt.): pārlūkošanai izmantotais datoraprīkojums, IP adrese, parole (jaukta) </li>
+<li>lai uzlabotu navigāciju vietnē: savienojuma un lietošanas dati </li>
+<li>lai veiktu izvēles apmierinātības aptaujas vietnē (WEBSITE_URL): e-pasta adrese </li>
+<li>veikt saziņas kampaņas (sms, e-pasts): tālruņa numurs, e-pasta adrese</li>
+</ul>
+<p>(WEBSITE_URL) netirgo jūsu personas datus, tāpēc tie tiek izmantoti tikai nepieciešamības dēļ vai statistikas un analīzes nolūkos.</p>
+
+<h3>7.3. Piekļuves, labošanas un iebilduma tiesības</h3>
+<p>Saskaņā ar pašreizējiem Eiropas noteikumiem, (WEBSITE_URL) lietotājiem ir šādas tiesības: </p>
+<ul>
+<li>piekļuves tiesības (VDAR 15. pants) un labošanu (VDAR 16. pants), Lietotāja datu atjaunināšanu, pilnīgumu tiesības bloķēt vai dzēst Lietotāja personas datus (VDAR 17. pants), ja tie ir neprecīzi, nepilnīgi, neskaidri , novecojuši vai kuru savākšana, izmantošana, saziņa vai uzglabāšana ir aizliegta </li>
+<li>tiesības jebkurā laikā atsaukt piekrišanu (VDAR 13. pants 2.c) </li>
+<li>tiesības ierobežot Lietotāja datu apstrādi (VDAR 18. pants) </li>
+<li>tiesības iebilst pret Lietotāja datu apstrādi (VDAR 21. pants) </li>
+<li>tiesības uz Lietotāju sniegto datu pārnesamību, ja šie dati tiek pakļauti automatizētai apstrādei, pamatojoties uz viņu piekrišanu vai līgumu (VDAR 20. pants) </li>
+<li>tiesības noteikt Lietotāju datu likteni pēc viņu nāves un izvēlēties, kam (WEBSITE_URL) būs jāpaziņo (vai nē) savi dati trešajai pusei, kuru viņi iepriekš būs norādījuši.</li>
+</ul>
+<p>Tiklīdz (WEBSITE_URL) uzzina par Lietotāja nāvi un ja viņš nav saņēmis norādījumus, (WEBSITE_URL) apņemas iznīcināt viņa datus, ja vien to saglabāšana nav nepieciešama pierādījuma nolūkos vai juridiska pienākuma izpildei. </p>
+<p>Ja Lietotājs vēlas uzzināt, kā (WEBSITE_URL) izmanto viņa Personas datus, lūgt tos labot vai iebilst pret to apstrādi, Lietotājs var rakstiski sazināties ar (WEBSITE_URL) uz šādu adresi: (WEBSITE_ADDRESS).</p>
+<p>Šajā gadījumā Lietotājam ir jānorāda personas dati, kurus viņš vēlas (WEBSITE_URL) labot, atjaunināt vai dzēst, precīzi identificējot sevi ar personu apliecinoša dokumenta (kartes identitātes vai pases) kopiju. </p>
+<p>Uz personas datu dzēšanas pieprasījumiem attiecas pienākumi, kas vietnei (WEBSITE_URL) noteikti ar likumu, jo īpaši attiecībā uz dokumentu saglabāšanu vai arhivēšanu.</p>
+
+<h3>7.4. Personas datu neizpaušana</h3>
+<p>(WEBSITE_URL) ir aizliegts apstrādāt, mitināt vai pārsūtīt informāciju, kas savākta par saviem Klientiem uz valsti, kas atrodas ārpus Eiropas Savienības vai ko Eiropas Komisija ir atzinusi par "nepiemērotu", iepriekš neinformējot klientu. Tomēr (WEBSITE_URL) var brīvi izvēlēties savus tehniskos un komerciālos apakšuzņēmējus ar nosacījumu, ka tie sniedz pietiekamas garantijas attiecībā uz Vispārīgo datu aizsardzības noteikumu (RGPD: nr. 2016-679) prasībām.</p>
+<p>(WEBSITE_URL) apņemas veikt visus nepieciešamos piesardzības pasākumus, lai saglabātu Informācijas drošību un jo īpaši lai tā netiktu nodota nepilnvarotām personām. Tomēr, ja vietnei (WEBSITE_URL) tiek pievērsta uzmanība incidentam, kas ietekmē Klienta informācijas integritāti vai konfidencialitāti, pēdējam pēc iespējas ātrāk jāinformē Klients un jāinformē par veiktajiem korektīvajiem pasākumiem. Turklāt (WEBSITE_URL) netiek apkopoti nekādi "sensitīvie dati".</p>
+<p>Lietotāja personas datus var apstrādāt (WEBSITE_URL) meitasuzņēmumi un apakšuzņēmēji (pakalpojumu sniedzēji), tikai lai sasniegtu šīs politikas mērķus.</p>
+<p>Attiecīgo attiecinājumu robežās un iepriekš minētajos nolūkos galvenās personas, kurām varētu būt piekļuve (WEBSITE_URL) lietotāju datiem, galvenokārt ir mūsu klientu apkalpošanas aģenti.</p>
+
+<h2>8. Paziņojums par incidentu</h2>
+<p>Lai kā jūs mēģinātu, neviena pārraides metode internetā un neviena elektroniskās uzglabāšanas metode nav pilnībā droša. Tāpēc mēs nevaram garantēt absolūtu drošību. Ja uzzināsim par drošības pārkāpumu, mēs par to informēsim ietekmētos lietotājus, lai viņi varētu attiecīgi rīkoties. Mūsu negadījumu paziņošanas procedūrās ir ņemtas vērā mūsu juridiskās saistības gan valsts, gan Eiropas līmenī. Mēs esam apņēmušies pilnībā informēt savus klientus par visiem jautājumiem, kas saistīti ar viņu konta drošību, un sniegt viņiem visu nepieciešamo informāciju, lai palīdzētu viņiem izpildīt savus regulējošos ziņošanas pienākumus.</p>
+<p>Nekāda vietnes lietotāja personiskā informācija (WEBSITE_URL) netiek publicēta bez lietotāja ziņas, netiek apmainīta, nodota, piešķirta vai pārdota trešajām pusēm. Tikai hipotēze par vietnes (WEBSITE_URL) izpirkšanu un tās tiesībām ļautu nosūtīt minēto informāciju potenciālajam pircējam, kuram savukārt būtu saistošs tāds pats pienākums uzglabāt un mainīt datus attiecībā uz vietnes lietotāju (WEBSITE_URL).</p>
+
+<h3>Drošība</h3>
+<p>Lai nodrošinātu personas datu un personas veselības datu drošību un konfidencialitāti, (WEBSITE_URL) tiek izmantoti tīkli, kurus aizsargā standarta ierīces, piemēram, ugunsmūri, pseidonimizācija, šifrēšana un paroles.</p>
+<p>Apstrādājot personas datus, (WEBSITE_URL) veic visus saprātīgos pasākumus, lai aizsargātu tos pret nozaudēšanu, ļaunprātīgu izmantošanu, nesankcionētu piekļuvi, izpaušanu, pārveidošanu vai iznīcināšanu.</p>
+
+<h2>9. Hiperteksta saites “sīkfaili” un interneta tagi (“birkas”)</h2>
+<p>Vietnē (WEBSITE_URL) ir noteikts skaits hiperteksta saišu uz citām vietnēm, kas izveidotas ar (WEBSITE_URL) autorizāciju. Tomēr (WEBSITE_URL) nav iespējas pārbaudīt šādi apmeklēto vietņu saturu, un tāpēc tas neuzņemas atbildību par šo faktu.</p>
+<p>Ja vien neizlemjat atspējot sīkfailus, jūs piekrītat, ka vietne var tos izmantot. Jūs varat deaktivizēt šīs sīkdatnes jebkurā laikā un bez maksas, izmantojot jums piedāvātās un tālāk norādītās deaktivizēšanas iespējas, zinot, ka tas var samazināt vai liegt piekļuvi visiem vietnes piedāvātajiem pakalpojumiem vai daļai no tiem.</p>
+
+<h3>9.1. SĪKfailu izmantošana</h3>
+<p>"Sīkfails" ir neliels informācijas fails, kas tiek nosūtīts uz Lietotāja pārlūkprogrammu un saglabāts Lietotāja terminālī (piemēram, datorā, viedtālrunī) (turpmāk "Sīkfaili"). Šajā failā ir iekļauta tāda informācija kā Lietotāja domēna nosaukums, Lietotāja interneta piekļuves nodrošinātājs, Lietotāja operētājsistēma, kā arī piekļuves datums un laiks. Sīkdatnes nekādā veidā neapdraud Lietotāja termināļa bojājumus.</p>
+<p>(WEBSITE_URL), iespējams, apstrādās Lietotāja informāciju par viņa vietnes apmeklējumu, piemēram, apmeklētās lapas, veiktās meklēšanas. Šī informācija ļauj (WEBSITE_URL) uzlabot vietnes saturu, Lietotāja navigāciju.</p>
+<p>Sīkdatnes, kas atvieglo navigāciju un/vai Vietnes piedāvāto pakalpojumu sniegšanu, Lietotājs var konfigurēt savu pārlūkprogrammu tā, lai viņš varētu izlemt, vai viņš vēlas tās pieņemt, lai Sīkfaili tiktu ierakstīti terminālī vai, gluži pretēji, , tie tiek noraidīti vai nu sistemātiski, vai saskaņā ar to izdevēju. Lietotājs var arī konfigurēt savu pārlūkprogrammas programmatūru tā, lai viņam laiku pa laikam tiktu piedāvāta Sīkdatņu pieņemšana vai atteikums, pirms sīkfails, visticamāk, tiks saglabāts viņa terminālī. (WEBSITE_URL) informē lietotāju, ka šajā gadījumā visas viņa navigācijas programmatūras funkcijas var nebūt pieejamas.</p>
+<p> Ja Lietotājs atsakās reģistrēt sīkfailus savā terminālī vai pārlūkprogrammā vai ja Lietotājs dzēš tur reģistrētos, Lietotājs tiek informēts, ka viņa navigācija un pieredze Vietnē var tikt ierobežota. Tas var notikt arī tad, ja (WEBSITE_URL) vai kāds no tā pakalpojumu sniedzējiem tehniskās saderības nolūkos nevar atpazīt termināļa izmantotās pārlūkprogrammas veidu, valodas un displeja iestatījumus vai valsti, no kuras terminālis, šķiet, ir savienots ar internetā.</p>
+<p>Attiecīgā gadījumā (WEBSITE_URL) atsakās no jebkādas atbildības par sekām, kas saistītas ar vietnes un pakalpojumu (WEBSITE_URL) iespējamu piedāvāto darbību pasliktināšanos, kas izriet no (i) lietotāja atteikuma izmantot sīkfailus (ii) no (WEBSITE_URL) nav iespējams saglabāt vai iepazīties ar to darbībai nepieciešamajām Sīkdatnēm Lietotāja izvēles dēļ. Sīkdatņu un lietotāju izvēles pārvaldībai katras pārlūkprogrammas konfigurācija ir atšķirīga. Tas ir aprakstīts pārlūkprogrammas palīdzības izvēlnē, kas ļaus jums uzzināt, kā Lietotājs var mainīt savas vēlmes attiecībā uz sīkdatnēm.</p>
+<p>Lietotājs jebkurā laikā var izvēlēties izteikt un mainīt savas vēlmes attiecībā uz sīkfailiem. (WEBSITE_URL) var izmantot arī ārējo pakalpojumu sniedzēju pakalpojumus, lai palīdzētu apkopot un apstrādāt šajā sadaļā aprakstīto informāciju.</p>
+<p>Visbeidzot, noklikšķinot uz sociālajiem tīkliem Twitter, Facebook, Linkedin un Google Plus veltītajām ikonām, kas parādās vietnē (WEBSITE_URL) vai tās mobilajā lietojumprogrammā un ja Lietotājs ir pieņēmis sīkfailu iemaksu, turpinot pārlūkot Vietnē vai (WEBSITE_URL) mobilajā lietojumprogrammā Twitter, Facebook, Linkedin un Google Plus var arī ievietot sīkfailus jūsu ierīcēs (datorā, planšetdatorā, mobilajā tālrunī).</p>
+<p>Šāda veida sīkfaili tiek ievietoti jūsu termināļos tikai tad, ja jūs tiem piekrītat, turpinot pārlūkot vietni vai (WEBSITE_URL) mobilo lietojumprogrammu. Lietotājs jebkurā laikā tomēr var atsaukt savu piekrišanu (WEBSITE_URL) šāda veida sīkfailu glabāšanai.</p>
+
+<h3>9.2. sadaļa. INTERNETA TAGI</h3>
+<p>(WEBSITE_URL) laiku pa laikam var izmantot tīmekļa bāksignālus un izvietot tos, izmantojot tīmekļa analīzes partneri, kas var atrasties (un tādējādi glabāt saistīto informāciju, tostarp Lietotāja IP adresi) ārvalstī.</p>
+<p>Šīs atzīmes tiek ievietotas gan tiešsaistes reklāmās, kas ļauj interneta lietotājiem piekļūt vietnei, gan dažādās vietnes lapās. </p>
+<p>Šī tehnoloģija ļauj (WEBSITE_URL) novērtēt apmeklētāju atbildes uz vietni un tās darbību efektivitāti (piemēram, lapas atvēršanas reižu skaitu un aplūkoto informāciju), kā arī šīs vietnes izmantošanu Lietotājs. </p>
+<p>Ārējais pakalpojumu sniedzējs var vākt informāciju par vietnes un citu interneta vietņu apmeklētājiem, izmantojot šos tagus, apkopot pārskatus par vietnes darbību, lai pievērstu tam (WEBSITE_URL) uzmanību un sniegt citus pakalpojumus, kas saistīti ar vietnes un interneta lietošanu. </p>
+
+<h2>10. Piemērojamie tiesību akti un jurisdikcijas piešķiršana.</h2>
+<p>Uz jebkuru strīdu saistībā ar vietnes (WEBSITE_URL) izmantošanu attiecas krimināllikums. Izņemot gadījumus, kad tiesību akti to neatļauj, ekskluzīva jurisdikcija ir kompetentajām tiesām.</p>

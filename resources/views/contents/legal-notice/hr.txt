@@ -1,0 +1,112 @@
+<h2>Definicije</h2>
+<p>
+<b>Kupac:</b> svaka profesionalna ili fizička osoba sposobna u smislu sljedećih članaka Građanskog zakonika, ili pravna osoba, koja posjeti Stranicu podložno ovim općim uvjetima.<br>
+<b>Prednosti i usluge:</b> (WEBSITE_URL) pruža korisnicima:
+</p>
+<p><b>Sadržaj:</b> Svi sastavni elementi informacija prisutnih na Stranici, posebno tekstovi – slike – videozapisi.</p>
+<p><b>Informacije o klijentima:</b> U daljnjem tekstu "Informacije" koje odgovaraju svim osobnim podacima koje vjerojatno drži (WEBSITE_NAME) za upravljanje vašim računom, upravljanje klijentom i za analitičke i statističke svrhe.</p>
+<p><b>Korisnik:</b> Internetski korisnik se povezuje, koristeći gore navedeno mjesto.</p>
+<p><b>Osobni podaci:</b> "Informacije koje omogućuju, u bilo kojem obliku, izravno ili neizravno, identifikaciju fizičkih osoba na koje se odnose".</p>
+<p>Izrazi "osobni podaci", "subjekt podataka", "podizvođač" i "osjetljivi podaci" imaju značenje definirano Općom uredbom o zaštiti podataka (RGPD: br. 2016-679)</p>
+
+<h2>1. Prezentacija web stranice.</h2>
+<p>Prema članku 6. zakona br. 2004-575 od 21. lipnja 2004. o povjerenju u digitalnu ekonomiju, korisnici web stranice (WEBSITE_URL) su obaviješteni o identitetu različitih dionika u okviru njegove provedbe i praćenja: </p>
+<p>
+<b>Vlasnik</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Upravitelj izdavanja</b>: (AUTHOR_NAME)<br>
+<b>Webmaster</b>: (WEBMASTER_NAME)<br>
+<b>Službenik za zaštitu podataka</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. Opći uvjeti korištenja stranice i ponuđenih usluga.</h2>
+<p>Stranica predstavlja intelektualno djelo zaštićeno odredbama Kodeksa intelektualnog vlasništva i primjenjivim međunarodnim propisima. Kupac ne smije ni na koji način ponovno koristiti, prenositi ili iskorištavati za svoj račun sve ili dio elemenata ili djela Stranice.</p>
+<p>Korištenje stranice (WEBSITE_NAME) podrazumijeva potpuno prihvaćanje dolje opisanih općih uvjeta korištenja. Ovi uvjeti korištenja mogu se mijenjati ili dopunjavati u bilo kojem trenutku, stoga se korisnici stranice (WEBSITE_NAME) pozivaju da ih redovito konzultiraju.</p>
+<p>Ova je web stranica obično dostupna korisnicima u bilo kojem trenutku. Međutim, o prekidu zbog tehničkog održavanja može odlučiti (WEBSITE_NAME), koji će tada nastojati komunicirati s korisnicima prije datuma i vremena intervencije. Pravne napomene mogu se mijenjati u bilo kojem trenutku: one su ipak obvezujuće za korisnika koji je pozvan da ih se poziva što je češće moguće kako bi se s njima upoznao.</p>
+
+<h2>3. Opis pruženih usluga.</h2>
+<p>Svrha web stranice (WEBSITE_NAME) je pružiti informacije o svim aktivnostima tvrtke. (WEBSITE_NAME) nastoji pružiti informacije koje su što točnije. Međutim, ne može se smatrati odgovornim za propuste, netočnosti i nedostatke u ažuriranju, bilo sam ili od strane partnera treće strane koji mu daju ove podatke.</p>
+<p>Sve informacije navedene na web-mjestu (WEBSITE_NAME) dane su samo za informaciju i podložne su promjenama. Nadalje, informacije na stranici (WEBSITE_NAME) nisu iscrpne. Daju se podložnim izmjenama nakon što su stavljene na internet.</p>
+
+<h2>4. Ugovorna ograničenja tehničkih podataka.</h2>
+<p>Stranica koristi JavaScript tehnologiju. Web stranica se ne može smatrati odgovornom za materijalnu štetu vezanu uz korištenje stranice. Osim toga, korisnik stranice pristaje pristupiti stranici koristeći najnoviju opremu, koja ne sadrži viruse i s ažuriranim preglednikom najnovije generacije. Stranicu (WEBSITE_NAME) hostira davatelj usluga na teritoriju Europske unije u skladu s odredbama Opće uredbe o zaštiti podataka (RGPD: br. 2016-679).</p>
+<p>Cilj je pružiti uslugu koja osigurava najbolju stopu pristupačnosti. Domaćin osigurava kontinuitet svoje usluge 24 sata na dan, svaki dan u godini. Ipak, zadržava pravo prekinuti uslugu hostinga u najkraćem mogućem trajanju, posebno u svrhu održavanja, poboljšanja infrastrukture, kvara njezine infrastrukture ili ako Usluge i Usluge stvaraju promet koji se smatra nenormalnim.</p>
+<p>(WEBSITE_NAME) i domaćin ne mogu se smatrati odgovornim u slučaju kvara na internetskoj mreži, telefonskim linijama ili računalnoj i telefonskoj opremi koja je posebno povezana s zagušenjem mreže koja sprječava pristup poslužitelju.</p>
+
+<h2>5. Intelektualno vlasništvo i krivotvorine.</h2>
+<p>(WEBSITE_NAME) je vlasnik prava intelektualnog vlasništva i ima prava korištenja svih elemenata dostupnih na web stranici, posebno tekstova, slika, grafika, logotipa, videa, ikona i zvukova. Zabranjena je svaka reprodukcija, predstavljanje, modifikacija, objavljivanje, prilagodba svih ili dijela elemenata web-mjesta, bez obzira na korišteno sredstvo ili proces, osim uz prethodno pismeno odobrenje: (WEBSITE_NAME).</p>
+<p>Svako neovlašteno korištenje stranice ili bilo kojeg od elemenata koje ona sadrži smatrat će se kršenjem i krivično će se goniti u skladu s odredbama članaka L.335-2 i sljedećih Zakona o intelektualnom vlasništvu.</p>
+
+<h2>6. Ograničenje odgovornosti.</h2>
+<p>(WEBSITE_NAME) djeluje kao izdavač web-mjesta. (WEBSITE_NAME) odgovorna je za kvalitetu i istinitost sadržaja koji objavljuje.</p>
+<p>(WEBSITE_NAME) ne može se smatrati odgovornim za izravnu i neizravnu štetu nastalu na opremi korisnika, prilikom pristupa web stranici (WEBSITE_NAME), a koja je posljedica bilo korištenja opreme koja ne zadovoljava specifikacije navedene u točki 4, bilo pojava greške ili nekompatibilnosti.</p>
+<p>(WEBSITE_NAME) također se ne može smatrati odgovornim za posljedičnu štetu (kao što je gubitak tržišta ili gubitak prilike) koja proizlazi iz korištenja stranice (WEBSITE_URL). Korisnicima su dostupni interaktivni prostori (mogućnost postavljanja pitanja u kontakt prostoru). (WEBSITE_URL) zadržava pravo brisanja, bez prethodne obavijesti, bilo kojeg sadržaja objavljenog u ovom prostoru koji bi kršio važeće zakonodavstvo u Europskoj uniji, posebice odredbe koje se odnose na zaštitu podataka. Gdje je to primjenjivo, (WEBSITE_URL) također zadržava pravo dovesti u pitanje građansku i/ili kaznenu odgovornost korisnika, posebno u slučaju rasističke, uvredljive, klevetničke ili pornografske poruke, bez obzira na korišteni medij. (tekst,
+
+<h2>7. Upravljanje osobnim podacima.</h2>
+<p>Kupac je upoznat s propisima koji se odnose na marketinško komuniciranje, zakonom od 21. lipnja 2014. o povjerenju u digitalno gospodarstvo, Zakonom o zaštiti podataka od 6. kolovoza 2004. kao i Općim propisima o zaštiti podataka (RGPD : br. 2016-679). </p>
+
+<h3>7.1 Osobe odgovorne za prikupljanje osobnih podataka</h3>
+<p>Za osobne podatke prikupljene u sklopu kreiranja korisničkog osobnog računa i njegove navigacije na stranici, osoba odgovorna za obradu osobnih podataka je: (WEBSITE_NAME).</p>
+<p>Kao odgovorna za obradu podataka koje prikuplja, (WEBSITE_URL) obvezuje se pridržavati se okvira zakonskih odredbi na snazi. Konkretno, na Kupcu je da utvrdi svrhe svoje obrade podataka, da svojim potencijalnim klijentima i kupcima, nakon prikupljanja njihovih privola, pruži potpune informacije o obradi njihovih osobnih podataka i da održava registar dosljednih tretmana sa stvarnošću. Kad god (WEBSITE_URL) obrađuje osobne podatke, (WEBSITE_URL) poduzima sve razumne korake kako bi osigurao točnost i relevantnost osobnih podataka s obzirom na svrhe u koje ih (WEBSITE_URL) obrađuje.</p>
+
+<h3>7.2 Svrha prikupljenih podataka</h3>
+<p>(WEBSITE_URL) može obraditi sve ili dio podataka:</p>
+<ul>
+<li>omogućiti navigaciju na Stranici te upravljanje i sljedivost usluga koje je naručio korisnik: povezivanje i korištenje podataka za Stranicu, fakturiranje, povijest narudžbi itd. </li>
+<li>za sprječavanje i borbu protiv računalne prijevare (spam, hakiranje itd.): računalna oprema koja se koristi za pregledavanje, IP adresa, lozinka (haširana) </li>
+<li>za poboljšanje navigacije na web mjestu: podaci o vezi i upotrebi </li>
+<li>provesti neobavezne ankete o zadovoljstvu na (WEBSITE_URL): adresa e-pošte </li>
+<li>za provođenje komunikacijskih kampanja (sms, e-mail): broj telefona, email adresa</li>
+</ul>
+<p>(WEBSITE_URL) ne prodaje vaše osobne podatke koji se stoga koriste samo iz nužde ili u statističke i analitičke svrhe.</p>
+
+<h3>7.3 Pravo pristupa, ispravka i prigovora</h3>
+<p>U skladu s važećim europskim propisima, Korisnici (WEBSITE_URL) imaju sljedeća prava: </p>
+<ul>
+<li>pravo na pristup (članak 15. GDPR-a) i ispravak (članak 16. GDPR-a), ažuriranje, potpunost korisničkih podataka pravo na blokiranje ili brisanje osobnih podataka korisnika (članak 17. GDPR-a), kada su netočni, nepotpuni, dvosmisleni , zastarjeli ili čije je prikupljanje, korištenje, komunikacija ili skladištenje zabranjeno </li>
+<li>pravo na povlačenje privole u bilo kojem trenutku (članak 13-2c GDPR) </li>
+<li>pravo na ograničenje obrade korisničkih podataka (članak 18. GDPR-a) </li>
+<li>pravo na protivljenje obradi korisničkih podataka (članak 21. GDPR-a) </li>
+<li>pravo na prenosivost podataka koje su Korisnici dali, kada su ti podaci predmet automatizirane obrade na temelju njihovog pristanka ili ugovora (članak 20. GDPR-a) </li>
+<li>pravo definiranja sudbine podataka korisnika nakon njihove smrti i izbora kome (WEBSITE_URL) će morati priopćiti (ili ne) svoje podatke trećoj strani koju će prethodno odrediti</li>
+</ul>
+<p>Čim (WEBSITE_URL) sazna za smrt Korisnika i u nedostatku njegovih uputa, (WEBSITE_URL) se obvezuje uništiti njegove podatke, osim ako se njihovo očuvanje pokaže potrebnim u dokazne svrhe ili radi ispunjavanja zakonske obveze. </p>
+<p>Ako Korisnik želi znati kako (WEBSITE_URL) koristi svoje osobne podatke, zatraži da ih ispravi ili se usprotivi njihovoj obradi, Korisnik može kontaktirati (WEBSITE_URL) u pisanom obliku na sljedeću adresu: (WEBSITE_ADDRESS). </p>
+<p>U tom slučaju, Korisnik mora naznačiti osobne podatke koje želi (WEBSITE_URL) ispraviti, ažurirati ili izbrisati, točno identificirajući se kopijom osobnog dokumenta (osobna iskaznica ili putovnica). </p>
+<p>Zahtjevi za brisanje osobnih podataka podliježu zakonskim obvezama nametnutim (WEBSITE_URL), posebice u pogledu čuvanja ili arhiviranja dokumenata.</p>
+
+<h3>7.4 Neotkrivanje osobnih podataka</h3>
+<p>(WEBSITE_URL) zabranjeno je obrađivati, hostirati ili prenositi podatke prikupljene o svojim klijentima u zemlju koja se nalazi izvan Europske unije ili koju Europska komisija priznaje kao "neprikladnu" bez prethodnog obavještavanja korisnika. Međutim, (WEBSITE_URL) ostaje slobodan u odabiru svojih tehničkih i komercijalnih podizvođača pod uvjetom da daju dovoljna jamstva u pogledu zahtjeva Općih propisa o zaštiti podataka (RGPD: br. 2016-679). </p>
+<p>(WEBSITE_URL) obvezuje se poduzeti sve potrebne mjere opreza kako bi se očuvala sigurnost podataka, a posebno da se ne priopćavaju neovlaštenim osobama. Međutim, ako se na (WEBSITE_URL) upozori na incident koji utječe na integritet ili povjerljivost Klijentovih podataka, potonji mora obavijestiti Klijenta što je prije moguće i obavijestiti ga o poduzetim korektivnim mjerama. Nadalje (WEBSITE_URL) ne prikuplja nikakve "osjetljive podatke".</p>
+<p>Osobne podatke korisnika mogu obrađivati ​​podružnice (WEBSITE_URL) i podizvođači (pružatelji usluga), isključivo kako bi se postigle svrhe ove politike.</p>
+<p>Unutar granica svojih odgovarajućih atribucija i za gore navedene svrhe, glavni ljudi koji će vjerojatno imati pristup podacima korisnika (WEBSITE_URL) uglavnom su naši agenti za korisničku podršku.</p>
+
+<h2>8. Obavijest o incidentu</h2>
+<p>Koliko god se trudili, niti jedan način prijenosa putem Interneta, niti način elektroničke pohrane, nije potpuno siguran. Stoga ne možemo jamčiti apsolutnu sigurnost. Ako saznamo za kršenje sigurnosti, obavijestit ćemo pogođene korisnike kako bi mogli poduzeti odgovarajuće mjere. Naši postupci obavještavanja o incidentima uzimaju u obzir naše zakonske obveze, bilo na nacionalnoj ili europskoj razini. Predani smo u potpunosti informirati naše klijente o svim pitanjima koja se odnose na sigurnost njihovog računa i pružiti im sve potrebne informacije kako bismo im pomogli u ispunjavanju vlastitih regulatornih obveza izvješćivanja.</p>
+<p>Nikakvi osobni podaci korisnika stranice (WEBSITE_URL) se ne objavljuju bez znanja korisnika, razmjenjuju, prenose, dodjeljuju ili prodaju na bilo kojem mediju trećim stranama. Samo hipoteza otkupa (WEBSITE_URL) i njegovih prava omogućila bi prijenos navedenih informacija potencijalnom kupcu koji bi zauzvrat bio vezan istom obvezom pohranjivanja i izmjene podataka prema korisniku web stranice (WEBSITE_URL).</p>
+
+<h3>Sigurnost</h3>
+<p>Kako bi osigurao sigurnost i povjerljivost osobnih podataka i osobnih zdravstvenih podataka, (WEBSITE_URL) koristi mreže zaštićene standardnim uređajima kao što su vatrozidovi, pseudonimizacija, enkripcija i lozinke.</p>
+<p>Prilikom obrade osobnih podataka (WEBSITE_URL) poduzima sve razumne mjere da ih zaštiti od gubitka, zlouporabe, neovlaštenog pristupa, otkrivanja, izmjene ili uništenja.</p>
+
+<h2>9. Hipertekstualne veze "kolačići" i internetske oznake ("tagovi")</h2>
+<p>Stranica (WEBSITE_URL) sadrži određeni broj hipertekstualnih veza na druge stranice, postavljene uz autorizaciju (WEBSITE_URL). Međutim, (WEBSITE_URL) nema mogućnost provjere sadržaja tako posjećenih stranica, te stoga ne preuzima nikakvu odgovornost za ovu činjenicu.</p>
+<p>Osim ako ne odlučite onemogućiti kolačiće, slažete se da ih stranica može koristiti. Ove kolačiće možete deaktivirati u bilo kojem trenutku i besplatno koristeći mogućnosti deaktivacije koje su vam ponuđene i povučene u nastavku, znajući da to može smanjiti ili spriječiti dostupnost svih ili dijela usluga koje nudi stranica.</p>
+
+<h3>9.1. Korištenje KOLAČIĆA</h3>
+<p>"Kolačić" je mala informativna datoteka koja se šalje korisnikovu pregledniku i pohranjuje na korisnikov terminal (npr. računalo, pametni telefon), (u daljnjem tekstu "Kolačići"). Ova datoteka uključuje informacije kao što su naziv domene korisnika, korisnikov davatelj internetskog pristupa, korisnikov operativni sustav, kao i datum i vrijeme pristupa. Kolačići ni na koji način ne predstavljaju opasnost od oštećenja korisničkog terminala.</p>
+<p>(WEBSITE_URL) će vjerojatno obraditi podatke korisnika u vezi s njegovim posjetom web-mjestu, kao što su pregledane stranice, izvršena pretraživanja. Ove informacije omogućuju (WEBSITE_URL) poboljšanje sadržaja Stranice, navigaciju Korisnika.</p>
+<p>Kolačići koji olakšavaju navigaciju i/ili pružanje usluga koje nudi Stranica, Korisnik može konfigurirati svoj preglednik kako bi mu omogućio da odluči želi li ih prihvatiti ili ne tako da se kolačići zabilježe u terminalu ili, naprotiv , odbijaju se, bilo sustavno ili prema njihovom izdavatelju. Korisnik također može konfigurirati svoj softver preglednika tako da mu se s vremena na vrijeme nudi prihvaćanje ili odbijanje kolačića, prije nego što je vjerojatno da će kolačić biti spremljen u njegov terminal. (WEBSITE_URL) obavještava Korisnika da, u ovom slučaju, funkcije njegovog softvera za navigaciju možda neće sve biti dostupne.</p>
+<p> Ako Korisnik odbije registraciju kolačića na svom terminalu ili svom pregledniku, ili ako Korisnik izbriše one koji su tamo registrirani, Korisnik se obavještava da njegova navigacija i iskustvo na Stranici mogu biti ograničeni. To također može biti slučaj kada (WEBSITE_URL) ili jedan od njegovih davatelja usluga ne može prepoznati, radi tehničke kompatibilnosti, vrstu preglednika koji koristi terminal, postavke jezika i prikaza ili zemlju iz koje se terminal čini da je povezan Internet.</p>
+<p>Tamo gdje je primjenjivo, (WEBSITE_URL) odbija svaku odgovornost za posljedice povezane s pogoršanim funkcioniranjem Stranice i uslugama koje eventualno nudi (WEBSITE_URL), što je posljedica (i) odbijanja kolačića od strane korisnika (ii) od strane nemogućnost (WEBSITE_URL) spremanja ili pregledavanja kolačića potrebnih za njihov rad zbog izbora Korisnika. Za upravljanje kolačićima i izborom korisnika, konfiguracija svakog preglednika je drugačija. Opisan je u izborniku pomoći preglednika, koji će vam omogućiti da znate kako Korisnik može mijenjati svoje želje u smislu kolačića.</p>
+<p>U bilo kojem trenutku, Korisnik može izabrati izraziti i izmijeniti svoje želje u smislu kolačića. (WEBSITE_URL) također može koristiti usluge vanjskih davatelja usluga kako bi mu pomogao u prikupljanju i obradi informacija opisanih u ovom odjeljku.</p>
+<p>Konačno, klikom na ikone posvećene društvenim mrežama Twitter, Facebook, Linkedin i Google Plus koje se pojavljuju na Stranici (WEBSITE_URL) ili u njezinoj mobilnoj aplikaciji i ako je Korisnik prihvatio polog kolačića nastavkom pregledavanja na web-mjestu ili mobilnu aplikaciju (WEBSITE_URL), Twitter, Facebook, Linkedin i Google Plus također mogu postaviti kolačiće na vaše uređaje (računalo, tablet, mobilni telefon).</p>
+<p>Ove vrste kolačića postavljaju se na vaše terminale samo ako pristajete na njih, nastavkom pregledavanja web stranice ili mobilne aplikacije (WEBSITE_URL). U svakom trenutku, Korisnik ipak može opozvati svoj pristanak za (WEBSITE_URL) pohranjivanje ove vrste kolačića.</p>
+
+<h3>Odjeljak 9.2. INTERNETSKI OZNACI</h3>
+<p>(WEBSITE_URL) može povremeno koristiti web-pratilice i implementirati ih putem partnera za web analitiku koji se može nalaziti (i stoga pohraniti povezane informacije, uključujući IP adresu Korisnika) u stranoj zemlji.</p>
+<p>Ove se oznake postavljaju i u internetske oglase koji korisnicima interneta omogućuju pristup web-mjestu, kao i na različite stranice web-mjesta. </p>
+<p>Ova tehnologija omogućuje (WEBSITE_URL) procjenu odgovora posjetitelja na web-mjesto i učinkovitost njegovih radnji (na primjer, broj otvaranja stranice i pregledane informacije), kao i korištenje ove stranice od strane korisnik. </p>
+<p>Vanjski davatelj usluga može prikupljati podatke o posjetiteljima web-mjesta i drugih internetskih stranica koji koriste ove oznake, sastavljati izvješća o aktivnostima web-mjesta za pažnju (WEBSITE_URL) i pružati druge usluge koje se odnose na korištenje iste i interneta. </p>
+
+<h2>10. Primjenjivo pravo i atribucija nadležnosti.</h2>
+<p>Svaki spor u vezi s korištenjem stranice (WEBSITE_URL) podliježe kaznenom zakonu. Osim u slučajevima kada to zakon ne dopušta, isključiva je nadležnost nadležnih sudova.</p>

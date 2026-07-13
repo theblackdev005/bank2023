@@ -1,0 +1,112 @@
+<h2>Tanriflar</h2>
+<p>
+<b>Mijoz:</b> Fuqarolik Kodeksining quyidagi moddalari mazmunida qodir boʻlgan har qanday professional yoki jismoniy shaxs yoki ushbu umumiy shartlarga rioya qilgan holda Saytga tashrif buyuradigan yuridik shaxs.<br>
+<b>Foydalar va xizmatlar:</b> (WEBSITE_URL) mijozlarga quyidagilarni taqdim etadi:
+</p>
+<p><b>Tarkib:</b> Saytda mavjud bo'lgan ma'lumotlarning barcha tarkibiy elementlari, xususan matnlar - tasvirlar - videolar.</p>
+<p><b>Mijoz haqida ma'lumot:</b> Bundan keyin "Ma'lumot" deb yuritiladi, bu sizning hisobingizni boshqarish, mijozni boshqarish va tahliliy ma'lumotlar uchun (WEBSITE_NAME) ega bo'lishi mumkin bo'lgan barcha shaxsiy ma'lumotlarga mos keladi. va statistik maqsadlar.</p>
+<p><b>Foydalanuvchi:</b> Internet foydalanuvchisi yuqorida nom berilgan saytdan foydalanmoqda.</p>
+<p><b>Shaxsiy ma'lumotlar:</b> "Har qanday shaklda to'g'ridan-to'g'ri yoki bilvosita u tegishli bo'lgan jismoniy shaxslarni aniqlash imkonini beruvchi ma'lumotlar".</p>
+<p>"Shaxsiy ma'lumotlar", "ma'lumotlar sub'ekti", "subpudratchi" va "maxfiy ma'lumotlar" atamalari Ma'lumotlarni himoya qilish bo'yicha umumiy reglamentda (RGPD: n° 2016-679) belgilangan ma'noga ega.</p>
+
+<h2>1. Veb-sayt taqdimoti.</h2>
+<p>Raqamli iqtisodiyotga ishonch to'g'risidagi 2004 yil 21 iyundagi 2004-575-sonli Qonunning 6-moddasiga muvofiq, veb-sayt foydalanuvchilari (WEBSITE_URL) uni amalga oshirish va monitoring qilish doirasida turli manfaatdor tomonlarning kimligi to'g'risida xabardor qilinadi: </p>
+<p>
+<b>Egasi</b>: (WEBSITE_NAME) – (WEBSITE_ADDRESS)<br>
+<b>Nashr menejeri</b>: (AUTHOR_NAME)<br>
+<b>Veb ustasi</b>: (WEBMASTER_NAME)<br>
+<b>Ma'lumotlarni himoya qilish bo'yicha mutaxassis</b>: (WEBSITE_EMAIL)<br>
+</p>
+
+<h2>2. Saytdan foydalanishning umumiy shartlari va taklif etilayotgan xizmatlar.</h2>
+<p>Sayt Intellektual mulk kodeksi va amaldagi xalqaro qoidalar bilan himoyalangan intellektual ishni tashkil etadi. Buyurtmachi hech qanday tarzda Saytning barcha yoki bir qismi elementlarini yoki ishlarini qayta ishlatishi, o‘tkazishi yoki o‘z hisobi uchun foydalanishi mumkin emas.</p>
+<p>Saytdan (WEBSITE_NAME) foydalanish quyida tavsiflangan umumiy foydalanish shartlarini to‘liq qabul qilishni anglatadi. Ushbu foydalanish shartlari istalgan vaqtda o'zgartirilishi yoki to'ldirilishi mumkin, shuning uchun sayt foydalanuvchilari (WEBSITE_NAME) muntazam ravishda ular bilan maslahatlashishga taklif qilinadi.</p>
+<p>Ushbu veb-saytga odatda istalgan vaqtda foydalanuvchilar kirishlari mumkin. Texnik xizmat koʻrsatish bilan bogʻliq uzilishlar (WEBSITE_NAME) tomonidan hal qilinishi mumkin, u keyinchalik aralashuv sanalari va vaqtlaridan oldin foydalanuvchilar bilan bogʻlanishga harakat qiladi. Yuridik bildirishnomalar istalgan vaqtda oʻzgartirilishi mumkin: ular bilan tanishish uchun ularga imkon qadar tez-tez murojaat qilish taklif qilingan foydalanuvchi uchun ular majburiydir.</p>
+
+<h2>3. Taqdim etilayotgan xizmatlar tavsifi.</h2>
+<p>Veb-saytning (WEBSITE_NAME) maqsadi kompaniyaning barcha faoliyatiga oid ma'lumotlarni taqdim etishdir. (WEBSITE_NAME) imkon qadar aniq ma'lumot berishga intiladi. Biroq, u oʻzi yoki uni ushbu maʼlumot bilan taʼminlagan uchinchi tomon hamkorlari tomonidan yoʻl qoʻyilgan yangilanishlar, noaniqliklar va kamchiliklar uchun javobgar boʻlmaydi.</p>
+<p>Saytda (WEBSITE_NAME) ko'rsatilgan barcha ma'lumotlar faqat ma'lumot uchun berilgan va o'zgartirilishi mumkin. Bundan tashqari, (WEBSITE_NAME) saytidagi ma'lumotlar to'liq emas. Ular internetga joylashtirilganidan keyin kiritilgan oʻzgartirishlar sharti bilan beriladi.</p>
+
+<h2>4. Texnik ma'lumotlar bo'yicha shartnoma cheklovlari.</h2>
+<p>Sayt JavaScript texnologiyasidan foydalanadi. Veb-sayt saytdan foydalanish bilan bog'liq moddiy zarar uchun javobgar bo'lmaydi. Bundan tashqari, sayt foydalanuvchisi viruslarni o'z ichiga olmaydi va yangilangan so'nggi avlod brauzeri bilan so'nggi uskunalardan foydalangan holda saytga kirishga rozi bo'ladi. Sayt (WEBSITE_NAME) Yevropa Ittifoqi hududidagi maʼlumotlarni himoya qilish boʻyicha umumiy qoidalar (RGPD: n° 2016-679) qoidalariga muvofiq xizmat koʻrsatuvchi provayder tomonidan joylashtirilgan.</p>
+<p>Maqsad - eng yaxshi foydalanish tezligini ta'minlaydigan xizmatni taqdim etish. Uy egasi yilning har kuni, kuniga 24 soat xizmat ko'rsatishning uzluksizligini ta'minlaydi. Shunga qaramay, u hosting xizmatini imkon qadar qisqa muddatga, xususan, texnik xizmat ko‘rsatish, uning infratuzilmasini yaxshilash, infratuzilmalari ishlamay qolishi yoki Xizmatlar va xizmatlar g‘ayritabiiy deb hisoblangan trafikni keltirib chiqarish maqsadida to‘xtatish huquqini o‘zida saqlab qoladi.</p>
+<p>(WEBSITE_NAME) va xost Internet tarmog‘i, telefon liniyalari yoki kompyuter va telefoniya uskunalari, xususan, tarmoq tiqilib qolishi bilan bog‘liq serverga kirishga to‘sqinlik qiladigan nosozliklar uchun javobgar bo‘lmaydi.</p>
+
+<h2>5. Intellektual mulk va kontrafaktlar.</h2>
+<p>(WEBSITE_NAME) intellektual mulk huquqlarining egasidir va veb-saytda mavjud bo'lgan barcha elementlardan, xususan, matnlar, tasvirlar, grafikalar, logotiplar, videolar, piktogrammalar va tovushlardan foydalanish huquqlariga ega. Qaysi vosita yoki jarayondan qat'i nazar, sayt elementlarining hammasini yoki bir qismini har qanday ko'paytirish, tasvirlash, o'zgartirish, nashr qilish, moslashtirish taqiqlanadi, bundan oldin yozma ruxsatisiz: (WEBSITE_NAME).</p>
+<p>Saytdan yoki undagi har qanday elementlardan ruxsatsiz foydalanish huquqbuzarlik deb hisoblanadi va L.335-2-moddalari qoidalariga va Intellektual mulk kodeksining quyidagi qoidalariga muvofiq javobgarlikka tortiladi.</p>
+
+<h2>6. Mas'uliyatni cheklash.</h2>
+<p>(WEBSITE_NAME) sayt noshiri sifatida ishlaydi. (WEBSITE_NAME) o‘zi nashr etayotgan Kontentning sifati va haqqoniyligi uchun javobgardir.</p>
+<p>(WEBSITE_NAME) veb-saytga kirishda (WEBSITE_NAME) foydalanuvchi uskunasiga etkazilgan to'g'ridan-to'g'ri va bilvosita zarar uchun va 4-bandda ko'rsatilgan texnik talablarga javob bermaydigan uskunadan foydalanish natijasida javobgar bo'lmaydi. xato yoki nomuvofiqlikning paydo bo'lishi.</p>
+<p>(WEBSITE_NAME) saytdan (WEBSITE_URL) foydalanish natijasida yuzaga keladigan zararlar (masalan, bozorni yo'qotish yoki imkoniyatni yo'qotish) uchun ham javobgar bo'lmaydi. Interfaol bo'shliqlar (aloqa maydonida savollar berish imkoniyati) foydalanuvchilar uchun mavjud. (WEBSITE_URL) Yevropa Ittifoqidagi amaldagi qonunchilikni, xususan, maʼlumotlarni himoya qilishga oid qoidalarni buzadigan ushbu maydonda joylashtirilgan har qanday kontentni oldindan ogohlantirmasdan oʻchirish huquqini oʻzida saqlab qoladi. Tegishli hollarda, (WEBSITE_URL) foydalanuvchining fuqarolik va/yoki jinoiy javobgarligini shubha ostiga qo'yish huquqini o'zida saqlab qoladi, xususan, foydalanilgan vositadan qat'i nazar, irqchilik, haqoratli, tuhmat yoki pornografik xabar yuborilgan taqdirda. (matn,
+
+<h2>7. Shaxsiy ma'lumotlarni boshqarish.</h2>
+<p>Buyurtmachiga marketing kommunikatsiyalariga oid qoidalar, 2014-yil 21-iyundagi Raqamli iqtisodiyotga ishonch toʻgʻrisidagi qonun, 2004-yil 06-avgustdagi Maʼlumotlarni himoya qilish toʻgʻrisidagi qonun, shuningdek, maʼlumotlarni himoya qilish boʻyicha umumiy qoidalar (RGPD: No. 2016-679). </p>
+
+<h3>7.1 Shaxsiy ma'lumotlarni to'plash uchun mas'ul shaxslar</h3>
+<p>Foydalanuvchining shaxsiy akkauntini yaratish va uning Saytda navigatsiyasi doirasida to'plangan Shaxsiy ma'lumotlar uchun Shaxsiy ma'lumotlarni qayta ishlash uchun javobgar shaxs: (WEBSITE_NAME).</p>
+<p>To'plangan ma'lumotlarni qayta ishlash uchun mas'ul sifatida (WEBSITE_URL) amaldagi qonunchilik qoidalariga rioya qilish majburiyatini oladi. Xususan, uning ma'lumotlarini qayta ishlash maqsadlarini belgilash, uning istiqbollari va mijozlariga ularning roziligini olishdan boshlab, shaxsiy ma'lumotlarini qayta ishlash bo'yicha to'liq ma'lumotni taqdim etish va izchil muolajalar reestrini yuritish Buyurtmachiga bog'liq. haqiqat bilan. Qachonki (WEBSITE_URL) Shaxsiy maʼlumotlarni qayta ishlasa, (WEBSITE_URL) Shaxsiy maʼlumotlarning (WEBSITE_URL) ularni qayta ishlash maqsadlariga muvofiqligi va toʻgʻriligini taʼminlash uchun barcha zarur choralarni koʻradi.</p>
+
+<h3>7.2 Yig'ilgan ma'lumotlarning maqsadi</h3>
+<p>(WEBSITE_URL) maʼlumotlarning toʻliq yoki bir qismini qayta ishlashi mumkin:</p>
+<ul>
+<li>Saytda navigatsiyaga ruxsat berish va foydalanuvchi tomonidan buyurtma qilingan xizmatlarni boshqarish va kuzatib borish uchun: Saytga ulanish va foydalanish ma'lumotlari, hisob-faktura, buyurtma tarixi va boshqalar. </li>
+<li>kompyuter firibgarligining (spam, xakerlik va h.k.) oldini olish va unga qarshi kurashish uchun: ko‘rish uchun ishlatiladigan kompyuter uskunalari, IP manzil, parol (xeshlangan) </li>
+<li>Saytda navigatsiyani yaxshilash uchun: ulanish va foydalanish ma'lumotlari </li>
+<li>(WEBSITE_URL) ixtiyoriy qoniqish so'rovlarini o'tkazish uchun: elektron pochta manzili </li>
+<li>aloqa kampaniyalarini amalga oshirish uchun (sms, email): telefon raqami, elektron pochta manzili</li>
+</ul>
+<p>(WEBSITE_URL) sizning shaxsiy ma'lumotlaringizni sotmaydi, shuning uchun faqat zarurat tufayli yoki statistik va tahlil maqsadlarida foydalaniladi.</p>
+
+<h3>7.3 Kirish, tuzatish va qarshi chiqish huquqi</h3>
+<p>Joriy Yevropa qoidalariga muvofiq, (WEBSITE_URL) foydalanuvchilari quyidagi huquqlarga ega: </p>
+<ul>
+<li>kirish huquqi (GDPR 15-modda) va tuzatish (GDPR 16-modda), foydalanuvchi maʼlumotlarini yangilash, toʻliqligi Foydalanuvchining shaxsiy maʼlumotlarini bloklash yoki oʻchirish huquqi (GDPRning 17-moddasi), agar ular notoʻgʻri, toʻliq boʻlmagan, noaniq boʻlsa. , eskirgan yoki to'plash, foydalanish, aloqa qilish yoki saqlash taqiqlangan </li>
+<li>xohlagan vaqtda rozilikni qaytarib olish huquqi (GDPR 13-2c-modda) </li>
+<li>Foydalanuvchi ma'lumotlarini qayta ishlashni cheklash huquqi (GDPR 18-moddasi) </li>
+<li>Foydalanuvchi ma'lumotlarini qayta ishlashga qarshi chiqish huquqi (GDPR 21-moddasi) </li>
+<li>Foydalanuvchilar tomonidan taqdim etilgan ma'lumotlarning ko'chirish huquqi, agar bu ma'lumotlar ularning roziligi yoki shartnoma asosida avtomatlashtirilgan qayta ishlanishi kerak bo'lsa (GDPR 20-modda) </li>
+<li>foydalanuvchilarning oʻlimidan keyin maʼlumotlari taqdirini belgilash va kimga (WEBSITE_URL) oʻz maʼlumotlarini ular ilgari tayinlagan uchinchi shaxsga etkazishi (yoki bermasligi)ni tanlash huquqi</li>
+</ul>
+<p>(WEBSITE_URL) foydalanuvchining oʻlimidan xabardor boʻlishi bilan va undan koʻrsatma boʻlmasa, (WEBSITE_URL) uning maʼlumotlarini yoʻq qilish majburiyatini oladi, agar ularning saqlanishi isbotlash maqsadida yoki qonuniy majburiyatni bajarish uchun zarur boʻlmasa. </p>
+<p>Agar foydalanuvchi (WEBSITE_URL) o'zining Shaxsiy ma'lumotlaridan qanday foydalanishini bilmoqchi bo'lsa, ularni tuzatishni so'rang yoki uni qayta ishlashga qarshi chiqsa, foydalanuvchi (WEBSITE_URL) quyidagi manzil bo'yicha yozma ravishda bog'lanishi mumkin: (WEBSITE_ADDRESS). </p>
+<p>Bunday holatda, Foydalanuvchi oʻzini shaxsini tasdiqlovchi hujjat (kartaning shaxsi yoki pasporti) nusxasi bilan aniq tanishtirib, oʻzi (WEBSITE_URL) tuzatish, yangilash yoki oʻchirishni xohlagan Shaxsiy maʼlumotlarini koʻrsatishi kerak. </p>
+<p>Shaxsiy ma'lumotlarni o'chirish bo'yicha so'rovlar (WEBSITE_URL) ga qonun bilan, xususan, hujjatlarni saqlash yoki arxivlash bo'yicha yuklangan majburiyatlar bo'ysunadi.</p>
+
+<h3>7.4 Shaxsiy ma'lumotlarni oshkor qilmaslik</h3>
+<p>(WEBSITE_URL) oʻz Mijozlarida toʻplangan maʼlumotlarni Yevropa Ittifoqidan tashqarida joylashgan yoki Yevropa Komissiyasi tomonidan “nomaqbul” deb eʼtirof etilgan mamlakatga mijozni xabardor qilmasdan qayta ishlash, joylashtirish yoki oʻtkazish taqiqlanadi. Biroq, (WEBSITE_URL) oʻzining texnik va tijorat subpudratchilari umumiy maʼlumotlarni himoya qilish qoidalari (RGPD: n° 2016-679) talablari boʻyicha yetarli kafolatlar taqdim etish sharti bilan tanlashda erkin qoladi. </p>
+<p>(WEBSITE_URL) Axborot xavfsizligini, xususan, ruxsatsiz shaxslarga yetkazilmasligini ta'minlash uchun barcha zaruriy choralarni ko'rish majburiyatini oladi. Biroq, agar Mijoz ma'lumotlarining yaxlitligi yoki maxfiyligiga ta'sir ko'rsatadigan voqea (WEBSITE_URL) e'tiboriga tushsa, u Mijozni imkon qadar tezroq xabardor qilishi va unga ko'rilgan tuzatish choralari haqida xabar berishi kerak. Bundan tashqari (WEBSITE_URL) hech qanday “maxfiy maʼlumotlarni” toʻplamaydi.</p>
+<p>Foydalanuvchining shaxsiy ma'lumotlari (WEBSITE_URL) sho'ba korxonalari va subpudratchilar (xizmat ko'rsatuvchi provayderlar) tomonidan faqat ushbu siyosat maqsadlariga erishish uchun qayta ishlanishi mumkin.</p>
+<p>Tegishli atributlar doirasida va yuqorida aytib oʻtilgan maqsadlarda (WEBSITE_URL) foydalanuvchilari maʼlumotlariga kirishi mumkin boʻlgan asosiy odamlar asosan mijozlarga xizmat koʻrsatish agentlarimizdir.</p>
+
+<h2>8. Hodisa haqida bildirishnoma</h2>
+<p>Qanchalik urinmasin, Internet orqali uzatishning hech bir usuli va elektron saqlashning hech qanday usuli butunlay xavfsiz emas. Shuning uchun biz mutlaq xavfsizlikni kafolatlay olmaymiz. Agar biz xavfsizlik buzilishidan xabardor bo'lsak, tegishli choralarni ko'rishlari uchun zararlangan foydalanuvchilarni xabardor qilamiz. Voqea haqida xabar berish tartiblarimiz milliy yoki Yevropa darajasidagi qonuniy majburiyatlarimizni hisobga oladi. Biz mijozlarimizni ularning hisobi xavfsizligi bilan bog‘liq barcha masalalardan to‘liq xabardor qilishga va ularga o‘zlarining normativ hisobot majburiyatlarini bajarishlariga yordam berish uchun barcha zarur ma’lumotlarni taqdim etishga intilamiz.</p>
+<p>Sayt foydalanuvchisining shaxsiy ma'lumotlari (WEBSITE_URL) foydalanuvchining xabarisiz e'lon qilinmaydi, uchinchi shaxslarga almashtirilmaydi, uzatilmaydi, tayinlanmaydi yoki biron-bir vositada sotilmaydi. Faqat (WEBSITE_URL) va uning huquqlarini sotib olish gipotezasi ushbu ma'lumotni bo'lajak xaridorga uzatish imkonini beradi, u o'z navbatida veb-sayt foydalanuvchisiga nisbatan ma'lumotlarni saqlash va o'zgartirish majburiyatiga ega bo'ladi (WEBSITE_URL).</p>
+
+<h3>Xavfsizlik</h3>
+<p>Shaxsiy ma'lumotlar va shaxsiy salomatlik ma'lumotlarining xavfsizligi va maxfiyligini ta'minlash uchun (WEBSITE_URL) xavfsizlik devori, taxalluslash, shifrlash va parollar kabi standart qurilmalar bilan himoyalangan tarmoqlardan foydalanadi.</p>
+<p>Shaxsiy ma'lumotlarni qayta ishlashda (WEBSITE_URL) ularni yo'qotish, noto'g'ri foydalanish, ruxsatsiz kirish, oshkor qilish, o'zgartirish yoki yo'q qilishdan himoya qilish uchun barcha oqilona choralarni ko'radi.</p>
+
+<h2>9. Gipermatn “cookie” va internet teglari (“teglar”)</h2>ni havola qiladi
+<p>Saytda (WEBSITE_URL) boshqa saytlarga (WEBSITE_URL) ruxsati bilan sozlangan maʼlum miqdordagi gipermatnli havolalar mavjud. Biroq (WEBSITE_URL) shu tarzda tashrif buyurilgan saytlar mazmunini tekshirish imkoniyatiga ega emas va shuning uchun bu fakt uchun javobgarlikni o‘z zimmasiga olmaydi.</p>
+<p>Agar siz cookie-fayllarni o'chirishga qaror qilmasangiz, sayt ulardan foydalanishiga rozilik bildirasiz. Siz ushbu cookie-fayllarni istalgan vaqtda va sizga taklif qilingan va quyida eslatib o'tilgan o'chirish imkoniyatlaridan foydalangan holda o'chirib qo'yishingiz mumkin, chunki bu sayt taklif qilayotgan xizmatlarning barchasi yoki bir qismiga kirishni kamaytirishi yoki oldini olishi mumkin.</p>
+
+<h3>9.1. COOKIES dan foydalanish</h3>
+<p>"Cookie" - bu foydalanuvchi brauzeriga yuborilgan va Foydalanuvchi terminalida (masalan, kompyuter, smartfon) saqlanadigan kichik ma'lumot fayli (keyingi o'rinlarda "Cookie fayllari"). Ushbu faylda Foydalanuvchining domen nomi, Foydalanuvchining Internetga kirish provayderi, Foydalanuvchining operatsion tizimi, shuningdek kirish sanasi va vaqti kabi maʼlumotlar kiradi. Cookie-fayllar hech qanday holatda foydalanuvchi terminaliga zarar yetkazishi mumkin emas.</p>
+<p>(WEBSITE_URL) foydalanuvchining Saytga tashrifi haqidagi maʼlumotlarini, masalan, maslahat qilingan sahifalar, oʻtkazilgan qidiruvlar kabi maʼlumotlarni qayta ishlashi mumkin. Bu maʼlumot (WEBSITE_URL)ga sayt mazmunini, foydalanuvchi navigatsiyasini yaxshilash imkonini beradi.</p>
+<p>Sayt tomonidan navigatsiya va/yoki xizmatlarni taqdim etishni osonlashtiradigan cookie-fayllar, Foydalanuvchi o'z brauzerini ularni qabul qilishni xohlaydimi yoki yo'qligini hal qilish imkonini beradigan tarzda sozlashi mumkin, shunda cookie-fayllar terminalda qayd etiladi yoki aksincha. , ular muntazam ravishda yoki ularning emitentiga ko'ra rad etiladi. Foydalanuvchi oʻz brauzerining dasturiy taʼminotini shunday sozlashi mumkinki, vaqti-vaqti bilan Cookie uning terminalida saqlanishidan oldin unga cookie-fayllarni qabul qilish yoki rad etish taklif qilinadi. (WEBSITE_URL) foydalanuvchiga, bu holda uning navigatsiya dasturining barcha funksiyalari mavjud bo‘lmasligi mumkinligi haqida xabardor qiladi.</p>
+<p> Agar foydalanuvchi o'z terminalida yoki brauzerida cookie-fayllarni ro'yxatdan o'tkazishni rad etsa yoki u erda ro'yxatdan o'tganlarini o'chirib tashlasa, foydalanuvchiga uning navigatsiyasi va uning Saytdagi tajribasi cheklangan bo'lishi mumkinligi haqida xabar beriladi. Bu, shuningdek, (WEBSITE_URL) yoki uning xizmat ko'rsatuvchi provayderlaridan biri texnik muvofiqlik maqsadida terminal tomonidan foydalaniladigan brauzer turini, til va displey sozlamalarini yoki terminal ulangan mamlakatni taniy olmasa ham bo'lishi mumkin. Internet.</p>
+<p>To'g'ri bo'lganda, (WEBSITE_URL) (i) foydalanuvchi tomonidan Cookie-fayllardan voz kechishi (ii) saytning yomon ishlashi va (WEBSITE_URL) tomonidan taqdim etilishi mumkin bo'lgan xizmatlar bilan bog'liq oqibatlar uchun javobgarlikni o'z zimmasiga olmaydi. (WEBSITE_URL) foydalanuvchining tanlovi tufayli ularning ishlashi uchun zarur bo'lgan cookie-fayllarni saqlash yoki ularga murojaat qilishning imkoni yo'qligi. Cookie fayllari va foydalanuvchi tanlovlarini boshqarish uchun har bir brauzerning konfiguratsiyasi boshqacha. Bu brauzerning yordam menyusida tasvirlangan bo‘lib, u foydalanuvchi o‘z istaklarini cookie-fayllar bo‘yicha qanday o‘zgartirishi mumkinligini bilish imkonini beradi.</p>
+<p>Foydalanuvchi istalgan vaqtda cookie-fayllar bo'yicha o'z xohish-istaklarini bildirish va o'zgartirishni tanlashi mumkin. (WEBSITE_URL) ushbu boʻlimda tasvirlangan maʼlumotlarni toʻplash va qayta ishlashga yordam berish uchun tashqi xizmat provayderlari xizmatlaridan ham foydalanishi mumkin.</p>
+<p>Nihoyat, (WEBSITE_URL) saytida yoki uning mobil ilovasida paydo boʻladigan Twitter, Facebook, Linkedin va Google Plus ijtimoiy tarmoqlariga bagʻishlangan piktogrammalarni bosish orqali va agar foydalanuvchi koʻrishni davom ettirish orqali cookie-fayllarni saqlashni qabul qilgan boʻlsa. (WEBSITE_URL) veb-saytida yoki mobil ilovasida, Twitter, Facebook, Linkedin va Google Plus qurilmalaringizda (kompyuter, planshet, mobil telefon) cookie-fayllarni ham joylashtirishi mumkin.</p>
+<p>Bu turdagi cookie-fayllar terminallaringizga faqat (WEBSITE_URL) veb-sayt yoki mobil ilovasini ko‘rib chiqishda davom etish orqali ularga rozilik bergan holda joylashtiriladi. Istalgan vaqtda, foydalanuvchi shunga qaramay (WEBSITE_URL) ushbu turdagi cookie fayllarini saqlashga roziligini bekor qilishi mumkin.</p>
+
+<h3>9.2-bo'lim. INTERNET teglari</h3>
+<p>(WEBSITE_URL) vaqti-vaqti bilan veb-mayoqlardan foydalanishi va ularni xorijiy davlatda joylashgan (va shuning uchun tegishli ma'lumotlarni, jumladan Foydalanuvchining IP manzilini saqlashi) mumkin bo'lgan veb-tahlil hamkori orqali joylashtirishi mumkin.</p>
+<p>Ushbu teglar Internet foydalanuvchilariga Saytga kirish imkonini beruvchi onlayn reklamalarda ham, Saytning turli sahifalarida ham joylashtirilgan. </p>
+<p>Ushbu texnologiya (WEBSITE_URL) ga tashrif buyuruvchilarning Saytga bo'lgan munosabatini va uning harakatlarining samaradorligini (masalan, sahifaning necha marta ochilganligi va ma'lumotlardan foydalanish) baholash imkonini beradi, shuningdek, ushbu Saytdan foydalanishni Foydalanuvchi. </p>
+<p>Tashqi xizmat ko'rsatuvchi provayder ushbu teglardan foydalangan holda Saytga va boshqa Internet saytlariga tashrif buyuruvchilar haqida ma'lumot to'plashi, (WEBSITE_URL) e'tibori uchun Sayt faoliyati to'g'risida hisobotlar tuzishi va undan foydalanish va Internet bilan bog'liq boshqa xizmatlarni taqdim etishi mumkin. </p>
+
+<h2>10. Amaldagi qonunchilik va yurisdiktsiya atributi.</h2>
+<p>Saytdan (WEBSITE_URL) foydalanish bilan bog'liq har qanday nizo jinoiy qonunchilikka bo'ysunadi. Qonun ruxsat bermagan hollar bundan mustasno, mutlaq yurisdiktsiya vakolatli sudlarga beriladi.</p>

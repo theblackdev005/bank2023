@@ -1,0 +1,20 @@
+<P> (WEBSITE_NAME) visa proporcionar a melhor experiência on-line durante a sua visita ao nosso site, que é por isso que usamos certos tipos de "cookies". </P>
+
+<H3> O que são cookies? </H3>
+<P> Os cookies são pacotes de informação enviados por um servidor web (neste caso, por este site) no navegador de Internet do visitante, armazenados em seu computador e enviados para o servidor ao acessar o seguinte site. Portanto, para a plena utilização deste site, recomendamos que você configure o navegador para aceitar o recebimento de cookies. </P>
+
+<H3> Por que usá-lo? </H3>
+<P> Os cookies são usados para facilitar a navegação dentro do site e o uso correto e para fins estatísticos, para saber quais áreas do site foram visitadas para fazer melhorias e atualizações com base em padrões de uso. Os cookies utilizados neste site não permitem a aquisição de dados de identificação pessoais dos utilizadores. O usuário pode então navegar pelo site sem revelar informações pessoais. </P>
+
+<H3> Tipo de cookies utilizados </h3>
+<P> "cookies de sessão" - encontra-se exclusivamente na memória do computador do usuário e é excluído uma vez que o navegador for fechado. O uso é estritamente limitado à transmissão de identificadores de sessão consistem de números aleatórios gerados pelo servidor, necessária para permitir que um site seja seguro e eficaz. </P>
+<P> Estes cookies nos permitem coletar informações anônimas sobre as páginas visitadas por um usuário e como você usa nosso site para melhorar a navegação no futuro e determinar a fonte de possíveis mensagens de erro. Por exemplo, a coleta de informações sobre as páginas visitadas, o número de visitas, o navegador do visitante. </P>
+
+<H3> Biscoitos terceiros </h3>
+<P> O site pode, de tempos em tempos, conter links para sites de terceiros. Se você seguir um link para esses sites, por favor consulte as políticas de privacidade, sobre cookies e como eles são gerenciados antes de fornecer dados pessoais nesses sites. </P>
+
+<H3> Como gerenciar as configurações de cookies? </H3>
+<P> Para se certificar de que você faça o melhor uso do nosso site, recomendamos que você aceite cookies. A maioria dos navegadores de Internet estão configurados para aceitar cookies. Você pode, a qualquer momento, configurar seu navegador para aceitar todos os cookies. Além disso, você pode definir preferências para o navegador para ser avisado sempre que um cookie é armazenado no seu computador. Por favor, note que os cookies com deficiência podem impedir a utilização normal e ideal do site. </P>
+
+<H3> Alterações a esta política </h3>
+<P> Esta política pode mudar ao longo do tempo e também está ligada à entrada em vigor de novos regulamentos. </P>

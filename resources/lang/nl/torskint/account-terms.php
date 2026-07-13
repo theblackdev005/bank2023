@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Accountvoorwaarden",
+	"TRAD_2" => "Door toegang te krijgen tot en gebruik te maken van (WEBSITE_NAME), gaat u volledig en onvoorwaardelijk akkoord met deze accountvoorwaarden. Lees deze zorgvuldig door voordat u een account aanmaakt en onze diensten gebruikt. Gebruik (WEBSITE_NAME) niet als u niet akkoord gaat met deze voorwaarden.",
+	"TRAD_3" => "Account aanmaken",
+	"TRAD_4" => "Om onze diensten te gebruiken, moet u een account aanmaken door juiste, actuele en volledige informatie te verstrekken.",
+	"TRAD_5" => "U bent verantwoordelijk voor het handhaven van de vertrouwelijkheid van uw accountgegevens en voor het beveiligen van uw wachtwoord.",
+	"TRAD_6" => "Gebruik van account",
+	"TRAD_7" => "U bent verantwoordelijk voor alle activiteiten die onder uw account worden uitgevoerd.",
+	"TRAD_8" => "U stemt ermee in (WEBSITE_NAME) alleen te gebruiken voor legale doeleinden en in overeenstemming met de geldende wetten.",
+	"TRAD_9" => "U mag niet illegaal toegang krijgen tot of proberen toegang te krijgen tot accounts, systemen of gegevens die niet van u zijn.",
+	"TRAD_10" => "Online bankdiensten",
+	"TRAD_11" => "(WEBSITE_NAME) geeft u toegang tot bepaalde bankdiensten, waaronder het controleren van saldi, overboekingen, betalingen, enz.",
+	"TRAD_12" => "We behouden ons het recht voor om de services die beschikbaar zijn op (WEBSITE_NAME) zonder kennisgeving te wijzigen of te beperken.",
+	"TRAD_13" => "Beveiliging en toegang",
+	"TRAD_14" => "We zullen redelijke stappen ondernemen om de veiligheid van uw accountgegevens en transacties te beschermen.",
+	"TRAD_15" => "In geval van diefstal, verlies of ongeoorloofde openbaarmaking van uw accountgegevens, dient u ons hiervan onmiddellijk op de hoogte te stellen.",
+	"TRAD_16" => "Verantwoordelijkheid",
+	"TRAD_17" => "U aanvaardt de volledige verantwoordelijkheid voor de informatie die u verstrekt en de acties die onder uw account worden ondernomen.",
+	"TRAD_18" => "Wij zijn niet aansprakelijk voor enige schade die voortvloeit uit het gebruik van uw accountgegevens door derden.",
+	"TRAD_19" => "Vergoedingen en commissies",
+	"TRAD_20" => "Voor bepaalde diensten kunnen kosten en commissies in rekening worden gebracht. Details van deze kosten worden gecommuniceerd in de betreffende gedeelten van de (WEBSITE_NAME)-site.",
+	"TRAD_21" => "Accountbeëindiging",
+	"TRAD_22" => "U kunt uw account op elk gewenst moment beëindigen door de procedure te volgen die wordt aangegeven op (WEBSITE_NAME).",
+	"TRAD_23" => "We behouden ons het recht voor om uw account te beëindigen wegens schending van deze accountvoorwaarden of om een gerechtvaardigde reden.",
+	"TRAD_24" => "Wijzigingen in voorwaarden",
+	"TRAD_25" => "We kunnen deze Accountvoorwaarden op elk moment wijzigen. Wijzigingen worden van kracht na plaatsing op (WEBSITE_NAME).",
+	"TRAD_26" => "Door (WEBSITE_NAME) te blijven gebruiken nadat de wijzigingen zijn gepubliceerd, gaat u akkoord met de herziene accountvoorwaarden.",
+	"TRAD_27" => "Accountvoorwaarden"
+);

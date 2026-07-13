@@ -1,0 +1,21 @@
+<p>(WEBSITE_NAME) célja, hogy a legjobb online élményt nyújtsa az Ön látogatása során, ezért bizonyos típusú "sütiket" használunk.</p>
+
+<h3>Mi az a süti?</h3>
+<p>A cookie-k olyan információcsomagok, amelyeket egy webszerver (jelen esetben ez a webhely) küld a látogató internetböngészőjének, a látogató számítógépén tárolódnak, és minden egyes alkalommal, amikor a következő webhelyet megnyitja, elküldi őket a szervernek. Ezért az oldal teljes körű használatához javasoljuk, hogy a böngészőt úgy állítsa be, hogy elfogadja a sütik fogadását.</p>
+
+<h3>Miért használjuk őket</h3>
+<p>A sütiket a webhely navigációjának és helyes használatának megkönnyítésére, valamint statisztikai célokra használjuk, hogy tudjuk, mely területeket látogatták meg a webhelyen, hogy a használati minták alapján javításokat és frissítéseket végezhessünk. Az ezen az oldalon használt sütik nem teszik lehetővé a felhasználók személyes azonosító adatainak megszerzését. A felhasználó ezután a személyes adatainak felfedése nélkül böngészhet az oldalon.</p>.
+
+<h3>A használt sütik típusa</h3>
+<p>"Munkamenet sütik" - kizárólag a felhasználó számítógépének memóriájában maradnak, és a böngésző bezárása után törlődnek. Használata szigorúan a szerver által generált véletlenszerű számokból álló munkamenet-azonosítók továbbítására korlátozódik, amelyek a webhely biztonságos és hatékony működéséhez szükségesek.</p>
+<p>A munkamenet-sütiket arra használjuk, hogy a webhelyre vonatkozó információkat küldhessünk Önnek.</p>
+<p>Ezek a sütik lehetővé teszik számunkra, hogy anonim információkat gyűjtsünk a felhasználó által meglátogatott oldalakról és arról, hogy hogyan használja a webhelyünket, hogy a jövőben javítsuk a navigációt, és meghatározzuk az esetleges hibaüzenetek forrását. Például információt gyűjt a meglátogatott oldalakról, a látogatások számáról, a látogató böngészőjéről.</p>
+
+<h3>Harmadik féltől származó sütik</h3>
+<p>A honlapunk időről időre tartalmazhat harmadik felek weboldalaira mutató linkeket. Ha követi a harmadik fél webhelyére mutató linket, kérjük, ellenőrizze az adatvédelmi irányelveket, a cookie-kat és azok kezelését, mielőtt személyes adatokat ad meg ezeken a webhelyeken.</p> <p>A webhely nem helyettesíti a harmadik fél adatvédelmi irányelveit.</p>
+
+<h3>Hogyan kezelheti a sütikre vonatkozó beállításokat</h3>
+<p>Azért, hogy weboldalunkat a lehető legjobban használhassa, javasoljuk, hogy fogadja el a sütiket. A legtöbb internetböngésző kezdetben úgy van beállítva, hogy elfogadja a sütiket. Böngészőjét bármikor beállíthatja úgy, hogy minden sütit elfogadjon. Ezenkívül beállíthatja a böngésző beállításait, hogy értesítse Önt, ha egy cookie-t tárolnak a számítógépén. Felhívjuk figyelmét, hogy az érvénytelen sütik megakadályozhatják az oldal normális és optimális használatát.</p>
+
+<h3>Változások ebben a szabályzatban</h3>
+<p>Ez a politika idővel változhat, és az új rendeletek hatályba lépéséhez is kapcsolódik.</p>

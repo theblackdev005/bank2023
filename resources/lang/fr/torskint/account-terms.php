@@ -1,0 +1,32 @@
+<?php
+
+return [
+   "TRAD_1" => "Conditions de Compte de (WEBSITE_NAME)",
+   
+   "TRAD_2" => "En accédant et en utilisant (WEBSITE_NAME), vous acceptez pleinement et sans réserve les présentes Conditions de Compte. Veuillez les lire attentivement avant de créer un compte et d'utiliser nos services. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser (WEBSITE_NAME).",
+   "TRAD_3" => "Création de Compte",
+   "TRAD_4" => "Pour utiliser nos services, vous devez créer un compte en fournissant des informations exactes, à jour et complètes.",
+   "TRAD_5" => "Vous êtes responsable de maintenir la confidentialité de vos informations de compte et de sécuriser votre mot de passe.",
+   "TRAD_6" => "Utilisation du Compte",
+   "TRAD_7" => "Vous êtes responsable de toutes les activités effectuées sous votre compte.",
+   "TRAD_8" => "Vous vous engagez à n'utiliser (WEBSITE_NAME) qu'à des fins légales et conformes aux lois en vigueur.",
+   "TRAD_9" => "Vous ne devez pas accéder illégalement ou tenter d'accéder à des comptes, des systèmes ou des données qui ne vous appartiennent pas.",
+   "TRAD_10" => "Services Bancaires en Ligne",
+   "TRAD_11" => "(WEBSITE_NAME) vous permettra d'accéder à certains services bancaires, y compris la consultation de soldes, les virements, les paiements, etc.",
+   "TRAD_12" => "Nous nous réservons le droit de modifier ou de restreindre les services disponibles sur (WEBSITE_NAME) sans préavis.",
+   "TRAD_13" => "Sécurité et Accès",
+   "TRAD_14" => "Nous prendrons des mesures raisonnables pour protéger la sécurité de vos informations de compte et de vos transactions.",
+   "TRAD_15" => "En cas de vol, de perte ou de divulgation non autorisée de vos informations de compte, veuillez nous en informer immédiatement.",
+   "TRAD_16" => "Responsabilité",
+   "TRAD_17" => "Vous assumez l'entière responsabilité des informations que vous fournissez et des actions effectuées sous votre compte.",
+   "TRAD_18" => "Nous ne serons pas responsables des dommages résultant de l'utilisation de vos informations de compte par des tiers.",
+   "TRAD_19" => "Frais et Commissions",
+   "TRAD_20" => "Certains services peuvent être soumis à des frais et commissions. Les détails de ces frais seront communiqués dans les sections appropriées du site de (WEBSITE_NAME).",
+   "TRAD_21" => "Résiliation du Compte",
+   "TRAD_22" => "Vous pouvez résilier votre compte à tout moment en suivant la procédure indiquée sur (WEBSITE_NAME).",
+   "TRAD_23" => "Nous nous réservons le droit de résilier votre compte en cas de non-respect de ces Conditions de Compte ou pour toute raison justifiée.",
+   "TRAD_24" => "Modifications des Conditions",
+   "TRAD_25" => "Nous pouvons modifier ces Conditions de Compte à tout moment. Les modifications seront effectives dès leur publication sur (WEBSITE_NAME).",
+   "TRAD_26" => "En continuant à utiliser (WEBSITE_NAME) après la publication des modifications, vous acceptez les Conditions de Compte révisées.",
+   "TRAD_27" => "Conditions de Compte",
+];

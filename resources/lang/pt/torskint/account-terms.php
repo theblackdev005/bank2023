@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Termos da conta",
+	"TRAD_2" => "Ao acessar e usar (WEBSITE_NAME), você concorda totalmente e sem reservas com estes Termos da conta. Por favor, leia-os cuidadosamente antes de criar uma conta e usar nossos serviços. Se você não concorda com estes termos, não use (WEBSITE_NAME).",
+	"TRAD_3" => "Criação de conta",
+	"TRAD_4" => "Para usar nossos serviços, você deve criar uma conta fornecendo informações precisas, atuais e completas.",
+	"TRAD_5" => "Você é responsável por manter a confidencialidade das informações de sua conta e por proteger sua senha.",
+	"TRAD_6" => "Uso da conta",
+	"TRAD_7" => "Você é responsável por todas as atividades realizadas em sua conta.",
+	"TRAD_8" => "Você concorda em usar (WEBSITE_NAME) apenas para fins legais e de acordo com as leis em vigor.",
+	"TRAD_9" => "Você não deve acessar ilegalmente ou tentar acessar quaisquer contas, sistemas ou dados que não pertençam a você.",
+	"TRAD_10" => "Serviços bancários on-line",
+	"TRAD_11" => "(WEBSITE_NAME) permitirá que você acesse determinados serviços bancários, incluindo verificação de saldos, transferências, pagamentos, etc.",
+	"TRAD_12" => "Reservamo-nos o direito de modificar ou restringir os serviços disponíveis em (WEBSITE_NAME) sem aviso prévio.",
+	"TRAD_13" => "Segurança e acesso",
+	"TRAD_14" => "Tomaremos medidas razoáveis para proteger a segurança das informações e transações de sua conta.",
+	"TRAD_15" => "Em caso de roubo, perda ou divulgação não autorizada das informações da sua conta, notifique-nos imediatamente.",
+	"TRAD_16" => "Responsabilidade",
+	"TRAD_17" => "Você assume total responsabilidade pelas informações fornecidas e pelas ações realizadas em sua conta.",
+	"TRAD_18" => "Não seremos responsáveis por quaisquer danos resultantes do uso de suas informações de conta por terceiros.",
+	"TRAD_19" => "Taxas e comissões",
+	"TRAD_20" => "Certos serviços podem estar sujeitos a taxas e comissões. Os detalhes dessas cobranças serão comunicados nas seções apropriadas do site (WEBSITE_NAME).",
+	"TRAD_21" => "Rescisão de conta",
+	"TRAD_22" => "Você pode encerrar sua conta a qualquer momento seguindo o procedimento indicado em (WEBSITE_NAME).",
+	"TRAD_23" => "Reservamo-nos o direito de encerrar sua conta por violação destes Termos de Conta ou por qualquer motivo justificado.",
+	"TRAD_24" => "Alterações nos Termos",
+	"TRAD_25" => "Podemos alterar estes Termos da Conta a qualquer momento. As alterações entrarão em vigor após a postagem em (WEBSITE_NAME).",
+	"TRAD_26" => "Ao continuar a usar (WEBSITE_NAME) após a publicação das alterações, você concorda com os Termos da conta revisados.",
+	"TRAD_27" => "Termos da conta"
+);

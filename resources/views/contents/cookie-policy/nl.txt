@@ -1,0 +1,22 @@
+<p>(WEBSITE_NAME) wil u de beste online-ervaring bieden tijdens uw bezoek aan onze site, en daarom gebruiken we bepaalde soorten 'cookies'.</p>
+
+<h3>Wat zijn cookies?</h3>
+<p>Cookies zijn pakketjes informatie die door een webserver (in dit geval, door deze site) naar de internetbrowser van de bezoeker worden gestuurd, op de computer van de bezoeker worden opgeslagen en bij elk bezoek aan de volgende site weer naar de server worden gestuurd. Daarom, voor het volledige gebruik van deze site, wordt u geadviseerd om de browser te configureren om de ontvangst van cookies te accepteren.</p>
+
+<h3>Waarom gebruiken we ze</h3>
+<p>Cookies worden gebruikt om de navigatie op de site en het correcte gebruik ervan te vergemakkelijken en voor statistische doeleinden, om te weten welke delen van de site zijn bezocht om verbeteringen en updates aan te brengen op basis van gebruikspatronen. De op deze site gebruikte cookies maken het niet mogelijk persoonlijke identificatiegegevens van gebruikers te verkrijgen. De gebruiker kan dan op de site surfen zonder persoonlijke informatie vrij te geven.</p>.
+
+<h3>Soort gebruikte cookies</h3>
+<p>"Sessiecookies" - bevinden zich uitsluitend in het geheugen van de computer van de gebruiker en worden verwijderd zodra de browser wordt afgesloten. Het gebruik is strikt beperkt tot de overdracht van sessie-identifiers, bestaande uit willekeurige getallen gegenereerd door de server, noodzakelijk om een site veilig en efficiënt te laten zijn.</p>
+<p>Sessie-cookies worden gebruikt om ons in staat te stellen u informatie over de site te sturen.</p>
+<p>Met deze cookies kunnen wij anonieme informatie verzamelen over de pagina's die een gebruiker bezoekt en hoe u onze site gebruikt, om de navigatie in de toekomst te verbeteren en de bron van eventuele foutmeldingen te achterhalen. Bijvoorbeeld, informatie verzamelen over de bezochte pagina's, het aantal bezoeken, de browser van de bezoeker.</p>
+
+<h3>Cookies van derden</h3>
+<p>Onze site kan, van tijd tot tijd, links bevatten naar websites van derden. Als u een link naar deze sites van derden volgt, controleer dan hun privacybeleid, over cookies en hoe daarmee wordt omgegaan, voordat u persoonlijke gegevens op deze sites verstrekt.</p>
+<p>De site is niet bedoeld als vervanging van het privacybeleid van de derde partij.</p>
+
+<h3>Hoe de instellingen voor cookies beheren</h3>
+<p>Om ervoor te zorgen dat u optimaal gebruik kunt maken van onze website, raden wij u aan cookies te accepteren. De meeste internetbrowsers zijn in eerste instantie zo ingesteld dat ze cookies accepteren. U kunt uw browser op elk moment zo instellen dat alle cookies worden geaccepteerd. Bovendien kunt u uw browserinstellingen zo instellen dat u een bericht krijgt telkens wanneer een cookie op uw computer wordt opgeslagen. Gelieve er rekening mee te houden dat ongeldige cookies een normaal en optimaal gebruik van de site kunnen verhinderen.</p>
+
+<h3>Veranderingen in dit beleid</h3>
+<p>Dit beleid kan in de loop van de tijd veranderen en hangt ook samen met de inwerkingtreding van nieuwe verordeningen.</p>

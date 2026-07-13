@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "(WEBSITE_NAME) Termenii contului",
+	"TRAD_2" => "Prin accesarea și utilizarea (WEBSITE_NAME), sunteți de acord în totalitate și fără rezerve cu acești Termeni contului. Vă rugăm să le citiți cu atenție înainte de a vă crea un cont și de a utiliza serviciile noastre. Dacă nu sunteți de acord cu acești termeni, vă rugăm să nu utilizați (WEBSITE_NAME).",
+	"TRAD_3" => "Crearea contului",
+	"TRAD_4" => "Pentru a utiliza serviciile noastre, trebuie să vă creați un cont furnizând informații exacte, actuale și complete.",
+	"TRAD_5" => "Sunteți responsabil pentru păstrarea confidențialității informațiilor contului dvs. și pentru securizarea parolei.",
+	"TRAD_6" => "Utilizarea Contului",
+	"TRAD_7" => "Sunteți responsabil pentru toate activitățile efectuate în contul dvs.",
+	"TRAD_8" => "Sunteți de acord să utilizați (WEBSITE_NAME) numai în scopuri legale și în conformitate cu legile în vigoare.",
+	"TRAD_9" => "Nu trebuie să accesați sau să încercați să accesați ilegal conturi, sisteme sau date care nu vă aparțin.",
+	"TRAD_10" => "Servicii bancare online",
+	"TRAD_11" => "(WEBSITE_NAME) vă va permite să accesați anumite servicii bancare, inclusiv verificarea soldurilor, transferurile, plățile etc.",
+	"TRAD_12" => "Ne rezervăm dreptul de a modifica sau restricționa serviciile disponibile pe (WEBSITE_NAME) fără notificare.",
+	"TRAD_13" => "Securitate și acces",
+	"TRAD_14" => "Vom lua măsuri rezonabile pentru a proteja securitatea informațiilor contului și a tranzacțiilor dvs.",
+	"TRAD_15" => "În caz de furt, pierdere sau dezvăluire neautorizată a informațiilor contului dvs., vă rugăm să ne anunțați imediat.",
+	"TRAD_16" => "Responsabilitate",
+	"TRAD_17" => "Vă asumați întreaga responsabilitate pentru informațiile pe care le furnizați și pentru acțiunile întreprinse în contul dvs.",
+	"TRAD_18" => "Nu vom fi răspunzători pentru nicio daune rezultate din utilizarea informațiilor contului dvs. de către terți.",
+	"TRAD_19" => "Taxe și comisioane",
+	"TRAD_20" => "Anumite servicii pot fi supuse unor taxe și comisioane. Detaliile acestor taxe vor fi comunicate în secțiunile corespunzătoare ale site-ului (WEBSITE_NAME).",
+	"TRAD_21" => "Închiderea contului",
+	"TRAD_22" => "Vă puteți închide contul în orice moment, urmând procedura indicată pe (WEBSITE_NAME).",
+	"TRAD_23" => "Ne rezervăm dreptul de a vă închide contul pentru încălcarea acestor Termeni contului sau pentru orice motiv justificat.",
+	"TRAD_24" => "Modificări ale Termenilor",
+	"TRAD_25" => "Putem modifica oricând acești Termeni contului. Modificările vor intra în vigoare la postarea pe (WEBSITE_NAME).",
+	"TRAD_26" => "Continuând să utilizați (WEBSITE_NAME) după ce modificările sunt postate, sunteți de acord cu Termenii contului revizuiți.",
+	"TRAD_27" => "Termenii contului"
+);

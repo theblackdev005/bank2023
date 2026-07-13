@@ -1,0 +1,31 @@
+<?php
+
+return array(
+	"TRAD_1" => "Términos de la cuenta (WEBSITE_NAME)",
+	"TRAD_2" => "Al acceder y utilizar (WEBSITE_NAME), usted acepta por completo y sin reservas estos Términos de la cuenta. Léalas detenidamente antes de crear una cuenta y utilizar nuestros servicios. Si no está de acuerdo con estos términos, no utilice (WEBSITE_NAME).",
+	"TRAD_3" => "Creación de cuenta",
+	"TRAD_4" => "Para utilizar nuestros servicios, debe crear una cuenta proporcionando información precisa, actual y completa.",
+	"TRAD_5" => "Usted es responsable de mantener la confidencialidad de la información de su cuenta y de proteger su contraseña.",
+	"TRAD_6" => "Uso de la cuenta",
+	"TRAD_7" => "Usted es responsable de todas las actividades realizadas en su cuenta.",
+	"TRAD_8" => "Usted acepta utilizar (WEBSITE_NAME) únicamente para fines legales y de conformidad con las leyes vigentes.",
+	"TRAD_9" => "No debe acceder ilegalmente ni intentar acceder a ninguna cuenta, sistema o datos que no le pertenezcan.",
+	"TRAD_10" => "Servicios bancarios en línea",
+	"TRAD_11" => "(WEBSITE_NAME) le permitirá acceder a ciertos servicios bancarios, incluyendo consultar saldos, transferencias, pagos, etc.",
+	"TRAD_12" => "Nos reservamos el derecho de modificar o restringir los servicios disponibles en (WEBSITE_NAME) sin previo aviso.",
+	"TRAD_13" => "Seguridad y Acceso",
+	"TRAD_14" => "Tomaremos las medidas razonables para proteger la seguridad de la información y las transacciones de su cuenta.",
+	"TRAD_15" => "En caso de robo, pérdida o divulgación no autorizada de la información de su cuenta, notifíquenos de inmediato.",
+	"TRAD_16" => "Responsabilidad",
+	"TRAD_17" => "Usted asume toda la responsabilidad por la información que proporciona y las acciones realizadas en su cuenta.",
+	"TRAD_18" => "No seremos responsables de ningún daño que resulte del uso de la información de su cuenta por parte de terceros.",
+	"TRAD_19" => "Tarifas y Comisiones",
+	"TRAD_20" => "Ciertos servicios pueden estar sujetos a tarifas y comisiones. Los detalles de estos cargos se comunicarán en las secciones correspondientes del sitio (WEBSITE_NAME).",
+	"TRAD_21" => "Terminación de cuenta",
+	"TRAD_22" => "Puede cancelar su cuenta en cualquier momento siguiendo el procedimiento indicado en (WEBSITE_NAME).",
+	"TRAD_23" => "Nos reservamos el derecho de cancelar su cuenta por incumplimiento de estos Términos de la cuenta o por cualquier motivo justificado.",
+	"TRAD_24" => "Cambios a los Términos",
+	"TRAD_25" => "Podemos cambiar estos Términos de la cuenta en cualquier momento. Los cambios entrarán en vigencia una vez que se publiquen en (WEBSITE_NAME).",
+	"TRAD_26" => "Si continúa usando (WEBSITE_NAME) después de que se publiquen los cambios, acepta los Términos de la cuenta revisados.",
+	"TRAD_27" => "Términos de la cuenta"
+);
