@@ -87,6 +87,7 @@ Route::prefix('/{language}/admin')->middleware(['valid.language'])->group(functi
 			Route::prefix('/smtp')->group(function () {
 				Route::get('/', [SmtpConfig::class, 'edit'])->name('admin.smtp_config');
 				Route::post('/', [SmtpConfig::class, 'update'])->name('admin.smtp_config.post');
+				Route::post('/test', [SmtpConfig::class, 'test'])->name('admin.smtp_config.test');
 			});
 
 			Route::prefix('/mail-pro')->group(function () {
