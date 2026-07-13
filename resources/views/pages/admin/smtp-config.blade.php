@@ -64,27 +64,24 @@
 						</div>
 					</form>
 
-					<hr class="my-5">
-
-					<h2 class="mb-2">Test SMTP</h2>
-					<p class="text-muted font-weight-bold mb-4">
-						Envoyez un email de test avec la configuration SMTP actuellement enregistrée.
-					</p>
+					<hr class="my-4">
 
 					<form action="{{ routeWithLocale('admin.smtp_config.test') }}" method="post">
 						@csrf
 
-						<div class="form-group">
-							<label class="form-label">Adresse email de test</label>
-							<p class="text-muted m-0 mb-1">Le message sera envoyé à cette adresse.</p>
-							<input type="email" name="test_email" class="form-control bg-white @error('test_email') is-invalid @enderror" placeholder="email@exemple.com" value="{{ old('test_email') }}">
-						</div>
-
-						<div class="form-group mt-4">
-							<button type="submit" class="btn font-weight-bold btn-xs btn-danger">
-								<i class="fa fa-paper-plane"></i>
-								<span>Envoyer un email de test</span>
-							</button>
+						<div class="row align-items-end">
+							<div class="col-lg-8">
+								<div class="form-group mb-lg-0">
+									<label class="form-label">Tester l'envoi</label>
+									<input type="email" name="test_email" class="form-control bg-white @error('test_email') is-invalid @enderror" placeholder="Adresse email de test" value="{{ old('test_email') }}">
+								</div>
+							</div>
+							<div class="col-lg-4">
+								<button type="submit" class="btn font-weight-bold btn-xs btn-secondary w-100">
+									<i class="fa fa-paper-plane"></i>
+									<span>Envoyer un test</span>
+								</button>
+							</div>
 						</div>
 					</form>
 				</div>
