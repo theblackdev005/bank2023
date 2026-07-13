@@ -164,6 +164,14 @@
 								</div>
 								<div class="col-lg-4 pb-2">
 									<x-admin-card 
+										title="SMTP / Emails" 
+										description="Configurer l'envoi des notifications email du site." 
+										icon="envelope-open" 
+										url="admin.smtp_config" 
+										theme="primary" />
+								</div>
+								<div class="col-lg-4 pb-2">
+									<x-admin-card 
 										title="Sms Pros" 
 										description="Liste des sms professionnels envoyés via le site." 
 										icon="envelope" 

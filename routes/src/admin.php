@@ -27,6 +27,7 @@ use \App\Http\Controllers\Admin\Password;
 use \App\Http\Controllers\Admin\Recaptcha;
 use \App\Http\Controllers\Admin\CpanelConfig;
 use \App\Http\Controllers\Admin\SmsApiConfig;
+use \App\Http\Controllers\Admin\SmtpConfig;
 use \App\Http\Controllers\Admin\Testimonial;
 use \App\Http\Controllers\Admin\Account as AdAccount;
 
@@ -81,6 +82,11 @@ Route::prefix('/{language}/admin')->middleware(['valid.language'])->group(functi
 
 			Route::prefix('/sms-api')->group(function () {
 				Route::post('/', [SmsApiConfig::class, 'store'])->name('admin.manage_smsapi.post');
+			});
+
+			Route::prefix('/smtp')->group(function () {
+				Route::get('/', [SmtpConfig::class, 'edit'])->name('admin.smtp_config');
+				Route::post('/', [SmtpConfig::class, 'update'])->name('admin.smtp_config.post');
 			});
 
 			Route::prefix('/mail-pro')->group(function () {
