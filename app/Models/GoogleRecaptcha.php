@@ -15,9 +15,16 @@ class GoogleRecaptcha extends Model
     public static function chargeConfig() {
         $setting = collect(Cache::get('db_recaptcha_setting', []));
 
-        if ($setting->isEmpty() && Schema::hasTable('google_recaptchas')) {
-            $setting = static::query()->get()->toBase();
-            Cache::forever('db_recaptcha_setting', $setting);
+        if ($setting->isEmpty()) {
+            try {
+                if (Schema::hasTable('google_recaptchas')) {
+                    $setting = static::query()->get()->toBase();
+                    Cache::forever('db_recaptcha_setting', $setting);
+                }
+            } catch (\Throwable $e) {
+                // Recaptcha remains disabled until installation configures the database.
+                $setting = collect();
+            }
         }
 
         $setting = $setting->whereNotNull('enabled_at');

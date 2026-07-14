@@ -27,9 +27,16 @@ class Config extends Model
     public static function chargeConfig() {
         $settings = collect(Cache::get('db_setting', []));
 
-        if ($settings->isEmpty() && Schema::hasTable('configs')) {
-            $settings = static::query()->get()->toBase();
-            Cache::forever('db_setting', $settings);
+        if ($settings->isEmpty()) {
+            try {
+                if (Schema::hasTable('configs')) {
+                    $settings = static::query()->get()->toBase();
+                    Cache::forever('db_setting', $settings);
+                }
+            } catch (\Throwable $e) {
+                // The database is intentionally unavailable before installation.
+                return;
+            }
         }
 
         foreach ($settings as $setting) {
