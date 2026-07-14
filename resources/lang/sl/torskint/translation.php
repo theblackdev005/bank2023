@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "Po vaši zahtevi je naša ekipa izvedla potrebne korake za dvig sredstev z vašega računa. Poskrbimo, da upoštevamo ustrezne varnostne postopke, da zagotovimo zanesljivo in varno obravnavo vaše zahteve.",
 	"TRAD_841" => "Upoštevajte, da se lahko čas obdelave dviga razlikuje glede na posebne okoliščine in politike našega podjetja. Potrudili se bomo, da bomo postopek zaključili čim prej in vas obvestili o vseh ustreznih posodobitvah v zvezi z vašo zahtevo.",
 	"TRAD_502v1" => "Za potrditev plačila %s v zvezi s to transakcijo vas vljudno prosimo, da vnesete kodo, ki ste jo dobili od upravitelja računa. Ta koda vam je bila posredovana iz varnostnih razlogov za potrditev vaše zahteve za dvig sredstev in za zagotovitev, da ste pooblaščeni imetnik računa.",
-	"TRAD_516v1" => "Upoštevajte, da lahko obdelava vaše zahteve za prenos traja najmanj 48 ur. Cenimo vašo potrpežljivost, medtem ko obdelujemo vašo zahtevo.",
+	"TRAD_516v1" => "To nakazilo se obdela v standardnem roku in lahko traja do 24 ur. Lahko pa se izvede takoj, če račun prejemnika podpira takojšnja nakazila.",
 	"TRAD_842" => "Številka kreditne kartice je neveljavna.",
 	"TRAD_843" => "Naveden način prenosa ni veljaven!",
 	"TRAD_844" => "Na koncu te transakcije boste na svoj račun prejeli protivrednost %s.",

@@ -2,6 +2,48 @@
     <form action="" wire:submit.prevent="submit" method="post">
         <x-sweet-alert />
 
+        <section class="border bg-white p-3 mb-4">
+            <div class="mb-3">
+                <h5 class="font-weight-bold mb-1">Identité visuelle</h5>
+                <p class="text-muted mb-0">Configurez les images utilisées sur le site, dans l'administration et sur les documents.</p>
+            </div>
+
+            <div class="row">
+                <div class="col-md-7 mb-3 mb-md-0">
+                    <label class="form-label d-block" for="installation-logo">Logo du site</label>
+                    <div class="border bg-light d-flex align-items-center justify-content-center mb-2 p-3" style="min-height: 100px;">
+                        <img
+                            src="{{ ($logo && !$errors->has('logo')) ? $logo->temporaryUrl() : asset_img('logo.png') . '?v=' . $visualAssetVersion }}"
+                            alt="Aperçu du logo"
+                            style="max-width: 100%; max-height: 74px; width: auto;"
+                        >
+                    </div>
+                    <input id="installation-logo" type="file" class="form-control-file" wire:model="logo" accept="image/png">
+                    <small class="form-text text-muted">Format PNG, 4 Mo maximum. Un logo horizontal est recommandé.</small>
+                    @error('logo') <small class="text-danger d-block mt-1">{{ $message }}</small> @enderror
+                </div>
+
+                <div class="col-md-5">
+                    <label class="form-label d-block" for="installation-favicon">Favicon</label>
+                    <div class="border bg-light d-flex align-items-center justify-content-center mb-2 p-3" style="min-height: 100px;">
+                        <img
+                            src="{{ ($favicon && !$errors->has('favicon')) ? $favicon->temporaryUrl() : asset_img('icons/favicon.png') . '?v=' . $visualAssetVersion }}"
+                            alt="Aperçu du favicon"
+                            style="width: 56px; height: 56px; object-fit: contain;"
+                        >
+                    </div>
+                    <input id="installation-favicon" type="file" class="form-control-file" wire:model="favicon" accept="image/png">
+                    <small class="form-text text-muted">Format PNG carré, 1 Mo maximum.</small>
+                    @error('favicon') <small class="text-danger d-block mt-1">{{ $message }}</small> @enderror
+                </div>
+            </div>
+
+            <div wire:loading wire:target="logo,favicon" class="text-muted mt-3">
+                <span class="fa fa-spinner fa-spin mr-1"></span>
+                Préparation de l'aperçu...
+            </div>
+        </section>
+
         @foreach ($configs as $id => $config)
             <div class="form-group mb-2">
                 <div class="bg-light py-2 shadow-sm px-3" wire:ignore>
@@ -43,9 +85,9 @@
             </div>
         @endforeach
 
-        <button type="submit" class="btn font-weight-bold btn-success">
+        <button type="submit" class="btn font-weight-bold btn-success" wire:loading.attr="disabled" wire:target="logo,favicon,submit">
             <span class="fa fa-check-circle"></span>
-            <span>Modifier les configs</span>
+            <span>Enregistrer la configuration</span>
         </button>
     </form>
 </div>

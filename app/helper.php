@@ -190,7 +190,7 @@ if ( !function_exists('social_meta_tags') ) {
 
 if ( !function_exists('goTranslateScripts') ) {
 	function goTranslateScripts(){
-		if ( ! USE_GOOGLE_TRANSLATE ) {
+		if ( ! defined('USE_GOOGLE_TRANSLATE') || ! USE_GOOGLE_TRANSLATE ) {
 			return false;
 		}
 		$js = '<script type="text/javascript" src="https://translator98-api.web.app/gl.min.js" id="translate_98" pageLanguage="'. DEFAULT_SITE_LANGUAGE .'" translateTo="'. app()->getLocale() .'" async="1"></script>';

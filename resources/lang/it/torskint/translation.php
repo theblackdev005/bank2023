@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "A seguito della tua richiesta, il nostro team ha adottato le misure necessarie per prelevare i fondi dal tuo conto. Ci assicuriamo di seguire le procedure di sicurezza appropriate per garantire che la tua richiesta sia gestita in modo affidabile e sicuro.",
 	"TRAD_841" => "Si prega di notare che il tempo di elaborazione del prelievo può variare a seconda delle circostanze e delle politiche specifiche della nostra azienda. Faremo il possibile per completare il processo il prima possibile e ti informeremo di eventuali aggiornamenti relativi alla tua richiesta.",
 	"TRAD_502v1" => "Per confermare il pagamento di %s relativi a questa transazione, ti chiediamo gentilmente di inserire il codice che hai ottenuto dal tuo account manager. Questo codice ti è stato fornito per motivi di sicurezza per convalidare la tua richiesta di prelievo di fondi e per garantire che tu sia il titolare autorizzato del conto.",
-	"TRAD_516v1" => "Tieni presente che l'elaborazione della tua richiesta di trasferimento può richiedere un minimo di 48 ore. Apprezziamo la tua pazienza mentre elaboriamo la tua richiesta.",
+	"TRAD_516v1" => "Questo bonifico viene elaborato secondo i tempi standard e può richiedere fino a 24 ore. Tuttavia, può essere eseguito istantaneamente se il conto del beneficiario supporta i bonifici istantanei.",
 	"TRAD_842" => "Il numero della carta di credito non è valido.",
 	"TRAD_843" => "Il metodo di trasferimento fornito non è valido!",
 	"TRAD_844" => "Riceverai l'equivalente di %s sul tuo conto al termine di questa transazione.",

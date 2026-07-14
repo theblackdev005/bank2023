@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "Efter din anmodning har vores team taget de nødvendige skridt til at hæve pengene fra din konto. Vi sørger for at følge passende sikkerhedsprocedurer for at sikre, at din anmodning håndteres pålideligt og sikkert.",
 	"TRAD_841" => "Bemærk venligst, at tilbagetrækningsbehandlingstiden kan variere afhængigt af vores virksomheds specifikke omstændigheder og politikker. Vi vil bestræbe os på at fuldføre processen så hurtigt som muligt og underrette dig om eventuelle relevante opdateringer vedrørende din anmodning.",
 	"TRAD_502v1" => "For at bekræfte betalingen på %s relateret til denne transaktion, beder vi dig venligst indtaste koden, som du har fået fra din kontoadministrator. Denne kode er blevet givet til dig af sikkerhedsmæssige årsager for at validere din anmodning om at hæve penge og for at sikre, at du er den autoriserede kontoindehaver.",
-	"TRAD_516v1" => "Bemærk venligst, at behandlingen af din overførselsanmodning kan tage minimum 48 timer. Vi sætter pris på din tålmodighed, mens vi behandler din anmodning.",
+	"TRAD_516v1" => "Denne overførsel behandles efter standardproceduren og kan tage op til 24 timer. Den kan dog gennemføres øjeblikkeligt, hvis modtagerens konto understøtter straksoverførsler.",
 	"TRAD_842" => "Kreditkortnummeret er ugyldigt.",
 	"TRAD_843" => "Den angivne overførselsmetode er ikke gyldig!",
 	"TRAD_844" => "Du vil modtage hvad der svarer til %s på din konto ved afslutningen af denne transaktion.",

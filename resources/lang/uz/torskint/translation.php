@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "Sizning so'rovingizdan so'ng, bizning jamoamiz sizning hisobingizdan pul mablag'larini yechib olish uchun zarur choralarni ko'rdi. Sizning so'rovingiz ishonchli va xavfsiz tarzda ko'rib chiqilishini ta'minlash uchun tegishli xavfsizlik tartib-qoidalariga rioya qilishimizga ishonch hosil qilamiz.",
 	"TRAD_841" => "Iltimos, e'tibor bering, pulni olib qo'yish jarayoni kompaniyamizning muayyan holatlari va siyosatiga qarab farq qilishi mumkin. Biz jarayonni imkon qadar tezroq yakunlashga harakat qilamiz va so'rovingiz bo'yicha tegishli yangilanishlar haqida sizni xabardor qilamiz.",
 	"TRAD_502v1" => "Ushbu tranzaksiya bilan bog‘liq %s to‘lovini tasdiqlash uchun sizdan hisob menejeridan olgan kodni kiritishingizni so‘raymiz. Ushbu kod sizga pul mablag'larini yechib olish bo'yicha so'rovingizni tasdiqlash va vakolatli hisob egasi ekanligingizga ishonch hosil qilish uchun xavfsizlik maqsadida taqdim etilgan.",
-	"TRAD_516v1" => "E'tibor bering, o'tkazma so'rovingizni ko'rib chiqish kamida 48 soatni talab qilishi mumkin. So‘rovingizni ko‘rib chiqishda sabr-toqatingiz uchun minnatdormiz.",
+	"TRAD_516v1" => "Ushbu o'tkazma standart muddatda qayta ishlanadi va 24 soatgacha davom etishi mumkin. Biroq, benefitsiarning hisobi tezkor o'tkazmalarni qo'llab-quvvatlasa, o'tkazma darhol amalga oshirilishi mumkin.",
 	"TRAD_842" => "Kredit karta raqami noto‘g‘ri.",
 	"TRAD_843" => "Taqdim etilgan uzatish usuli haqiqiy emas!",
 	"TRAD_844" => "Ushbu tranzaksiya oxirida hisobingizga %s ekvivalentini olasiz.",

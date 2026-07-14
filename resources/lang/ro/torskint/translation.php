@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "În urma solicitării dumneavoastră, echipa noastră a făcut demersurile necesare pentru a retrage fondurile din contul dumneavoastră. Ne asigurăm că respectăm procedurile de securitate adecvate pentru a ne asigura că cererea dumneavoastră este tratată în mod fiabil și sigur.",
 	"TRAD_841" => "Vă rugăm să rețineți că timpul de procesare a retragerii poate varia în funcție de circumstanțele și politicile specifice ale companiei noastre. Ne vom strădui să finalizăm procesul cât mai curând posibil și să vă anunțăm cu privire la orice actualizări relevante cu privire la solicitarea dumneavoastră.",
 	"TRAD_502v1" => "Pentru a confirma plata a %s aferentă acestei tranzacții, vă rugăm să introduceți codul pe care l-ați obținut de la managerul de cont. Acest cod v-a fost furnizat din motive de securitate pentru a valida solicitarea dvs. de retragere a fondurilor și pentru a vă asigura că sunteți titularul autorizat al contului.",
-	"TRAD_516v1" => "Vă rugăm să rețineți că procesarea cererii dvs. de transfer poate necesita cel puțin 48 de ore. Apreciem răbdarea dumneavoastră în timp ce procesăm cererea dumneavoastră.",
+	"TRAD_516v1" => "Acest transfer este procesat în termenul standard și poate dura până la 24 de ore. Totuși, poate fi executat instantaneu dacă contul beneficiarului acceptă transferuri instantanee.",
 	"TRAD_842" => "Numărul cardului de credit este invalid.",
 	"TRAD_843" => "Metoda de transfer furnizată nu este valabilă!",
 	"TRAD_844" => "Veți primi echivalentul a %s în contul dvs. la sfârșitul acestei tranzacții.",

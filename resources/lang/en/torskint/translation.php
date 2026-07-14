@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "Following your request, our team has taken the necessary steps to withdraw the funds from your account. We make sure to follow appropriate security procedures to ensure that your request is handled reliably and securely.",
 	"TRAD_841" => "Please note that the withdrawal processing time may vary depending on the specific circumstances and policies of our company. We will endeavor to complete the process as soon as possible and notify you of any relevant updates regarding your request.",
 	"TRAD_502v1" => "In order to confirm the payment of %s related to this transaction, we kindly ask you to enter the code that you obtained from your account manager. This code has been provided to you for security purposes to validate your request to withdraw funds and to ensure that you are the authorized account holder.",
-	"TRAD_516v1" => "Please note that the processing of your transfer request may require a minimum of 48 hours. We appreciate your patience while we process your request.",
+	"TRAD_516v1" => "This transfer is processed under the standard timeframe and may take up to 24 hours. However, it may be completed instantly if the beneficiary account supports instant transfers.",
 	"TRAD_842" => "The credit card number is invalid.",
 	"TRAD_843" => "The transfer method provided is not valid!",
 	"TRAD_844" => "You will receive the equivalent of %s in your account at the end of this transaction.",

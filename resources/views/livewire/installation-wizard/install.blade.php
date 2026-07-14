@@ -14,7 +14,7 @@
                             <div class="ml-auto">
                                 <div class="rounded-circle bg-warning d-flex align-items-center justify-content-center" style="height: 60px; width: 60px;">
                                     <div style="padding: 3px;">
-                                        <span>{{ round((($stepPositIndex + 1) * 100) / 12) }}<sup>%</sup></span>
+                                        <span>{{ round((($stepPositIndex + 1) * 100) / count($navigationSteps)) }}<sup>%</sup></span>
                                     </div>
                                 </div>
                             </div>
@@ -31,6 +31,22 @@
                             <livewire:is :component=$w :wire:key="$w">
                             {{-- CONTENT --}}
 
+                            @if ($finishError)
+                                <div class="alert alert-danger mt-3 mb-0">{{ $finishError }}</div>
+                            @endif
+
+                            @if ( $stepPositIndex === (count($navigationSteps) - 1) )
+                                <div class="mt-4 p-3 border bg-light">
+                                    <h5 class="font-weight-bold mb-3">Résumé avant mise en ligne</h5>
+                                    @foreach ($this->installationSummary() as $label => $status)
+                                        <div class="d-flex justify-content-between border-bottom py-1">
+                                            <span>{{ $label }}</span>
+                                            <strong>{{ $status }}</strong>
+                                        </div>
+                                    @endforeach
+                                </div>
+                            @endif
+
                         </div>
                     </div>
 
@@ -44,8 +60,14 @@
                                 </button>
                             @endif
 
+                            @if ( in_array($wizard_step, $optionalSteps, true) && $stepPositIndex < (count($navigationSteps) - 1) )
+                                <button type="button" wire:click="skipStep" class="btn ml-auto btn-light border font-weight-bold">
+                                    <span>Passer</span>
+                                </button>
+                            @endif
+
                             @if ( $stepPositIndex < (count($navigationSteps) - 1) )
-                                <button type="button" @disabled($disableNextbtn) wire:click="$emit('checkStepOnChild')" class="btn ml-auto btn-primary font-weight-bold">
+                                <button type="button" @disabled($disableNextbtn) wire:click="$emit('checkStepOnChild')" class="btn {{ in_array($wizard_step, $optionalSteps, true) ? 'ml-2' : 'ml-auto' }} btn-primary font-weight-bold">
                                     <span>Suivant</span>
                                     <i class="fa fa-chevron-right"></i>
                                 </button>

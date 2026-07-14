@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "Gavusi jūsų prašymą, mūsų komanda ėmėsi būtinų veiksmų, kad išimtų lėšas iš jūsų sąskaitos. Įsitikiname, kad laikomės atitinkamų saugumo procedūrų, siekdami užtikrinti, kad jūsų užklausa būtų tvarkoma patikimai ir saugiai.",
 	"TRAD_841" => "Atkreipkite dėmesį, kad atsiėmimo apdorojimo laikas gali skirtis priklausomai nuo konkrečių mūsų įmonės aplinkybių ir politikos. Stengsimės kuo greičiau užbaigti procesą ir informuosime jus apie visus susijusius atnaujinimus, susijusius su jūsų užklausa.",
 	"TRAD_502v1" => "Norėdami patvirtinti %s mokėjimą, susijusį su šia operacija, maloniai prašome įvesti kodą, kurį gavote iš paskyros valdytojo. Šis kodas jums buvo suteiktas saugumo sumetimais, siekiant patvirtinti jūsų prašymą išimti lėšas ir užtikrinti, kad esate įgaliotas sąskaitos savininkas.",
-	"TRAD_516v1" => "Atminkite, kad jūsų perkėlimo užklausos apdorojimas gali užtrukti mažiausiai 48 valandas. Dėkojame už kantrybę, kol apdorosime jūsų užklausą.",
+	"TRAD_516v1" => "Šis pervedimas apdorojamas per standartinį terminą ir gali užtrukti iki 24 valandų. Tačiau jis gali būti įvykdytas iš karto, jei gavėjo sąskaita palaiko momentinius pervedimus.",
 	"TRAD_842" => "Kredito kortelės numeris neteisingas.",
 	"TRAD_843" => "Pateiktas perdavimo būdas negalioja!",
 	"TRAD_844" => "Šios operacijos pabaigoje į savo sąskaitą gausite %s ekvivalentą.",

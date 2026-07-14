@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "W odpowiedzi na Twoją prośbę nasz zespół podjął niezbędne kroki, aby wypłacić środki z Twojego konta. Dbamy o przestrzeganie odpowiednich procedur bezpieczeństwa, aby zapewnić niezawodną i bezpieczną obsługę Twojej prośby.",
 	"TRAD_841" => "Należy pamiętać, że czas przetwarzania wypłaty może się różnić w zależności od konkretnych okoliczności i zasad naszej firmy. Dołożymy wszelkich starań, aby zakończyć ten proces tak szybko, jak to możliwe i powiadomić Cię o wszelkich istotnych aktualizacjach dotyczących Twojej prośby.",
 	"TRAD_502v1" => "W celu potwierdzenia płatności %s związanej z tą transakcją prosimy o podanie kodu otrzymanego od opiekuna konta. Ten kod został Ci przekazany ze względów bezpieczeństwa, aby zweryfikować Twoją prośbę o wypłatę środków i upewnić się, że jesteś upoważnionym posiadaczem konta.",
-	"TRAD_516v1" => "Należy pamiętać, że przetworzenie prośby o przeniesienie może zająć co najmniej 48 godzin. Dziękujemy za cierpliwość podczas przetwarzania Twojej prośby.",
+	"TRAD_516v1" => "Ten przelew jest realizowany w standardowym terminie i może potrwać do 24 godzin. Może jednak zostać wykonany natychmiast, jeśli rachunek odbiorcy obsługuje przelewy natychmiastowe.",
 	"TRAD_842" => "Numer karty kredytowej jest nieprawidłowy.",
 	"TRAD_843" => "Podana metoda transferu jest nieprawidłowa!",
 	"TRAD_844" => "Po zakończeniu tej transakcji otrzymasz równowartość %s na swoje konto.",

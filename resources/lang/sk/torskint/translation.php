@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "Na základe vašej žiadosti náš tím podnikol potrebné kroky na výber prostriedkov z vášho účtu. Dbáme na to, aby sme dodržiavali príslušné bezpečnostné postupy, aby sme zaistili, že vaša žiadosť bude vybavená spoľahlivo a bezpečne.",
 	"TRAD_841" => "Upozorňujeme, že doba spracovania odstúpenia od zmluvy sa môže líšiť v závislosti od konkrétnych okolností a zásad našej spoločnosti. Budeme sa snažiť dokončiť proces čo najskôr a budeme vás informovať o všetkých relevantných aktualizáciách týkajúcich sa vašej žiadosti.",
 	"TRAD_502v1" => "Na potvrdenie platby %s súvisiacej s touto transakciou vás prosíme o zadanie kódu, ktorý ste získali od svojho správcu účtu. Tento kód vám bol poskytnutý z bezpečnostných dôvodov, aby sme potvrdili vašu žiadosť o výber prostriedkov a ubezpečili sa, že ste oprávneným majiteľom účtu.",
-	"TRAD_516v1" => "Upozorňujeme, že spracovanie vašej žiadosti o prevod môže trvať minimálne 48 hodín. Ceníme si vašu trpezlivosť počas spracovania vašej žiadosti.",
+	"TRAD_516v1" => "Tento prevod sa spracúva v štandardnej lehote a môže trvať až 24 hodín. Môže sa však vykonať okamžite, ak účet príjemcu podporuje okamžité prevody.",
 	"TRAD_842" => "Číslo kreditnej karty je neplatné.",
 	"TRAD_843" => "Uvedený spôsob prevodu nie je platný!",
 	"TRAD_844" => "Na konci tejto transakcie dostanete na svoj účet ekvivalent %s.",

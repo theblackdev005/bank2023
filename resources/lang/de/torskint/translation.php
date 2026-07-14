@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "Auf Ihre Anfrage hin hat unser Team die notwendigen Schritte unternommen, um das Geld von Ihrem Konto abzuheben. Wir achten darauf, angemessene Sicherheitsverfahren einzuhalten, um sicherzustellen, dass Ihre Anfrage zuverlässig und sicher bearbeitet wird.",
 	"TRAD_841" => "Bitte beachten Sie, dass die Bearbeitungszeit für Auszahlungen je nach den spezifischen Umständen und Richtlinien unseres Unternehmens variieren kann. Wir werden uns bemühen, den Vorgang so schnell wie möglich abzuschließen und Sie über alle relevanten Aktualisierungen zu Ihrer Anfrage zu informieren.",
 	"TRAD_502v1" => "Um die Zahlung von %s im Zusammenhang mit dieser Transaktion zu bestätigen, bitten wir Sie, den Code einzugeben, den Sie von Ihrem Account Manager erhalten haben. Dieser Code wurde Ihnen aus Sicherheitsgründen zur Verfügung gestellt, um Ihren Antrag auf Auszahlung von Geldern zu validieren und um sicherzustellen, dass Sie der autorisierte Kontoinhaber sind.",
-	"TRAD_516v1" => "Bitte beachten Sie, dass die Bearbeitung Ihrer Überweisungsanfrage mindestens 48 Stunden dauern kann. Wir bedanken uns für Ihre Geduld, während wir Ihre Anfrage bearbeiten.",
+	"TRAD_516v1" => "Diese Überweisung wird im Standardverfahren bearbeitet und kann bis zu 24 Stunden dauern. Sie kann jedoch sofort ausgeführt werden, wenn das Konto des Empfängers Echtzeitüberweisungen unterstützt.",
 	"TRAD_842" => "Die Kreditkartennummer ist ungültig.",
 	"TRAD_843" => "Die angegebene Übertragungsmethode ist ungültig!",
 	"TRAD_844" => "Am Ende dieser Transaktion erhalten Sie den Gegenwert von %s auf Ihrem Konto.",

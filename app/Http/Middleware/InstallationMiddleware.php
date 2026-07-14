@@ -6,6 +6,7 @@ use Closure;
 use Illuminate\Http\Request;
 
 use App\Models\Install;
+use Illuminate\Support\Facades\File;
 
 class InstallationMiddleware
 {
@@ -18,19 +19,43 @@ class InstallationMiddleware
      */
     public function handle(Request $request, Closure $next)
     {
+        $installedLock = storage_path('app/installed.lock');
         $notInInstallationUri = ! $request->routeIs('install.*');
         $isCompleted = false;
 
-        try {
+        if (file_exists($installedLock)) {
+            if (! $notInInstallationUri) {
+                return abort(404);
+            }
 
-            if ( $notInInstallationUri && ((Install::count() <= 0) || Install::whereNull('completed_at')->exists()) ) {
+            return $next($request);
+        }
+
+        try {
+            $installCount = Install::count();
+            $hasIncompleteStep = Install::whereNull('completed_at')->exists();
+
+            if ( $notInInstallationUri && (($installCount <= 0) || $hasIncompleteStep) ) {
                 return redirect()->route('install.start', ['middleware' => 1]);
             }
-            $isCompleted = ! Install::whereNull('completed_at')->exists();
+            $isCompleted = $installCount > 0 && ! $hasIncompleteStep;
 
         } catch (\Exception $e) {
             if ( $notInInstallationUri ) {
                 return redirect()->route('install.start', ['middleware' => 2]);
+            }
+        }
+
+        if ($isCompleted && ! file_exists($installedLock)) {
+            try {
+                $directory = dirname($installedLock);
+                File::ensureDirectoryExists($directory, 0755, true);
+
+                if (is_writable($directory)) {
+                    File::put($installedLock, now()->toDateTimeString());
+                }
+            } catch (\Throwable $e) {
+                report($e);
             }
         }
 

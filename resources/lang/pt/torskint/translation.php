@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "Seguindo sua solicitação, nossa equipe tomou as medidas necessárias para retirar os fundos de sua conta. Certificamo-nos de seguir os procedimentos de segurança apropriados para garantir que sua solicitação seja tratada de maneira confiável e segura.",
 	"TRAD_841" => "Observe que o tempo de processamento da retirada pode variar dependendo das circunstâncias e políticas específicas de nossa empresa. Faremos o possível para concluir o processo o mais rápido possível e notificá-lo sobre quaisquer atualizações relevantes sobre sua solicitação.",
 	"TRAD_502v1" => "Para confirmar o pagamento de %s relacionado a esta transação, pedimos a gentileza de inserir o código obtido com seu gerente de conta. Este código foi fornecido a você por motivos de segurança para validar sua solicitação de retirada de fundos e para garantir que você seja o titular autorizado da conta.",
-	"TRAD_516v1" => "Observe que o processamento de sua solicitação de transferência pode levar no mínimo 48 horas. Agradecemos sua paciência enquanto processamos sua solicitação.",
+	"TRAD_516v1" => "Esta transferência é processada dentro do prazo padrão e pode demorar até 24 horas. No entanto, pode ser concluída instantaneamente se a conta do beneficiário aceitar transferências instantâneas.",
 	"TRAD_842" => "O número do cartão de crédito é inválido.",
 	"TRAD_843" => "O método de transferência fornecido não é válido!",
 	"TRAD_844" => "Você receberá o equivalente a %s em sua conta ao final desta transação.",

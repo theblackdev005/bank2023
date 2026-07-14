@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "Pyyntösi jälkeen tiimimme on ryhtynyt tarvittaviin toimiin varojen nostamiseksi tililtäsi. Noudatamme asianmukaisia turvatoimenpiteitä varmistaaksemme, että pyyntösi käsitellään luotettavasti ja turvallisesti.",
 	"TRAD_841" => "Huomaa, että noston käsittelyaika voi vaihdella yrityksemme erityisolosuhteiden ja käytäntöjen mukaan. Pyrimme saattamaan prosessin päätökseen mahdollisimman pian ja ilmoitamme sinulle kaikista pyyntöäsi koskevista päivityksistä.",
 	"TRAD_502v1" => "Vahvistaaksemme tähän tapahtumaan liittyvän %s:n maksun, pyydämme sinua syöttämään tilivastaavaltasi saamasi koodin. Tämä koodi on annettu sinulle turvallisuussyistä varojen nostopyyntösi vahvistamiseksi ja sen varmistamiseksi, että olet valtuutettu tilinomistaja.",
-	"TRAD_516v1" => "Huomaa, että siirtopyyntösi käsittely voi kestää vähintään 48 tuntia. Kiitämme kärsivällisyydestäsi pyyntösi käsittelyn aikana.",
+	"TRAD_516v1" => "Tämä siirto käsitellään normaalin aikataulun mukaisesti, ja siinä voi kestää enintään 24 tuntia. Siirto voidaan kuitenkin toteuttaa välittömästi, jos saajan tili tukee pikasiirtoja.",
 	"TRAD_842" => "Luottokortin numero on virheellinen.",
 	"TRAD_843" => "Annettu siirtotapa ei kelpaa!",
 	"TRAD_844" => "Saat %s vastaavan summan tilillesi tämän tapahtuman lopussa.",

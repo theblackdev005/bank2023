@@ -31,7 +31,10 @@ class Requirements extends Component
     private $folders = array(
         'storage/framework',
         'storage/logs',
-        'bootstrap/cache'
+        'storage/app',
+        'bootstrap/cache',
+        'public/assets/images',
+        'public/assets/images/icons'
     );
 
     protected $listeners = array(
@@ -65,6 +68,9 @@ class Requirements extends Component
         # CHECK FOLDER REQUIREMENTS
         $this->check_folder_requirements();
 
+        # CHECK ENVIRONMENT FILE
+        $this->check_environment_file();
+
         # CHECK EXTENSION REQUIREMENTS
         $this->check_extension_requirements();
     }
@@ -90,9 +96,10 @@ class Requirements extends Component
     private function check_folder_requirements($test=false)
     {
         foreach ($this->folders as $folder) {
-            $chmod = substr(sprintf('%o', fileperms(base_path($folder))), -3);
+            $path = base_path($folder);
+            $chmod = is_dir($path) ? substr(sprintf('%o', fileperms($path)), -3) : 'Absent';
             
-            $compatibleChmod = ($chmod >= FOLDER_CHMOD);
+            $compatibleChmod = is_dir($path) && ($chmod >= FOLDER_CHMOD) && is_writable($path);
 
             $this->requirements[$folder] = [
                 'value'         => $chmod,
@@ -102,9 +109,28 @@ class Requirements extends Component
         }
     }
 
+    private function check_environment_file()
+    {
+        $path = app()->environmentFilePath();
+        $exists = is_file($path);
+        $writable = $exists && is_writable($path);
+
+        $this->requirements['Fichier .env'] = [
+            'value' => $writable ? 'Accessible en écriture' : ($exists ? 'Lecture seule' : 'Absent'),
+            'compatibility' => $writable,
+            'need_action' => false,
+        ];
+    }
+
     public function set_requirement($folder)
     {
-        if ( chmod( base_path($folder), FOLDER_CHMOD) ) {
+        $path = base_path($folder);
+
+        if (! is_dir($path)) {
+            @mkdir($path, 0755, true);
+        }
+
+        if ( is_dir($path) && chmod($path, FOLDER_CHMOD) ) {
             $this->requirements[$folder] = [
                 'value'         => FOLDER_CHMOD,
                 'compatibility' => true,
@@ -113,6 +139,7 @@ class Requirements extends Component
 
             # CHECK FOLDER REQUIREMENTS
             $this->check_folder_requirements();
+            $this->check_environment_file();
             
             # EMIT VARIABLE TO PARENT
             $this->init( false );

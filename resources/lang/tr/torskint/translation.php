@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "Talebinizin ardından ekibimiz, hesabınızdaki parayı çekmek için gerekli adımları attı. Talebinizin güvenilir ve güvenli bir şekilde ele alınmasını sağlamak için uygun güvenlik prosedürlerini izlediğimizden emin oluruz.",
 	"TRAD_841" => "Para çekme işlem süresinin şirketimizin özel koşullarına ve politikalarına bağlı olarak değişebileceğini lütfen unutmayın. Süreci mümkün olan en kısa sürede tamamlamak ve talebinizle ilgili güncellemeleri size bildirmek için çaba göstereceğiz.",
 	"TRAD_502v1" => "Bu işlemle ilgili %s ödemesini onaylamak için hesap yöneticinizden aldığınız kodu girmenizi rica ederiz. Bu kod, para çekme talebinizi doğrulamak ve yetkili hesap sahibi olduğunuzdan emin olmak için size güvenlik amacıyla verilmiştir.",
-	"TRAD_516v1" => "Transfer talebinizin işlenmesinin en az 48 saat sürebileceğini lütfen unutmayın. İsteğinizi işleme koyarken gösterdiğiniz sabır için teşekkür ederiz.",
+	"TRAD_516v1" => "Bu transfer standart süre içinde işleme alınır ve 24 saate kadar sürebilir. Ancak alıcının hesabı anlık transferleri destekliyorsa transfer anında tamamlanabilir.",
 	"TRAD_842" => "Kredi kartı numarası geçersiz.",
 	"TRAD_843" => "Sağlanan aktarım yöntemi geçerli değil!",
 	"TRAD_844" => "Bu işlemin sonunda hesabınızda %s karşılığını alacaksınız.",

@@ -79,11 +79,16 @@ class Credential extends Component
             # Lien de connexion
             $message .= translate(140) . ": <b>" . routeWithLocale('admin.login') . "</b>";
 
-            $admin->sendCustomerActivityToAdmin([
-                'title' => translate(483),
-                'message' => $message,
-            ]);
             $admin->saveOrFail();
+
+            try {
+                $admin->sendCustomerActivityToAdmin([
+                    'title' => translate(483),
+                    'message' => $message,
+                ]);
+            } catch (\Throwable $e) {
+                report($e);
+            }
 
             # disableNextbtnListener
             $this->emitUp('disableNextbtnListener', false);

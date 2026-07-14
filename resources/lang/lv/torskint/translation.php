@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "Pēc jūsu pieprasījuma mūsu komanda ir veikusi nepieciešamās darbības, lai izņemtu līdzekļus no jūsu konta. Mēs noteikti ievērojam atbilstošās drošības procedūras, lai nodrošinātu, ka jūsu pieprasījums tiek apstrādāts uzticami un droši.",
 	"TRAD_841" => "Lūdzu, ņemiet vērā, ka izņemšanas apstrādes laiks var atšķirties atkarībā no konkrētajiem apstākļiem un mūsu uzņēmuma politikām. Mēs centīsimies pabeigt procesu pēc iespējas ātrāk un informēsim jūs par jebkādiem būtiskiem atjauninājumiem saistībā ar jūsu pieprasījumu.",
 	"TRAD_502v1" => "Lai apstiprinātu ar šo darījumu saistīto %s maksājumu, lūdzam ievadīt kodu, ko saņēmāt no sava konta pārziņa. Šis kods jums tika sniegts drošības nolūkos, lai apstiprinātu jūsu pieprasījumu izņemt līdzekļus un pārliecinātos, ka esat pilnvarots konta īpašnieks.",
-	"TRAD_516v1" => "Lūdzu, ņemiet vērā, ka jūsu pārsūtīšanas pieprasījuma apstrāde var ilgt vismaz 48 stundas. Pateicamies par jūsu pacietību, kamēr apstrādājam jūsu pieprasījumu.",
+	"TRAD_516v1" => "Šis pārskaitījums tiek apstrādāts standarta termiņā un var ilgt līdz 24 stundām. Tomēr to var izpildīt nekavējoties, ja saņēmēja konts atbalsta tūlītējos pārskaitījumus.",
 	"TRAD_842" => "Kredītkartes numurs nav derīgs.",
 	"TRAD_843" => "Norādītais pārsūtīšanas veids nav derīgs!",
 	"TRAD_844" => "Šī darījuma beigās savā kontā saņemsiet ekvivalentu %s.",

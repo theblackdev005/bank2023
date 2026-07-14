@@ -7,6 +7,8 @@ use Illuminate\Http\Request;
 use App\Http\Requests\AddTransferRequest;
 use App\Models\Transfert as TransfertModel;
 use App\Models\TransfertFee;
+use App\Models\TransfertRecipient;
+use App\Models\Country;
 use Illuminate\Support\Facades\DB;
 
 
@@ -57,10 +59,14 @@ class Transfert extends Controller
         extract( $post = $request->validated() );
 
         try {
-            $amount = floatval( $amount );
-            if ( ($customer->balance <= 0) || ($amount > $customer->balance) ) {
+            $normalizedAmount = str_replace(',', '.', (string) $amount);
+            $amount = (float) preg_replace('/[^0-9.\-]/', '', $normalizedAmount);
+
+            if ( ($amount <= 0) || ($customer->balance <= 0) || ($amount > $customer->balance) ) {
                 return back_With_Error(53);
             }
+
+            $post['amount'] = $amount;
 
             /**
              * ------------------------------------------------------------------
@@ -72,6 +78,44 @@ class Transfert extends Controller
             if ( TransfertModel::whereCustomerId($customer->id)->whereNull('completed_at')->exists() ) {
                 return back_With_Error(659);
             }
+
+            if ($payment_method === 'recipients' && ($recipient_mode ?? null) === 'new') {
+                $iban = strtoupper(preg_replace('/\s+/', '', $new_recipient_iban));
+                $bic = strtoupper(preg_replace('/\s+/', '', $new_recipient_bic));
+                $bankCountry = Country::whereIso(substr($iban, 0, 2))->first() ?: $customer->country;
+
+                $recipient = new TransfertRecipient();
+                $recipient->customer_id = $customer->id;
+                $recipient->currency_id = $customer->currency->id;
+                $recipient->recipient_name = trim($new_recipient_name);
+                $recipient->recipient_iban = $iban;
+                $recipient->recipient_address = '';
+                $recipient->bank_swift = $bic;
+                $recipient->bank_name = '';
+                $recipient->bank_address = '';
+                $recipient->bank_country_id = $bankCountry->id;
+                $recipient->approved_at = now();
+                $recipient->saveOrFail();
+
+                $post['payment_method_id'] = $recipient->id;
+                unset(
+                    $post['recipient_mode'],
+                    $post['new_recipient_name'],
+                    $post['new_recipient_iban'],
+                    $post['new_recipient_bic']
+                );
+            } else {
+                $paymentTable = transfer_methods($payment_method);
+                $ownsPaymentMethod = DB::table($paymentTable)
+                    ->where('id', $payment_method_id)
+                    ->where('customer_id', $customer->id)
+                    ->exists();
+
+                if (!$ownsPaymentMethod) {
+                    return back_With_Error();
+                }
+            }
+
             $post['payment_method']     = transfer_methods($post['payment_method']);
             $post['currency_id']        = $customer->currency->id;
             $post['convert_amount']     = 0;
@@ -88,17 +132,23 @@ class Transfert extends Controller
             $customer->balance = ($customer->balance - $amount);
             $customer->saveOrFail();
 
+            # Convertir le montant dans la devise du bénéficiaire.
+            if ( $crcy = $transfert->pm_currency() ) {
+                $convertedAmount = ($transfert->currency->name === $crcy->name)
+                    ? $amount
+                    : currency_converter($transfert->currency->name, $amount, $crcy->name);
+
+                if ($convertedAmount > 0) {
+                    $transfert->convert_amount = $convertedAmount;
+                    $transfert->saveOrFail();
+                }
+            }
+
             # Envoyer une notification
             $customer->sendTransferInitiatedEmailToCustomer($transfert);
 
             # Set Transaction
             $customer->setTransaction(0, $post['amount'], 95);
-
-            # Convertir le montant en devise
-            if ( $crcy = $transfert->pm_currency() ) {
-                $transfert->convert_amount = currency_converter( $transfert->currency->name, $amount, $crcy->name );
-                $transfert->saveOrFail();
-            }
 
             # Email à l'administrateur
             $this->sendNotificationToAdmin([

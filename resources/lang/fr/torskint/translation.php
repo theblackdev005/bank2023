@@ -508,7 +508,7 @@ return [
 	"TRAD_515" => "Télécharger le reçu",
 
 	"TRAD_516" => "Le traitement de votre demande de virement peut prendre au moins 48 heures. Merci de patienter le temps que votre requête soit traitée.",
-	"TRAD_516v1" => "Veuillez noter que le traitement de votre demande de virement peut nécessiter un délai minimum de 48 heures. Nous vous remercions de votre patience pendant que nous traitons votre requête.",
+	"TRAD_516v1" => "Ce virement est traité selon le délai standard et peut prendre jusqu'à 24 heures. Il peut toutefois être exécuté instantanément si le compte du bénéficiaire est compatible avec les virements instantanés.",
 
 	"TRAD_517" => "Transfert en cours",
 	"TRAD_518" => "Suivre un transfert de fonds en cours",
@@ -883,7 +883,7 @@ return [
 	
 	"TRAD_842" => "Le numéro de carte de crédit n'est pas valide.",
 	"TRAD_843" => "Le moyen de transfert fourni n'est pas valide !",
-	"TRAD_844" => "Vous allez reçevoir l'équivalent de %s sur votre compte au terme de cette transaction.",
+	"TRAD_844" => "Vous allez recevoir l'équivalent de %s sur votre compte au terme de cette transaction.",
 	"TRAD_845" => "Code de confirmation validé.",
 	"TRAD_846" => "Nous sommes ravis de vous informer que votre code de confirmation a été validé avec succès. Cela confirme que vous êtes bien l'utilisateur autorisé et que votre demande de virement peut désormais se poursuivre. Nous vous remercions de votre patience pendant le processus de vérification.",
 	"TRAD_847" => "Veuillez noter que le traitement de votre virement peut encore prendre un certain temps, en fonction des procédures spécifiques de votre institution financière ou de la plateforme utilisée. Nous vous encourageons à suivre les indications fournies et à prendre note de toute autre information ou étape nécessaire pour finaliser le virement avec succès.",

@@ -28,8 +28,8 @@
             @endphp
 
             <div class="pt-2">
-                @if ( $crcy )
-                    <p class="text-muted text-small" style="line-height: 16px">{!! translate(844, false, setCurrency( !empty($crcy) ? $crcy : $transfert->currency, $transfert->convert_amount) ) !!}</p>
+                @if ( $crcy && $transfert->convert_amount > 0 )
+                    <p class="text-muted text-small" style="line-height: 16px">{!! translate(844, false, setCurrency($crcy, $transfert->convert_amount) ) !!}</p>
                 @else
                     <p class="text-muted text-small" style="line-height: 16px">{!! translate(844, false, setCurrency($transfert->currency, $transfert->amount) ) !!}</p>
                 @endif

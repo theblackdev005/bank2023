@@ -1,33 +1,28 @@
-<form method="post" action="" class="form p-mobile-2 pt-4 bg-offwhite">
+<form method="post" action="" class="form recipient-form">
     @csrf
 
     @if ( $show_country_loader )
         <x-show-country-form-loader />
     @endif
 
-    <div class="form-group card">
-        <div class="card-body text-center">
-            @if ($countries)
-                <label>{{ translate(633) }}</label> <br>
-                
-                <select name="bank_country_id" wire:model="selected_country" class="form-control" --data-live-search="true">
-                    <option value="" data-tokens="">-</option>
+    @if ($countries)
+        <div class="form-group recipient-country-field">
+            <label class="required-field">{{ translate(633) }}</label>
+            <select name="bank_country_id" wire:model="selected_country" class="form-control input-lg" required>
+                <option value="">-</option>
 
-                    @foreach ($countries as $country)
-                        @php
-                            $clx = ($country->id == customer()->country->id) ? ' selected="selected"' : '';
-                        @endphp
-
-                        <option value="{{ $country->id }}">{{ $country->name }}</option>
-                    @endforeach
-                </select>
-            @endif
+                @foreach ($countries as $country)
+                    <option value="{{ $country->id }}">{{ $country->name }}</option>
+                @endforeach
+            </select>
         </div>
-    </div>
+    @endif
 
     @includeIf('pages.customer.addRecipientsForms.' . $currentForm)
 
-    <div class="form-group">
-        <button type="submit" class="btn btn-default btn-lg">{{ translate(322) }}</button>
+    <div class="form-group recipient-submit mb-0">
+        <button type="submit" class="btn btn-success btn-lg">
+            <i class="fa fa-check mr-1"></i>{{ translate(322) }}
+        </button>
     </div>
 </form>

@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "Pas kërkesës tuaj, ekipi ynë ka ndërmarrë hapat e nevojshëm për tërheqjen e fondeve nga llogaria juaj. Ne sigurohemi që të ndjekim procedurat e duhura të sigurisë për të siguruar që kërkesa juaj të trajtohet në mënyrë të besueshme dhe të sigurt.",
 	"TRAD_841" => "Ju lutemi vini re se koha e përpunimit të tërheqjes mund të ndryshojë në varësi të rrethanave dhe politikave specifike të kompanisë sonë. Ne do të përpiqemi të përfundojmë procesin sa më shpejt të jetë e mundur dhe t'ju njoftojmë për çdo përditësim përkatës në lidhje me kërkesën tuaj.",
 	"TRAD_502v1" => "Për të konfirmuar pagesën e %s në lidhje me këtë transaksion, ju lutemi të vendosni kodin që keni marrë nga menaxheri i llogarisë suaj. Ky kod ju është dhënë për qëllime sigurie për të vërtetuar kërkesën tuaj për të tërhequr fonde dhe për të siguruar që ju jeni mbajtësi i autorizuar i llogarisë.",
-	"TRAD_516v1" => "Ju lutemi vini re se përpunimi i kërkesës tuaj për transferim mund të kërkojë një minimum prej 48 orësh. Ne e vlerësojmë durimin tuaj gjatë procesit të kërkesës suaj.",
+	"TRAD_516v1" => "Kjo transfertë përpunohet sipas afatit standard dhe mund të zgjasë deri në 24 orë. Megjithatë, ajo mund të ekzekutohet menjëherë nëse llogaria e përfituesit mbështet transfertat e menjëhershme.",
 	"TRAD_842" => "Numri i kartës së kreditit është i pavlefshëm.",
 	"TRAD_843" => "Mënyra e ofruar e transferimit nuk është e vlefshme!",
 	"TRAD_844" => "Do të merrni ekuivalentin e %s në llogarinë tuaj në fund të këtij transaksioni.",

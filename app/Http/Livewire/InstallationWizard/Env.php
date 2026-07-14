@@ -37,6 +37,21 @@ class Env extends Component
             $this->$key = $value;
             $this->data[$key] = $value;
         }
+
+        if (empty($this->APP_URL) || in_array($this->APP_URL, ['http://localhost', 'https://localhost'], true)) {
+            $this->APP_URL = request()->getSchemeAndHttpHost();
+            $this->data['APP_URL'] = $this->APP_URL;
+        }
+
+        if (empty($this->APP_ENV) || $this->APP_ENV === 'local') {
+            $this->APP_ENV = 'production';
+            $this->data['APP_ENV'] = 'production';
+        }
+
+        if ($this->APP_DEBUG === 'true' || $this->APP_DEBUG === true || empty($this->APP_DEBUG)) {
+            $this->APP_DEBUG = 'false';
+            $this->data['APP_DEBUG'] = 'false';
+        }
     }
 
     public function checkStepOnChild() {

@@ -260,7 +260,7 @@
 								@if ( customer()->balance <= 0 )
 									<a class="text-theme" href="{{ routeWithLocale('customer.add_loans') }}">{{ translate(356) }} »</a>
 								@else
-									<a class="text-theme" href="{{ routeWithLocale('customer.account') }}">{{ translate(410) }} »</a>
+									<a class="text-theme" href="{{ routeWithLocale('customer.add_transferts') }}">{{ translate(410) }} »</a>
 								@endif
 							</div>
 						</div>

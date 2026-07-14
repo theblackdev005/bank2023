@@ -199,8 +199,6 @@ class Customer extends Authenticatable implements HasLocalePreference
     }
 
     public function scopeSetSession() {
-        CustomerSession::query()->update(['status' => 0]);
-
         return CustomerSession::create([
             'customer_id'   => $this->id,
             'last_seen_at'  => now(),

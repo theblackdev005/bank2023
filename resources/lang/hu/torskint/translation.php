@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "Kérését követően csapatunk megtette a szükséges lépéseket, hogy az összeget levonja számlájáról. Gondoskodunk arról, hogy betartsuk a megfelelő biztonsági eljárásokat, hogy biztosítsuk kérésének megbízható és biztonságos kezelését.",
 	"TRAD_841" => "Felhívjuk figyelmét, hogy az elállási feldolgozási idő változhat a konkrét körülményektől és cégünk irányelveitől függően. Igyekszünk a folyamatot a lehető legrövidebb időn belül befejezni, és értesíteni fogjuk a kérelmével kapcsolatos minden lényeges frissítésről.",
 	"TRAD_502v1" => "A tranzakcióhoz kapcsolódó %s befizetés megerősítéséhez kérjük, adja meg a fiókkezelőjétől kapott kódot. Ezt a kódot biztonsági okokból adtuk át Önnek, hogy érvényesítse pénzkivonási kérelmét, és megbizonyosodjon arról, hogy Ön a jogosult számlatulajdonos.",
-	"TRAD_516v1" => "Felhívjuk figyelmét, hogy átviteli kérelmének feldolgozása legalább 48 órát vehet igénybe. Köszönjük türelmét kérésének feldolgozása során.",
+	"TRAD_516v1" => "Ez az átutalás a szokásos feldolgozási idő szerint történik, és akár 24 órát is igénybe vehet. Azonnal is teljesíthető, ha a kedvezményezett számlája támogatja az azonnali átutalásokat.",
 	"TRAD_842" => "A hitelkártya száma érvénytelen.",
 	"TRAD_843" => "A megadott átviteli mód nem érvényes!",
 	"TRAD_844" => "A tranzakció végén megkapja a %s egyenértékét a fiókjában.",

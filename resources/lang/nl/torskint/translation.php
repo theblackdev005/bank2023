@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "Naar aanleiding van uw verzoek heeft ons team de nodige stappen ondernomen om het geld van uw rekening af te schrijven. We zorgen ervoor dat we de juiste beveiligingsprocedures volgen om ervoor te zorgen dat uw verzoek betrouwbaar en veilig wordt afgehandeld.",
 	"TRAD_841" => "Houd er rekening mee dat de verwerkingstijd van de opname kan variëren, afhankelijk van de specifieke omstandigheden en het beleid van ons bedrijf. We zullen ons best doen om het proces zo snel mogelijk te voltooien en u op de hoogte te stellen van relevante updates met betrekking tot uw verzoek.",
 	"TRAD_502v1" => "Om de betaling van %s met betrekking tot deze transactie te bevestigen, vragen we u vriendelijk om de code in te voeren die u van uw accountmanager heeft gekregen. Deze code is om veiligheidsredenen aan u verstrekt om uw verzoek om geld op te nemen te valideren en om ervoor te zorgen dat u de geautoriseerde rekeninghouder bent.",
-	"TRAD_516v1" => "Houd er rekening mee dat de verwerking van uw overdrachtsverzoek minimaal 48 uur kan duren. We stellen uw geduld op prijs terwijl we uw verzoek verwerken.",
+	"TRAD_516v1" => "Deze overschrijving wordt binnen de standaardtermijn verwerkt en kan tot 24 uur duren. De overschrijving kan echter direct worden uitgevoerd als de rekening van de begunstigde instantoverschrijvingen ondersteunt.",
 	"TRAD_842" => "Het creditcardnummer is ongeldig.",
 	"TRAD_843" => "De opgegeven overdrachtsmethode is niet geldig!",
 	"TRAD_844" => "Aan het einde van deze transactie ontvangt u het equivalent van %s op uw rekening.",

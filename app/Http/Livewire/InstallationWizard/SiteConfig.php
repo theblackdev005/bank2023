@@ -3,14 +3,20 @@
 namespace App\Http\Livewire\InstallationWizard;
 
 use Livewire\Component;
+use Livewire\WithFileUploads;
 use App\Models\Config;
 use App\Models\Language;
+use RuntimeException;
 
 class SiteConfig extends Component
 {
+    use WithFileUploads;
 
     public $posts = [];
     public $configs = [];
+    public $logo;
+    public $favicon;
+    public $visualAssetVersion;
 
     protected $listeners = array(
         'checkStepOnChild',
@@ -19,6 +25,10 @@ class SiteConfig extends Component
     public function mount()
     {
         $this->configs = Config::where('input_type', '<>', 'boolean')->get();
+        $this->visualAssetVersion = max(
+            (int) @filemtime(public_path('assets/images/logo.png')),
+            (int) @filemtime(public_path('assets/images/icons/favicon.png'))
+        );
 
         foreach ($this->configs as $config) {
             $this->posts[$config->name] = $config->value;
@@ -35,13 +45,53 @@ class SiteConfig extends Component
         return $this->emitUp('goNextListener');
     }
 
+    public function updatedLogo()
+    {
+        $this->validateOnly('logo', [
+            'logo' => ['nullable', 'image', 'mimes:png', 'max:4096'],
+        ]);
+    }
+
+    public function updatedFavicon()
+    {
+        $this->validateOnly('favicon', [
+            'favicon' => ['nullable', 'image', 'mimes:png', 'max:1024', 'dimensions:ratio=1/1'],
+        ]);
+    }
+
+    private function saveVisualAsset($upload, $relativePath)
+    {
+        if (!$upload) {
+            return;
+        }
+
+        $target = public_path($relativePath);
+        $directory = dirname($target);
+
+        if (!is_dir($directory) || !is_writable($directory)) {
+            throw new RuntimeException("Le dossier {$directory} doit être accessible en écriture.");
+        }
+
+        if (file_exists($target) && !is_writable($target)) {
+            throw new RuntimeException("Le fichier {$target} doit être accessible en écriture.");
+        }
+
+        $contents = file_get_contents($upload->getRealPath());
+
+        if ($contents === false || file_put_contents($target, $contents, LOCK_EX) === false) {
+            throw new RuntimeException("Impossible d'enregistrer le fichier {$relativePath}.");
+        }
+    }
+
     public function submit() {
         $this->emitUp('disableNextbtnListener', true);
 
         try {
             extract( $this->validate([
                 'posts'             => 'required|array',
-                'posts.*.*'         => 'required',
+                'posts.*'           => 'nullable',
+                'logo'              => ['nullable', 'image', 'mimes:png', 'max:4096'],
+                'favicon'           => ['nullable', 'image', 'mimes:png', 'max:1024', 'dimensions:ratio=1/1'],
             ]) );
 
             foreach ($this->configs as $config) {
@@ -49,7 +99,7 @@ class SiteConfig extends Component
                 if ( $config->input_type === 'boolean' ) {
                     $config->value = !empty($posts[$config->name]) ? 1 : 0;
                 } else {
-                    $config->value = $posts[$config->name];
+                    $config->value = $posts[$config->name] ?? '';
 
                     # APP_NAME
                     Config::generate_env_appName($config);
@@ -67,12 +117,21 @@ class SiteConfig extends Component
                 $config->save();
             }
 
+            $this->saveVisualAsset($this->logo, 'assets/images/logo.png');
+            $this->saveVisualAsset($this->favicon, 'assets/images/icons/favicon.png');
+
+            $this->logo = null;
+            $this->favicon = null;
+            $this->visualAssetVersion = time();
+
             # REFRESH CASH
             Config::refreshCache();
 
             $this->emitUp('disableNextbtnListener', false);
+            return $this->emitUp('goNextListener');
             
         } catch (\Exception $e) {
+            $this->emitUp('disableNextbtnListener', true);
             return $this->addError('danger', $e->getMessage());
         }
     }

@@ -6,13 +6,19 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
 use Illuminate\Support\Facades\Cache;
+use Illuminate\Support\Facades\Schema;
 
 class GoogleRecaptcha extends Model
 {
     use HasFactory;
 
     public static function chargeConfig() {
-        $setting = Cache::get('db_recaptcha_setting', collect([]));
+        $setting = collect(Cache::get('db_recaptcha_setting', []));
+
+        if ($setting->isEmpty() && Schema::hasTable('google_recaptchas')) {
+            $setting = static::query()->get()->toBase();
+            Cache::forever('db_recaptcha_setting', $setting);
+        }
 
         $setting = $setting->whereNotNull('enabled_at');
 
@@ -29,8 +35,7 @@ class GoogleRecaptcha extends Model
     }
 
     public static function refreshCache() {
-        Cache::forget('db_recaptcha_setting');
-        Cache::rememberForever('db_recaptcha_setting', fn() => static::query()->get()->toBase());
+        Cache::forever('db_recaptcha_setting', static::query()->get()->toBase());
     }
 
     public function scopeIsEnabled()

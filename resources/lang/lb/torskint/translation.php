@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "No Ärer Demande huet eis Team déi néideg Schrëtt geholl fir d'Suen vun Ärem Kont zréckzezéien. Mir suergen fir entspriechend Sécherheetsprozeduren ze verfollegen fir sécherzestellen datt Är Ufro zouverlässeg a sécher gehandhabt gëtt.",
 	"TRAD_841" => "Notéiert w.e.g. datt d'Veraarbechtungszäit vum Réckzuch ka variéieren jee no de spezifesche Ëmstänn a Politik vun eiser Firma. Mir beméien eis de Prozess sou séier wéi méiglech ofzeschléissen an Iech iwwer all relevant Aktualiséierunge betreffend Är Ufro matdeelen.",
 	"TRAD_502v1" => "Fir d'Bezuelung vun %s am Zesummenhang mat dëser Transaktioun ze bestätegen, froe mir Iech frëndlech de Code anzeginn, deen Dir vun Ärem Kont Manager kritt hutt. Dëse Code gouf Iech fir Sécherheetszwecker zur Verfügung gestallt fir Är Ufro ze validéieren fir Fongen zréckzezéien an ze garantéieren datt Dir den autoriséierte Konthalter sidd.",
-	"TRAD_516v1" => "Notéiert w.e.g. datt d'Veraarbechtung vun Ärer Iwwerweisungsufro e Minimum vun 48 Stonnen erfuerdert. Mir schätzen Är Gedold wärend mir Är Ufro veraarbecht.",
+	"TRAD_516v1" => "Dës Iwwerweisung gëtt am Standardzäitraum veraarbecht a ka bis zu 24 Stonnen daueren. Si kann awer direkt ausgefouert ginn, wann de Kont vum Beneficiaire Direkttransferten ënnerstëtzt.",
 	"TRAD_842" => "D'Kreditkaartnummer ass ongëlteg.",
 	"TRAD_843" => "D'Iwwerweisungsmethod ass net valabel!",
 	"TRAD_844" => "Dir kritt den Äquivalent vun %s op Ärem Kont um Enn vun dëser Transaktioun.",

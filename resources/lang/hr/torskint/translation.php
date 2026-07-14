@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "Nakon vašeg zahtjeva, naš tim je poduzeo potrebne korake za povlačenje sredstava s vašeg računa. Pobrinjavamo se da slijedimo odgovarajuće sigurnosne procedure kako bismo osigurali pouzdanu i sigurnu obradu vašeg zahtjeva.",
 	"TRAD_841" => "Imajte na umu da vrijeme obrade povlačenja može varirati ovisno o specifičnim okolnostima i politici naše tvrtke. Nastojat ćemo dovršiti proces što je prije moguće i obavijestiti vas o svim relevantnim ažuriranjima u vezi s vašim zahtjevom.",
 	"TRAD_502v1" => "Kako bismo potvrdili plaćanje %s u vezi s ovom transakcijom, ljubazno vas molimo da unesete kod koji ste dobili od svog upravitelja računa. Ovaj vam je kod dostavljen iz sigurnosnih razloga kako bismo potvrdili vaš zahtjev za povlačenje sredstava i kako bismo bili sigurni da ste ovlašteni vlasnik računa.",
-	"TRAD_516v1" => "Imajte na umu da obrada vašeg zahtjeva za prijenos može trajati najmanje 48 sati. Cijenimo vaše strpljenje dok obrađujemo vaš zahtjev.",
+	"TRAD_516v1" => "Ovaj se prijenos obrađuje u standardnom roku i može potrajati do 24 sata. Međutim, može se izvršiti odmah ako račun primatelja podržava instant prijenose.",
 	"TRAD_842" => "Broj kreditne kartice je nevažeći.",
 	"TRAD_843" => "Navedeni način prijenosa nije valjan!",
 	"TRAD_844" => "Na kraju ove transakcije na svoj račun dobit ćete ekvivalent od %s.",

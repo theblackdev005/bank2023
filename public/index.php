@@ -5,6 +5,17 @@ use Illuminate\Http\Request;
 
 define('LARAVEL_START', microtime(true));
 
+$installedLock = __DIR__.'/../storage/app/installed.lock';
+$requestPath = parse_url($_SERVER['REQUEST_URI'] ?? '', PHP_URL_PATH) ?: '';
+
+if (file_exists($installedLock) && (
+    $requestPath === '/installation' ||
+    strpos($requestPath, '/livewire/message/installation-wizard') === 0
+)) {
+    http_response_code(404);
+    exit('Not Found');
+}
+
 /*
 |--------------------------------------------------------------------------
 | Check If The Application Is Under Maintenance
@@ -18,6 +29,25 @@ define('LARAVEL_START', microtime(true));
 
 if (file_exists($maintenance = __DIR__.'/../storage/framework/maintenance.php')) {
     require $maintenance;
+}
+
+if (file_exists($preInstallation = __DIR__.'/../bootstrap/pre_installation.php')) {
+    require $preInstallation;
+}
+
+$environmentFile = __DIR__.'/../.env';
+$environmentContent = is_readable($environmentFile) ? file_get_contents($environmentFile) : false;
+$hasApplicationKey = is_string($environmentContent)
+    && preg_match('/^APP_KEY\s*=\s*[^\s]+/m', $environmentContent);
+
+if (! file_exists($installedLock) && (! is_file($environmentFile) || ! $hasApplicationKey)) {
+    http_response_code(500);
+    exit('Installation impossible : le fichier .env n\'a pas pu être préparé. Vérifiez les permissions du dossier du projet et du fichier .env.');
+}
+
+if (file_exists($installedLock) && (! is_file($environmentFile) || ! $hasApplicationKey)) {
+    http_response_code(500);
+    exit('Configuration indisponible : le fichier .env ou APP_KEY est absent. Restaurez votre sauvegarde sans relancer l\'installation.');
 }
 
 /*

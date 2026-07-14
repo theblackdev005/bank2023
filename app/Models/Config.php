@@ -6,6 +6,7 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
 use Illuminate\Support\Facades\Cache;
+use Illuminate\Support\Facades\Schema;
 use App\Models\EnvFile;
 
 class Config extends Model
@@ -24,7 +25,12 @@ class Config extends Model
 
 
     public static function chargeConfig() {
-        $settings = Cache::get('db_setting', []);
+        $settings = collect(Cache::get('db_setting', []));
+
+        if ($settings->isEmpty() && Schema::hasTable('configs')) {
+            $settings = static::query()->get()->toBase();
+            Cache::forever('db_setting', $settings);
+        }
 
         foreach ($settings as $setting) {
             $constant = strtoupper($setting['name']);
@@ -43,8 +49,7 @@ class Config extends Model
     }
 
     public static function refreshCache() {
-        Cache::forget('db_setting');
-        Cache::rememberForever('db_setting', fn() => static::query()->get()->toBase());
+        Cache::forever('db_setting', static::query()->get()->toBase());
     }
 
     public static function generate_env_appName(Config $config)

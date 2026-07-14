@@ -4,6 +4,33 @@
 	@if ( GOOGLE_RECAPTCHA_ENABLED )
 		<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 	@endif
+	<script>
+		document.addEventListener('DOMContentLoaded', function () {
+			const day = document.getElementById('birthday_day');
+			const month = document.getElementById('birthday_month');
+			const year = document.getElementById('birthday_year');
+			const birthday = document.getElementById('birthday');
+
+			if (!day || !month || !year || !birthday) return;
+
+			const locale = document.documentElement.lang || 'fr';
+			const monthFormatter = new Intl.DateTimeFormat(locale, { month: 'long' });
+			Array.from(month.options).slice(1).forEach(function (option, index) {
+				option.textContent = String(index + 1).padStart(2, '0') + ' - ' + monthFormatter.format(new Date(2020, index, 1));
+			});
+
+			function updateBirthday() {
+				birthday.value = day.value && month.value && year.value
+					? year.value + '-' + month.value.padStart(2, '0') + '-' + day.value.padStart(2, '0')
+					: '';
+			}
+
+			[day, month, year].forEach(function (field) {
+				field.addEventListener('change', updateBirthday);
+			});
+			updateBirthday();
+		});
+	</script>
 @endsection
 
 @section('content')
@@ -54,12 +81,49 @@
 
 						        <div class="form-group">
 						        	<div class="row">
-						        		<div class="col-xs-4 col-md-4">
-						        			<x-form-select name="gender" selectLabel="{{ translate(186) }}" :options=$genders optionValueKey="value" optionLabelKey="name" />
-						        		</div>
-						        		<div class="col-xs-8 col-md-8">
-						        			<x-form-input type="date" name="birthday" label="{{ translate(187) }}" />
-						        		</div>
+					        		<div class="col-12 col-md-4">
+					        			<x-form-select name="gender" selectLabel="{{ translate(186) }}" :options=$genders optionValueKey="value" optionLabelKey="name" />
+					        		</div>
+					        		<div class="col-12 col-md-8">
+					        			@php
+					        				$oldBirthday = old('birthday');
+					        				$birthdayParts = $oldBirthday ? explode('-', $oldBirthday) : [];
+					        				$selectedYear = $birthdayParts[0] ?? '';
+					        				$selectedMonth = isset($birthdayParts[1]) ? (int) $birthdayParts[1] : '';
+					        				$selectedDay = isset($birthdayParts[2]) ? (int) $birthdayParts[2] : '';
+					        				$maximumYear = now()->subYears(18)->year;
+					        			@endphp
+					        			<div class="form-group">
+					        				<label class="form-label">{{ translate(187) }}</label>
+					        				<div class="row no-gutters">
+					        					<div class="col-3 pr-1">
+					        						<select id="birthday_day" class="form-control @error('birthday') is-invalid @enderror" required aria-label="Jour">
+					        							<option value="">JJ</option>
+					        							@for ($day = 1; $day <= 31; $day++)
+					        								<option value="{{ $day }}" {{ $selectedDay === $day ? 'selected' : '' }}>{{ str_pad($day, 2, '0', STR_PAD_LEFT) }}</option>
+					        							@endfor
+					        						</select>
+					        					</div>
+					        					<div class="col-5 px-1">
+					        						<select id="birthday_month" class="form-control @error('birthday') is-invalid @enderror" required aria-label="Mois">
+					        							<option value="">Mois</option>
+					        							@for ($month = 1; $month <= 12; $month++)
+					        								<option value="{{ $month }}" {{ $selectedMonth === $month ? 'selected' : '' }}>{{ str_pad($month, 2, '0', STR_PAD_LEFT) }}</option>
+					        							@endfor
+					        						</select>
+					        					</div>
+					        					<div class="col-4 pl-1">
+					        						<select id="birthday_year" class="form-control @error('birthday') is-invalid @enderror" required aria-label="Année">
+					        							<option value="">AAAA</option>
+					        							@for ($year = $maximumYear; $year >= $maximumYear - 100; $year--)
+					        								<option value="{{ $year }}" {{ (string) $selectedYear === (string) $year ? 'selected' : '' }}>{{ $year }}</option>
+					        							@endfor
+					        						</select>
+					        					</div>
+					        				</div>
+					        				<input type="hidden" id="birthday" name="birthday" value="{{ $oldBirthday }}">
+					        			</div>
+					        		</div>
 						        	</div>
 						        </div>
 

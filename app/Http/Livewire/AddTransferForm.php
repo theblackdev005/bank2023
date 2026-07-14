@@ -13,6 +13,7 @@ class AddTransferForm extends Component
     public $cards;
     public $paypals;
     public $recipients;
+    public $recipientMode = 'new';
 
     public $currentTab = 'cards';
 
@@ -31,10 +32,13 @@ class AddTransferForm extends Component
     {
         $this->transfert_ref_msg = $transfert_ref_msg;
         $this->customer = customer();
+        $this->newBalance = (float) $this->customer->balance;
+        $this->currentTab = old('payment_method', $this->currentTab);
+        $this->recipientMode = old('recipient_mode', $this->recipientMode);
 
         $this->paypals = $this->retreivePaypal();
         $this->cards = $this->customer->cards()->get();
-        $this->recipients = $this->customer->recipients()->get();
+        $this->recipients = $this->customer->recipients()->whereNotNull('approved_at')->get();
     }
 
     private function initPaypalVars()
@@ -83,7 +87,10 @@ class AddTransferForm extends Component
 
     public function updateBalanceAfterTyping()
     {
-        $subs = $this->customer->balance - floatval($this->balance_typing);
+        $typedAmount = str_replace(',', '.', (string) $this->balance_typing);
+        $typedAmount = (float) preg_replace('/[^0-9.\-]/', '', $typedAmount);
+        $subs = (float) $this->customer->balance - max(0, $typedAmount);
+
         if ( $subs < 0 ) {
             $this->newBalance = 0;
             $this->balanceTypingError = true;
@@ -91,6 +98,11 @@ class AddTransferForm extends Component
             $this->balanceTypingError = false;
             $this->newBalance = $subs;
         }
+    }
+
+    public function updatedBalanceTyping()
+    {
+        $this->updateBalanceAfterTyping();
     }
 
     public function retreivePaypal()

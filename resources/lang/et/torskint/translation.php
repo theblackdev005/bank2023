@@ -839,7 +839,7 @@ return array(
 	"TRAD_840" => "Pärast teie palvet on meie tiim astunud vajalikud meetmed, et raha teie kontolt välja võtta. Järgime kindlasti asjakohaseid turvaprotseduure, et tagada teie päringu usaldusväärne ja turvaline käsitlemine.",
 	"TRAD_841" => "Pange tähele, et taganemise töötlemise aeg võib erineda sõltuvalt meie ettevõtte konkreetsetest asjaoludest ja poliitikast. Püüame protsessi võimalikult kiiresti lõpule viia ja teavitame teid kõigist teie taotlusega seotud asjakohastest värskendustest.",
 	"TRAD_502v1" => "Selle tehinguga seotud %s makse kinnitamiseks palume teil sisestada kood, mille saite oma kontohaldurilt. See kood on teile antud turvalisuse eesmärgil, et kinnitada teie taotlust raha välja võtta ja tagada, et olete konto volitatud omanik.",
-	"TRAD_516v1" => "Pange tähele, et teie ülekandetaotluse töötlemine võib võtta vähemalt 48 tundi. Täname teie kannatlikkust teie taotluse töötlemise ajal.",
+	"TRAD_516v1" => "Seda ülekannet töödeldakse tavapärase tähtaja alusel ja see võib võtta kuni 24 tundi. Kui saaja konto toetab välkmakseid, võidakse ülekanne siiski teha kohe.",
 	"TRAD_842" => "Krediitkaardi number on kehtetu.",
 	"TRAD_843" => "Esitatud ülekandeviis ei kehti!",
 	"TRAD_844" => "Selle tehingu lõpus saate oma kontole summa %s.",
