@@ -1,5 +1,4 @@
 <?php
-
 return [
 	"TRAD_1" => "Tous droits réservés.",
 	"TRAD_26" => "Êtes-vous sûr de vouloir supprimer cette carte bancaire ?",
@@ -977,4 +976,19 @@ return [
 	"TRAD_929" => "",
 	"TRAD_930" => "",
 
+	'TRAD_1269' => 'Votre compte a été crédité',
+	'TRAD_1270' => 'Dépôt interne',
+	'TRAD_1271' => 'Cher client :name,',
+	'TRAD_1272' => 'Nous vous informons qu\'un montant a été ajouté au solde de votre compte.',
+	'TRAD_1273' => 'Détails de l\'opération :',
+	'TRAD_1274' => 'Montant ajouté :',
+	'TRAD_1275' => 'Nature de l\'opération :',
+	'TRAD_1276' => 'Compte concerné :',
+	'TRAD_1277' => 'Nouveau solde :',
+	'TRAD_1278' => 'Date et heure :',
+	'TRAD_1279' => 'Référence de l\'opération :',
+	'TRAD_1280' => 'Les fonds sont désormais disponibles sur votre compte.',
+	'TRAD_1281' => 'Vous pouvez consulter le solde de votre compte en vous connectant à votre espace client :',
+	'TRAD_1282' => 'Merci de votre confiance.',
+	'TRAD_1288' => 'Ouvrir mon espace client',
 ];

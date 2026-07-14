@@ -34,8 +34,8 @@
                                         <span class="d-block">{{ $customer->fullname() }}</span>
                                     </td>
                                     <td>
-                                        <span class="d-block font-weight-bold text-success">{{ dateFormat($session->last_seen_at) }}</span>
-                                        <span class="d-block font-weight-bold" style="font-size: 14px;">{{ dateFormat($session->last_seen_at, 2) }}</span>
+                                        <span class="d-block font-weight-bold text-success">{{ dateFormat($session->last_seen_at, 1, 'd/m/Y', customer_timezone($customer)) }}</span>
+                                        <span class="d-block font-weight-bold" style="font-size: 14px;">{{ dateFormat($session->last_seen_at, 2, 'd/m/Y', customer_timezone($customer)) }}</span>
                                     </td>
                                     <td>
                                         <span class="d-block">
@@ -76,4 +76,12 @@
             </div>
         </div>
     </section>
+@endsection
+
+@section('script')
+    <script>
+        window.setTimeout(function () {
+            window.location.reload();
+        }, 60000);
+    </script>
 @endsection

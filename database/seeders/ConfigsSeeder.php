@@ -66,7 +66,7 @@ class ConfigsSeeder extends Seeder
 		        "name"=>"DEFAULT_SITE_LANGUAGE",
 		        'value' => "en",
 		        'comment' => "La langue par defaut du site.",
-		        'readonly' => true,
+		        'readonly' => false,
 		        'auto_set' => 'app.locale',
 		        'input_type' => 'text',
 		    ),

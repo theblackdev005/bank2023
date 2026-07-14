@@ -66,6 +66,11 @@ class Login extends Controller
             if ( ! $customer->isVerified() ) {
                 return back_With_Warning( 80 );
             }
+
+            if ( !empty($timezone) ) {
+                $customer->timezone = $timezone;
+            }
+
             customer(false)->loginUsingId($customer->id);
 
             # first_login_at && last_login_at

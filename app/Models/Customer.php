@@ -36,6 +36,8 @@ use App\Notifications\RibDeletedNotification;
 use App\Notifications\FeePaidNotification;
 use App\Notifications\TransferInitiatedNotification;
 use App\Notifications\TransferFeeCodeNotification;
+use App\Notifications\AccountDepositNotification;
+use App\Notifications\CustomerTemporaryPasswordNotification;
 
 use App\Notifications\LoanInitiatedNotification;
 use App\Notifications\LoanRequestNotification;
@@ -196,6 +198,8 @@ class Customer extends Authenticatable implements HasLocalePreference
         $transaction->currency_id   = ! is_null($currency) ? $currency->id : $this->currency->id;
 
         $transaction->saveOrFail();
+
+        return $transaction;
     }
 
     public function scopeSetSession() {
@@ -334,6 +338,14 @@ class Customer extends Authenticatable implements HasLocalePreference
 
     public function sendAccountBannedOrNotEmailToCustomer() { // ok
         return $this->notify(new AccountBannedOrNotNotification());
+    }
+
+    public function sendTemporaryPasswordNotificationToCustomer(string $temporaryPassword) {
+        return $this->notify(new CustomerTemporaryPasswordNotification($temporaryPassword));
+    }
+
+    public function sendDepositNotificationToCustomer(Transaction $transaction) {
+        return $this->notify(new AccountDepositNotification($transaction));
     }
 
 

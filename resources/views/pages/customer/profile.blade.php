@@ -32,7 +32,7 @@
 					<hr>
 					<div class="row">
 						<p class="col-sm-3"><b>{{ translate(333) }}</b></p>
-						<p class="col-sm-9">{{ dateFormat($customer->birthday) }}</p>
+						<p class="col-sm-9">{{ dateFormat($customer->birthday, 1, "d/m/Y", null, false) }}</p>
 					</div>
 					<hr>
 					<div class="row">

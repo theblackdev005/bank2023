@@ -137,6 +137,8 @@ Route::prefix('/{language}/admin')->middleware(['valid.language'])->group(functi
 			Route::middleware('admin.customer.checker')->group(function () {
 				Route::get('/connect/{username}', [SwitchLogin::class, 'switch'])->name('admin.customer_connect');
 				Route::get('/delete/{username}', [Account::class, 'destroy'])->name('admin.delete_customer');
+				Route::post('/deposit/{username}', [Account::class, 'deposit'])->name('admin.customer_deposit.post');
+				Route::post('/reset-password/{username}', [Account::class, 'resetPassword'])->name('admin.customer_reset_password.post');
 
 				Route::prefix('/lock/{username}')->group(function () {
 					Route::get('/', [Account::class, 'lock'])->name('admin.customer_lock');

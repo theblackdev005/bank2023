@@ -22,7 +22,8 @@
 							<x-form-input type="password" label="{{ translate(654) }}" name="password_confirmation"/>
 							
 							<div class="form-group">
-								<button class="btn btn-dark btn-lg mt-1" type="submit">{{ translate(700) }}</button>
+								<button class="btn btn-success btn-lg mr-2 mb-2" type="submit">{{ translate(700) }}</button>
+								<a class="btn btn-dark btn-lg mb-2" href="{{ routeWithLocale('guest.login') }}">{{ translate(132) }}</a>
 							</div>
 						</form>
 					</div>

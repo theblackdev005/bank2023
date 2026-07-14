@@ -11,7 +11,7 @@
     <td class="col-lg-1 text-center">
         <x-customer-avatar size="60" src="{{ asset_avatar($customer->image) }}" />
     </td>
-    <td title="Inscrit le : {{ dateFormat($customer->created_at) }}" class="col-lg-6">
+    <td title="Inscrit le : {{ dateFormat($customer->created_at, 1, 'd/m/Y', customer_timezone($customer)) }}" class="col-lg-6">
         <div class="row">
             <div class="col-lg-6">
                 <span class="d-block">{{ $customer->fullname() }}</span>
@@ -34,19 +34,38 @@
                                 {{-- Modal Header --}}
                                 
                                 {{-- Modal Body --}}
-                                <div class="modal-body px-4 pt-2 pb-1">
+                                <div class="modal-body px-4 pt-3 pb-1">
+                                    <div class="mb-4">
+                                        <strong class="d-block mb-1">Correction du solde</strong>
+                                        <span class="d-block text-muted mb-3">Modifie directement le solde affiché. Aucune notification n’est envoyée au client.</span>
                                     <form action="{{ routeWithLocale('admin.customer_balance.post', $customer->username) }}" method="POST">
                                         @csrf
                                         
                                         <div class="form-group">
-                                            <label class="form-label required-field">{{ translate(616) }} ( en <span class="badge badge-info">{{ $customer->currency->name }}</span> )</label>
-                                            <input type="text" name="balance" value="{{ $customer->balance }}" autocapitalize="none" autocomplete="nope" autocorrect="off" class="form-control" required>
-                                            <input type="hidden" name="customer_id" value="{{ $customer->id }}" class="form-control d-none" required>
+                                            <label class="form-label required-field">Solde actuel ({{ $customer->currency->name }})</label>
+                                            <input type="number" min="0" step="0.01" name="balance" value="{{ $customer->balance }}" inputmode="decimal" class="form-control" required>
                                         </div>
                                         <div class="form-group">
-                                            <button type="submit" class="btn btn-success font-weight-bold m-0"><i class="fa fa-check-circle mr-1"></i> Maj</button>
+                                            <button type="submit" class="btn btn-outline-dark font-weight-bold m-0"><i class="fa fa-check-circle mr-1"></i> Mettre à jour</button>
                                         </div>
                                     </form>
+                                    </div>
+
+                                    <div class="border-top pt-4">
+                                        <strong class="d-block mb-1">Effectuer un dépôt</strong>
+                                        <span class="d-block text-muted mb-3">Ajoute le montant au solde, crée une transaction et informe le client par email.</span>
+                                        <form action="{{ routeWithLocale('admin.customer_deposit.post', $customer->username) }}" method="POST" class="confirm-action" data-message="Confirmer ce dépôt et envoyer la notification au client ?">
+                                            @csrf
+
+                                            <div class="form-group">
+                                                <label class="form-label required-field">Montant du dépôt ({{ $customer->currency->name }})</label>
+                                                <input type="number" min="0.01" step="0.01" name="amount" value="" inputmode="decimal" class="form-control" placeholder="0.00" required>
+                                            </div>
+                                            <div class="form-group">
+                                                <button type="submit" class="btn btn-success font-weight-bold m-0"><i class="fa fa-plus-circle mr-1"></i> Ajouter le dépôt</button>
+                                            </div>
+                                        </form>
+                                    </div>
                                 </div>
                                 {{-- Modal Body --}}
 

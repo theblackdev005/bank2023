@@ -21,6 +21,11 @@ class Session extends Controller
         return view('pages.customer.sessions', compact('sessions'));
     }
 
+    public function heartbeat()
+    {
+        return response()->noContent();
+    }
+
     /**
      * Show the form for creating a new resource.
      *

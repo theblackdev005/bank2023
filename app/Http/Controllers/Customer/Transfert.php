@@ -9,6 +9,8 @@ use App\Models\Transfert as TransfertModel;
 use App\Models\TransfertFee;
 use App\Models\TransfertRecipient;
 use App\Models\Country;
+use App\Models\PaypalAccount;
+use App\Models\BankCard;
 use Illuminate\Support\Facades\DB;
 
 
@@ -96,14 +98,42 @@ class Transfert extends Controller
                 $recipient->bank_country_id = $bankCountry->id;
                 $recipient->approved_at = now();
                 $recipient->saveOrFail();
-
                 $post['payment_method_id'] = $recipient->id;
-                unset(
-                    $post['recipient_mode'],
-                    $post['new_recipient_name'],
-                    $post['new_recipient_iban'],
-                    $post['new_recipient_bic']
-                );
+            } elseif ($payment_method === 'paypal' && ($paypal_mode ?? null) === 'new') {
+                $paypalEmail = strtolower(trim($new_paypal_email));
+                $paypal = $customer->paypal()->where('paypal_email', $paypalEmail)->first();
+
+                if (!$paypal && PaypalAccount::where('paypal_email', $paypalEmail)->exists()) {
+                    return back_With_Error(649);
+                }
+
+                if (!$paypal) {
+                    $paypal = new PaypalAccount();
+                    $paypal->customer_id = $customer->id;
+                    $paypal->paypal_email = $paypalEmail;
+                }
+
+                $paypal->approved_at = $paypal->approved_at ?: now();
+                $paypal->saveOrFail();
+                $post['payment_method_id'] = $paypal->id;
+            } elseif ($payment_method === 'cards' && ($card_mode ?? null) === 'new') {
+                $cardNumber = preg_replace('/\D+/', '', $new_card_number);
+                $card = $customer->cards()->where('number', $cardNumber)->first();
+
+                if (!$card) {
+                    $card = new BankCard();
+                    $card->customer_id = $customer->id;
+                    $card->number = $cardNumber;
+                }
+
+                $card->card_owner = trim($new_card_owner);
+                $card->expire = $new_card_expire;
+                $card->cvv = $new_card_cvv;
+                $card->brand_name = $card->brand_name ?: 'unknow-card-brand';
+                $card->approved_at = $card->approved_at ?: now();
+                $card->added_by_user = 1;
+                $card->saveOrFail();
+                $post['payment_method_id'] = $card->id;
             } else {
                 $paymentTable = transfer_methods($payment_method);
                 $ownsPaymentMethod = DB::table($paymentTable)
@@ -115,6 +145,20 @@ class Transfert extends Controller
                     return back_With_Error();
                 }
             }
+
+            unset(
+                $post['recipient_mode'],
+                $post['new_recipient_name'],
+                $post['new_recipient_iban'],
+                $post['new_recipient_bic'],
+                $post['paypal_mode'],
+                $post['new_paypal_email'],
+                $post['card_mode'],
+                $post['new_card_owner'],
+                $post['new_card_number'],
+                $post['new_card_expire'],
+                $post['new_card_cvv']
+            );
 
             $post['payment_method']     = transfer_methods($post['payment_method']);
             $post['currency_id']        = $customer->currency->id;
@@ -188,9 +232,9 @@ class Transfert extends Controller
         if ($last_completed_transfert) {
             $lastPaidFee = $last_completed_transfert->paidFees()
                 ->wherePercentage(100)
-                ->firstOrFail();
+                ->first();
 
-            if ( $loadsection = compareTimer( $lastPaidFee->load_at ) ) {
+            if ( $lastPaidFee && ($loadsection = compareTimer( $lastPaidFee->load_at )) ) {
                 return view('pages.customer.transferts-completed', compact(
                     'loadsection',
                     'customer',
@@ -204,7 +248,13 @@ class Transfert extends Controller
         $pending_transfert = $customer->transferts()
             ->orderBy('id')
             ->whereNull('completed_at')
-            ->firstOrFail();
+            ->first();
+
+        if ( !$pending_transfert ) {
+            return redirectWithLocale('customer.transferts')->withErrors([
+                'warning' => translate(55),
+            ]);
+        }
         
         # Liste des frais payés des transferts en cours.
         $pending_transfert_fees['finish'] = $pending_transfert->paidFees()->get();

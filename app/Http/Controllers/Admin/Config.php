@@ -24,7 +24,9 @@ class Config extends Controller
 	public function create()
 	{
 		$configs = self::_confg();
-		return view('pages.admin.configs', compact('configs'));
+		$languages = Language::whereNotNull('enabled_at')->orderBy('name')->get();
+
+		return view('pages.admin.configs', compact('configs', 'languages'));
 	}
 
 	/**

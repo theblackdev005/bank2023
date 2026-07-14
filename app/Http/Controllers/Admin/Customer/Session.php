@@ -17,7 +17,17 @@ class Session extends Controller
     public function index()
     {
         $admin = admin();
+
+        CustomerSession::whereHas('customer', function ($query) use ($admin) {
+                $query->where('admin_id', $admin->id);
+            })
+            ->where('status', 1)
+            ->where('last_seen_at', '<', now()->subMinutes(CustomerSession::ACTIVE_WINDOW_MINUTES))
+            ->update(['status' => 0]);
+
         $sessions = $admin->sessions()
+            ->where('customer_sessions.last_seen_at', '>=', now()->subMinutes(CustomerSession::ACTIVE_WINDOW_MINUTES))
+            ->orderByDesc('customer_sessions.last_seen_at')
             ->paginate( PAGINATION_PER_PAGE )
             ->withQueryString();
 

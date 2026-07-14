@@ -46,6 +46,8 @@ class LoginRequest extends FormRequest
             ];
         }
 
+        $rules['timezone'] = ['nullable', 'timezone'];
+
         return $rules;
     }
 }

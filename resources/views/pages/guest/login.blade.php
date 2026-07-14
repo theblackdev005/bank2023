@@ -4,6 +4,14 @@
 	@if ( GOOGLE_RECAPTCHA_ENABLED )
 		<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 	@endif
+	<script>
+		document.addEventListener('DOMContentLoaded', function () {
+			const timezone = document.querySelector('input[name="timezone"]');
+			if (timezone && window.Intl) {
+				timezone.value = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+			}
+		});
+	</script>
 @endsection
 
 @section('content')
@@ -14,12 +22,12 @@
 					<div class="bg-with-covered-image auth-pd">
 						<form method="POST" action="{{ routeWithLocale('guest.login.post') }}" class="form-need-validation0 mb-3">
 							@csrf
+							<input type="hidden" name="timezone" value="">
 							
 							<div class="section-title mb-3">
 								<h1 class="text-theme title pm-0">{{ translate(150) }}</h1>
 								<div>
 									<p>{{ translate(30) }}</p>
-									<p><i class="fa fa-info-circle"></i> {{ translate(205) }} : <a class="text-bold text-theme" href="{{ routeWithLocale('guest.register') }}">{{ translate(134) }}</a>.</p>
 								</div>
 							</div>
 							
@@ -73,10 +81,17 @@
 									label="{{ translate(204) }}" />
 							@endif
 
+							<div class="form-group text-right mb-3">
+								<a href="{{ routeWithLocale('guest.password_forget') }}" class="text-theme font-weight-bold">
+									{{ translate(136) }} ?
+								</a>
+							</div>
+
 							<x-recaptcha></x-recaptcha>
 							
-							<div class="form-group">
-								<button type="submit" class="btn btn-success btn-lg mt-1">{{ translate(150) }}</button>
+							<div class="form-group d-flex flex-wrap align-items-center">
+								<button type="submit" class="btn btn-success btn-lg mr-2 mb-2">{{ translate(132) }}</button>
+								<a href="{{ routeWithLocale('guest.register') }}" class="btn btn-dark btn-lg mb-2">{{ translate(134) }}</a>
 							</div>
 							<div class="mt-5">
 								<p class="text-danger">{!! translate(642) !!}</p>

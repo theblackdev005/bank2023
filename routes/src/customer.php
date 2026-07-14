@@ -12,6 +12,14 @@ use \App\Http\Controllers\Customer\Loan;
 use \App\Http\Controllers\Customer\App;
 use \App\Http\Controllers\Customer\Rib;
 
+Route::post('/{language}/customer/timezone', [Account::class, 'timezone'])
+	->middleware(['valid.language', 'auth:customer'])
+	->name('customer.timezone.update');
+
+Route::post('/{language}/customer/session/heartbeat', [Session::class, 'heartbeat'])
+	->middleware(['valid.language', 'auth:customer', 'track.customer.session'])
+	->name('customer.session.heartbeat');
+
 Route::prefix('/{language}/customer')->middleware([
 	'from.valid.country',
 	'valid.language',

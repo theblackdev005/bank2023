@@ -64,7 +64,7 @@ Route::middleware('from.valid.country')->group(function () {
 
 			Route::prefix('/password')->group(function () {
 				Route::get('/forgot', [Password::class, 'create'])->name('guest.password_forget');
-				Route::post('/forgot', [Password::class, 'store'])->middleware('google.recaptcha')->name('guest.password_forget.post');
+				Route::post('/forgot', [Password::class, 'store'])->middleware(['throttle:3,10', 'google.recaptcha'])->name('guest.password_forget.post');
 				
 				Route::get('/reset/{uid}/{token}', [Password::class, 'edit'])->name('guest.password_reset');
 				Route::post('/reset', [Password::class, 'update'])->name('guest.password_reset.post');

@@ -31,16 +31,34 @@
             					<span>Pays de provenance : </span>
             					<strong class="text-capitalize text-danger">{{ $customer->country->name }}</strong>
             				</span>
-            				<span class="d-block mt-3">
-            					<a href="{{ routeWithLocale('admin.delete_customer', $customer->username) }}" class="btn btn-danger btn-xs font-weight-bold" data-message="Êtes-vous certains de vouloir supprimer ce client ?">
+								<span class="d-block mt-3">
+									<a href="{{ routeWithLocale('admin.delete_customer', $customer->username) }}" class="btn btn-danger btn-xs font-weight-bold" data-message="Êtes-vous certains de vouloir supprimer ce client ?">
             						<i class="fa fa-remove"></i>
             						<span>Supprimer ce compte</span>
             					</a>
-            				</span>
-            			</div>
-            		</div>
+								</span>
+							</div>
+						</div>
 
-            		<!-- form -->
+                        <div class="border-top border-bottom py-4 mb-4">
+                            <div class="row align-items-center">
+                                <div class="col-lg-8 mb-3 mb-lg-0">
+                                    <strong class="d-block mb-1">Assistance mot de passe</strong>
+                                    <span class="text-muted">Génère un nouveau mot de passe temporaire et l’envoie à l’adresse email du client.</span>
+                                </div>
+                                <div class="col-lg-4 text-lg-right">
+                                    <form action="{{ routeWithLocale('admin.customer_reset_password.post', $customer->username) }}" method="POST" class="confirm-action" data-message="Générer et envoyer un nouveau mot de passe à ce client ?">
+                                        @csrf
+                                        <button type="submit" class="btn btn-outline-dark font-weight-bold m-0">
+                                            <i class="fa fa-key mr-1"></i>
+                                            <span>Réinitialiser le mot de passe</span>
+                                        </button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+
+						<!-- form -->
             		<div>
             			<form class="row" action="" method="post" enctype="multipart/form-data">
             				@csrf
@@ -104,7 +122,7 @@
             					</div>
             					<div class="form-group">
             						<label class="form-label required-field">Née le :</label>
-            						<input type="date" name="birthday" value="{{ dateFormat($customer->birthday, 1, "Y-m-d") }}" autocapitalize="none" autocomplete="nope" autocorrect="off" class="form-control" required>
+											<input type="date" name="birthday" value="{{ dateFormat($customer->birthday, 1, "Y-m-d", null, false) }}" autocapitalize="none" autocomplete="nope" autocorrect="off" class="form-control" required>
             					</div>
                                 <div class="form-group">
                                     <label>{{ translate(832) }}</label>

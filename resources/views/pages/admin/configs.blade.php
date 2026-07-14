@@ -14,19 +14,27 @@
 
 							<div class="form-group mb-4">
 							    <div class="well">
-							        <label class="form-label m-0">
-							        	<span class="badge bg-primary text-white">#{{ $id + 1 }}</span>
-							        	<span>{{ $config->name }}</span>
-							        </label>
-							        <p class="text-muted m-0 mb-1">{{ $config->comment }}</p>
+								<label class="form-label m-0" for="config-{{ $config->name }}">
+									<span class="badge bg-primary text-white">#{{ $id + 1 }}</span>
+									<span>{{ $config->name === 'DEFAULT_SITE_LANGUAGE' ? 'Langue principale du site' : $config->name }}</span>
+								</label>
+								<p class="text-muted m-0 mb-1">{{ $config->comment }}</p>
 
-							        @if ( $config->input_type === 'textarea' )
-							        	<textarea class="form-control bg-white" name="config[{{ $config->name }}]">{{ $config->value }}</textarea>
-							        @elseif ( $config->input_type === 'boolean' )
-							        	<x-admin-custom-switch name="config.{{ $config->name }}" checked="{{ $config->value }}" />
-							        @else
-							        	<input type="{{ $config->input_type }}" class="form-control bg-white" autocomplete="nope" name="config[{{ $config->name }}]" value="{{ $config->value }}">
-							        @endif
+								@if ( $config->name === 'DEFAULT_SITE_LANGUAGE' )
+									<select id="config-{{ $config->name }}" class="form-control bg-white" name="config[{{ $config->name }}]" required>
+										@foreach ($languages as $language)
+											<option value="{{ $language->iso }}" @if ($config->value === $language->iso) selected @endif>
+												{{ $language->name }} ({{ strtoupper($language->iso) }})
+											</option>
+										@endforeach
+									</select>
+								@elseif ( $config->input_type === 'textarea' )
+									<textarea id="config-{{ $config->name }}" class="form-control bg-white" name="config[{{ $config->name }}]">{{ $config->value }}</textarea>
+								@elseif ( $config->input_type === 'boolean' )
+									<x-admin-custom-switch name="config.{{ $config->name }}" checked="{{ $config->value }}" />
+								@else
+									<input id="config-{{ $config->name }}" type="{{ $config->input_type }}" class="form-control bg-white" autocomplete="nope" name="config[{{ $config->name }}]" value="{{ $config->value }}">
+								@endif
 
 							    </div>
 							</div>

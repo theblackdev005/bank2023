@@ -29,6 +29,22 @@ class Account extends Controller
         ));
     }
 
+    public function timezone(Request $request)
+    {
+        $data = $request->validate([
+            'timezone' => ['required', 'timezone'],
+        ]);
+
+        $customer = customer();
+
+        if ( $customer->timezone !== $data['timezone'] ) {
+            $customer->timezone = $data['timezone'];
+            $customer->saveOrFail();
+        }
+
+        return response()->noContent();
+    }
+
     /**
      * Show the form for editing the specified resource.
      *

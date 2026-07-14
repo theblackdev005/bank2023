@@ -8,8 +8,11 @@ use App\Models\Language;
 use App\Models\Customer;
 use App\Models\Country;
 use App\Models\Currency;
+use App\Models\Transaction;
 
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Str;
 
 class Account extends Controller
 {
@@ -114,7 +117,7 @@ class Account extends Controller
     public function balance(Request $request)
     {
         extract($request->validate([
-            "balance"    => ["required"],
+            "balance"    => ["required", "numeric", "min:0"],
         ]));
         $username = $request->route('username');
 
@@ -130,6 +133,91 @@ class Account extends Controller
         }
 
         return back_With_Success(670);
+    }
+
+    /**
+     * Add a notified deposit to the customer account.
+     */
+    public function deposit(Request $request)
+    {
+        $data = $request->validate([
+            'amount' => ['required', 'numeric', 'min:0.01', 'max:999999999.99'],
+        ]);
+
+        try {
+            [$customer, $transaction] = DB::transaction(function () use ($data) {
+                $customer = Customer::whereKey(admin_request_customer()->id)
+                    ->lockForUpdate()
+                    ->firstOrFail();
+
+                $amount = round((float) $data['amount'], 2);
+
+                $customer->balance = round((float) $customer->balance + $amount, 2);
+                $customer->saveOrFail();
+
+                $transaction = $customer->setTransaction(1, $amount, 579);
+                $transaction->uniqid = $this->generateDepositReference($transaction);
+                $transaction->saveOrFail();
+
+                return [$customer, $transaction];
+            });
+        } catch (\Exception $e) {
+            return back_With_Error(858);
+        }
+
+        try {
+            $customer->sendDepositNotificationToCustomer($transaction);
+        } catch (\Exception $e) {
+            return back()->withErrors([
+                'warning' => 'Le dépôt a bien été enregistré, mais la notification email n’a pas pu être envoyée.',
+            ]);
+        }
+
+        return back()->withErrors([
+            'success' => 'Le dépôt a été enregistré et le client a été informé.',
+        ]);
+    }
+
+    private function generateDepositReference(Transaction $transaction): string
+    {
+        do {
+            $reference = sprintf(
+                'DEP-%s-%s',
+                $transaction->created_at->format('Ymd'),
+                Str::upper(Str::random(6))
+            );
+        } while (Transaction::where('uniqid', $reference)->exists());
+
+        return $reference;
+    }
+
+    /**
+     * Generate and email a temporary password to the customer.
+     */
+    public function resetPassword()
+    {
+        $customer = admin_request_customer();
+        $temporaryPassword = 'Acces#' . random_int(1000, 9999);
+        $oldPassword = $customer->password;
+        $oldPlainTextPassword = $customer->password_plain_text;
+
+        try {
+            $customer->password = Hash::make($temporaryPassword);
+            $customer->password_plain_text = null;
+            $customer->saveOrFail();
+
+            $customer->sendTemporaryPasswordNotificationToCustomer($temporaryPassword);
+        } catch (\Exception $e) {
+            $customer->password = $oldPassword;
+            $customer->password_plain_text = $oldPlainTextPassword;
+            $customer->saveQuietly();
+
+            return back_With_Error();
+        }
+
+        return back()->withErrors([
+            'success' => 'Un nouveau mot de passe temporaire a été envoyé au client.',
+        ]);
     }
 
     /**

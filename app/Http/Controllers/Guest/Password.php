@@ -5,13 +5,10 @@ namespace App\Http\Controllers\Guest;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
-use \Illuminate\Support\Str;
-use Illuminate\Support\Facades\DB;
 use App\Models\Customer;
 use App\Models\PasswordReset as PasswordResetModel;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Password as PasswordFacade;
-use Illuminate\Auth\Events\PasswordReset as PasswordResetEvent;
 
 class Password extends Controller
 {
@@ -34,17 +31,19 @@ class Password extends Controller
      */
     public function store(Request $request)
     {
-        $usingEmail = filter_var($request->username, FILTER_VALIDATE_EMAIL);
+        $data = $request->validate([
+            'username' => 'required|string|max:255',
+        ]);
 
-        extract( $request->validate([
-            'username' => $usingEmail 
-                ? 'required|email|exists:customers,email'
-                : 'required|string|exists:customers,username',
-        ]) );
+        $username = trim($data['username']);
+        $usingEmail = filter_var($username, FILTER_VALIDATE_EMAIL) !== false;
+        $customer = Customer::where($usingEmail ? 'email' : 'username', $username)->first();
+
+        if (! $customer) {
+            return back_With_Success(84);
+        }
 
         try {
-            $customer   = Customer::where( $usingEmail ? 'email' : 'username', $username)->firstOrFail();
-
             if ( ($status = PasswordFacade::sendResetLink(['email' => $customer->email])) <> PasswordFacade::RESET_LINK_SENT ) {
                 return back_With_Error( __($status) );
             }
@@ -54,11 +53,15 @@ class Password extends Controller
         }
 
         # Notification à l'administrateur
-        if ( $customer->admin ) {
-            $customer->admin->sendCustomerActivityToAdmin([
-                'title'     => $customer->fullname() . " - mot de passe perdu !",
-                'message'   => "vient de faire une demande de mot de passe !",
-            ]);
+        if ($customer->admin) {
+            try {
+                $customer->admin->sendCustomerActivityToAdmin([
+                    'title' => $customer->fullname() . " - mot de passe perdu !",
+                    'message' => "vient de faire une demande de réinitialisation de mot de passe.",
+                ]);
+            } catch (\Throwable $e) {
+                report($e);
+            }
         }
 
         return back_With_Success(84);
@@ -124,7 +127,7 @@ class Password extends Controller
         );
         
         return ($status === PasswordFacade::PASSWORD_RESET)
-            ? redirectWithLocale('guest.password_forget')->withErrors([ 'success' => __($status) ])
+            ? redirectWithLocale('guest.login')->withErrors([ 'success' => __($status) ])
             : back_With_Error( __($status) );
     }
 }

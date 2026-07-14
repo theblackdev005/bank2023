@@ -3,6 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="csrf-token" content="{{ csrf_token() }}">
 
 	@if ( !empty($loadsection["rest"]) )
 		<meta http-equiv="refresh" content="{{ $loadsection["rest"]+10 }}">
@@ -368,6 +369,46 @@
 	{{-- intl --}}
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
 	<script type="text/javascript" src="{{ asset_js('iti.custom.js') }}"></script>
+
+	<script>
+		document.addEventListener('DOMContentLoaded', function () {
+			if (!window.Intl || !window.fetch) return;
+
+			const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+			const savedTimezone = @json(customer()->timezone);
+			const loginUrl = @json(routeWithLocale('guest.login'));
+
+			if (timezone && timezone !== savedTimezone) {
+				fetch(@json(routeWithLocale('customer.timezone.update')), {
+					method: 'POST',
+					headers: {
+						'Content-Type': 'application/json',
+						'Accept': 'application/json',
+						'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').content
+					},
+					body: JSON.stringify({ timezone: timezone })
+				});
+			}
+
+			const heartbeat = function () {
+				fetch(@json(routeWithLocale('customer.session.heartbeat')), {
+					method: 'POST',
+					headers: {
+						'Accept': 'application/json',
+						'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').content
+					}
+				}).then(function (response) {
+					if (response.redirected || response.status === 401 || response.status === 419) {
+						window.location.href = response.redirected ? response.url : loginUrl;
+					}
+				}).catch(function () {
+					// A temporary network interruption must not replace the current page.
+				});
+			};
+
+			window.setInterval(heartbeat, 60000);
+		});
+	</script>
 
 	@yield('script')
 	@livewireScripts

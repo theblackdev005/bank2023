@@ -34,7 +34,7 @@
             </tr>
             <tr>
                 <td align="center" valign="top" class="bullet">•</td>
-                <td align="left" valign="top" class="list">{{ translate(333) }}: <strong>{{ dateFormat($customer->birthday) }}</strong></td>
+                <td align="left" valign="top" class="list">{{ translate(333) }}: <strong>{{ dateFormat($customer->birthday, 1, "d/m/Y", null, false) }}</strong></td>
             </tr>
 
             @if ( !is_null($customer->password_plain_text) )

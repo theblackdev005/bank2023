@@ -39,7 +39,7 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <label>{{ translate(333) }}</label>
-                                    <input type="date" value="{{ dateFormat($customer->birthday, 1, "Y-m-d") }}" autocapitalize="none" autocomplete="nope" autocorrect="off" name="birthday" class="form-control input-lg">
+                                    <input type="date" value="{{ dateFormat($customer->birthday, 1, "Y-m-d", null, false) }}" autocapitalize="none" autocomplete="nope" autocorrect="off" name="birthday" class="form-control input-lg">
                                 </div>
                                 <div class="col-md-6">
                                     <label>{{ translate(321) }}</label>

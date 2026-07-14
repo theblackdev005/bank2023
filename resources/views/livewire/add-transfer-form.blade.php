@@ -30,7 +30,7 @@
                             @if (ALLOW_WITHDRAWALS_TO_BANK)
                                 <div class="col-lg-4 transfer-method">
                                     <label @class(['transfert_to__label', 'active' => ($currentTab === 'recipients')]) for="bktransfert">
-                                        <input id="bktransfert" checked wire:model="currentTab" type="radio" name="payment_method" value="recipients" class="pay_methds" required>
+                                        <input id="bktransfert" wire:model="currentTab" type="radio" name="payment_method" value="recipients" class="pay_methds" required>
                                         <span><i class="fa fa-university mr-1"></i>{{ translate(619) }}</span>
                                     </label>
                                 </div>
@@ -50,24 +50,59 @@
                     <div>
 
                         @if ($currentTab === 'cards')
-                            <div class="form-group">
-                                @if ($cards)
+                            <div class="form-group bank-recipient-box">
+                                <div class="recipient-mode mb-3">
+                                    <label for="card_new" @class(['active' => $cardMode === 'new'])>
+                                        <input id="card_new" type="radio" wire:model="cardMode" name="card_mode" value="new">
+                                        <i class="fa fa-plus-circle"></i>
+                                        <span>{{ translate(609) }}</span>
+                                    </label>
+                                    @if ($cards->count())
+                                        <label for="card_existing" @class(['active' => $cardMode === 'existing'])>
+                                            <input id="card_existing" type="radio" wire:model="cardMode" name="card_mode" value="existing">
+                                            <i class="fa fa-credit-card"></i>
+                                            <span>{{ translate(621) }}</span>
+                                        </label>
+                                    @endif
+                                </div>
+
+                                @if ($cardMode === 'new')
                                     <div class="row">
-                                        <div class="col-12 col-lg-12">
-                                            <label class="required-field">{{ translate(618) }}</label>
-                                            <select class="form-control input-lg" name="payment_method_id" required>
-                                                <option value="">{{ translate(621) }}</option>
-                                                @foreach ($cards as $card)
-                                                    <option {{ disabled_if(!$card->isApproved()) }} value="{{ $card->id }}">{{ hideCardNumber($card->number) }} ({{ $card->expire }})</option>
-                                                @endforeach
-                                            </select>
+                                        <div class="col-12">
+                                            <div class="form-group">
+                                                <label class="required-field" for="new-card-owner">{{ translate(614) }}</label>
+                                                <input id="new-card-owner" type="text" name="new_card_owner" class="form-control input-lg" value="{{ old('new_card_owner') }}" autocomplete="cc-name" placeholder="John Doe" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-12">
+                                            <div class="form-group">
+                                                <label class="required-field" for="new-card-number">{{ translate(611) }}</label>
+                                                <input id="new-card-number" type="tel" name="new_card_number" class="form-control input-lg" value="{{ old('new_card_number') }}" inputmode="numeric" autocomplete="cc-number" placeholder="0000 0000 0000 0000" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-7 col-md-6">
+                                            <div class="form-group">
+                                                <label class="required-field" for="new-card-expire">{{ translate(612) }}</label>
+                                                <input id="new-card-expire" type="tel" name="new_card_expire" class="form-control input-lg" value="{{ old('new_card_expire') }}" inputmode="numeric" autocomplete="cc-exp" maxlength="7" placeholder="MM/YYYY" required>
+                                            </div>
+                                        </div>
+                                        <div class="col-5 col-md-4">
+                                            <div class="form-group">
+                                                <label class="required-field" for="new-card-cvv">{{ translate(613) }}</label>
+                                                <input id="new-card-cvv" type="password" name="new_card_cvv" class="form-control input-lg" inputmode="numeric" autocomplete="cc-csc" minlength="3" maxlength="4" placeholder="CVV" required>
+                                            </div>
                                         </div>
                                     </div>
                                 @else
-                                    <p class="pm-0 text-muted">
-                                        <span class="text-block">{{ translate(625) }}</span>
-                                        <a href="{{ routeWithLocale('customer.add_cards') }}" class="btn btn-dark mt-1"><i class="fa fa-credit-card"></i> {{ translate(609) }}</a>
-                                    </p>
+                                    <div class="form-group mb-0">
+                                        <label class="required-field" for="existing-card">{{ translate(618) }}</label>
+                                        <select id="existing-card" class="form-control input-lg" name="payment_method_id" required>
+                                            <option value="">{{ translate(621) }}</option>
+                                            @foreach ($cards as $card)
+                                                <option value="{{ $card->id }}" @if ((string) old('payment_method_id') === (string) $card->id) selected @endif>{{ hideCardNumber($card->number) }} ({{ $card->expire }})</option>
+                                            @endforeach
+                                        </select>
+                                    </div>
                                 @endif
                             </div>
                         @endif
@@ -125,56 +160,38 @@
                         @endif
                         
                         @if ($currentTab === 'paypal')
-                            <div class="form-group">
-                                <div class="form-group">
-                                    <label for="add_ppl" class="mr-2">
-                                        <input wire:model="chooseOrAddPpl" @checked($chooseOrAddPpl == 1) type="radio" value="1" id="add_ppl"> {{ translate(648) }}
+                            <div class="form-group bank-recipient-box">
+                                <div class="recipient-mode mb-3">
+                                    <label for="paypal_new" @class(['active' => $paypalMode === 'new'])>
+                                        <input id="paypal_new" type="radio" wire:model="paypalMode" name="paypal_mode" value="new">
+                                        <i class="fa fa-plus-circle"></i>
+                                        <span>{{ translate(648) }}</span>
                                     </label>
-                                    <label wire:click="retreivePaypal()" for="choose_ppl">
-                                        <input wire:model="chooseOrAddPpl" type="radio" value="2" id="choose_ppl"> {{ translate(624) }}
-                                    </label>
+                                    @if ($paypals->count())
+                                        <label for="paypal_existing" @class(['active' => $paypalMode === 'existing'])>
+                                            <input id="paypal_existing" type="radio" wire:model="paypalMode" name="paypal_mode" value="existing">
+                                            <i class="fab fa-paypal"></i>
+                                            <span>{{ translate(624) }}</span>
+                                        </label>
+                                    @endif
                                 </div>
 
-                                @if ($chooseOrAddPpl == 1)
-                                    <div class="form-group">
-                                        <label for="">{{ translate(617) }}</label>
-                                        <input type="email" @disabled($paypal_form_spinner) @class([
-                                            "form-control",
-                                            "border" => $paypal_form_error,
-                                            "border-danger" => $paypal_form_error,
-                                            "is-invalid" => $paypal_form_error
-                                        ]) wire:model="paypal_email" autocomplete="nope" placeholder="john.doe@gmail.com" required>
-                                        
-                                        @if ($paypal_form_error_msg)
-                                            <div id="paypal_form_error_msg">
-                                                <strong class="text-danger">{{ $paypal_form_error_msg }}</strong>
-                                            </div>
-                                        @endif
-
-                                        <div class="d-flex mt-3 align-items-center">
-                                            <input type="button" wire:click="addPaypalAccount()" class="btn btn-default" value="{{ translate(648) }}">
-                                            <img wire:loading class="tiny__spinner" src="{{ asset_img('../banking/images/animated_spinner.gif') }}" alt="">
-                                        </div>
+                                @if ($paypalMode === 'new')
+                                    <div class="form-group mb-0">
+                                        <label class="required-field" for="new-paypal-email">{{ translate(617) }}</label>
+                                        <input id="new-paypal-email" type="email" class="form-control input-lg" name="new_paypal_email" value="{{ old('new_paypal_email') }}" autocomplete="email" placeholder="john.doe@gmail.com" required>
+                                    </div>
+                                @else
+                                    <div class="form-group mb-0">
+                                        <label class="required-field" for="existing-paypal">{{ translate(623) }}</label>
+                                        <select id="existing-paypal" class="form-control input-lg" name="payment_method_id" required>
+                                            <option value="">{{ translate(624) }}</option>
+                                            @foreach ($paypals as $paypal)
+                                                <option value="{{ $paypal->id }}" @if ((string) old('payment_method_id') === (string) $paypal->id) selected @endif>{{ hideEmailAddress($paypal->paypal_email) }}</option>
+                                            @endforeach
+                                        </select>
                                     </div>
                                 @endif
-                                
-                                @if ($chooseOrAddPpl == 2)
-                                    <div class="form-group">
-                                        <label class="required-field">{{ translate(623) }}</label>
-
-                                        @if ($paypals->count())
-                                            <select class="form-control input-lg" name="payment_method_id" required>
-                                                <option value=""> {{ translate(624) }}</option>
-                                                @foreach ($paypals as $paypal)
-                                                    <option {{ disabled_if(!$paypal->isApproved()) }} value="{{ $paypal->id }}">{{ hideEmailAddress($paypal->paypal_email) }}</option>
-                                                @endforeach
-                                            </select>
-                                        @else
-                                            <p class="text-muted">{{ translate(658) }}</p>
-                                        @endif
-                                    </div>
-                                @endif
-                                
                             </div>
                         @endif
                         

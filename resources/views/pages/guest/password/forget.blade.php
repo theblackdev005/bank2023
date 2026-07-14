@@ -10,8 +10,7 @@
 	<section class="two-partite shadow-none">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-lg-6 bg-with-covered-image" style="background-image: url({{ asset_img('security-1.jpg') }});"></div>
-				<div class="col-lg-6">
+				<div class="col-lg-6 bg-white">
 					<div class="bg-with-covered-image auth-pd">
 						<form method="POST" action="{{ routeWithLocale('guest.password_forget.post') }}">
 							@csrf
@@ -22,30 +21,21 @@
 							</div>
 							<x-alert />
 
-							<x-form-input placeholder="123456" label="{{ translate(203) }}" name="username"/>
+							<x-form-input label="{{ translate(203) }}" name="username"/>
 							<x-recaptcha />
 							
-							<div class="form-group">
-								<button class="btn btn-dark btn-lg mt-1" type="submit">{{ translate(208) }}</button>
+							<div class="form-group d-flex flex-wrap align-items-center">
+								<button class="btn btn-success btn-lg mr-2 mb-2" type="submit">{{ translate(208) }}</button>
+								<a class="btn btn-dark btn-lg mb-2" href="{{ routeWithLocale('guest.login') }}">{{ translate(132) }}</a>
 							</div>
+							<p class="text-muted mb-0">{{ translate(205) }} : <a class="text-theme font-weight-bold" href="{{ routeWithLocale('guest.register') }}">{{ translate(134) }}</a>.</p>
 						</form>
 					</div>
 				</div>
+				<div class="col-lg-6 bg-with-covered-image" style="background-image: url({{ asset_img('security-1.jpg') }});"></div>
 			</div>
 		</div>
 	</section>
-
-	<div class="book-area py-5 bg-theme-dark">
-	    <div class="container">
-	        <div class="book-content text-center">
-	            <h2>{{ translate(29) }}</h2>
-	            <p>{{ translate(591) }}</p>
-	            <a class="btn mt-4 btn-secondary" href="{{ routeWithLocale('guest.register') }}">
-	                {{ translate(134) }}
-	            </a>
-	        </div>
-	    </div>
-	</div>
 
 	<section class="partners-section-horizontal shadow-none bg-white">
 	    <x-partners></x-partners>

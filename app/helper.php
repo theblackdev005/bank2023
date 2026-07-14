@@ -7,6 +7,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\App;
 use App\Models\Currency;
 use App\Models\Customer;
+use App\Models\CustomerSession;
 use App\Models\Transfert;
 use Carbon\Carbon;
 use App\Models\TransfertRecipient;
@@ -96,9 +97,48 @@ if ( ! function_exists('isValidSwiftCode') ) {
 	}
 }
 
+if ( ! function_exists('customer_timezone') ) {
+	function customer_timezone(Customer $customer = null) {
+		static $routeCustomer = null;
+
+		if ( is_null($customer) && Auth::guard('customer')->check() ) {
+			$customer = Auth::guard('customer')->user();
+		}
+
+		if ( is_null($customer) && Auth::guard('admin')->check() && request()->route('username') ) {
+			if ( is_null($routeCustomer) || $routeCustomer->username !== request()->route('username') ) {
+				$routeCustomer = Customer::whereUsername(request()->route('username'))->first();
+			}
+			$customer = $routeCustomer;
+		}
+
+		if ( $customer && !empty($customer->timezone) && in_array($customer->timezone, timezone_identifiers_list(), true) ) {
+			return $customer->timezone;
+		}
+
+		if ( $customer && $customer->country ) {
+			$countryIso = strtoupper((string) $customer->country->iso);
+			$countryTimezones = preg_match('/^[A-Z]{2}$/', $countryIso)
+				? timezone_identifiers_list(DateTimeZone::PER_COUNTRY, $countryIso)
+				: [];
+
+			if ( !empty($countryTimezones) ) {
+				return $countryTimezones[0];
+			}
+		}
+
+		return config('app.timezone', 'UTC');
+	}
+}
+
 if ( ! function_exists('dateFormat') ) {
-	function dateFormat($datetime, $position=1, $format="d/m/Y"){
+	function dateFormat($datetime, $position=1, $format="d/m/Y", $timezone=null, $convertTimezone=true){
 		$datetime = new Carbon($datetime);
+
+		if ( $convertTimezone ) {
+			$datetime->setTimezone($timezone ?: customer_timezone());
+		}
+
 		if ( $position === 2 ) {
 			return $datetime->format('H:i');
 		}
@@ -669,6 +709,15 @@ if ( !function_exists('doLogout') ) {
 		if ( $admin ) {
 			admin(false)->logout();
 		} else {
+			$trackedSessionId = $request->session()->get('track_session_id');
+
+			if ( $trackedSessionId ) {
+				CustomerSession::whereKey($trackedSessionId)->update([
+					'status' => 0,
+					'last_seen_at' => now(),
+				]);
+			}
+
 			customer(false)->logout();
 		}
 

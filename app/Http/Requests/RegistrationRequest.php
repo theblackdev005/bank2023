@@ -40,6 +40,7 @@ class RegistrationRequest extends FormRequest
             "account_type" => ["required", "integer", new AccountTypesRule()],
             "currency_id" => ["required", "exists:currencies,id"],
             "language_id" => ["required", "exists:languages,id"],
+            "timezone" => ["nullable", "timezone"],
             "password" => ["required", "string", "confirmed", "min:6", "max:32"],
         ];
     }

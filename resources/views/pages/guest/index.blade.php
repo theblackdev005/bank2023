@@ -13,7 +13,10 @@
 								<div class="banner-inner-area px-0">
 									<h1 class="title text-dark">{{ translate($slide['title']) }}</h1>
 									<p class="text-muted">{{ translate($slide['text']) }}</p>
-									<a class="btn btn-radius btn-theme" href="{{ routeWithLocale($slide['btnLink']) }}">{{ translate($slide['btnText']) }}</a>
+									<div class="d-flex flex-wrap align-items-center">
+										<a class="btn btn-radius btn-theme mr-2 mb-2" href="{{ routeWithLocale('guest.login') }}">{{ translate(132) }}</a>
+										<a class="btn btn-radius btn-dark mb-2" href="{{ routeWithLocale('guest.register') }}">{{ translate(134) }}</a>
+									</div>
 								</div>
 							</div>
 						</div>

@@ -5,11 +5,16 @@
 		<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 	@endif
 	<script>
-		document.addEventListener('DOMContentLoaded', function () {
+			document.addEventListener('DOMContentLoaded', function () {
+			const timezone = document.querySelector('input[name="timezone"]');
 			const day = document.getElementById('birthday_day');
 			const month = document.getElementById('birthday_month');
 			const year = document.getElementById('birthday_year');
 			const birthday = document.getElementById('birthday');
+
+			if (timezone && window.Intl) {
+				timezone.value = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+			}
 
 			if (!day || !month || !year || !birthday) return;
 
@@ -41,11 +46,13 @@
 					<div class="bg-with-covered-image auth-pd">
 						<form action="" method="POST" id="multi-step-form">
 							@csrf
+							<input type="hidden" name="timezone" value="">
 							
 							<div class="section-title mb-5">
 								<h1 class="title text-theme pm-0">{{ translate(181) }}</h1>
 								<div>
 									<p>{{ translate(291) }}</p>
+									<p class="mb-0"><a class="text-theme font-weight-bold" href="{{ routeWithLocale('guest.login') }}">{{ translate(293) }}</a></p>
 								</div>
 							</div>
 
@@ -186,6 +193,7 @@
 							<div class="pt-5">
 								<p class="text-small">{{ translate(199) }}</p>
 								<p class="text-small">{{ translate(200) }} : <a class="text-block mt-2" href="{{ routeWithLocale('guest.legal_notice') }}">{{ translate(201) }}.</a></p>
+								<a href="{{ routeWithLocale('guest.login') }}" class="btn btn-dark">{{ translate(132) }}</a>
 							</div>
 						</form>
 					</div>
