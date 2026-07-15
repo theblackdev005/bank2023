@@ -12,11 +12,20 @@
                 <div class="col-md-7 mb-3 mb-md-0">
                     <label class="form-label d-block" for="installation-logo">Logo du site</label>
                     <div class="border bg-light d-flex align-items-center justify-content-center mb-2 p-3" style="min-height: 100px;">
-                        <img
-                            src="{{ ($logo && !$errors->has('logo')) ? $logo->temporaryUrl() : asset_img('logo.png') . '?v=' . $visualAssetVersion }}"
-                            alt="Aperçu du logo"
-                            style="max-width: 100%; max-height: 74px; width: auto;"
-                        >
+                        @if ($logo && !$errors->has('logo'))
+                            <div class="text-center text-success">
+                                <span class="fa fa-check-circle fa-2x d-block mb-2"></span>
+                                <strong>Logo prêt à être enregistré</strong>
+                                <small class="d-block text-muted mt-1">{{ $logo->getClientOriginalName() }}</small>
+                            </div>
+                        @elseif ($logoExists)
+                            <img src="{{ asset_img('logo.png') . '?v=' . $visualAssetVersion }}" alt="Logo actuel" style="max-width: 100%; max-height: 74px; width: auto;">
+                        @else
+                            <div class="text-center text-muted">
+                                <span class="fa fa-image fa-2x d-block mb-2"></span>
+                                <span>Aucun logo enregistré</span>
+                            </div>
+                        @endif
                     </div>
                     <input id="installation-logo" type="file" class="form-control-file" wire:model="logo" accept="image/png">
                     <small class="form-text text-muted">Image PNG, dimensions libres.</small>
@@ -26,11 +35,20 @@
                 <div class="col-md-5">
                     <label class="form-label d-block" for="installation-favicon">Favicon</label>
                     <div class="border bg-light d-flex align-items-center justify-content-center mb-2 p-3" style="min-height: 100px;">
-                        <img
-                            src="{{ ($favicon && !$errors->has('favicon')) ? $favicon->temporaryUrl() : asset_img('icons/favicon.png') . '?v=' . $visualAssetVersion }}"
-                            alt="Aperçu du favicon"
-                            style="width: 56px; height: 56px; object-fit: contain;"
-                        >
+                        @if ($favicon && !$errors->has('favicon'))
+                            <div class="text-center text-success">
+                                <span class="fa fa-check-circle fa-2x d-block mb-2"></span>
+                                <strong>Favicon prêt à être enregistré</strong>
+                                <small class="d-block text-muted mt-1">{{ $favicon->getClientOriginalName() }}</small>
+                            </div>
+                        @elseif ($faviconExists)
+                            <img src="{{ asset_img('icons/favicon.png') . '?v=' . $visualAssetVersion }}" alt="Favicon actuel" style="width: 56px; height: 56px; object-fit: contain;">
+                        @else
+                            <div class="text-center text-muted">
+                                <span class="fa fa-image fa-2x d-block mb-2"></span>
+                                <span>Aucun favicon enregistré</span>
+                            </div>
+                        @endif
                     </div>
                     <input id="installation-favicon" type="file" class="form-control-file" wire:model="favicon" accept="image/png">
                     <small class="form-text text-muted">Image PNG, dimensions libres.</small>
@@ -40,8 +58,12 @@
 
             <div wire:loading wire:target="logo,favicon" class="text-muted mt-3">
                 <span class="fa fa-spinner fa-spin mr-1"></span>
-                Préparation de l'aperçu...
+                Chargement de l'image...
             </div>
+            <p class="text-muted mb-0 mt-3">
+                <span class="fa fa-info-circle mr-1"></span>
+                Les images seront enregistrées définitivement avec la configuration du site.
+            </p>
         </section>
 
         @foreach ($configs as $id => $config)
@@ -87,7 +109,7 @@
 
         <button type="submit" class="btn font-weight-bold btn-success" wire:loading.attr="disabled" wire:target="logo,favicon,submit">
             <span class="fa fa-check-circle"></span>
-            <span>Enregistrer la configuration</span>
+            <span>Enregistrer la configuration et les images</span>
         </button>
     </form>
 </div>

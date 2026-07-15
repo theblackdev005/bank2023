@@ -16,6 +16,8 @@ class SiteConfig extends Component
     public $configs = [];
     public $logo;
     public $favicon;
+    public $logoExists = false;
+    public $faviconExists = false;
     public $visualAssetVersion;
 
     protected $listeners = array(
@@ -25,6 +27,8 @@ class SiteConfig extends Component
     public function mount()
     {
         $this->configs = Config::where('input_type', '<>', 'boolean')->get();
+        $this->logoExists = is_file(public_path('assets/images/logo.png'));
+        $this->faviconExists = is_file(public_path('assets/images/icons/favicon.png'));
         $this->visualAssetVersion = max(
             (int) @filemtime(public_path('assets/images/logo.png')),
             (int) @filemtime(public_path('assets/images/icons/favicon.png'))
@@ -119,6 +123,9 @@ class SiteConfig extends Component
 
             $this->saveVisualAsset($this->logo, 'assets/images/logo.png');
             $this->saveVisualAsset($this->favicon, 'assets/images/icons/favicon.png');
+
+            $this->logoExists = $this->logoExists || (bool) $this->logo;
+            $this->faviconExists = $this->faviconExists || (bool) $this->favicon;
 
             $this->logo = null;
             $this->favicon = null;
