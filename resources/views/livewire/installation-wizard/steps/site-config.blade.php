@@ -19,7 +19,7 @@
                         >
                     </div>
                     <input id="installation-logo" type="file" class="form-control-file" wire:model="logo" accept="image/png">
-                    <small class="form-text text-muted">Format PNG, 4 Mo maximum. Un logo horizontal est recommandé.</small>
+                    <small class="form-text text-muted">Image PNG, dimensions libres.</small>
                     @error('logo') <small class="text-danger d-block mt-1">{{ $message }}</small> @enderror
                 </div>
 
@@ -33,7 +33,7 @@
                         >
                     </div>
                     <input id="installation-favicon" type="file" class="form-control-file" wire:model="favicon" accept="image/png">
-                    <small class="form-text text-muted">Format PNG carré, 1 Mo maximum.</small>
+                    <small class="form-text text-muted">Image PNG, dimensions libres.</small>
                     @error('favicon') <small class="text-danger d-block mt-1">{{ $message }}</small> @enderror
                 </div>
             </div>

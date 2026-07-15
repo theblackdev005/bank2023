@@ -48,14 +48,14 @@ class SiteConfig extends Component
     public function updatedLogo()
     {
         $this->validateOnly('logo', [
-            'logo' => ['nullable', 'image', 'mimes:png', 'max:4096'],
+            'logo' => ['nullable', 'image', 'mimes:png'],
         ]);
     }
 
     public function updatedFavicon()
     {
         $this->validateOnly('favicon', [
-            'favicon' => ['nullable', 'image', 'mimes:png', 'max:1024', 'dimensions:ratio=1/1'],
+            'favicon' => ['nullable', 'image', 'mimes:png'],
         ]);
     }
 
@@ -90,8 +90,8 @@ class SiteConfig extends Component
             extract( $this->validate([
                 'posts'             => 'required|array',
                 'posts.*'           => 'nullable',
-                'logo'              => ['nullable', 'image', 'mimes:png', 'max:4096'],
-                'favicon'           => ['nullable', 'image', 'mimes:png', 'max:1024', 'dimensions:ratio=1/1'],
+                'logo'              => ['nullable', 'image', 'mimes:png'],
+                'favicon'           => ['nullable', 'image', 'mimes:png'],
             ]) );
 
             foreach ($this->configs as $config) {
