@@ -67,7 +67,7 @@
                                 </div>
 
                                 @if ($cardMode === 'new')
-                                    <div class="row">
+                                    <div class="row" wire:ignore wire:key="card-new-fields">
                                         <div class="col-12">
                                             <div class="form-group">
                                                 <label class="required-field" for="new-card-owner">{{ translate(614) }}</label>
@@ -94,7 +94,7 @@
                                         </div>
                                     </div>
                                 @else
-                                    <div class="form-group mb-0">
+                                    <div class="form-group mb-0" wire:ignore wire:key="card-existing-fields">
                                         <label class="required-field" for="existing-card">{{ translate(618) }}</label>
                                         <select id="existing-card" class="form-control input-lg" name="payment_method_id" required>
                                             <option value="">{{ translate(621) }}</option>
@@ -125,7 +125,7 @@
                                 </div>
 
                                 @if ($recipientMode === 'new')
-                                    <div class="row">
+                                    <div class="row" wire:ignore wire:key="recipient-new-fields">
                                         <div class="col-12">
                                             <div class="form-group">
                                                 <label class="required-field">{{ translate(323) }}</label>
@@ -146,7 +146,7 @@
                                         </div>
                                     </div>
                                 @else
-                                    <div class="form-group mb-0">
+                                    <div class="form-group mb-0" wire:ignore wire:key="recipient-existing-fields">
                                         <label class="required-field">{{ translate(412) }}</label>
                                         <select class="form-control input-lg" name="payment_method_id" required>
                                             <option value="">{{ translate(412) }}</option>
@@ -177,12 +177,12 @@
                                 </div>
 
                                 @if ($paypalMode === 'new')
-                                    <div class="form-group mb-0">
+                                    <div class="form-group mb-0" wire:ignore wire:key="paypal-new-fields">
                                         <label class="required-field" for="new-paypal-email">{{ translate(617) }}</label>
                                         <input id="new-paypal-email" type="email" class="form-control input-lg" name="new_paypal_email" value="{{ old('new_paypal_email') }}" autocomplete="email" placeholder="john.doe@gmail.com" required>
                                     </div>
                                 @else
-                                    <div class="form-group mb-0">
+                                    <div class="form-group mb-0" wire:ignore wire:key="paypal-existing-fields">
                                         <label class="required-field" for="existing-paypal">{{ translate(623) }}</label>
                                         <select id="existing-paypal" class="form-control input-lg" name="payment_method_id" required>
                                             <option value="">{{ translate(624) }}</option>
