@@ -5,7 +5,7 @@ namespace App\Http\Livewire\InstallationWizard;
 use Livewire\Component;
 
 
-define('FOLDER_CHMOD', 755 );
+define('FOLDER_CHMOD', 0755 );
 
 
 class Requirements extends Component
